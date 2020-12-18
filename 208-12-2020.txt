@@ -1,0 +1,591 @@
+*******************************************************************
+* Past issues of the newsletter are available at 
+  https://lics.siglog.org/newsletters/
+* Instructions for submitting an announcement to the newsletter can 
+  be found at https://lics.siglog.org/newsletters/inst.html
+*******************************************************************
+
+TABLE OF CONTENTS
+* DEADLINES
+  Forthcoming Deadlines
+* LICS CALL
+  LICS 2021
+* CALLS
+  FSCD 2021 - Call for papers and workshops
+  PODS - Call for submissions
+  CSL - Call for registrations
+  COORDINATION 2021 - Call for papers
+  ICALP 2021 - Call for papers
+  CADE-28 - Call for papers, workshops, tutorials and competitions
+  SPIN 2021 - Call for papers
+  CCC LMCS Special Issue - Call for submissions
+* JOBS
+  Associate Professor/Professor of Programming Languages (Oxford)
+  PhD Positions in Computing Science (Glasgow)
+
+DEADLINES
+  * FSDC Workshop proposals: Dec 6, 2020
+  * PODS: Dec 13, 2020 (Abstracts), Dec 20, 2020 (Full papers)
+  * CSL Registration: Dec 14, 2020 (Speakers), Jan 11, 2021 (Others)
+  * SCI. COMPUT. PROGRAM. (Graph Transformation): Dec 20, 2020 
+  * J. LOG. COMPUT (Social Networks): Dec 31, 2020 
+  * LICS 2021: Jan 20 2021 (Abstracts), Jan 25, 2021 (Full papers)
+  * COORDINATION 2021: Jan 29, 2021 (Abstracts), Feb 5, 2021 (Full papers)
+  * CCC LMCS Special Issue: Jan 31, 2020 (Register intent), Mar 31, 2021 (Full papers)
+  * ICALP 2021: Feb 12, 2021
+  * FSDC: Feb 12, 2021 (Abstracts), Feb 15, 2021 (Full papers)
+  * CADE-28: Feb 15, 2021 (Abstracts), Feb 22, 2021 (Full papers)
+  * SPIN 2021: Mar 1, 2021
+
+
+LICS 2021: Thirty-Sixth Annual ACM/IEEE Symposium on LOGIC IN COMPUTER SCIENCE
+  June / July 2021 (Rome)
+  Co-located with ITP 2021 and ICTCS 2021
+  http://easyconferences.eu/lics2021/cfp/
+CALL FOR PAPERS
+* SCOPE
+  The LICS Symposium is an annual international forum on theoretical and 
+  practical topics in computer science that relate to logic, broadly construed. 
+  We invite submissions on topics that fit under that rubric.
+* TOPICS 
+  Suggested, but not exclusive, topics of interest include: automata theory, 
+  automated deduction, categorical models and logics, concurrency and distributed 
+  computation, constraint programming, constructive mathematics, database theory, 
+  decision procedures, description logics, domain theory, finite model theory, 
+  formal aspects of program analysis, formal methods, foundations of 
+  computability, games and logic, higher-order logic, knowledge representation 
+  and reasoning, lambda and combinatory calculi, linear logic, logic programming, 
+  logical aspects of AI, logical aspects of bioinformatics, logical aspects of 
+  computational complexity, logical aspects of quantum computation, logical 
+  frameworks, logics of programs, modal and temporal logics, model checking, 
+  probabilistic systems, process calculi, programming language semantics, proof 
+  theory, real-time systems, reasoning about security and privacy, rewriting, 
+  type systems and type theory, and verification.
+* COVID-19
+  The organizers are carefully monitoring the development of the COVID-19 
+  pandemic, and take guidance from the health authorities, to determine whether 
+  LICS 2021 will be held physically, virtually or in a hybrid manner.
+* IMPORTANT DATES (AoE)
+  - Titles and Short Abstracts Due:  20 January 2021
+  - Full Papers Due:                 25 January 2021
+  - Author Feedback/Rebuttal Period: 10-14 March 2021
+  - Author Notification:             31 March 2021
+  - Workshops:                       27 June -- 28 June 2021
+  - Conference:                      29 June -- 2 July 2021 
+* SUBMISSION INSTRUCTIONS
+  Submission URL: https://easychair.org/conferences/?conf=lics2021.
+  12 pages excluding references, anonymised, IEEE Proceedings 2-column 10pt format. 
+  Papers authored or co-authored by members of the program committee are 
+  not allowed. Please see the website for further formatting and submission 
+  instructions. 
+  Paper  selection will be merit-based, with no a priori limit on the number of 
+  accepted papers. LICS 2021 will use a lightweight double-blind reviewing 
+  process. Following this process means that reviewers will not see the authors' 
+  names or affiliations as they initially review a paper. The authors' names will 
+  then be revealed to the reviewers only once their reviews have been submitted. 
+  Please see the website for further details and requirements from the 
+  double-blind process.
+* LICS DISTINGUISHED PAPERS (NEW)
+  Starting 2021, around 10% of accepted LICS papers will be selected as 
+  distinguished papers. These are papers that, in the view of the LICS program 
+  committee, make exceptionally strong contribution to the field and should be 
+  read by a broad audience due their relevance, originality, significance and 
+  clarity.
+* KLEENE AWARD FOR BEST STUDENT PAPER 
+  An award in honour of the late Stephen C. Kleene will be given for the best 
+  student paper(s), as judged by the program committee.
+* SPECIAL ISSUES
+  Full versions of up to three accepted papers, to be selected by the program 
+  committee, will be invited for submission to the Journal of the ACM. Additional 
+  selected papers will be invited to a special issue of Logical Methods in 
+  Computer Science.
+
+
+FSCD 2021: International Conference on Formal Structures for Computation and Deduction
+  https://fscd2021.dc.uba.ar
+  Buenos Aires, Argentina (ONLINE)
+  Main Conference: 19-22 July 2021
+  Workshops: 17-18 and 23-24 July 2021
+  https://easychair.org/conferences/?conf=fscd2021
+CALL FOR PAPERS
+* CONFERENCE
+  FSCD (http://fscd-conference.org/) covers all aspects of formal structures for
+  computation and deduction from theoretical foundations to applications. Building
+  on two communities, RTA (Rewriting Techniques and Applications) and TLCA (Typed
+  Lambda Calculi and Applications), FSCD embraces their core topics and broadens
+  their scope to closely related areas in logics, models of computation, semantics
+  and verification in new challenging areas.
+* IMPORTANT DATES (AoE)
+  - Abstract:      February 12, 2021
+  - Submission:    February 15, 2021
+  - Rebuttal:      April 2-5, 2021
+  - Notification:  April 19, 2021
+  - Final version: May 3, 2021
+* TOPICS
+  - Calculi (Rewriting systems (string, term, higher-order, graph, conditional,
+  modulo, infinitary, etc.); Lambda calculus; Logics (first-order, higher-order,
+  equational, modal, linear, classical, constructive, etc.); Proof theory (natural
+  deduction, sequent calculus, proof nets, etc.); Type theory and logical frameworks;
+  Homotopy type theory; Quantum calculi.)
+  Methods in Computation and Deduction (Type systems (polymorphism, dependent,
+  recursive, intersection, session, etc.); Induction, coinduction; Matching, 
+  unification, completion, orderings; Strategies (normalization, completeness, 
+  etc.); Tree automata; Model building and model checking; Proof search and
+  theorem proving;
+  Constraint solving and decision procedures.)
+  - Semantics (Operational semantics and abstract machines; Game Semantics and
+  applications; Domain theory and categorical models; Quantitative models (timing,
+  probabilities, etc.); Quantum computation and emerging models in computation.)
+  - Algorithmic Analysis and Transformations of Formal Systems (Type Inference
+  and type checking; Abstract Interpretation; Complexity analysis and implicit
+  computational complexity; Checking termination, confluence, derivational complexity
+  and related properties; Symbolic computation.)
+  - Tools and Applications (Programming and proof environments; Verification
+  tools; Proof assistants and interactive theorem provers; Applications in industry;
+  Applications of formal systems in other sciences.)
+  - Semantics and Verification in new challenging area (Certification; Security; 
+  Blockchain protocols; Data Bases; Deep learning and machine learning algorithms; 
+  Planning. )
+  * SPECIAL ISSUE 
+  Authors of selected papers will be invited to submit an extended version to a
+  special issue of Logical Methods in Computer Science.
+* SUBMISSION
+  The submission site is: https://easychair.org/conferences/?conf=fscd2021 
+  Submissions can be made in two categories. Regular research papers are limited
+  to 15 pages, excluding references and appendices. They must present original
+  research which is unpublished and not submitted elsewhere. System descriptions
+  are limited to 15 pages (including references) and must present new software
+  tools in which FSCD topics play an important role, or significantly new versions
+  of such tools. An archive of the code with instructions on how to install and
+  run the tool must be submitted. In addition, a webpage where the system can be
+  experimented with should be provided. Complete instructions on submitting a
+  paper can be found on the conference web site: https://fscd2021.dc.uba.ar/
+  The proceedings will be published as an electronic volume in the Leibniz International
+  Proceedings in Informatics (LIPIcs) of Schloss Dagstuhl. All LIPIcs proceedings
+  are open access.
+* BEST PAPER AWARD BY JUNIOR RESEARCHERS
+  The program committee will select a paper in which at least one author is a
+  junior researcher, i.e. either a student or whose PhD award date is less than
+  three years from the first day of the meeting. Other authors should declare to
+  the PC Chair that at least 50% of contribution is made by the junior researcher(s).
+CALL FOR WORKSHOP PROPOSALS
+* PROPOSALS
+  We invite proposals for workshops, tutorials or other satellite events, on any
+  topic related to formal structures in computation, deduction and automated reasoning,
+  from theoretical foundations to tools and applications. It is expected that
+  satellite events would run for 1 or 2 days, and be open to participants of parallel
+  events.
+* IMPORTANT DATES
+  - Submission of workshop proposals: 6 December 2020
+  - Notification of success of proposals: 20 December 2020
+  - Main Conference: 19-22 July 2021
+  - Workshops: 17-18 and 23-24 July 2021
+* SUBMISSION
+  Proposals must be limited to three pages and should be submitted via EasyChair:
+  https://easychair.org/conferences/?conf=fscd2021 (Workshops track). Please see
+  formatting and required information guidelines at: https://fscd2021.dc.uba.ar/CfW.html
+  
+
+PODS: Principles of Database Systems (PODS) symposium
+  https://2021.sigmod.org/calls_papers_pods_research.shtml
+CALL FOR SUBMISSIONS 
+* The Principles of Database Systems (PODS) symposium series, held in conjunction with
+  the SIGMOD conference series, provides a premier annual forum for the communication of 
+  new advances in the theoretical foundations of data management, traditional or 
+  non-traditional (see https://databasetheory.org/PODS).
+* Important Dates
+  - Abstract submission: December 13, 2020
+  - Paper submission:    December 20, 2020
+  - Notification:        March 05, 2021
+  - Conference:          June 20 - June 25, 2021
+* Topics of Interest
+  For the 40th edition, PODS continues to aim to broaden its scope, and calls for 
+  research papers providing original, substantial contributions along one or more of the 
+  following tracks:
+  - deep theoretical exploration of topical areas central to data management
+  - new formal frameworks that aim at providing a basis for deeper theoretical 
+    investigation of important emerging issues in data management
+  - validation of theoretical approaches from the lens of practical applicability in 
+    data management. Papers in this track should provide an experimental evaluation that 
+    gives new insight in established theories. Besides, they should provide a clear 
+    message to the database theory community as to which aspects need further (
+    theoretical) investigation, based on the experimental findings.
+  Topics that fit the interests of the symposium include, but are not limited to:
+    concurrency & recovery, distributed/parallel databases, cloud computing, data and 
+    knowledge integration and exchange, data provenance, views and data warehouses, 
+    metadata management, data-centric (business) process management, workflows, web 
+    services, data management and machine learning, data mining, information extraction, 
+    search, data models, data structures, algorithms for data management, data privacy 
+    and security, human-related data and ethics, data streams, design, semantics, query 
+    languages, domain-specific databases (multi-media, scientific, spatial, temporal, 
+    text), graph databases and (semantic) Web data, incompleteness, inconsistency, 
+    uncertainty in data management, knowledge-enriched data management, model theory, 
+    logics, algebras, computational complexity
+
+
+
+CSL: Computer Science Logic
+  https://csl2021.fmf.uni-lj.si
+CALL FOR REGISTRATIONS
+* DEADLINES
+  - Speaker registration: 14th December 2020
+  - Non-speaker registration: 11th January 2021
+* THE CONFERENCE
+  The European Association for Computer Science Logic invites you to participate
+  in the 2021 edition of CSL, which will be held online from Mon Jan  25 to Thu
+  Jan 28, 2021, organised by the Faculty of Mathematics and Physics at the University
+  of Ljubljana. 
+  The Conference is the annual conference of the European Association for Computer
+  Science Logic (EACSL). It is an interdisciplinary conference spanning both basic
+  and application-oriented research in mathematical logic and computer science.
+  CSL 2021 will be the 29th edition in the series. CSL moved away from its former
+  August/September slot in 2020. CSL 2021 is the second conference in the series
+  that takes place in January.
+  Student non-speaker registration is free of charge.
+* INVITED SPEAKERS
+  - Assia Mahboubi, INRIA, Rennes, France
+  - Sophia Drossopoulou, Imperial College, London, UK
+  - Linda Westrick, Penn State University, State College, PA, USA
+  - Sylvain Schmitz, Université de Paris, Paris, France
+  - Bartek Klin, Uniwersytet Warszawski, Warsawa, Poland
+* Programme: https://csl2021.fmf.uni-lj.si/accepted-papers/
+
+
+COORDINATION 2021: 23rd International Conference on Coordination Models 
+and Languages
+  14-18th of June, 2021 at the University of Malta, Valletta, Malta
+  https://www.discotec.org/2021/coordination
+  https://easychair.org/conferences/?conf=coordination2021
+* Modern information systems rely increasingly on combining
+  concurrent, distributed, mobile, adaptive, reconfigurable and
+  heterogeneous components.  New models, architectures, languages
+  and verification techniques are necessary to cope with the
+  complexity induced by the demands of today’s software development.
+  Coordination languages have emerged as a successful approach, in
+  that they provide abstractions that cleanly separate behaviour
+  from communication, therefore increasing modularity, simplifying
+  reasoning, and ultimately enhancing software development.
+  Building on the success of the previous editions, this conference
+  provides a well-established forum for the growing community of
+  researchers interested in models, languages, architectures, and
+  implementation techniques for coordination.
+* DEADLINES
+  — abstract submission: January 29, 2021 
+  — paper submission:    February 5, 2021 
+  — notification:        April 2, 2021 
+  — camera ready:        April 23, 2021 
+* KEYNOTE SPEAKERS: Gilles Fedak, iExec, FR; Mira Mezini, Technical 
+  University of Darmstadt, DE; Alexandra Silva, University College 
+  London, UK
+* TOPICS OF INTEREST
+  - Theoretical models and foundations for coordination: component
+    composition, concurrency, mobility, dynamic, spatial and
+    probabilistic aspects of coordination, logic, emergent
+    behaviour, types, semantics;
+  - Specification, refinement, and analysis of architectures:
+    patterns and styles, verification of functional and
+    non-functional properties, including performance and security
+    aspects;
+  - Dynamic software architectures: distributed mobile code,
+    configuration, reconfiguration, networked computing, parallel,
+    high-performance and cloud computing;
+  - Nature- and bio-inspired approaches to coordination;
+  - Coordination of multiagent and collective systems: models,
+    languages, infrastructures, self-adaptation, self-organisation,
+    distributed solving, collective intelligence and emerging
+    behaviour;
+  - Coordination and modern distributed computing: web services,
+    peer-to-peer networks, grid computing, context-awareness,
+    ubiquitous computing, mobile computing;
+  - Coordination platforms for infrastructures of emerging new
+    application domains like IoT, fog- and edge-computing;
+  - Programming methodologies, languages, middleware, tools, and
+    environments for the development and verification of coordinated
+    applications;
+  - Tools, languages and methodologies for secure coordination;
+  - Industrial relevance of coordination and software architectures:
+    programming in the large, domain-specific software architectures
+    and coordination models, case studies;
+  - Interdisciplinary aspects of coordination;
+  - Industry-led efforts in coordination and case studies.
+* SUBMISSIONS
+  https://easychair.org/conferences/?conf=coordination2021
+  Contributions must be written in English using Springer’s LNCS style
+  and report on original, unpublished work not submitted for publication 
+  elsewhere.
+  - Full papers (up to 15 pages + 2 pages references): describing
+    thorough and complete research results and experience reports.
+  - Short papers (up to 6 pages + 2 pages references): describing
+    research in progress or opinion papers on the past of
+    Coordination research, on the current state of the art, or on
+    prospects for the years to come.
+  - Survey papers (up to 25 pages + 2 pages references): describing
+    important results and successful stories that originated in the
+    context of COORDINATION.
+  - Tool papers (up to 6 pages + 2 pages references): describing
+    technological artefacts in the scope of the research topics of
+    COORDINATION. The paper must contain a link to a publicly
+    downloadable MPEG-4 demo video of at most 10 minutes length.
+
+
+ICALP 2021: 48th International Colloquium on Automata, Languages, and Programming
+  http://easyconferences.eu/icalp2021/
+  13-16 July 2021, Glasgow, Scotland
+  @ICALPconf
+CALL FOR PAPERS
+* CONFERENCE
+  ICALP is the main conference and annual meeting of the European Association for
+  Theoretical Computer Science (EATCS). As usual, ICALP will be preceded by a series
+  of workshops, which will take place on 12 July 2021.
+* COVID-19
+  We will monitor the global travel situation and consider whether the
+  conference will be physical, virtual or hybrid. If there is a physical component,
+  remote participation for both speakers and attendees will also be an option.
+* IMPORTANT DATES
+  - Submission deadline:     Friday 12 February 2021, 23:59 AoE
+  - Notification:            Wednesday 28 April 2021
+  - Camera-ready deadline:   Friday 7 May 2021
+* SUBMISSIONS AND PROCEEDINGS
+  ICALP proceedings are published in the Leibniz International Proceedings in
+  Informatics (LIPIcs) series. This is a series of high-quality conference
+  proceedings across all fields in informatics established in cooperation with
+  Schloss Dagstuhl - Leibniz Center for Informatics. LIPIcs volumes are published
+  according to the principle of Open Access, i.e., they are available online and
+  free of charge.
+  See full CfP http://easyconferences.eu/icalp2021/cfp/ for formatting instructions.
+* BEST PAPER AWARDS
+  As in previous editions of ICALP, there will be best paper and best student paper
+  awards for each track of the conference. In order to be eligible for a best student
+  paper award, a paper should be authored only by students and should be marked as
+  such upon submission.
+* TOPICS
+  Papers presenting original research on all aspects of theoretical computer science
+  are sought. Typical but not exclusive topics of interest are:
+  - Track A: Algorithms, Complexity and Games
+    Algorithmic and Complexity Aspects of Network Economics, Algorithmic Aspects of 
+    Networks and Networking, Algorithmic Aspects of Security and Privacy, Algorithms for 
+    Computational Biology, Algorithmic Game Theory and Mechanism Design, Approximation 
+    and Online Algorithms, Combinatorial Optimization, Combinatorics in Computer Science, 
+    Computational Complexity, Computational Geometry, Computational Learning Theory, 
+    Cryptography, Data Structures, Design and Analysis of Algorithms, Distributed and 
+    Mobile Computing, Foundations of Machine Learning, Graph Mining and Network Analysis, 
+    Parallel and External Memory Computing, Quantum Computing, Randomness in Computation, 
+    Theoretical Foundations of Algorithmic Fairness
+  - Track B: Automata, Logic, Semantics, and Theory of Programming 
+    Algebraic and Categorical Models of Computation, Automata, Logic, and Games, Database 
+    Theory, Constraint Satisfaction Problems, and Finite Model Theory, Formal and Logical 
+    Aspects of Learning, Formal and Logical Aspects of Security and Privacy, Logic in 
+    Computer Science and Theorem Proving, Models of Computation: Complexity and 
+    Computability, Models of Concurrent, Distributed, and Mobile Systems, Models of 
+    Reactive, Hybrid, and Stochastic Systems, Principles and Semantics of Programming 
+    Languages, Program Analysis, Verification, and Synthesis, Type Systems and Typed 
+    Calculi
+
+
+CADE-28: 28th INTERNATIONAL CONFERENCE ON AUTOMATED DEDUCTION
+  July 11-16, 2021, Carnegie Mellon University, Pittsburgh, USA
+  http://www.cade-28.info
+CALL FOR PAPERS, WORKSHOPS, TUTORIALS AND COMPETITIONS
+CALL FOR PAPERS
+* CADE is the major international forum for presenting research on all aspects
+  of automated deduction. High-quality submissions on the general topic of automated
+  deduction, including logical foundations, theory and principles, applications
+  in and beyond STEM, implementations, and the use/contribution of automated
+  deduction in AI, are solicited. CADE-28 aims to present research that reflects
+  the broad range of interesting and relevant topics in automated deduction.
+* IMPORTANT DATES
+  - Abstract deadline:        15 February 2021
+  - Submission deadline:      22 February 2021
+  - Rebuttal phase:            2 April    2021
+  - Notification:             19 April    2021
+  - Final version:            31 May      2021
+  - Conference:            12-15 July     2021
+* Detailed information can be found at https://easychair.org/cfp/CADE-28.
+CALL FOR WORKSHOPS, TUTORIALS AND COMPETITIONS
+* Workshop proposals for CADE-28 are solicited. The workshops will take place
+  before (11th July) and after (16th July) the conference. Both well-established   
+  workshops and newer ones are encouraged. Similarly, proposals for workshops 
+  with a tight focus on a core automated reasoning specialization, as well as 
+  those with a broader, more applied focus, are welcome.
+* Tutorial proposals for CADE-28 are solicited. The tutorials will take place
+  before (11th July) and after (16th July) the conference. Tutorials are expected
+  to be either half-day or full-day events, with a theoretical or applied focus,
+  on a topic of interest to CADE-28.
+* The CADE ATP System Competition (CASC), which evaluates automated theorem
+  proving systems for classical logics, has become an integral part of the CADE
+  conferences. Further competition proposals are solicited. The goal is to foster    
+  the development of automated reasoning systems and applications, in all areas
+  relevant to automated deduction in a broad sense.
+* IMPORTANT DATES
+  - Submission deadline:      16 November 2020
+  - Notification:             11 December 2020
+  - Workshops and tutorials:  11 & 16 July     2021
+* Detailed information can be found at https://easychair.org/cfp/CADE-28.
+
+
+SPIN 2021: International Symposium on Model Checking of Software
+  July 14-15, 2021 Aarhus, Denmark
+  https://conf.researchr.org/home/spin-2021
+  https://easychair.org/conferences/?conf=spin20210
+CALL FOR PAPERS
+* The 27th edition of the SPIN symposium aims at bringing together researchers
+  and practitioners interested in automated tool-based techniques for the analysis
+  of software as well as models of software, for the purpose of verification and
+  validation. The symposium specifically focuses on concurrent software but does
+  not exclude the analysis of sequential software. Submissions are solicited on
+  theoretical results, novel algorithms (classical and quantum), tool development,
+  including for modern hardware (parallel and distributed), and empirical evaluation.
+* IMPORTANT DATES:
+  - Submission:        March 1, 2021
+  - Notification:      May 14, 2021
+  - Camera-ready:      June 1, 2021
+  - Conference:        July 14-15, 2021
+* TOPICS
+  Topics of interest include, but are not limited to: Formal verification techniques
+  for automated analysis of software, Formal analysis for modeling languages, such
+  as UML/state charts, Formal specification languages, temporal logic, design-by-contract,
+  Model checking, Automated theorem proving, including SAT and SMT, Verifying
+  compilers, Abstraction and symbolic execution techniques, Static analysis and
+  abstract interpretation, Combination of verification techniques, Modular and
+  compositional verification techniques, Verification of timed and probabilistic
+  systems, Automated testing using advanced analysis techniques, Combination of
+  static and dynamic analyses, Derivation of specifications, test cases, or other
+  useful material via formal analysis, Case studies of interesting systems or with
+  interesting results, Engineering and implementation of software verification and
+  analysis tools, Benchmark and comparative studies for formal verification and
+  analysis tools, Formal methods of education and training, Insightful surveys or
+  historical accounts on topics of relevance to the symposium, Relevant tools and
+  algorithms for modern hardware, e.g.: parallel, GPU, TPU, FPGA, cloud, and quantum 
+* SUBMISSION GUIDELINES 
+  The proceedings of SPIN 2020 will be published in Springer's Lecture Notes in 
+  Computer Science series. Submissions should adhere to the LNCS format: 
+  LNCS Information for Authors. Papers should be submitted via the EasyChair 
+  SPIN 2021 submission website: https://easychair.org/conferences/?conf=spin20210
+  With the exception of survey and history papers, the papers should contain original 
+  work that has not been submitted or accepted for publication elsewhere. We are 
+  soliciting three categories of papers: 
+  - Full Research / Tool Papers describing fully developed work and complete results 
+  (16 pages - references are not included in this limit);
+  - Short Papers presenting tools, technology, experiences with lessons learned, new 
+  ideas, work in progress with preliminary results, and novel contributions to formal 
+  methods (6 pages - references are not included in this limit).
+  - Tool Demo Papers presenting the foundations, capabilities, application domains and 
+  relevant examples using the tools, with a clear description of what is expected to 
+  be shown in a live demonstration (4 pages to describe the tool foundations, features 
+  and use examples, plus an appendix explaining the content of the demo). 
+* STTT 
+  A selection of papers will be invited to a special issue of the International 
+  Journal on Software Tools for Technology Transfer (STTT).
+* See full call for further details, questions to a.w.laarman@liacs.leidenuniv.nl.
+
+
+Continuity, Computability, Constructivity: From Logic to Algorithms 2019 & 2020 
+  LMCS Special Issue
+CALL FOR SUBMISSIONS
+* After two years of successful work in the EU-MSCA-RISE project "Computing with Infinite 
+  Data" (CID) and two excellent Workshops CCC 2019 in Ljubljana (Slovenia) and CCC 2020 (
+  online), we are planning to publish a collection of papers dedicated to the meetings, 
+  to the project and to the subject in general as a Special Issue in the open-access 
+  journal LOGICAL METHODS IN COMPUTER SCIENCE. 
+* TOPICS 
+  The issue should reflect progress made in Computable Analysis and related areas, and is 
+  not restricted to work in the CID project or presented at the Workshop. Submissions are 
+  welcome from all scientists on topics in the entire spectrum from logic to algorithms 
+  including, but not limited to:
+  Exact real number computation, Correctness of algorithms on infinite data, Computable 
+  analysis, Complexity of real numbers, real-valued functions, etc. Effective descriptive 
+  set theory, Constructive topological foundations, Scott's domain theory, Constructive 
+  analysis, Category-theoretic approaches to computation on infinite data, Weihrauch 
+  degrees, Randomness and computable measure theory, Other related areas.  
+* IMPORTANT DATES
+  - REGISTER INTENT:         31 January 2021
+  - DEADLINE FOR SUBMISSION: 31 March 2021
+  If you intend to submit a paper for the special issue, please inform us by sending an 
+  email to:   dgraca@ualg.pt (Daniel Graça) or alex.simpson@fmf.uni-lj.si (Alex Simpson) 
+  by 31 January 2021. You will then receive concrete submission instructions about how to 
+  submit your paper to this special issue. Please prepare your manuscript using the LMCS 
+  LaTeX style which can be downloaded from  https://lmcs.episciences.org/page/authors-latex-style.
+  Submissions will be reviewed according to the usual high standards of LMCS.
+
+
+
+JOB: Associate Professor/Professor of Programming Languages
+  University of Oxford and University College, Oxford
+  Full details: http://www.cs.ox.ac.uk/news/1870-full.html
+* The Department of Computer Science at the University of Oxford, together with 
+  University College, Oxford, seek to appoint an associate professor/professor in 
+  programming languages, with a tutorial fellowship at University College.
+  The post is based in the Department of Computer Science and University College, to 
+  start before October 2021. You will also be appointed as a Fellow and Tutor in Computer 
+  Science at University College. Tutors are responsible for the organisation and teaching 
+  of their subject within the College.
+  You will be a member of both the University and the College community, part of a lively 
+  and intellectually stimulating research community with access to the excellent research 
+  facilities which Oxford offers. You will play a role in the running of the College as a 
+  member of the Governing Body and a trustee of the College as a charity, and have 
+  opportunities to interact with academics in other disciplines as part of Oxford's 
+  unique collegiate system. 
+  The Department is a vibrant and growing academic department, which has a research 
+  profile across the entire spectrum of contemporary computing. You will be expected to 
+  engage in independent and original research in the area of programming languages, 
+  securing funding and engaging in the management of research projects, and disseminate 
+  research of the highest international standard through publications, conferences and 
+  seminars. You will also contribute to teaching on the Department's highly successful 
+  undergraduate and graduate programmes.
+* REQUIREMENTS
+  You will hold a doctoral degree in Computer Science (or cognate discipline), have the 
+  ability to teach across a range of Computer Science subjects, and will also have a 
+  proven research record of high quality at international level in the area of 
+  Programming Languages, and experience of research collaborations at both national and 
+  international level.  
+* SALARY
+  From: £48,114 p.a. (plus benefits including additional pensionable benefits including 
+  college housing allowance of 11,246 p.a. at current rates, or access to joint equity scheme, 
+  and private health insurance scheme). (An allowance of £2,804 p.a. would be payable upon 
+  award of Full Professor title). 
+* DATES
+  - Closing date for applications: 12 noon on 15th February 2021
+  - Interviews are expected to be held on 22nd March 2021
+
+
+JOB: PhD Positions in Computing Science (inc Programming Languages)
+  University of Glasgow
+* The School of Computing Science at the University of Glasgow is offering up to 17 
+  studentships to support PhD research for students starting in 2021.  Funding is 
+  available to support tuition fees for both home and international students, and in 
+  most cases to support living expenses at the recommended UKRI rate (currently £15,285 
+  per annum) in addition. Whilst the above funding is open to students in all areas of 
+  computing science, applications in the area of programming languages are welcomed. 
+* Potential supervisors in Programming Languages (check the PL theme website 
+  https://www.gla.ac.uk/schools/computing/research/researchthemes/pl-theme/ for further 
+  details)
+  - Dr Ornela Dardha (programming language foundations, logic, session types for 
+  concurrent/distributed systems), email ornela.dardha@glasgow.ac.uk
+  - Prof Simon Gay (programming language theory, verification techniques based on 
+  session types for concurrent/distributed systems), email simon.gay@glasgow.ac.uk
+  - Dr Jeremy Singer (compilers, cloud, managed run-times, parallelism, resource 
+  management), email Jeremy.singer@glasgow.ac.uk
+  - Prof Phil Trinder (programming languages, functional programming, parallel/
+  distributed systems), email phil.trinder@glasgow.ac.uk
+  - Prof Wim Vanderbauwhede (programming languages, compilation, heterogeneous & FPGA 
+  computing), email wim.vanderbauwhede@glasgow.ac.uk
+* DATES
+  - Students can apply for admission to PhD study at any time.
+  - To be considered for the studentships we are offering at this round, we must 
+  receive your application by 31 January 2021.  
+  - Information session (Zoom): Friday 11 December from 1100-1200 GMT.  
+  The session is intended to give you an insight into the research currently undertaken 
+  in the School of Computing Science, scholarships and other sources of funding 
+  available, and how to make your application.  You must sign up here: 
+  https://www.eventbrite.co.uk/e/pgr-information-session-tickets-129903562051.
+* PROCESS
+  - For more information about how to apply, see 
+  https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/.  
+  This web page includes information about the research proposal, which is required as 
+  part of your application.
+  - Applicants are strongly encouraged to contact a potential supervisor and discuss an 
+  application before the submission deadline.  See https://www.gla.ac.uk/schools/
+  computing/postgraduateresearch/prospectivestudents/studentshipinformation/ and 
+  https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/
+  phd-projects for more details about the funding available.
+

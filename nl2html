@@ -1,0 +1,124 @@
+#!/usr/bin/perl
+#
+# Translate newslatters into html-format
+# 
+# nl2html <num>
+#
+# reads file <num>.txt (the newsletter) and write an html-file <num>.html
+#
+
+$nlnum = $ARGV[0];
+$nldt = $ARGV[1];
+$txtfile = $nlnum."-".$nldt.".txt";
+$htmlfile = $nlnum.".html";
+
+$date = `date +"%B %e, %Y"`;
+chomp $date;
+
+open(IN,$txtfile) || die "cannot open $txtfile for reading: $!";
+open(OUT,">$htmlfile") || die "cannot create $htmlfile: $!";
+select OUT;
+
+
+head();
+
+$status = "";
+$refopen = 0;
+$refnum = 0;
+
+while (<IN>) {
+    s/\s*\n/\n/;
+    if (s|(TABLE OF CONTENTS)|<b>$1</b>|) {
+    $status = "tc";
+    } elsif ($status eq "tc" && !(/\w/)) {
+    $status = "e";
+    $refnum = 0;
+    if ($refopen) {
+        $refopen = 0;
+        print "</a>"
+        };
+    };
+
+    if ($status eq "tc") {
+    if (/^(\w|\*)/ && $refopen) {
+        $refopen = 0;
+        print "</a>"
+        } 
+    elsif (/^  \w/) {
+        if ($refopen) {
+        $refopen = 0;
+        print "</a>"
+        };
+        $refnum++;
+        $refopen = 1;
+        print "  <a href=\"$htmlfile#label$refnum\">";
+        s/^  //;
+    }
+    } elsif ($status eq "e") {
+    if (/^\w/) {
+            $status = "hd";
+            $refnum++;
+            print "\n\n<a name=\"label$refnum\"><b>";
+        } else {
+            next;
+        }; 
+    } elsif ($status eq "hd" && (/^(\s|\*)/)) {
+    $status = "bo";
+    print "</b></a>";
+    } elsif ($status eq "bo" && !(/\w/)) {
+    $status = "e";
+    }
+
+    if (m|http://.*[)\]][.,;]\s|) {
+        s|(http://.*)([)\]][.,;]\s)|<a href=\"$1\">$1</a>$2|;
+    } elsif (m|http://.*[.,;\])]\s|) {
+        s|(http://.*)([.,;\])]\s)|<a href=\"$1\">$1</a>$2|;
+    } else {
+        s|(http://.*)(\s)|<a href=\"$1\">$1</a>$2|;
+    };
+
+
+    if (m|https://.*[)\]][.,;]\s|) {
+        s|(https://.*)([)\]][.,;]\s)|<a href=\"$1\">$1</a>$2|;
+    } elsif (m|https://.*[.,;\])]\s|) {
+        s|(https://.*)([.,;\])]\s)|<a href=\"$1\">$1</a>$2|;
+    } else {
+        s|(https://.*)(\s)|<a href=\"$1\">$1</a>$2|;
+    };
+
+
+
+    print;
+};
+
+foot();
+
+sub head {
+print(
+"<html>
+<head>
+  <title>
+    SIGLOG Monthly $nlnum 
+  </title>
+</head>
+
+<body>
+
+<pre>
+<font size=4><b>SIGLOG Monthly $nlnum</b></font>
+<i>$date</i>
+
+");
+}
+
+sub foot {
+print(
+"
+
+<hr>
+Back to the <a href=\"http://lics.siglog.org\">LICS web page</a>.
+</pre>
+</body> 
+</html>
+");
+}
