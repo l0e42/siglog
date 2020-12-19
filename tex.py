@@ -53,10 +53,10 @@ def text(item):
 	return format(txt)
 
 def info(item):
-	return item['text']
+	return item['text'] 
 
 def meta(item):
-	return  text(item) 
+	return  text(item) + "\\\\ \n"
 	# return "<p class=\"meta\">" + text(item) + "</p>"
 
 def dates(item):
