@@ -229,15 +229,24 @@ with open(file[0], 'r') as f:
 			raise ValueError
 
 
-document['toc'] = {
-		"type": "ul",
-		"text": [{
+types = [", ".join(x['info']).split(" ")[0] for x in document['items'] if 'info' in x]
+output = []
+
+elements  = [{
 			"type": "li",
 			"text": [{"type":"tag", 
 						'slug': 'deadlines',
 						'content': 'DEADLINES'
 					}]
-			},
+			}]
+
+
+for typ in types:
+	if typ not in output:
+		output.append(typ)
+
+		if typ == "CALL":
+			elements.append(
 			{
 				"type": "li",
 				"text": [{ "type": "text", "text" : 'CALLS'},
@@ -247,11 +256,31 @@ document['toc'] = {
 								"type": "tag",
 								"slug": re.sub(r"\s","_",x['acc']),
 								"content": "{} {}".format(x['acc'], "({})".format(", ".join(x['info'])) if 'info' in x else '')
-								} for x in document['items'] if 'acc' in x and x['acc']]
+								} for x in document['items'] if 'acc' in x and x['acc'] and  "CALL" in ", ".join(x['info'])]
 					}
 				]
-			}
-		]
+			})
+		else: 
+			jobs = [x for x in document['items'] if 'info' in x and typ in x['info']]
+			if len(jobs) > 0:
+				elements.append({
+							"type": "li",
+							"text": [{ "type": "text", "text" : typ + 'S'},
+								{
+								"type":"miniul",
+								"text": [{
+											"type": "tag",
+											"slug": re.sub(r"\s","_",x['acc']),
+											"content": "{}".format(x['acc'])
+											} for x in jobs]
+								}
+							]
+						})
+print(jobs)
+
+document['toc'] = {
+		"type": "ul",
+		"text": elements
 	}
 
 

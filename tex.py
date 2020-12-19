@@ -61,7 +61,7 @@ def meta(item):
 
 def dates(item):
 	txt = ""
-	txt += "\\begin{tabular}{p{4cm}p{6.5cm}}"
+	txt += "\\rowcolors{1}{white}{gray!25}\\begin{tabular}{p{4cm}p{6.5cm}}"
 	for y,x in enumerate(item['text']):
 		# if y %2 == 0:
 		txt += "" + process(x) +  " \\\\\n"
@@ -144,7 +144,7 @@ def item(item):
 def tag(item):
 	global email
 
-	return format(item['content']) + "\\cref{" +simplify(item['slug'])  +"}"
+	return format(item['content']) + " (\\cref{" +simplify(item['slug'])  +"})"
 
 
 
@@ -174,6 +174,7 @@ for x in document:
 	print(x)
 html = """\\documentclass{article}
 
+\\usepackage[table]{xcolor}
 \\usepackage[utf8]{inputenc}
 \\usepackage[parfill]{parskip}
 \\usepackage{hyperref}    
@@ -183,12 +184,10 @@ html = """\\documentclass{article}
 html += "\\section{SIGLOGMonthly "  +  str(document['number']) + "}"
 
 html += "\\emph{" + dateparser.parse("today").strftime("%B %d, %Y") + "}"
-if email:
-	html += """
-\\href{https://lics.siglog.org/newsletters/{}.html}{View Online}
- - 
-""".format(document['number'])
+
 html +="""
+
+
 \\href{https://lics.siglog.org/newsletters/}{Past Issues}
  - 
 \\href{https://lics.siglog.org/newsletters/inst.html}{How to submit an announcement}

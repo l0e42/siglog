@@ -252,5 +252,16 @@ for x in document['items']:
 html += "<br><br>To the <a href=\"http://siglog.org/\">SIGLOG</a> or <a href=\"https://lics.siglog.org\">LICS</a> website"
 html += "</div></body></html>"
 
-with open(document['number'] + (".email" if email else "" )+ ".html", "w") as f:
-	f.write(html)
+import os
+if email:
+	with open(document['number'] + ".email.tmp.html", "w") as f:
+		f.write(html)
+
+	command = "css-inliner " + document['number'] + ".email.tmp.html > "  + document['number'] + ".email.html"
+	os.system(command)
+	os.remove(document['number'] + ".email.tmp.html")
+	print(command)
+
+else:
+	with open(document['number'] +  ".html", "w") as f:
+		f.write(html)
