@@ -32,3 +32,9 @@ Type of Announcement # first word determines TOC (CALL FOR ..., JOBS, ANNOUNCEME
 Another Acronym: Another Title that comes after at least one clear line
   etc!
 </pre>
+
+
+## Non-standard Dependencies
+
+* `dateparser` from pip
+* `css-inliner` from [here](https://github.com/turanct/css-inliner)
