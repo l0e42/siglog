@@ -181,9 +181,9 @@ html = """\\documentclass{article}
 \\usepackage{cleveref}
 \\begin{document}
 """
-html += "\\section{SIGLOGMonthly "  +  str(document['number']) + "}"
+html += "\\section{SIGLOG Monthly "  +  str(document['number']) + "}"
 
-html += "\\emph{" + dateparser.parse("today").strftime("%B %d, %Y") + "}"
+html += "\\emph{" + document['parsedate'].strftime("%B %d, %Y") + "}"
 
 html +="""
 

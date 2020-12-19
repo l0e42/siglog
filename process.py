@@ -302,7 +302,7 @@ for x,t in lst:
 	'date': data
 })			
 document['dates'] = ul
-
+document['parsedate'] = dateparser.parse("today")
 
 
 
