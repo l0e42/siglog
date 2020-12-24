@@ -46,9 +46,14 @@ def simplify(item):
 def format(item):
 	return item.replace("&","\\&")
 
+def repl(match):
+	obj = match.group(0)
+	urlify = obj.replace("_","\\_")
+	return  "\\href{" + obj+ "}{" + urlify+ "}"
+
 def text(item):
 	txt =  item['text']
-	txt = re.sub(r"http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+([a-zA-Z]|[0-9]|\/)+",  "\\\\href{\g<0>}{\g<0>}",txt)	
+	txt = re.sub(r"http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+([a-zA-Z]|[0-9]|\/)+", repl,txt)	
 
 	return format(txt)
 
@@ -116,7 +121,7 @@ def li(item):
 
 def title(item):
 
-	txt = "\\subsection{"
+	txt = "\\section{"
 	txt += format(item['text'])
 	txt += "}"
 	if item['tag']:
@@ -150,7 +155,7 @@ def tag(item):
 
 def toc(items):
 	html = ""
-	html += "\\subsection{Table of Content}"
+	html += "\\section{Table of Content}"
 
 
 	return html + process(document['toc'])
@@ -165,7 +170,7 @@ def toc(items):
 
 def doDates(document):
 	html = ""
-	html += "\\subsection{Deadlines}"
+	html += "\\section{Deadlines}"
 	html += "\\label{deadlines}"
 
 	return html + process(document['dates'])
@@ -178,14 +183,14 @@ html = """\\documentclass{article}
 \\usepackage[utf8]{inputenc}
 \\usepackage[parfill]{parskip}
 \\usepackage{hyperref}    
-\\usepackage{cleveref}
+\\usepackage[capitalize]{cleveref}
 \\begin{document}
 """
-html += "\\section{SIGLOG Monthly "  +  str(document['number']) + "}"
+html += "\\title{SIGLOG Monthly "  +  str(document['number']) + "}"
 
-html += "\\emph{" + document['parsedate'].strftime("%B %d, %Y") + "}"
+html += "\\date{" + document['parsedate'].strftime("%B %d, %Y") + "}"
 
-html +="""
+html +="""\\maketitle
 
 
 \\href{https://lics.siglog.org/newsletters/}{Past Issues}
@@ -201,7 +206,7 @@ for x in document['items']:
 	html += item(x)
 
 
-html += "To the \\href{http://siglog.org/}{SIGLOG} or \\href{https://lics.siglog.org}{LICS} website"
+html += "\n\n\nTo the \\href{http://siglog.org/}{SIGLOG} or \\href{https://lics.siglog.org}{LICS} website"
 html += "\\end{document}>"
 
 with open(document['number'] + ".tex", "w") as f:

@@ -181,8 +181,8 @@ def title(current, data):
 		title = data.split(":")[1].strip()
 
 	else: 
-		title = data.strip()
-		acc = None
+		title = ""
+		acc = data.strip()
 
 	current['title'] = title
 	current['acc'] = acc
@@ -288,7 +288,7 @@ lst = list(document['dates'].items())
 print(lst)
 lst.sort(key=lambda x: x[1][0]['real'])
 print(lst)
-
+# exit()
 ul = {
 			'type':'dates',
 			'text': []
