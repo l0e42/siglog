@@ -270,10 +270,10 @@ and Languages
   researchers interested in models, languages, architectures, and
   implementation techniques for coordination.
 * DEADLINES
-  — abstract submission: January 29, 2021 
-  — paper submission:    February 5, 2021 
-  — notification:        April 2, 2021 
-  — camera ready:        April 23, 2021 
+  - abstract submission: January 29, 2021 
+  - paper submission:    February 5, 2021 
+  - notification:        April 2, 2021 
+  - camera ready:        April 23, 2021 
 * KEYNOTE SPEAKERS: Gilles Fedak, iExec, FR; Mira Mezini, Technical 
   University of Darmstadt, DE; Alexandra Silva, University College 
   London, UK

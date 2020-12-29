@@ -76,7 +76,7 @@ def uladd(current,data):
 def miniul(current,data):
 	if isUL(current):
 
-		data = re.sub(r"\s*-","",data)
+		data = re.sub(r"^\s*-","",data)
 		if len(current['objects'][-1]['text'][-1]['text'])  ==0 or current['objects'][-1]['text'][-1]['text'][-1]['type'] != 'miniul':
 			current['objects'][-1]['text'][-1]['text'].append({
 				'type':'miniul',
@@ -229,7 +229,7 @@ with open(file[0], 'r') as f:
 			raise ValueError
 
 
-types = [", ".join(x['info']).split(" ")[0] for x in document['items'] if 'info' in x]
+types = [", ".join(x['info']) for x in document['items'] if 'info' in x]
 output = []
 
 elements  = [{
@@ -242,6 +242,10 @@ elements  = [{
 
 
 for typ in types:
+
+	if typ.startswith("CALL"):
+		typ = "CALL"
+		
 	if typ not in output:
 		output.append(typ)
 
@@ -276,6 +280,7 @@ for typ in types:
 								}
 							]
 						})
+print(output)
 print(jobs)
 
 document['toc'] = {
