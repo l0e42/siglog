@@ -52,14 +52,18 @@ def meta(item):
 	return "<p class=\"meta\">" + text(item) + "</p>"
 
 def dates(item):
-	txt = ""
-	txt += "<table>"
-	for y,x in enumerate(item['text']):
-		if y %2 == 0:
-			txt += "<tr>" + process(x) +  " </tr>"
-		else:
-			txt += "<tr class=\"odd\">" + process(x) +  " </tr>"
-	txt += "</table>"
+
+	if len(item['text']) == 1:
+		return item['text'][0]['name'] + ": " + item['text'][0]['date'] + "<br>"
+	else:
+		txt = ""
+		txt += "<table>"
+		for y,x in enumerate(item['text']):
+			if y %2 == 0:
+				txt += "<tr>" + process(x) +  " </tr>"
+			else:
+				txt += "<tr class=\"odd\">" + process(x) +  " </tr>"
+		txt += "</table>"
 	return txt
 
 def date(item):

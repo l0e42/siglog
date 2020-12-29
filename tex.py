@@ -54,30 +54,34 @@ def repl(match):
 def text(item):
 	txt =  item['text']
 	txt = re.sub(r"http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+([a-zA-Z]|[0-9]|\/)+", repl,txt)	
-
+	txt = re.sub(r"\"(.*?)\"","``\\g<1>''",txt)
 	return format(txt)
 
 def info(item):
-	return item['text'] 
+	return item['text'] + " \n\n"
 
 def meta(item):
 	return  text(item) + "\\\\ \n"
 	# return "<p class=\"meta\">" + text(item) + "</p>"
 
 def dates(item):
-	txt = ""
-	txt += "\\rowcolors{1}{white}{gray!25}\\begin{tabular}{p{4cm}p{6.5cm}}"
-	for y,x in enumerate(item['text']):
-		# if y %2 == 0:
-		txt += "" + process(x) +  " \\\\\n"
-		# else:
-			# txt += "<tr class=\"odd\">" + process(x) +  " </tr>"
-	txt += "\\end{tabular}\n"
+
+	if len(item['text']) == 1:
+		return item['text'][0]['name'] + ": " + item['text'][0]['date'] + " \n"
+	else:
+		txt = ""
+		txt += "\\rowcolors{1}{white}{gray!25}\\begin{tabulary}{\\linewidth}{LL}"
+		for y,x in enumerate(item['text']):
+			# if y %2 == 0:
+			txt += "" + process(x) +  " \\\\\n"
+			# else:
+				# txt += "<tr class=\"odd\">" + process(x) +  " </tr>"
+		txt += "\\end{tabulary}\n"
 	return txt
 
 def date(item):
 	txt = ""
-	txt += format(item['name']) + "  & " + format(item['date'])
+	txt += format(item['name']) + ":  & " + format(item['date'])
 	# txt += "<td>" + item['name'] + ": &nbsp; </td>"
 	# txt += "<td>" + item['date'] + "</td>"
 	return txt
@@ -182,6 +186,8 @@ html = """\\documentclass{article}
 \\usepackage[table]{xcolor}
 \\usepackage[utf8]{inputenc}
 \\usepackage[parfill]{parskip}
+\\usepackage{tabulary}
+\\PassOptionsToPackage{hyphens}{url}
 \\usepackage{hyperref}    
 \\usepackage[capitalize]{cleveref}
 \\begin{document}
