@@ -174,6 +174,9 @@ def addObject(current, item):
 		current['objects']= []
 	current['objects'].append(item)
 
+def slugify(data):
+	return re.sub(r"[^a-zA-Z0-9]","",data)
+
 def title(current, data):
 
 	if ':' in data:
@@ -188,7 +191,7 @@ def title(current, data):
 	current['acc'] = acc
 	addObject(current, {
 		'type': 'title',
-		'tag': re.sub(r"\s","_",acc) if acc else None,
+		'tag': slugify(acc) if acc else None,
 		'text': data
 	})
 
@@ -245,7 +248,7 @@ for typ in types:
 
 	if typ.startswith("CALL"):
 		typ = "CALL"
-		
+
 	if typ not in output:
 		output.append(typ)
 
@@ -258,7 +261,7 @@ for typ in types:
 					"type":"miniul",
 					"text": [{
 								"type": "tag",
-								"slug": re.sub(r"\s","_",x['acc']),
+								"slug": slugify(x['acc']),
 								"content": "{} {}".format(x['acc'], "({})".format(", ".join(x['info'])) if 'info' in x else '')
 								} for x in document['items'] if 'acc' in x and x['acc'] and  "CALL" in ", ".join(x['info'])]
 					}
@@ -274,7 +277,7 @@ for typ in types:
 								"type":"miniul",
 								"text": [{
 											"type": "tag",
-											"slug": re.sub(r"\s","_",x['acc']),
+											"slug": slugify(x['acc']),
 											"content": "{}".format(x['acc'])
 											} for x in jobs]
 								}

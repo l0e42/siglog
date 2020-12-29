@@ -190,7 +190,7 @@ table tr td {
 }
 .meta {
 	margin:0;
-	margin-left:10px;
+	margin-left:20px;
 }
 h2{
 	margin-bottom:0;
