@@ -7,7 +7,7 @@ try:
 	arg1 = sys.argv[1]
 	print(arg1)
 	import glob, os
-	file = [x for x in glob.glob(arg1 + "*.txt")]
+	file = [x for x in glob.glob("editions/" + arg1 + "*.txt")]
 	print(file[0])
 except:
 	print("No argument, or file not found")

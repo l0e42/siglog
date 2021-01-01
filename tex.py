@@ -215,5 +215,5 @@ for x in document['items']:
 html += "\n\n\nTo the \\href{http://siglog.org/}{SIGLOG} or \\href{https://lics.siglog.org}{LICS} website"
 html += "\\end{document}"
 
-with open(document['number'] + ".tex", "w") as f:
+with open("editions/"+document['number'] + ".tex", "w") as f:
 	f.write(html)

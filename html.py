@@ -260,7 +260,7 @@ html +="</body></html>"
 
 import os
 if email:
-	with open(document['number'] + ".email.tmp.html", "w") as f:
+	with open("editions/"+ document['number'] + ".email.tmp.html", "w") as f:
 		f.write(html)
 
 	command = "css-inliner " + document['number'] + ".email.tmp.html > "  + document['number'] + ".email.html"
@@ -269,5 +269,5 @@ if email:
 	print(command)
 
 else:
-	with open(document['number'] +  ".html", "w") as f:
+	with open("editions/"+document['number'] +  ".html", "w") as f:
 		f.write(html)
