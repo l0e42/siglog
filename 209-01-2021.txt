@@ -1,0 +1,260 @@
+  -dd Jan 01, 2021
+
+  -dM CiE 2021: Jan 17, 2021 (Abstracts), Feb 5, 2021 (articles), May 1, 2021 (informal presentations)
+  -dM J. LOG. COMPUT (Social Networks): Jan 15, 2021 (Extended)
+  -dM LICS 2021: Jan 20, 2021 (Abstracts), Jan 25, 2021 (Full papers)
+  -dM COORDINATION 2021: Jan 29, 2021 (Abstracts), Feb 5, 2021 (Full papers)
+  -dM CCC LMCS Special Issue: Jan 31, 2021 (Register intent), Mar 31, 2021 (Full papers)
+  -dM ICALP 2021: Feb 12, 2021 (Paper)
+  -dM FSDC 2021: Feb 12, 2021 (Abstracts), Feb 15, 2021 (Full papers)
+  -dM CADE-28: Feb 15, 2021 (Abstracts), Feb 22, 2021 (Full papers)
+  -dM SPIN 2021: Mar 1, 2021 (Paper)
+
+
+WINNER OF THE 2020 ACKERMANN AWARD
+ANNOUNCEMENT
+* The Ackermann Award 2020, the EACSL Outstanding Dissertation Award for Logic in Computer Science, is given to Benjamin Lucien Kaminski  for his thesis "Advanced Weakest Precondition Calculi for Probabilistic Programs"
+* A citation is available at http://www.eacsl.org/?page_id=65
+* The 2020 award will be presented at the 29th Computer Science Logic (CSL 2021) Conference, the annual meeting of the European Association for Computer Science Logic. This will be held January 25th - 29th, 2021, online, organised by the Faculty of Mathematics and Physics (FMF) at the University of Ljubljana.
+
+
+Vienna World Logic Day Lecture
+  14 January 2021
+CALL FOR PARTICIPATION
+* On 14 January 2021, you are cordially invited to celebrate the World Logic Day digitally with the community from the city of Kurt Gödel, Ludwig Wittgenstein, and the Vienna Circle.
+  The Vienna Center for Logic and Algorithms at Vienna University of Technology (VCLA at TU Wien) represents six research groups celebrating the World Logic Day 2021 (WLD).
+* Vienna World Logic Day Lecture with Prof. Georg Gottlob on the future of logic in the world shaped by Artificial intelligence
+  -dh Date of Event: 14 January 2021
+  Time: 8am PST | 11am EST | 1pm GMT-3 | 5pm CET 
+  Digital venue: Zoom or YouTube
+* Ambassadors of Logic
+  We asked renowned logicians from the fields of computer science, philosophy, mathematics, artificial intelligence to provide us with short statements on the WLD.  This is what they have to say: https://logicday.vcla.at 
+* Celebrating World Logic Day 2021 around the globe
+  We are featuring events celebrating World Logic Day 2021 around the globe. Send us an email, and we will include you on our website. Additionally, if you are organising an event and wish to be listed in the official list of the World Logic Day 2021 events and use the official WLD logo in your announcements, please submit your event as listed on the website of the WLD 2021. 
+  UNESCO proclaimed World Logic Day in 2019, in association with the International Council for Philosophy and Human Sciences (CIPSH), to enhance public understanding of logic and its implications for science, technology and innovation. "In the twenty-first century – indeed, now more than ever – the discipline of logic is a particularly timely one, utterly vital to our societies and economies. Computer science and information and communications technology, for example, are rooted in logical and algorithmic reasoning." — Audrey Azoulay, Director General of UNESCO
+* Free access and non-obligatory registration on the website https://logicday.vcla.at/
+
+
+ETAPS Doctoral Dissertation Award
+CALL FOR NOMINATIONS
+* AWARD
+  The European Joint Conferences on Theory and Practice of Software Association has established a Doctoral Dissertation Award to promote and recognize outstanding dissertations in the research areas covered by the four main ETAPS conferences (ESOP, FASE, FoSSaCS, and TACAS).
+  Doctoral dissertations are evaluated with respect to originality, relevance, and impact to the field, as well as the quality of writing. The award winner will receive a monetary prize and will be recognized at the ETAPS Banquet.
+* ELIGIBILITY
+  Eligible for the award is any PhD student whose doctoral dissertation is in the scope of the ETAPS conferences and who completed their doctoral degree at a European academic institution in the period from January 1st, 2020 to December 31st, 2020. 
+* NOMINATIONS
+  Award candidates should be nominated by their supervisor. Members of the Award Committee are not allowed to nominate their own PhD students for the award.
+  Nominations consist of a single PDF file (extension .pdf) containing:
+  - name and email address of the candidate
+  - a short curriculum vitae of the candidate
+  - name and email address of the supervisor
+  - an endorsement letter from the supervisor
+  - the final version of the doctoral dissertation
+  - institution and department that has awarded the doctorate
+  - a document certifying that the doctoral degree was successfully completed within the eligibility period 
+  - a report from at least one examiner of the dissertation who is not affiliated with the candidate's institution
+  All documents must be written in English. Nominations are welcome regardless of whether results that are part of the dissertation have been published at ETAPS.
+  Nominations should be submitted via EasyChair: https://easychair.org/conferences/?conf=etapsdda2021
+ -dh Deadline for nominations: January 17th, 2021.
+* AWARD COMMITTEE
+  - Caterina Urban (chair)
+  - Luis Caires (representing ESOP)
+  - Andrzej Wasowski (representing FASE)
+  - Andrew Pitts (representing FoSSaCS)
+  - Dirk Beyer (representing TACAS)
+  - Marieke Huisman
+  - Oded Padon
+* CONTACT: All questions about submissions should be emailed to the chair of the award committee, Caterina Urban caterina.urban@inria.fr.
+
+
+
+CAV 2021: 33rd International Conference on Computer-Aided Verification
+  July 18-23 2021, Los Angeles, USA
+  http://i-cav.org/2021/call-for-papers/ 
+CALL FOR PAPERS
+* CONFERENCE
+  CAV 2021 is the 33rd in a series dedicated to the advancement of the theory and practice of computer-aided formal analysis methods for hardware and software systems. The conference covers the spectrum from theoretical results to concrete applications, with an emphasis on practical verification tools and the algorithms and techniques that are needed for their implementation. CAV considers it vital to continue spurring advances in hardware and software verification while expanding to new domains such as machine learning, autonomous systems, and computer security. 
+* TOPICS
+  Topics of interest include but are not limited to:
+  - Algorithms and tools for verifying models and implementations
+  - Algorithms and tools for system synthesis
+  - Algorithms and tools that combine verification and learning
+  - Mathematical and logical foundations of verification and synthesis
+  - Specifications and correctness criteria for programs and systems
+  - Deductive verification using proof assistants
+  - Hardware verification techniques
+  - Program analysis and software verification
+  - Software synthesis
+  - Hybrid systems and embedded systems verification
+  - Formal methods for cyber-physical systems
+  - Compositional and abstraction-based techniques for verification
+  - Probabilistic and statistical approaches to verification
+  - Verification methods for parallel and concurrent systems
+  - Testing and run-time analysis based on verification technology
+  - Decision procedures and solvers for verification and synthesis
+  - Applications and case studies in verification and synthesis
+  - Verification in industrial practice
+  - New application areas for algorithmic verification and synthesis
+  - Formal models and methods for security
+  - Formal models and methods for biological systems
+  Submissions on a wide range of topics are sought, particularly ones that identify new  research directions. CAV 2021 is not limited to topics discussed in previous instances of the conference. Authors concerned about the appropriateness of a topic may communicate with the conference chairs prior to submission.
+* SUBMISSION
+  Submission site: https://easychair.org/conferences/?conf=cav2021. 
+  Paper submissions in CAV fall into one of the following three categories (more information here: http://i-cav.org/2021/call-for-papers/):
+  - Regular Papers (20 pages max, must be anonymized)
+  - Tool Papers  (10 pages max, must be anonymized)
+  - Industrial Experience Reports & Case Studies. (10 pages max, not anonymized)
+  Papers in all three categories should be in LNCS format. Simultaneous submission to other conferences with proceedings or submission of material that has already been published elsewhere is not allowed. The review process will include a feedback/rebuttal period where authors will have the option to respond to reviewer comments. The PC chairs may solicit further reviews after the rebuttal period. 
+  The proceedings of the conference will be published in the Springer-Verlag Lecture Notes in Computer Science series. A selection of papers is expected to be invited to a special issue of Formal Methods in System Design and the Journal of the ACM.
+* IMPORTANT DATES (AoE)
+  -dh Paper submission:      January 28, 2021
+  -dv Rebuttal period:       Mar 29-31, 2021
+  -d Author notification:   April 19, 2021
+  -d Artifact submission:   April 28, 2021
+  -d Artifact notification: May 26, 2021
+  -d Final version due:     May 31, 2021
+* CAV AWARD 
+  The CAV award is given annually at the CAV conference for fundamental contributions to  the field of Computer-Aided Verification. For details about the CAV award nomination,  please see the following page: http://i-cav.org/2021/cav-award/.
+  -dh CAV Award Nomination deadline: February 20, 2021
+* CONTACT (CONFERENCE CO-CHAIRS)
+  Rustan Leino, Amazon 
+  Alexandra Silva, University College London 
+
+
+
+
+
+
+FORTE 2021: 41st International Conference on Formal Techniques for Distributed Objects, Components, and Systems
+  https://www.discotec.org/2021/forte
+  June 14-18, 2021, Valletta, Malta
+  Part of DisCoTec 2021 https://www.discotec.org/2021/ the 16th International Federated Conference on Distributed Computing Techniques
+CALL FOR PAPERS
+* SCOPE
+  FORTE 2021 is a forum for fundamental research on theory, models, tools, and applications for distributed systems. The conference solicits original contributions that advance the science and technology for distributed systems, with special interest in:; Software quality, reliability, availability, and safety; Security, privacy, and trust in distributed and/or communicating systems; Service-oriented, ubiquitous, and cloud computing systems; Component- and model-based design; Object technology, modularity, software adaptation; Self-stabilization and self-healing/organizing; Verification, validation, formal analysis, and testing of the above.
+  Aligned with the above, FORTE covers models and formal specification, testing and verification methods for distributed computing. Application domains are multiple, and include all kinds of application-level distributed systems, telecommunication services, Internet, embedded and real-time systems, as well as networking and communication security and reliability.
+  Contributions that combine theory and practice and that exploit forma methods and theoretical foundations to present novel solutions to problem arising from the development of distributed systems are very much encouraged.
+* TOPICS
+   - Languages and semantic foundations: New modeling and language concepts for distribution and concurrency; semantics for different types of languages, including programming languages, modeling languages, and domain-specific languages; real-time and probability aspects
+   - Formal methods and techniques: Design, specification, analysis, verification, validation, testing and runtime verification of various types of distributed systems, including communications and network protocols, service-oriented systems, adaptive distributed systems, cyber-physical systems and sensor networks 
+   - Foundations of security: New principles for qualitative and quantitative security analysis of distributed systems, including formal models based on probabilistic concepts 
+   - Applications of formal methods: Applying formal methods and techniques for studying quality, reliability, availability, and safety of distributed systems 
+   - Practical experience with formal methods: Industrial applications, case studies and software tools for applying formal methods and description techniques to the development and analysis of real distributed systems. 
+   - Emerging challenges and hot topics in distributed systems (broadly construed): Formal specification, verification and analysis of emerging systems and applications, such as, for instance, software-defined networks, distributed ledgers, smart contracts, and blockchain technologies.
+* KEYNOTE SPEAKERS 
+  - Gilles Fedak, iExec, FR
+  - Mira Mezini, Technical University of Darmstadt, DE
+  - Alexandra Silva, University College London, UK
+* SUBMISSION GUIDELINES
+  English, original, unpublished work, not submitted for publication elsewhere, Springer’s LNCS style to appear in Springer’s LNCS-IFIP volume series.
+  https://easychair.org/conferences/?conf=forte21
+  FORTE accepts contributions in three categories:
+  - Full papers (page limit: up to 15 pages + 2 pages references)
+  - Short papers (page limit: up to 6 pages + 2 pages references) 
+  - "Journal First" papers (page limit: up to 4 pages, including references)
+  See full call for papers for more info
+* IMPORTANT DATES
+  -dh Abstract submission: January 29, 2021 
+  -dh Paper submission: February 5, 2021 
+  -d Notification: April 2, 2021 
+  -d Camera ready: April 23, 2021 
+* SPECIAL ISSUE 
+  Selected papers will be invited to a special issue of Logical Methods in Computer Science
+* CONTACT: forte21 at easychair dot org
+
+
+
+
+
+
+LAMAS&SR: International Workshop on Logical Aspects of Multi-Agent Systems and Strategic Reasoning
+  Satellite workshop of AAMAS 2021 
+  London, United Kingdom, May 3 or 4 (TBA), 2021
+  https://lamassr.github.io/
+CALL FOR PAPERS
+* CONFERENCE
+  Logics and strategic reasoning play a central role in multi-agent systems. Logics can be used, for instance, to express the agents' abilities, knowledge, and objectives. Strategic reasoning refers to algorithmic methods that allow for developing good behavior for the agents of the system. At the intersection, we find logics that can express existence of strategies or equilibria, and can be used to reason about them. 
+  The LAMAS&SR workshop merges two international workshops: LAMAS, which focuses on all kinds of logical aspects of multi-agent systems from the perspectives of artificial intelligence, computer science, and game theory, and SR, devoted to all aspects of strategic reasoning in formal methods and artificial intelligence.
+  LAMAS&SR is thus interested in all topics related to logics and strategic reasoning in multi-agent systems, from theoretical foundations to algorithmic methods and implemented tools.
+* TOPICS include, but are not limited to:
+  - Logical systems for specification, analysis, and reasoning about multi-agent systems;
+  - Logic-based modeling of multi-agent systems;
+  - Dynamical multi-agent systems;
+  - Deductive systems and decision procedures for logics for multi-agent systems;
+  - Development and implementation of methods for formal verification in multi-agent systems;
+  - Logic-based tools for multi-agent systems;
+  - Logics for reasoning about strategic abilities;
+  - Logics for multi-agent mechanism design, verification, and synthesis;
+  - Logical foundations of decision theory for multi-agent systems;
+  - Strategic reasoning in formal verification;
+  - Automata theory for strategy synthesis;
+  - Applications and tools for cooperative and adversarial reasoning;
+  - Robust planning and optimization in multi-agent systems;
+  - Risk and uncertainty in multi-agent systems;
+  - Quantitative aspects in strategic reasoning.
+* SUBMISSIONS: https://easychair.org/my/conference?conf=lamassr21
+  - single-blind (not anonymous) extended abstracts of 2 pages plus 1 page for references in the AAMAS format.
+  - Both published and unpublished works are welcome.
+  - There will be no formal proceedings, but accepted extended abstracts will be made available on the workshop's website.
+  - We envisage that extensions of selected papers will be invited to a journal.
+* IMPORTANT DATES
+  -dh Paper submission:    Feb 10, 2021 (AoE)
+  -d Author Notification:  10 March, 2021
+  -d Camera Ready:         24 March, 2021
+  -dv Workshop:             May 3 or 4, 2021 (TBA)
+
+
+
+
+
+QPL 2021: 18th edition of the International Conference on Quantum Physics and Logic
+  June 7th - 11th 2021
+CALL FOR PAPERS
+* CONFERENCE: 
+  QPL 2021 will be hosted by the International Centre for Theory of Quantum Technologies, University of Gdańsk, and take place on June 7th-11th 2021, in Gdańsk, Poland. More information may be found at https://qpl2021.eu/
+  QPL 2021 will feature both an on-site and a virtual component, following the success of the online QPL 2020. Should covid-19 restrictions not allow for the on-site event to happen, QPL 2021 will be hosted entirely in the virtual platform.
+  The list of invited speakers and call for papers will be announced soon.
+* Prospective speakers are invited to submit one (or more) of the following: 
+  - Original contributions consist of a 5-12 page extended abstract that provides sufficient evidence of results of genuine interest and enough detail to allow the program committee to assess the merits of the work. Submission of substantial albeit partial results of work in progress is encouraged.
+  - Extended abstracts describing work submitted/published elsewhere will also be considered, provided the work is recent and relevant to the conference. These consist of a 3 page description and should include a link to a separate published paper or preprint. 
+* DATES:
+  -dh Paper submission deadline:  February 12th 2021
+  -d Author notification:  March 31 2021
+  -dv The conference:  Jun 7-11, 2021
+
+FORMATS 2021: 19th International Conference on Formal Modeling and Analysis of Timed Systems
+  August 23rd-27th at Université Paris-Est Créteil, France
+  co-located with CONCUR, FMICS and QEST as part of QONFEST 2021
+  https://qonfest2021.lacl.fr
+CALL FOR PAPERS
+* FORMATS is an annual conference aimed at promoting the study of fundamental and practical aspects of timed systems, and bringing together researchers from different disciplines that share interests in modelling, design, and analysis of timed computational systems. The conference aims to attract researchers interested in real-time issues in hardware design, performance analysis, real-time software, scheduling, semantics and verification of real-timed, hybrid and probabilistic systems. We particularly encourage submissions concerning applications of real-time systems and on relevant topics in interdisciplinary areas, such as robot motion planning.
+* Typical topics include (but are not limited to):
+  - Foundations and Semantics: Theoretical foundations of timed systems and languages; comparison between different models (timed automata, timed Petri nets, hybrid automata, timed process algebra, max-plus algebra, probabilistic models). 
+  - Methods and Tools: Techniques, algorithms, data structures, and software tools for analyzing timed systems and resolving temporal constraints (scheduling, worst-case execution time analysis, optimization, model checking, testing, constraint solving, etc.).
+  - Applications: Adaptation and specialization of timing technology in application domains such as real-time software, hardware circuits, and problems of scheduling in manufacturing and telecommunication.
+* SPECIAL SESSIONS: Control Synthesis and Motion Planning for Cyber-physical and Control Systems. 
+  There will be a special session on control synthesis and motion planning for cyber-physical and control systems in FORMATS this year. Real-world systems often include physical components, which impose constraints on the time and space evolution of the system, e.g., robots, smart cities, and medical devices. In this session, we are interested in all approaches, including both model-based and data-driven, to analysis and control design for such systems with logical and temporal specifications. We welcome submissions on this topic and in relevant areas.
+* PAPER SUBMISSION: https://easychair.org/conferences/?conf=formats2021
+  FORMATS 2021 solicits high-quality, original, unpublished, PDF papers in Springer LNCS style guidelines reporting research results and/or experience reports related to the topics mentioned above. Each paper will undergo a thorough review process.
+  - Regular papers are limited to 15 pages in length (excluding references and appendix (reviewed at PC discretion))
+  - Short papers (for instance describing case studies, or implementations) are limited to 5 pages (excluding references and appendix (reviewed at PC discretion)).
+  The best paper of the conference will be awarded the Oded Maler Award in Timed Systems.
+* Important Note Concerning the COVID-19 Pandemic:
+    The current situation makes it unclear whether FORMATS 2021 can be held physically. We hope to come to a clear view on this by early April 2021. Should it need to be held as a virtual conference, we would do our best to maintain the usual quality of the program, and moreover to have a scheduling that accommodate attendance from different time zones. 
+* IMPORTANT DATES:
+  -dh Abstract submission: April 6, 2021
+  -dh Paper submission: April 13, 2021
+  -d Notification of acceptance: June 21, 2021 
+  -d Final version due: July 02, 2021 
+  -dv Conference: Aug 23-27, 2021
+* CONTACT
+  For any questions, feel free to contact the co-chairs Catalin Dima (dima@u-pec.fr) and Mahsa Shirmohammadi (mahsa@irif.fr)
+
+
+
+BOOK ANNOUNCEMENT
+* Term Functors, Ultrafilter Categorical Computing and Monads
+  by Cyrus F. Nourani and Patrik Eklund
+  ISBN: 6202077905 
+  https://www.hugendubel.de/de/buch_kartoniert/cyrus_f_nourani_patrik_eklund-term_functors_ultrafilter_categorical_computing_and_monads-39214239-produkt-details.html
+
