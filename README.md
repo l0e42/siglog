@@ -10,6 +10,9 @@
 
 <pre>
 
+# For the master render date
+  -dd date 
+
 # For verbatim dates to be added (from previous newsletters)
   -dM Name: date
 
