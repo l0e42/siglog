@@ -194,7 +194,7 @@ html = """\\documentclass{article}
 """
 html += "\\title{SIGLOG Monthly "  +  str(document['number']) + "}"
 
-html += "\\date{" + document['parsedate'].strftime("%B %d, %Y") + "}"
+html += "\\date{" + document['renderdate'].strftime("%B %d, %Y") + "}"
 
 html +="""\\maketitle
 

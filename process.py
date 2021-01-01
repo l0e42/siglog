@@ -108,12 +108,19 @@ def date(current,data):
 
 	
 	infomation = data.split(":")
-	left = re.sub("-d[v|M|h]*", "", infomation[0])
+	left = re.sub("-d[v|M|h|d]*", "", infomation[0])
 	left = left.replace("-d", "")
 	left= left.strip()
-	right = infomation[1].strip()
 	
 	global document
+	if bool(re.match(r"\s*-dd",line)):
+		document['renderdate'] = dateparser.parse(extractDate(left))
+		return
+
+	right = infomation[1].strip()
+	
+
+
 	if bool(re.match(r"\s*-dM",line)):
 		document['dates'][left] = [{
 			'name': left,
@@ -135,19 +142,20 @@ def date(current,data):
 			right = extractDate(right)
 			if current['acc'] not in document['dates']:
 				document['dates'][current['acc']] = []
-
 			document['dates'][current['acc']].append({
 			'name':left,
 			'date': right,
 			'real': dateparser.parse(right)
 		})
 
+
 		if bool(re.match(r"\s*-dv",line)):
 			right = infomation[1].strip()	
 		else: 
 			try: 
 				right = dateparser.parse(infomation[1].strip()	).strftime("%b %d, %Y")
-			except:			
+			except:		
+				#if we're here, this is slow	
 				right = infomation[1].strip()	
 				pass
 
@@ -212,10 +220,11 @@ with open(file[0], 'r') as f:
 			current = {}
 		elif  bool(re.match(r"[A-Z|a-z|0-9]", line)):
 			if 'title' not in current:
-				print('title', line)
 				title(current,line)
+				print(current['title'])
+				if current['acc'] == "BOOK ANNOUNCEMENT":
+					current['info'] = [ "BOOK ANNOUNCEMENT"]
 			else:
-				print('info',line)
 				info(current, line)
 		elif bool(re.match(r"\s*[A-Z|a-z|0-9]",line))  and not isUL(current):
 			meta(current,line)
@@ -228,11 +237,14 @@ with open(file[0], 'r') as f:
 		elif bool(re.match(r"\s*-",line)):
 			miniul(current,line)
 		else:
-			print("don't know how to handel", line)
-			raise ValueError
+			print("don't know how to handle", line)
+			exit()
 
 
+print([x['title'] for x in document['items'] if 'title' in x])
 types = [", ".join(x['info']) for x in document['items'] if 'info' in x]
+print(types)
+# exit()
 output = []
 
 elements  = [{
@@ -283,8 +295,6 @@ for typ in types:
 								}
 							]
 						})
-print(output)
-print(jobs)
 
 document['toc'] = {
 		"type": "ul",
@@ -293,10 +303,8 @@ document['toc'] = {
 
 
 lst = list(document['dates'].items())
-print(lst)
 lst.sort(key=lambda x: x[1][0]['real'])
-print(lst)
-# exit()
+
 ul = {
 			'type':'dates',
 			'text': []
@@ -310,7 +318,6 @@ for x,t in lst:
 	'date': data
 })			
 document['dates'] = ul
-document['parsedate'] = dateparser.parse("today")
 
 
 
