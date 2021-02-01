@@ -263,9 +263,9 @@ if email:
 	with open("editions/"+ document['number'] + ".email.tmp.html", "w") as f:
 		f.write(html)
 
-	command = "css-inliner " + document['number'] + ".email.tmp.html > "  + document['number'] + ".email.html"
+	command = "css-inliner " +"editions/"+ document['number'] + ".email.tmp.html > "  +"editions/"+ document['number'] + ".email.html"
 	os.system(command)
-	os.remove(document['number'] + ".email.tmp.html")
+	os.remove("editions/"+document['number'] + ".email.tmp.html")
 	print(command)
 
 else:

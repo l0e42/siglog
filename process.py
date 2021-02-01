@@ -24,13 +24,20 @@ document = {
 
 def info(current, data):
 
+	if "-s" in data:
+		stuff = data.split("-s")
+		data = stuff[0].strip()
+		current['info'] = [stuff[1].strip()]
+	else:
+		if 'info' not in current:
+			current['info'] = []
+		current['info'].append(data)
+
+
 	addObject(current,{
 		'type': 'info',
 		'text': data
 	})
-	if 'info' not in current:
-		current['info'] = []
-	current['info'].append(data)
 
 def meta(current, data):
 
@@ -255,7 +262,7 @@ elements  = [{
 					}]
 			}]
 
-
+print(types)
 for typ in types:
 
 	if typ.startswith("CALL"):
