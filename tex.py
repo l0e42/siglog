@@ -187,7 +187,26 @@ def doDates(document):
 
 for x in document:
 	print(x)
-html = """\\documentclass{article}
+html = """
+% v2-acmsmall-sample.tex, dated March 6 2012
+% This is a sample file for ACM small trim journals
+%
+% Compilation using 'acmsmall.cls' - version 1.3 (March 2012), Aptara Inc.
+% (c) 2010 Association for Computing Machinery (ACM)
+%
+% Questions/Suggestions/Feedback should be addressed to => "acmtexsupport@aptaracorp.com".
+% Users can also go through the FAQs available on the journal's submission webpage.
+%
+% Steps to compile: latex, bibtex, latex latex
+%
+% For tracking purposes => this is v1.3 - March 2012
+\\documentclass[prodmode,acmtecs]{acmsmall} % Aptara syntax
+\\usepackage[spanish,polish]{babel}
+\\usepackage[T1]{fontenc}
+\\usepackage{fancyvrb}
+\\usepackage{graphicx,hyperref}
+\\newcommand\\cutout[1]{}
+
 
 \\usepackage[table]{xcolor}
 \\usepackage[utf8]{inputenc}
@@ -196,15 +215,57 @@ html = """\\documentclass{article}
 \\PassOptionsToPackage{hyphens}{url}
 \\usepackage{hyperref}    
 \\usepackage[capitalize]{cleveref}
+
+
+% Metadata Information
+% !!! TODO: SET THESE VALUES !!!
+\\acmVolume{0}
+\\acmNumber{0}
+\\acmArticle{CFP}
+\\acmYear{0}
+\\acmMonth{0}
+
+\\newcounter{colstart}
+\\setcounter{page}{4}
+
+\\RecustomVerbatimCommand{\\VerbatimInput}{VerbatimInput}%
+{
+%fontsize=\\footnotesize,
+fontfamily=\\rmdefault
+}
+
+
+\\newcommand{\\UnderscoreCommands}{%\\do\\verbatiminput%
+\\do\\citeNP \\do\\citeA \\do\\citeANP \\do\\citeN \\do\\shortcite%
+\\do\\shortciteNP \\do\\shortciteA \\do\\shortciteANP \\do\\shortciteN%
+\\do\\citeyear \\do\\citeyearNP%
+}
+
+\\usepackage[strings]{underscore}
+
+
+
+% Document starts
 \\begin{document}
+
+
+\\setcounter{colstart}{\\thepage}
+
+\\acmArticle{CFP}
 """
-html += "\\title{SIGLOG Monthly "  +  str(document['number']) + "}"
+html += "\\title{\\huge\\sc SIGLOG Monthly "  +  str(document['number']) + "}"
+html += """
+\\author{DAVID PURSER\\affil{Max Planck Institute for Software Systems, Saarbr\\"ucken}
+\\vspace*{-2.6cm}\\begin{flushright}\\includegraphics[width=30mm]{dp}\\end{flushright}
+}
 
-html += "\\date{" + document['renderdate'].strftime("%B %d, %Y") + "}"
+\\maketitlee
+"""
 
-html +="""\\maketitle
 
+# html += "\\date{" + document['renderdate'].strftime("%B %d, %Y") + "}"
 
+html +="""
 \\href{https://lics.siglog.org/newsletters/}{Past Issues}
  - 
 \\href{https://lics.siglog.org/newsletters/inst.html}{How to submit an announcement}
