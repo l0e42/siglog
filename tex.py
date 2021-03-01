@@ -44,18 +44,24 @@ def simplify(item):
 	return item.replace("&","")
 
 def format(item):
-	return item.replace("&","\\&")
+	return item.replace("&","\\&").replace("_","\\_")
 
 def repl(match):
 	obj = match.group(0)
-	urlify = obj.replace("_","\\_")
-	return  "\\href{" + obj+ "}{" + urlify+ "}"
+	urlify = obj#.replace("_","\\_")
+	other = obj.replace("_",":UNDERSCORE:")
+	return  "\\href{" + other+ "}{" + urlify+ "}"
 
 def text(item):
 	txt =  item['text']
+	txt = txt.replace("\\","\\textbackslash")
+	txt = txt.replace("{","\\{")
+	txt = txt.replace("}","\\}")
+	txt = txt.replace("\\textbackslash","\\textbackslash{}")
+	
 	txt = re.sub(r"http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+([a-zA-Z]|[0-9]|\/)+", repl,txt)	
 	txt = re.sub(r"\"(.*?)\"","``\\g<1>''",txt)
-	return format(txt)
+	return format(txt).replace(":UNDERSCORE:","_")
 
 def info(item):
 	return item['text'] + " \n\n"
