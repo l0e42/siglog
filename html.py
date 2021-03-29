@@ -180,30 +180,30 @@ html = """<!DOCTYPE html><html lang="en">
  <meta charset="UTF-8">
 <style>
 .main{
-	max-width: 800px;
-	font-family: monospace, monospace;
-	font-size:13px;
+    max-width: 800px;
+    font-family: monospace, monospace;
+    font-size:13px;
 }
 table tr td {
-	font-family: monospace, monospace;
-	font-size: 13px;
+    font-family: monospace, monospace;
+    font-size: 13px;
 }
 .siglog {
     top: 4px;
     position: relative;
 }
 .meta {
-	margin:0;
-	margin-left:20px;
+    margin:0;
+    margin-left:20px;
 }
 h2{
-	margin-bottom:0;
-	margin-top:20px;
-	font-size:18px;;
+    margin-bottom:0;
+    margin-top:20px;
+    font-size:18px;;
 }
 ul{
-	margin:0;
-	padding-left: 20px;
+    margin:0;
+    padding-left: 20px;
 }
 
 h1 {
@@ -211,7 +211,7 @@ h1 {
     margin:0;
 }
 .odd {
-	background: #DDD;
+    background: #DDD;
 }
 </style>"""
 html += """

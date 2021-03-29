@@ -97,6 +97,7 @@ def miniul(current,data):
 
 	else:
 		print("not a UL")
+		print(data)
 		exit()
 
 def extractDate(right):
@@ -124,7 +125,7 @@ def date(current,data):
 		document['renderdate'] = dateparser.parse(extractDate(left))
 		return
 
-	right = infomation[1].strip()
+	right = ":".join(infomation[1:]).strip()
 	
 
 
@@ -157,13 +158,13 @@ def date(current,data):
 
 
 		if bool(re.match(r"\s*-dv",line)):
-			right = infomation[1].strip()	
+			right = ":".join(infomation[1:]).strip()
 		else: 
 			try: 
 				right = dateparser.parse(infomation[1].strip()	).strftime("%b %d, %Y")
 			except:		
 				#if we're here, this is slow	
-				right = infomation[1].strip()	
+				right = ":".join(infomation[1:]).strip()
 				pass
 
 		current['objects'][-1]['text'][-1]['text'][-1]['text'].append({
@@ -174,6 +175,7 @@ def date(current,data):
 
 	else:
 		print("not a UL")
+		print(data)
 		exit()
 
 def isUL(current):
