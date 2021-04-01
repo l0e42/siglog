@@ -1,0 +1,383 @@
+-dd Apr 01, 2021
+
+ -dM Alonzo Church Award:    Apr 01, 2021 (Deadline for Nominations (Extended))
+ -dM Diagrams 2021:    Apr 01, 2021 (Titles+short abstracts), Apr 08, 2021 (Long and Short Papers), Apr 15, 2021 (Abstracts and Posters)
+ -dM MGS 21:   Apr 01, 2021 (Registration deadline)
+ -dM FORMATS 2021:   Apr 06, 2021 (Abstract), Apr 13, 2021 (Paper)
+ -dM E. W. Beth Outstanding Dissertation Prize 2021:   Apr 15, 2021 (Deadline for nominations)
+ -dM SPIN 2021:    Apr 20, 2021 (Paper (extended))
+ -dM CONCUR 2021:    Apr 23, 2021 (Abstract), Apr 30, 2021 (Paper)
+ -dM MFCS 2021:    Apr 30, 2021 (Abstract), May 03, 2021 (Paper)
+ -dM ICGI 2020/21:   May 25, 2021 (Paper)
+ -dM ACKERMANN AWARD 2021:   Jul 01, 2021 (Deadline for nomination)
+ -dM CSL22:    Jul 05, 2021 (Abstract), Jul 12, 2021 (Paper) 
+     
+WiL 2021: 5th Women in Logic Workshop
+  June 27, 2021 part of LICS 2021
+  https://sites.google.com/g.uporto.pt/wil2021
+CALL FOR CONTRIBUTIONS
+* Women in Logic 2021 is a satellite event of the 36th Annual ACM/IEEE  Symposium on Logic in Computer Science (LICS’21) to be held virtually  on June 29-July 2, 2021.
+  The Women in Logic workshop (WiL) provides an opportunity to increase awareness of the valuable contributions made by women in the area of logic in computer science. Its main purpose is to promote the excellent research done by women, with the ultimate goal of increasing their visibility and representation in the community. Our aim is to:
+  - provide a platform for female researchers to share their work and achievements;
+  - increase the feelings of community and belonging, especially among junior faculty, post-docs and students through positive interactions with peers and more established faculty;
+  - establish new connections and collaborations;
+  - foster a welcoming culture of mutual support and growth within the logic research community. We believe these aspects will benefit women working in logic and computer science, particularly early-career researchers.
+  Previous versions of Women in Logic (Reykjavík, Iceland 2017, Oxford, UK 2018, Vancouver, Canada 2019, and Paris, France 2020)  were very successful in showcasing women's work and as catalysts for a  recognition of the need for change in the community.
+* TOPICS
+  Topics of interest include but are not limited to: 
+  automata theory, automated deduction, categorical models and logics, concurrency and distributed computation, constraint programming, constructive mathematics, database theory, decision procedures, description logics, domain theory, finite model theory, formal aspects of program analysis, formal methods, foundations of computability, games and logic, higher-order logic, lambda and combinatory calculi, linear logic, logic in artificial intelligence, logic programming, logical aspects of bioinformatics, logical aspects of computational complexity, logical aspects of quantum computation, logical frameworks, logics of programs, modal and temporal logics, model checking, probabilistic systems, process calculi, programming language semantics, proof theory, real-time systems, reasoning about security and privacy, rewriting, type systems and type theory, and verification.
+*INVITED SPEAKERS
+  Simona Ronchi Della Rocca and Rineke Verbrugge
+* IMPORTANT DATES
+ -dh Abstract submission: April 30, 2021
+ -d Notification: May 28, 2021
+ -d Workshop: June 27, 2021
+* SUBMISSIONS
+  Abstracts should be written in English (1-2 pages), and prepared using the Easychair style (https://easychair.org/publications/for_authors) and submitted as a PDF to https://easychair.org/conferences/?conf=wil2021
+
+
+Logic Colloquium 2020:
+  July 19-24, 2020, Poznań, Poland (online)
+  NO FEES APPLY
+  https://lc2021.pl/
+CALL FOR PAPERS
+* The Logic Colloquium is the European Summer Meeting of the Association for Symbolic Logic, that in 2021 will be hosted from 19th to 24th of July by the Adam Mickiewicz University, Poznań, Poland, as a fully on-line event. It is organized jointly by the AMU Faculties: of Psychology and Cognitive Science and of Mathematics and Computer Science.
+  https://easychair.org/conferences/?conf=lc20210
+* DATES:
+-d Registration open: March 31, 2021:
+-dh Abstract submission: April 30, 2021:
+-d Notification: May 20, 2021:
+-d Camera-ready abstracts due: June 1, 2021:
+* Detailed information can be found on the webpage.
+
+
+
+
+Tenth Summer School on Formal Techniques:
+ May 22 - May 28, 2021, Online (Postponed from 2020)
+ http://fm.csl.sri.com/SSFT21
+CALL FOR PARTICIPATION
+* Techniques based on formal logic, such as model checking, satisfiability, static analysis, and automated theorem proving, are finding a broad range of applications in modeling, analysis, verification, and synthesis. This school, the tenth in the series, will focus on the principles and practice of formal techniques, with a strong emphasis on the hands-on use and development of this technology. It primarily targets graduate students and young researchers who are interested in studying and using formal techniques in their research. A prior background in formal methods is helpful but not required. Participants at the school can expect to have a seriously fun time experimenting with the tools and techniques presented in the lectures during laboratory sessions.
+* The lecturers at  the school include:
+  - Thomas Reps (University of Wisconsin), Algebraic Program Analysis: Automating Abstract Interpretation
+  - Natasha Sharygina (University of Lugano, Switzerland), SMT-streamlined Software Model Checking
+  - Warren A. Hunt, Jr. and J Strother Moore (University of Texas), Proving Properties of Algorithms, Hardware, and Software with ACL2
+  - Jose Meseguer (University of Illinois at Urbana-Champaign), Executable Formal Specification and Verification in Maude
+* The main lectures in the summer school start on Monday May 24 and will be preceded by a background course on logic on Saturday May 22 and Sunday May 23:
+  - Natarajan Shankar (SRI CSL) and Stephane Graham-Lengrand (Ecole Polytechnique) Speaking Logic
+* The summer school also include several distinguished invited talks. 
+* REGISTRATION
+  http://fm.csl.sri.com/SSFT21
+  Those who already registered for the 2020 event need not re-register, and you will be contacted to check if you would like your registration to be processed. Although the summer school is virtual and there is no registration fee, attendance is restricted to registered participants. Attendees who complete the summer school will receive a certificate by mail. 
+  Applications should be submitted together with names of two references (preferably advisors, professors, or senior colleagues).  
+  Applicants are urged to submit their applications before April 30, 2021, since there are only a limited number of spaces available. 
+  -dM Tenth Summer School on Formal Techniques: Apr 30, 2021 (Guideline registration deadline)
+  We strongly encourage the participation of women and under-represented minorities in the summer school.
+
+
+
+
+VCLA Awards 2021: The Vienna Center for Logic and Algorithms of TU Wien Awards for Outstanding Theses and Scientific Works
+  https://logic-cs.at/vcla-international-student-awards-2021
+CALL FOR NOMINATIONS
+* The Vienna Center for Logic and Algorithms of TU Wien (Vienna University of Technology), calls for the nomination of authors of outstanding theses and scientific works in the field of Logic and Computer Science, in the following two categories:
+  -The Outstanding Master Thesis Award:  1200 EUR
+  -The Outstanding Undergraduate Thesis Award: 800 EUR (Bachelor thesis or equivalent, 1st cycle of the Bologna process)
+  The winners will be invited to present their work at an award ceremony in Vienna, if the situation allows
+* The main areas of interest are:
+  -Computational Logic, covering theoretical and mathematical foundations such as proof theory, model theory, computability theory, Boolean satisfiability (SAT), QBF, constraint satisfaction, satisfiability modulo theories, automated deduction (resolution, refutation, theorem proving), non-classical logics (substructural logics, multi-valued logics, deontic logics, modal and temporal logics).
+  -Algorithms and Computational Complexity, including design and analysis of discrete algorithms, complexity analysis, algorithmic lower bounds, parameterized and exact algorithms, decomposition methods, approximation algorithms, randomized algorithms, algorithm engineering, as well as algorithmic game theory, computational social choice, parallel algorithms, graph drawing algorithms, and distributed algorithms.
+  -Databases and Artificial Intelligence, concerned with logical methods for modeling, storing, and drawing inferences from data and knowledge. This includes subjects like query languages based on logical concepts (Datalog, variants of SQL, XML, and SPARQL), novel database-theoretical methods (schema mappings, information extraction and integration), logic programming, knowledge representation and reasoning (ontologies, answer-set programming, belief change, inconsistency handling, argumentation, planning).
+  -Verification, concerned with logical methods and automated tools for reasoning about the behavior and correctness of complex state-based systems such as software and hardware designs as well as hybrid systems. This ranges from model checking, program analysis and abstraction to new interdisciplinary areas such as fault localization, program repair, program synthesis, and the analysis of biological systems.
+* ELIGIBILITY
+ - The degree must have been awarded between November 15th, 2019 and December 31st, 2020 (inclusive)
+ -Submissions already submitted to the VCLA Awards 2020 cannot be re-submitted.
+ -Students who obtained their degree at TU Wien are not eligible.
+* NOMINATION REQUIREMENTS
+  Nominations must include:
+  - A cover page that contains the name and contact details of the nominated person, the title of the work for which the person is being nominated, award category, the date on which the degree was awarded, and the name of the university
+  - An English summary of the thesis of maximum 3 pages, excluding references (A4 or letter page size, 11pt font min). The summary must clearly state the main contribution of the work, its novelty, and its relevance to some of the aforementioned areas of interest
+  - The CV of the nominated person, including publication list (if applicable)
+  - An endorsement letter from a supervisor or another proposing person. The letter must clearly state the independent and novel contribution of the student, and why the proposer believes the student deserves the award. 
+  - The full thesis
+  All documents should be in English, with the exception of the thesis. In case the thesis is in a different language, it must be accompanied by a research report in English of at least 10 pages that should be sufficient for the committee to evaluate the merit and quality of the submitted work. 
+* INSTRUCTIONS FOR SUBMITTING SELF-NOMINATIONS
+   - Nominations should be submitted electronically by the applicants: https://easychair.org/conferences/?conf=vclaawards2021
+   - Submissions consist of two pdf files. The first is a single pdf file containing all documents for the nomination except the full thesis; the documents should appear in the order they are listed above. The second pdf file is the full thesis
+   - The endorsement letter may be provided after the submission deadline, and  may optionally be sent by email by the endorser and omitted from the Easychair submission. In this case, please email the letter as a pdf file, including the name of the nominated person in the subject, to award (AT) logic-cs (DOT) at.
+   - The submission must be accompanied by a plain text electronic abstract of the thesis of at most 400 words, and three keywords. 
+   -  The nominated student must be listed as the only author in the submission form.
+* IMPORTANT DATES (AoE)
+ -dh Submission deadline: April 30, 2021 
+ -dv Notification of decision: After Jul 15, 2021
+ -dv Award ceremony: Depending on the COVID-19 situation
+* CONTACT: award (AT) logic-cs (DOT) at
+   
+
+
+
+
+
+
+
+
+
+FSEN 2021: Ninth International Conference on Fundamentals of Software Engineering 2021 Theory and Practice
+  http://fsen.ir/2021/
+  19 - 21 May, 2021, Virtual Conference
+CALL FOR PARTICIPATION
+* FSEN is an international conference that aims to bring together researchers, engineers, developers, and practitioners from the academia and the industry to present and discuss their research work in the area of formal methods for software engineering.
+* FSEN 2021 will be held online from Wednesday, May 19th to Friday, May 21st, 2021. The three-day event includes three keynote talks and seven sessions as well as a number of social events in the form of a virtual tour along the many beautiful and historical places in Iran. The preliminary conference programme can be found at: http://www.fsen.ir/2021/Programme.aspx
+* REGISTRATION 
+  Attendance is free of charge but requires registration. 
+  -dh Registration deadline: May 01, 2021
+  http://www.fsen.ir/2021/Registration.aspx
+* KEYNOTE SPEAKERS
+ - Marta Kwiatkowska, University of Oxford
+ - Mira Mezini, Technische Universität Darmstadt
+ - Pavol Cerny, Vienna University of Technology 
+
+
+
+VEST 2021: 2nd Workshop on Verification of Session Types
+  Online on July 12, 2021, co-located with ICALP 2021
+  https://sites.google.com/view/vest21/home
+CALL FOR TALKS
+* PRESENTATION
+  The goal of this workshop is to bring together researchers and build and strengthen a community working on verification of session types using various theorem provers such as Agda, Coq, Isabelle or any other.
+  Session types are abstract representations of the sequences of operations that computational entities (such as channels or objects) must perform. Stateful entities offer services in a non-uniform way (one cannot pop from an empty stack); traditional type systems cannot guarantee that operations are only invoked when the entity is in the right state.
+  Large-scale software systems rely on message-passing protocols: their correctness largely depends on sound protocol implementations. Session types can help in the specification of correct-by-construction systems, and in verifying that programs respect their intended protocols.
+  Recent years have seen a steady stream of research on behavioural types: their foundations and their transfer to several programming languages. This has led to highly-cited papers in conferences such as POPL and journals such as TOPLAS. Research projects on behavioural types have advanced the theory and applications of behavioural types.
+  Although the foundations of session types are now well established, and new works build on approaches that have become standard, there is still a lack of reusable libraries, namely machine-verified ones. As on one hand the basis of most works is common, and on the other hand the complexity of the formal systems is considerable and may lead to errors in the proofs of the soundness results, machine verifying the type systems proposed is vital. Libraries, or at least clear formalisations of common approaches, is crucial to avoid not only to repeat work but also to increase the confidence in the knowledge base. Moreover, as many of these systems have a goal to do static analysis to ensure some safety or liveness property, machine verification of these approaches leads to certified software for program analysis.
+  The goal of the VEST workshop is to gather the researchers working on mechanisations of behavioural types using various theorem provers, such as Agda, Coq, Isabelle or any other. The workshop will be a platform to present both the now well-established efforts and the ongoing works the community has put on verification. The workshop will also be a forum to discuss strengths and weaknesses of existing approaches, potential obstacles and to foster collaboration.
+* TYPES OF CONTRIBUTIONS
+  We request two types of research contributions. 
+  - Type 1: Short presentations (1 page) of work published elsewhere;
+  - Type 2: Presentations (2-5 pages) of ongoing original work.
+  Submissions of Type 1 will consist of 1 page papers presenting the work, the publication venue and the significance of the results; the PC will select the submissions with a ranking system. 
+  Submissions of Type 2 will consist of 2 - 5 page papers submitted to a light reviewing process.
+  There will be no proceedings of VEST'21, but rather the aim is to strengthen and further expand our community.
+  Submission Link: https://easychair.org/conferences/?conf=vest21
+* Important Dates AoE (UTC-12h)
+  -dh Talk submission: 3rd May 2021
+  -d Notification: 14th June 2021
+  -d Final version: 5th July 2021
+  -d Workshop: 12th July 2021
+
+
+
+ACM Transactions on Computational Logic:
+  Editor-In-Chief
+CALL FOR NOMINATIONS
+* The term of the current Editor-in-Chief (EiC) of the ACM Transactions on Computational Logic (TOCL http://tocl.acm.org/) is coming to an end, and the ACM Publications Board has set up a nominating committee to assist the Board in selecting the next EiC.
+  Nominations, including self-nominations, are invited for a three-year term as TOCL EiC, beginning on July 1, 2021.  The EiC appointment may be renewed at most one time. This is an entirely voluntary position, but ACM will provide appropriate administrative support.
+
+* Appointed by the ACM Publications Board, Editors-in-Chief (EiCs) of ACM journals are delegated full responsibility for the editorial management of the journal consistent with the journal's charter and general ACM policies. The Board relies on EiCs to ensure that the content of the journal is of high quality and that the editorial review process is both timely and fair. He/she has the final say on acceptance of papers, size of the Editorial Board, and appointment of Associate Editors. A complete list of responsibilities is found in the ACM Volunteer Editors Position Descriptions (http://www.acm.org/publications/policies/position_descriptions). Additional information can be found in the following documents:
+  - Roles and Responsibilities in ACM Publishing 
+    https://www.acm.org/publications/policies/roles-and-responsibilities
+  - ACM's Evaluation Criteria for Editors-in-Chief
+    http://www.acm.org/publications/policies/evaluation/
+  Nominations should include a vita along with a brief statement of why the nominee should be considered. Self-nominations are encouraged and should include a statement of the candidate's vision for the future development of TOCL. The deadline for submitting nominations is May 7, 2021, although nominations will continue to be accepted until the position is filled. 
+  -dM ACM Transactions on Computational Logic: May 07, 2021 (Nominations for Editor-In-Chief)
+* Please send all nominations to the search committee chair, Dale Miller (dale.miller@inria.fr). 
+  The search committee members are:
+  - Dale Miller (Inria & LIX/IPP, France), Chair
+  - Christel Baier (TU Dresden, Germany)
+  - Prakash Panangaden (McGill University, Canada)
+  - Andrew Pitts (University of Cambridge, UK)
+  - Simona Ronchi Della Rocca (University of Turin, Italy)
+  - Adelinde Uhrmacher (University of Rostock, Germany) ACM Pubs Board Liaison
+
+
+
+
+FCT 2021: 23rd International Symposium on Fundamentals of Computation Theory
+  September 12-15, 2021, Athens, Greece
+  https://www.corelab.ntua.gr/fct2021
+  Submission deadline: May 16, 2021
+CALL FOR PAPERS
+* ABOUT FCT
+  The Symposium on Fundamentals of Computation Theory (FCT) was established in 1977 as a forum for researchers interested in all aspects of theoretical computer science, and in particular algorithms, complexity, formal and logical methods. FCT is a biennial series of conferences, previously held in Poland, Germany, Hungary, Sweden, Russia, Romania, Latvia, Norway, United Kingdom, France, and Denmark. The last five Symposia were held in Oslo (2011), Liverpool (2013), Gdansk (2015), Bordeaux (2017), and Copenhagen (2019).
+  FCT 2021 will be hosted by the National Technical University of Athens partially or completely online, depending on the status of the COVID-19 pandemic.
+* IMPORTANT DATES
+  -dh Abstract submission: May 9, 2021 (AoE)
+  -dh Paper submission: May 16, 2021 (AoE)
+  -d Notification to authors: June 28, 2021
+  -d Camera-ready submission: July 6, 2021
+  -dv Symposium: Sep 12-15, 2021
+* SCOPE
+  The program committee is soliciting original and significant research contributions to the fundamentals of computation theory, including (but not limited to):
+  - Algorithms: algorithm design and optimization, data structures, combinatorics and analysis of algorithms, randomized algorithms, approximation algorithms, parameterized and exact algorithms, computational algebra and number theory, computational geometry, parallel algorithms, distributed algorithms and protocols, online algorithms, streaming algorithms, algorithmic game theory, computational foundations of machine learning, computational biology 
+  - Complexity: models of computation, computational complexity, decidability, Boolean/algebraic circuits and functions, randomized computation, derandomization, interactive proofs, computational foundations of cryptography, quantum computation, complexity theory, lower bounds, counting complexity
+  - Formal methods: algebraic and categorical methods, automata and formal languages, database theory, foundations of concurrency and distributed systems, logic and model checking, models of reactive, hybrid, and stochastic systems, principles of programming languages, program analysis and transformation, security, specification, refinement, and verification, type systems, ad hoc, dynamic, and evolving systems, foundations of cloud computing and ubiquitous systems
+* INVITED SPEAKERS
+  - Constantinos Daskalakis, Massachusetts Institute of Technology
+  - Claire Mathieu, CNRS and University of Paris
+  - Nobuko Yoshida, Imperial College London
+* PROCEEDINGS
+  Conference proceedings will be published in the ARCoSS subline of the Springer "Lecture Notes in Computer Science" series.
+* Special Issue
+  Selected papers will be invited to a special issue of the "Journal of Computer and System Sciences", devoted to FCT 2021.
+* AWARDS
+  Awards will be given to the best paper and the best student paper. To be eligible for the best student paper award, at least one of the paper authors must be a full-time student at the time of submission, and the student(s) must have made a significant contribution to the paper.
+* SUBMISSION
+  Authors are invited to submit high-quality manuscripts reporting original  research in the topics related to the symposium. 
+  Manuscripts must be unpublished, not under simultaneous submission to venues with proceedings and accepted papers require one author to present.
+  Max 12 pages (excluding references), LNCS Template, plus an optional, clearly marked appendix of reasonable length (to be read at the program committee's discretion). The first page must include an indication of whether the paper is eligible for the best student paper award.
+  https://easychair.org/conferences/?conf=fct2021
+
+
+RV 2021: 21st INTERNATIONAL CONFERENCE ON RUNTIME VERIFICATION
+  Oct 11-14, 2021, Los Angeles, California, US or Online
+  https://www.cs.bgu.ac.il/~rv21/
+CALL FOR PAPERS
+* Runtime verification is concerned with the monitoring and analysis of the runtime behaviour of software and hardware systems. Runtime verification techniques are crucial for system correctness, reliability, and robustness; they provide an additional level of rigor and effectiveness compared to conventional testing and are generally more practical than exhaustive formal verification. Runtime verification can be used prior to deployment, for testing, verification, and debugging purposes, and after deployment for ensuring reliability, safety, and security and for providing fault containment and recovery as well as online system repair.
+* TOPICS
+  Topics of interest include (but are not limited to): specification languages for monitoring, monitor construction techniques, logging, recording, and replay, combination of static and dynamic analysis, specification mining and machine learning over runtime traces, runtime checking of privacy and security policies, metrics and statistical information gathering, program/system execution visualization, fault localization, containment, recovery and repair, dynamic type checking and assurance cases. 
+* IMPORTANT DATES:  
+  -dh Abstract submission: May 13, 2021
+  -dh Paper submission: May 20, 2021
+  -d Author notification: July 12, 2021
+  -d Camera-ready version: Aug 2, 2021
+* Detailed information can be found on the webpage.
+
+
+
+
+
+
+
+
+
+
+FedCSIS’2021: 16th Conference on Computer Science and Intelligence Systems
+  Online, 2-5 September, 2021 
+  http://fedcsis.org
+  http://easychair.org/conferences/?conf=fedcsis2021
+CALL FOR PAPERS
+* CONFERENCE
+  FedCSIS is an annual international conference, this year organized jointly by the Polish Information Processing Society (PTI), IEEE Poland Section Computer Society Chapter and Bulgarian Academy of Sciences. It is technically sponsored by a number of IEEE units and other professional organizations (for the full list, see the conference site). The mission of the FedCSIS Conference Series is to provide a highly acclaimed forum in computer science and intelligence systems. We invite researchers from around the world to contribute their research results and participate in Technical Sessions, focused on their scientific and professional interests in computer science and intelligence systems.
+  Information about FedCSIS indexing / bibliometry / rankings can be found at: https://www.fedcsis.org/2021/indexation
+  The FedCSIS 2021 consists of five conference Tracks, hosting Technical Sessions: 
+* Track 1:
+  Advanced Artificial Intelligence in Applications (16th Symposium AAIA'21)
+  - Computational Optimization (14th Workshop WCO'21)
+* Track 2:
+  Computer Science & Systems (CSS'21)
+  - Actors, Agents, Assistants, Avatars (1st Workshop 4A'21)
+  - Computer Aspects of Numerical Algorithms (14th Workshop CANA'21)
+  - Multimedia Applications and Processing (14th International Symposium MMAP'21)
+  - Scalable Computing (12th Workshop WSC'21)
+* Track 3:
+  Network Systems and Applications (NSA'21)
+  - Internet of Things - Enablers, Challenges and Applications (5th Workshop IoT-ECAW'21)
+  - Cyber Security, Privacy and Trust (2nd International Forum NEMESIS'21)
+* Track 4:
+  Advances in Information Systems and Technologies (AIST'21)
+  - Data Science in Health, Ecology and Commerce (3rd Special Session DSH'21)
+  - Information Systems Management (16th Conference ISM'21)
+  - Knowledge Acquisition and Management (27th Conference KAM'21)
+* Track 5:
+  Software, System and Service Engineering (S3E'21)
+  - Cyber-Physical Systems (8th Workshop IWCPS-8)
+  - Software Engineering (41th IEEE Workshop SEW-41)
+  - Advances in Programming Languages (8th Workshop WAPL'21)
+* Recent Advances in Information Technology (7th Doctoral Symposium DS–RAIT'21)
+* KEYNOTE SPEAKERS
+  David Bader, Rajkumar Buyya, Hristo Djidjev and Moshe Y. Vardi
+* PAPER SUBMISSION AND PUBLICATION
+ - Papers should be submitted by May 24, 2021 (strict deadline, no extensions): https://easychair.org/conferences/?conf=fedcsis2021
+ - Preprints will be published online.
+ - Most Technical Session organizers arrange quality journals, edited volumes, etc., and may invite selected extended and revised papers for post-conference publications (information can be found at the websites of individual events, or by contacting Chairs of said events).
+* IMPORTANT DATES
+ -dM FedCSIS’2021: May 24, 2021 (Paper)
+ -dv Paper submission: May 24, 2021 (AoE, no extensions)
+ -d Position paper submission: June 14, 2021
+ -d Author notification: July 5, 2021
+ -d Final paper submission and registration: July 26, 2021
+ -dv Conference date: Sep 2-5, 2021
+
+
+CALCO 2021: 9th International Conference on Algebra and Coalgebra in Computer Science 
+  31 Aug - 03 Sep 2021  
+  Salzburg, Austria (if possible) 
+  Co-located with MFPS XXXV 
+  https://www.coalg.org/calco-mfps2021/
+CALL FOR PAPERS
+* SCOPE 
+  Algebraic and coalgebraic methods and tools are a mainstay of computer science. From data types to development techniques and specification formalisms, both theoreticians and practitioners have benefited from the large body of research proposed and implemented since the pioneering works of the 1960s. 
+  CALCO aims to bring together researchers with interests in both foundational and applicative uses of algebra and coalgebra in computer science, traditional as well as emerging ones 
+  CALCO is a high-level, bi-annual conference formed by joining the forces and reputations of CMCS (the International Workshop on Coalgebraic Methods in Computer Science) and WADT (the Workshop on Algebraic Development Techniques). Previous CALCO editions took place in Swansea (Wales, 2005), Bergen (Norway, 2007), Udine (Italy, 2009), Winchester (UK, 2011), Warsaw (Poland, 2013), Nijmegen (the Netherlands, 2015), Ljubljana (Slovenia,2017), and London (UK, 2019). 
+  The 9th edition will be held in Salzburg, Austria, colocated with MFPS XXXVII. 
+* TOPICS OF INTERESTS 
+  All topics relating to algebraic and coalgebraic theory and applications are of interest for CALCO, and among them 
+  - Models and logics: Automata and languages, Graph transformations and term rewriting, Modal logics, Proof systems, Relational systems 
+  - Algebraic and coalgebraic semantics: Abstract data types, Re-engineering techniques (program transformation), Semantics of conceptual modelling methods and techniques, Semantics of programming languages 
+  - Methodologies in software and systems engineering: Development processes, Method integration, Usage guidelines 
+  - Specialised models and calculi: Hybrid, probabilistic, and timed systems, Concurrent, distributed, mobile, cyber-physical, and context-aware computational paradigms, Systems theory and computational models (chemical, biological, etc.) 
+  - System specification and verification: Formal testing and quality assurance, Generative programming and model-driven development, Integration of formal specification techniques, Model-driven development, Specification languages, methods, and environments 
+  - Tools supporting algebraic and coalgebraic methods for: Advances in automated verification, Model checking, Theorem proving, Testing 
+  - String diagrams and network theory: Theory of PROPs and operads, Rewriting problems and higher-dimensional approaches, Automated reasoning with string diagrams, Applications of string diagrams 
+  - Quantum computing: Categorical semantics for quantum computing, Quantum calculi and programming languages, Foundational structures for quantum computing, Applications of quantum algebra 
+* SUBMISSIONS GUIDELINES 
+  https://easychair.org/conferences/?conf=calco2021
+  CALCO invites papers relating to all aspects of algebraic and  coalgebraic theory and applications, and distinguishes between four  categories of submissions. 
+  - Regular papers that report results on theoretical foundations novel methods and techniques for software development experiences with the technology transfer to industry.  Original research, submitted papers must be unpublished and  not submitted for publication elsewhere. Regular papers should be maximum 15 pages long, excluding references. Proofs omitted due to space limitations may be included in a clearly marked appendix. At least three reviewers. For publication in LIPIcs. LMCS Special issue containing extended versions of selected papers is planned. 
+  - (Co)Algebraic Pearls, papers that present possibly known material in a novel and enlightening way: This is a new submission category in 2021. Explaining a known idea in a new way may make as strong a contribution as inventing a new idea. We encourage the submission of pearls: elegant essays that illustrate an idea in a beautiful or didactically clever way, perhaps by developing an application. Pearls are typically short and concise and so should not be longer than regular papers in the format specified by LIPIcs. Authors who feel they need a bit more space should consult with the PC co-chairs. The accepted papers will be included in the final proceedings of the conference. At least two reviewers. 
+  - Early ideas abstracts that lead to presentations of work in progress proposals for original venues of research: Submissions should not exceed 2 pages. The volume of selected abstracts will be made available on arXiv and on the CALCO pages. Authors will retain copyright, and are also encouraged to disseminate the results by subsequent publication elsewhere. At least two reviewers. 
+  - Tool presentation papers that report on the features and uses of algebraic/coalgebra-based tools: should not exceed 5 pages. The accepted tool papers will be included in the final proceedings of the conference. The tools should be made available on the web at the time of submission for download and evaluation. Each submission will be evaluated by at least three reviewers, and one or more of the reviewers will be asked to download and use the tool. 
+  All should use the LIPIcs format.
+* BEST PAPER AND BEST PRESENTATION AWARDS 
+  This edition of CALCO will feature two awards: a Best Paper Award whose  recipients will be selected by the PC before the conference and a Best Presentation Award, elected by the participants. 
+* IMPORTANT DATES
+ -dh Paper submission: 3 June 2021 
+ -d Author notification: 29 July 2021 
+ -d Final version due: 12 August 2021 
+
+
+
+
+EXPRESS/SOS 2021: Combined 28th International Workshop on Expressiveness in Concurrency and 18th Workshop on Structural Operational Semantics
+  http://icetcs.ru.is/express-sos2021/
+  August 23, 2021, Paris (France), or Online (Online participation guaranteed)
+  Affiliated with CONCUR 2021
+CALL FOR PAPERS
+* INVITED SPEAKERS
+ - Amal Ahmed (Northeastern University, USA)
+ - Jan Friso Groote (Eindhoven University of Technology, The Netherlands)
+ - Dave Parker (University of Birmingham, UK)
+* SCOPE AND TOPICS
+  The EXPRESS/SOS workshop series aims at bringing together researcher interested in the formal semantics of systems and programming concepts, and in the expressiveness of computational models.
+  Topics of interest for EXPRESS/SOS 2021 include, but are not limited to:
+  - expressiveness and rigorous comparisons between models of computation (process algebras, event structures, Petri nets, rewrite systems)
+  - expressiveness and rigorous comparisons between programming languages and models (distributed, component-based, object-oriented, service-oriented);
+  - logics for concurrency (modal logics, probabilistic and stochastic logics, temporal logics and resource logics);
+  - analysis techniques for concurrent systems;
+  - theory of structural operational semantics (meta-theory, category-theoretic approaches, congruence results);
+  - comparisons between structural operational semantics and other formal semantic approaches;
+  - applications and case studies of structural operational semantics;
+  - software tools that automate, or are based on, structural operational semantics.
+  We especially welcome contributions bridging the gap between the above topics and neighbouring areas, such as, for instance:
+ - computer security
+ - multi-agent systems
+ - programming languages
+ - formal verification
+ - reversible computation
+ - knowledge representation
+* SUBMISSION GUIDELINES:
+  We invite two types of submissions:
+  - Full papers (up to 15 pages, excluding references).
+  - Short papers (up to 5 pages, excluding references, not included in the workshop proceedings)
+  Submission through EasyChair: https://easychair.org/conferences/?conf=expresssos2021 in EPTCS format (http://www.eptcs.org).
+  Simultaneous submission to journals, conferences or other workshops is only allowed for short papers; full papers must be unpublished. The final versions of accepted full papers will be published in EPTCS. Accepted submission require one co-authors to register to the workshop and give the talk.
+* SPECIAL ISSUE
+  We will consider organising a special issue for EXPRESS/SOS 2021.
+* IMPORTANT DATES
+  -dh Paper submission: June 21, 2021
+  -d Notification date: July 26, 2021
+  -d Camera ready version: August 9, 2021
+  -d Workshop: August 23, 2020
+
+
+
+
