@@ -1,0 +1,255 @@
+-dd May 01, 2021
+
+ -dM FSEN 2021:   	May 01, 2021 (Registration deadline)
+ -dM VEST 2021:   	May 03, 2021 (Talk)
+ -dM ACM Transactions on Computational Logic:   	May 07, 2021 (Nominations for Editor-In-Chief)
+ -dM VCLA Awards 2021:   	May 07, 2021 (Submission deadline, EXTENDED)
+ -dM FCT 2021:   	May 09, 2021 (Abstract), May 16, 2021 (Paper)
+ -dM FORMATS 2021:   	May 10, 2021 (Abstract+Paper EXTENDED)
+ -dM RV 2021:   	May 13, 2021 (Abstract), May 20, 2021 (Paper)
+ -dM FedCSIS’2021:   	May 24, 2021 (Paper)
+ -dM ICGI 2020/21:   	May 25, 2021 (Paper)
+ -dM CALCO 2021:   	Jun 03, 2021 (Paper)
+ -dM EXPRESS/SOS 2021:   	Jun 21, 2021 (Paper)
+ -dM ACKERMANN AWARD 2021:   	Jul 01, 2021 (Deadline for nomination)
+ -dM CSL22:   	Jul 05, 2021 (Abstract), Jul 12, 2021 (Paper)
+
+
+
+
+CompLingInfoReasAI'21: Computational Linguistics, Information, Reasoning, and AI 2021
+  Salamanca, Spain, 6th-8th October, 2021, HYBRID  
+  https://www.dcai-conference.net/special-sessions/clirai
+CALL FOR PAPERS
+* SCOPE:
+  Computational and technological developments that incorporate natural language and reasoning methods are proliferating. Adequate coverage encounters difficult problems related to partiality, underspecification, agents, and context dependency, which are signature features of information in nature, natural languages, and reasoning.
+  The session covers theoretical work, applications, approaches, and techniques for computational models of information, language (artificial, human, or natural in other ways), reasoning. The goal is to promote computational systems and related models of thought, mental states, reasoning, and other cognitive processes.
+* TOPICS:
+  We invite contributions relevant to the following topics, without being limited to them, across approaches, methods, theories, implementations, and applications:
+  - Theorem provers and assistants; Model checkers; Theory of computation; Theory of information; Computational methods of inferences in natural language; Computational theories and systems of reasoning in natural language; Transfer of reasoning in natural language to theorem provers, or vice versa; Transfer of reasoning between natural language, theorem provers, model checkers, and various computational assistants; Computational approaches of computational linguistics for domain specific areas; Theories for applications to language, information processing, reasoning; Type theories for applications to language, information processing, reasoning; Computational grammar; Computational syntax; Computational semantics of natural languages; Computational syntax-semantics interface; Interfaces between morphology, lexicon, syntax, semantics, speech, text, pragmatics; Parsing; Multilingual processing; Large-scale grammars of natural languages; Models of computation and algorithms for linguistics, natural language processing, argumentation; Computational models of partiality, underspecification, and context-dependency; Models of situations, contexts, and agents, for applications to computational linguistics; Information about space and time in language models and processing
+  - Data science in language processing; Machine learning of language and reasoning; Interdisciplinary methods; Integration of formal, computational, model theoretic, graphical, diagrammatic, statistical, and other related methods; Logic for information extraction or expression in written or spoken language; Logic for information integrations of diagrams, with written and / or spoken language
+  - Formal models of argumentations; Interactive computation, reasoning, argumentation; Computation with heterogeneous information; Reasoning with heterogeneous and/or inconsistent information; Dialog, interactions; Interdisciplinary approaches to language, computation, reasoning, memory; Argumentation in AI applications, e.g., to business, economy, justice, health, medical sciences
+  - Language processing based on biological fundamentals of information and languages; Computational neuroscience of language; etc.
+* PAPER SUBMISSION
+  https://www.dcai-conference.net/special-sessions
+  https://www.dcai-conference.net/submission
+  The papers must be PDF format consist of original, relevant, and previously unpublished sound research results related to any of the topics of the Special Session CompLingInfoReasAI'21.
+  DCAI Special Session papers must be formatted according to the Springer AISC Template, with a maximum length of 10 pages in length, including figures and references. 
+* PUBLICATION
+  All accepted, registered, and presented papers will be published by Advances in Intelligent Systems and Computing, AISC, series of Springer Verlag. At least one of the authors of an accepted paper will be required to register and attend the symposium to present the paper in order to include it in the conference proceedings.
+* IMPORTANT DATES
+  -dh Paper submission: 14 May, 2021
+  -d Notification of acceptance: 7 June, 2021
+  -d Camera-Ready papers: 28 June, 2021
+  -dv Conference: Oct 6-8, 2021
+
+
+
+
+
+CiE 2021: Connecting with computability
+  July 5–9, 2021, virtual
+  http://www.CiE2021.ugent.be
+CALL FOR INFORMAL PRESENTATIONS
+* CiE 2021 is the seventeenth conference organized by the Association Computability in Europe. The /Computability in Europe/ conference (CiE) series has built up a  strong tradition for developing a scientific program which is interdisciplinary at its core bringing together all aspects of computability and foundations of computer science, as well as the interplay of these theoretical areas with practical issues in CS and other disciplines such as biology, mathematics, history, philosophy, and physics. For more information about the CiE conferences and the Association  CiE, please have a look at: https://www.acie.eu/.
+  CiE 2021 will be the second CiE conference that is organized as a virtual event and aims at a high-quality meeting that allows and invites active participation from all participants. It will be hosted virtually by Ghent University.
+*  INFORMAL PRESENTATIONS:
+  Continuing the tradition of past CiE conferences, in addition to the formal presentations based on the LNCS proceedings volume, CiE 2021 will host a track of informal presentations, that are prepared very shortly before the conference and inform the participants about current research and work in progress.  The Programme Committee cordially invites all researchers (European and non-European) to submit their abstract for informal presentations. The abstract will be posted on the CiE 2021 website.
+  The deadline for the submission of abstracts for informal presentations is May 15, 2021. Informal presentations proposals should be at most one page PDF, submitted to: https://easychair.org/conferences/?conf=cie2021
+  -dM CiE 2021: May 15, 2021 (Informal presentations)
+  Notification can be expected a few days after the submission deadline
+  Registration for CiE 2021 will be free (opening soon).
+* PLENARY SPEAKERS
+ - Laura Crosilla (University of Oslo, Norway)
+ - Markus Lohrey (Universität Siegen. Germany)
+ - Russell Miller (tutorial speaker, CUNY, US)
+ - Joan Rand Moschovakis (Occidental College, emerita)
+ - Joël Ouaknine (Max Planck Institute for software systems, Germany)
+ - Christine Tasson (tutorial speaker, Université Paris Diderot, France)
+ - Keita Yokoyama (Japan Advanced Institute of Science and Technology, Japan)
+ - Henry Yuen (University of Toronto, Canada)
+* SPECIAL SESSIONS
+ - Church's thesis in constructive mathematics (HaPoC session): Marianna Antonutti-Marfori (Ludwig-Maximilians-Universität München, Germany) and Alberto Naibo (Université Paris 1 Panthéon-Sorbonne)
+ - Classical Computability theory: Open problems and solutions: Noam Greenberg (Victoria University of Wellington, New Zealand) and Steffen Lempp (University of Wisconsin)
+ - Computational geometry: Maike Buchin (Ruhr-Universität Bochum, Germany) and Maarten Löffler (Utrecht University, Netherlands)
+ - Computational Pangenomics: Nadia Pisanti (University of Pisa, Italy) and Solon Pissis (University of Amsterdam, Netherlands)
+ - Proof theory and computation: David Fernández Duque (Ghent University, Belgium) and Juan Pablo Aguilera (Ghent University, Belgium)
+ - Quantum computation and information: Harry Buhrman (Universiteit van Amsterdam, Netherlands) and Frank Verstraete (Ghent University, Belgium)
+* WOMEN IN COMPUTABILITY
+  The Computability in Europe conference series has a long tradition in setting up a Women in Computability program. For CiE 2021 we plan a Women in Computability workshop combined with an online mentoring program. For more details on the Special Interest Group Women in Computability, see: https://www.acie.eu/cie-conference-series/cie-cs-women-in-computability/
+
+
+CAV 2021: Computer-Aided Verification
+  http://i-cav.org/2021/
+CALL FOR STUDENT VOLUNTEERS
+* The CAV 2021 Program for Student Volunteers provides an opportunity for students all around the world to attend and contribute to the 33rd International Conference on Computer-Aided Verification.
+  As a student volunteer, you will be working with peer students and the CAV organizing committee to help organize this year’s virtual conference. More details are described below. If you want to join, please do not hesitate to apply!
+* ELIGIBILITY
+  Applicants must be undergraduate, Master’s, Ph.D., full- or part-time students, studying computer science or related fields. Moreover, we expect applicants to:
+  - Be able to attend at least 3 days of the conference during July 18 to 23, 2021.
+  - Be punctual, responsible, and self-motivated.
+  - Be available for pre-conference work (e.g. checking pre-recorded talks), preparation and/or training.
+  Student volunteers will mainly cover the following tasks during CAV 2021:
+  - Help with conference scheduling.
+  - Check and edit pre-recorded video talks.
+  - Help organize virtual talks and Q&A sessions.
+  - Help manage the conference’s chat channels and other virtual social activities.
+  - Assist with publicity on social media.
+* BENEFITS 
+  As a student volunteer you will get:
+  - Free full registration of CAV 2021 and its associated workshops.
+  - A virtual student volunteers dinner (covered by Uber Eats vouchers)
+  - Chance to meet and network with both researchers and peer students in the field of computer-aided formal verification.
+* APPLICATION
+  -dh Deadline for application for student volunteers: May 16, 2021.
+  -d Notification: May 23, 2021
+  http://i-cav.org/2021/sv-signup. 
+
+
+ETAPS 2022: 25th European Joint Conferences on Theory and Practice of Software 
+  Munich, Germany, April 2-7, 2022
+CALL FOR SATELLITE EVENTS
+* ABOUT ETAPS
+  The European Joint Conferences on Theory and Practice of Software  (ETAPS) is the primary European forum for academic and industrial researchers working on topics relating to Software Science. It is an annual event held in Europe each spring since 1998. Its twenty-fifth edition, ETAPS 2022, will take place April 2-7, 2022, in Munich, Germany. 
+  ETAPS 2022 main conferences, scheduled for April 4-7, are: 
+ - ESOP: European Symposium on Programming 
+ - FASE: Fundamental Approaches to Software Engineering 
+ - FOSSACS: Foundations of Software Science and Computation Structures 
+ - TACAS: Tools and Algorithms for the Construction and Analysis of Systems 
+* SATELLITE EVENTS
+  The ETAPS 2022 organizing committee invites proposals for satellite events (workshops) to complement the main conferences. They should fall within the scope of ETAPS. The topics encompass all aspects of the system development process, including specification, design, implementation, analysis, improvement, the languages, methodologies, and tools that support these activities, covering a spectrum from practically motivated theory to soundly-based practice.
+  Satellite events provide an opportunity to discuss and report on emerging research approaches and practical experience relevant to the theory and practice of software. 
+  ETAPS 2022 satellite events will take place immediately before the main conferences, on April 2-3.
+* ARRANGEMENTS FOR SATELLITE EVENTS
+  The organizers of an ETAPS 2022 satellite are expected to:
+  - create and maintain a website for the event
+  - form a PC, produce a call for papers for the event (if appropriate), 
+  - advertise the event through specialist mailing lists etc. to complement the publicity of ETAPS, 
+  - review the submissions received and make acceptance decisions, 
+  - prepare an informal (pre)proceedings for the event (if appropriate), 
+  - design the event's program complying with any scheduling constraints defined by the ETAPS 2022 organizing committee, 
+  - prepare and organize the publication of formal (post)proceedings (if desired). 
+  As a rule, ETAPS will not contribute toward the travel or accommodation costs of invited speakers or satellite events organizers. 
+* SUBMISSION OF SATELLITE EVENT PROPOSALS
+  Researchers and practitioners wishing to organize satellite events are invited to submit proposals via the following online form (courtesy of Rob van Glabbeek): http://eptcs.web.cse.unsw.edu.au/ETAPS/ 
+  Please see the full call: https://etaps.org/2022/call-workshop-proposals for the responsibilities of the  The ETAPS 2022 organizing committee and the required information.
+  The ETAPS 2022 organizing committee will evaluate the proposals based on their assessed benefit for prospective participants of ETAPS 2022. 
+* FURTHER INFORMATION AND ENQUIRIES
+  Please contact the Etaps'22 workshop chair Dirk Beyer dirk.beyer@lmu.de or the general chair Jan Kretinsky jan.kretinsky@tum.de
+* IMPORTANT DATES
+  -dh Satellite event proposals deadline: May 31, 2021 
+  -d Notification of acceptance: June 10, 2021
+
+
+
+
+HIGHLIGHTS 2021: 9th annual conference on Highlights of LOGIC, GAMES, and AUTOMATA
+  15-17 September 2021, Aachen (but most probably online)
+  http://highlights-conference.org
+CALL FOR CONTRIBUTED TALKS
+* HIGHLIGHTS 2021 is the 9th conference on Highlights of Logic, Games, and Automata that aims to integrate the diverse research community working in the areas of Logic, Finite Model Theory, Automata Theory, Games and Verification. Individual papers are dispersed across many conferences, which makes them challenging to follow. Participating in the annual Highlights conference offers a wide picture of the latest research in the field and a chance to meet and interact with most of the members of the research community. The speakers are encouraged to present their best recent work at Highlights, whether already published elsewhere or not. We invite submissions for contributed talks (around 10 minutes).
+  There will be a tutorial day (14 September) and three days for the conference (15-17 September). 
+  This year's edition will be most probably held online, with no registration fees.
+* Submission instructions and more detailed information about the conference to be found at http://highlights-conference.org
+* TUTORIALS (September 14)
+  - Christoph Haase
+  - Michał Pilipczuk
+* KEYNOTES
+  - Rajeev Alur
+  - Balder ten Cate
+  - Karoliina Lehtinen
+  - Nutan Limaye
+  - Joel Ouaknine
+* IMPORTANT DATES:
+  -dh Submission deadline (7pm GMT): JUNE 4, 2021 
+  -d Notification (7pm GMT): JUNE 18, 2021 
+
+
+
+
+
+
+
+
+
+
+
+
+PODS 2022: 41st ACM SYMPOSIUM ON PRINCIPLES OF DATABASE SYSTEMS
+  https://databasetheory.org/node/125
+CALL FOR PAPERS
+* SCOPE: PODS seeks high-quality scientific articles that present principled contributions to modeling, application, system building, and both theoretical and experimental validation in the context of data management. Such articles might be based, among others, on establishing theoretical results, developing new concepts and frameworks that deserve further exploration, providing experimental work that sheds light on the scientific foundations of the discipline, or a rigorous analysis of both widely used and recently developed industry artifacts. 
+* TOPICS OF INTEREST: Topics that fit the interests of the symposium include, but are not limited to, database design (data models, query languages, schemas, constraints), database access (data structures, access methods, concurrency, transactions), data quality (data cleaning, data discovery, data exploration), database processing (query evaluation, query optimization, schema management, distributed data processing, approximate data processing), data analysis (data mining, machine learning, information extraction, data streams), uncertainty (incompleteness, inconsistency, ontological query answering, semi-structured data), interoperability (mappings and views, data integration, data exchange, ontology-based data access, responsible data management (access control, privacy, security, verification, ethical aspects of data management), dynamics of  data (workflows, data-centric process management, web services, data provenance, incremental query evaluation)
+* IMPORTANT DATES: 
+  Dates for the first submission cycle are as follows. 
+  -dh First cycle abstract submission: June 11, 2021
+  -dh Full paper submission: June 18, 2021
+  -d Reviews sent to authors: July 31, 2021
+  -dv Rebuttal phase: Aug 1-5, 2021
+  -d Notification: August 13, 2021 
+
+
+
+
+
+
+ESSLLI 2022: 33rd European Summer School in Logic, Language and Information 
+  8-19 August, 2022, Galway, Ireland
+  https://2022.esslli.eu/
+CALL FOR COURSE AND WORKSHOP PROPOSALS
+ * Under the auspices of the Association for Logic, Language, and Information (FoLLI), the European Summer School in Logic, Language, and Information (ESSLLI) runs every year. Except for 2021, where the school will be virtual, it runs in a different European country each year. It takes place over two weeks in the summer, hosts approximately 50 different courses at both introductory and advanced levels, and attracts around 400 participants from all over the world.
+  Since 1989, ESSLLI has been providing outstanding interdisciplinary educational opportunities in the fields of Computer Science, Cognitive Science, Linguistics, Logic, Philosophy, and beyond. It comes from a community which recognizes that advances in our common areas require the contributions of multiple interrelated disciplines.
+  The main focus of ESSLLI is the interface between linguistics, logic and computation, with special emphasis in human linguistic and cognitive ability. Courses, both introductory and advanced, cover a wide variety of topics within the combined areas of interest: Logic and Computation, Computation and Language, and Language and Logic. Workshops are also organized, providing opportunities for in-depth discussion of issues at the forefront of research, as well as a series of invited evening lectures.
+* TOPICS AND FORMAT 
+  Proposals for courses and workshops at ESSLLI 2022 are invited in all areas of Logic, Linguistics and Computer Sciences. Cross-disciplinary and innovative topics are particularly encouraged.
+  Each course and workshop will consist of five 90 minute sessions, offered daily (Monday-Friday) in a single week. Proposals for two-week courses should be structured and submitted as two independent one-week courses, e.g. as an introductory course followed by an advanced one. In such cases, the ESSLLI program committee reserves the right to accept just one of the two proposals.
+  All instructional and organizational work at ESSLLI is performed completely on a voluntary basis, so as to keep participation fees to a minimum. However, organizers and instructors have their registration fees waived, and are reimbursed for travel and accommodation expenses up to a level to be determined and communicated with the proposal notification. ESSLLI can only guarantee reimbursement for at most one course/workshop organizer, and can not guarantee full reimbursement of travel costs for lecturers or organizers from outside of Europe. The ESSLLI organizers would appreciate any help in controlling the School's expenses by seeking partial or complete coverage of travel and accommodation expenses from other sources.
+* CATEGORIES: each proposal should fall under one of the following categories.
+  - FOUNDATIONAL COURSES: Such courses are designed to present the basics of a research area, to people with no prior knowledge in that area. They should be of elementary level, without prerequisites in the course's topic, though possibly assuming a level of general scientific maturity in the relevant discipline. They should enable researchers from related disciplines to develop a level of comfort with the fundamental concepts and techniques of the course's topic, thereby contributing to the interdisciplinary nature of our research community.
+  - INTRODUCTORY COURSES: Introductory courses are central to ESSLLI's mission. They are intended to introduce a research field to students, young researchers, and other non-specialists, and to foster a sound understanding of its basic methods and techniques. Such courses should enable researchers from related disciplines to develop some comfort and competence in the topic considered. Introductory courses in a cross-disciplinary area may presuppose general knowledge of the related disciplines.
+  - ADVANCED COURSES: Advanced courses are targeted primarily to graduate students who wish to acquire a level of comfort and understanding in the current research of a field.
+  - WORKSHOPS: Workshops focus on specialized topics, usually of current interest. Workshop organizers are responsible for soliciting papers and selecting the workshop program. They are also responsible for publishing proceedings if they decide to have proceedings. 
+ * PROPOSAL GUIDELINES
+  Course and workshop proposals should closely follow these guidelines to  ensure full consideration.
+   Course and Workshop proposals can be submitted by no more than two lecturers/organizers and they are presented by no more than these two lecturers/organizers. All instructors and organizers must possess a PhD or equivalent degree by the submission deadline.
+  Course proposals should mention explicitly the intended course category. Proposals for introductory courses should indicate the intended level, for example as it relates to standard textbooks and monographs in the area. Proposals for advanced courses should specify the prerequisites in detail. 
+  Proposals of Courses given at ESSLLI the previous year will have a lower priority of being accepted in the current year. Proposals must be submitted in PDF format via: https://easychair.org/conferences/?conf=esslli2022 and include all of the following:
+  - Personal information for each proposer: Name, affiliation, contact address, email, homepage (optional)
+  - General proposal information: Title, category
+  - Contents information: Abstract of up to 150 words, Motivation and description (up to two pages), Tentative outline, Expected level and prerequisites, Appropriate references (e.g. textbooks, monographs, proceedings, surveys)
+  - Information on the proposer and course: Will your course appeal to students outside of the main discipline of the course? Include information on your experience in the intensive one-week interdisciplinary setting Include evidence that the course proposer is an excellent lecturer.
+  - Information from workshop organizers: Include information on relevant preceding meetings and events, if  applicable Include information about potential external funding for participants.
+* SUBMISSION INFORMATION 
+  - By June 15: You are asked to submit in EasyChair at least the name(s) of the instructor(s),  the ESSLLI area+course level and a short abstract.
+  - By June 22: Your submission must be completed by uploading a PDF with the actual proposal  as detailed above.
+* CHILDCARE:  If there is enough interest, ESSLLI will provide information on private child care services available during the summer school.
+* EACSL SPONSORSHIP 
+  The EACSL will support one Logic and Computation course or workshop addressing topics of interest to Computer Science Logic (CSL) conferences. The selected course or workshop will be designated an EACSL course/workshop in the programme. If you wish to be considered for this, please indicate so in your proposal.
+* IMPORTANT DATES:
+ -dh Course Title submission: 15 June 2021
+ -dh Final submission : 22 June 2021
+ -d  Notification: 14 September 2021
+
+
+
+Professor (W2) in “Knowledge Based Systems” at TU Dortmund University
+JOB ANNOUNCEMENT
+* The Department of Computer Science at TU Dortmund University is seeking to fill the position of a Professor (W2) in “Knowledge Based Systems” commencing as soon as possible. The successful candidate will specialize in research and teaching in the field of “Knowledge Based Systems”. TU Dortmund University is seeking an outstanding individual and well established researcher in the field of “Knowledge Based Systems” with a focus on Knowledge Representation and Reasoning and with relevant international publications in recognized venues with peer-review. Applicants should complement the research activities of the Department of Computer Science and contribute to interdisciplinary collaborative research projects within and outside TU Dortmund University.
+  An appropriate contribution to the department’s core curriculum, especially in the area of logic is required, in the medium term also in German. The successful candidate will possess social and leadership skills and be willing to be involved in academic self-governance. Preconditions for employment are specified in § 36 and § 37 HG NRW (law governing universities in North-Rhine Westphalia).
+* With 6,500 employees in research, teaching and administration and its unique profile, TU Dortmund University shapes prospects for the future: the interaction between engineering and natural sciences as well as social and cultural studies drives both technological innovations and progress in knowledge and methodology. It is not only the roughly 33,400 students who benefit from this. The Department of Computer Science at TU Dortmund University is one of the largest in Germany, with particular strengths in research. Among similar institutions it is distinguished by a combination of fundamental research on formal methods with the development of practical applications.Research focuses on Algorithmics, Data Science, Cyber-Physical Systems, and Software and Service Engineering.
+* TU Dortmund University strives to increase the number of women in academic research and teaching and therefore explicitly encourages women to apply. TU Dortmund University is an equal opportunity employer and gives preference to candidates with disabilities if equally qualified. TU Dortmund University supports the compatibility of work and family life and promotes gender equality in science.
+* Please send your application, including the usual documents (CV, list of publications, certificates, etc.) preferably by e-mail (in one pdf-file) to the following address by 05.05.2021:
+  Dean of the Department of Computer Science, Professor Dr.-Ing. Gernot A. Fink
+  TU Dortmund University
+  44221 Dortmund – Germany
+  tel: 0049-231/755-6151
+  fax: 0049-231/755-6116
+  e-mail: bewerbung@cs.tu-dortmund.de
+  http://www.cs.tu-dortmund.de/
+  Questions can be also addressed to thomas.schwentick@tu-dortmund.de.
+* FULL ADVERT
+  https://service.tu-dortmund.de/documents/18/2120803/Professor+W2+in+Knowledge+Based+Systems.pdf/b887f51b-8ba1-16bf-1aa7-3d7907e84d54
+-dM Professor (W2) TU Dortmund: May 5, 2021 (Application deadline)
+
+
+
