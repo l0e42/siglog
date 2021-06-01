@@ -42,7 +42,7 @@ def process(item):
 
 def text(item):
 	txt =  item['text']
-	txt = re.sub(r"http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+([a-zA-Z]|[0-9]|\/)+",  '<a href=\"\g<0>\">\g<0></a>',txt)	
+	txt = re.sub(r"http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+~]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+([a-zA-Z]|[0-9]|\/)+",  '<a href=\"\g<0>\">\g<0></a>',txt)	
 	return txt
 
 def info(item):
@@ -68,7 +68,7 @@ def dates(item):
 
 def date(item):
 	txt = ""
-	txt += "<td>" + item['name'] + ": &nbsp; </td>"
+	txt += "<td>" + item['name'] + ": </td>"
 	txt += "<td>" + item['date'] + "</td>"
 	return txt
 
