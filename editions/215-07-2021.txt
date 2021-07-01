@@ -1,0 +1,257 @@
+-dd July 01, 2021
+
+
+ -dM ACKERMANN AWARD 2021: 	Jul 01, 2021 (Deadline for nomination)
+ -dM CSL 2022: 	Jul 05, 2021 (Abstract), Jul 12, 2021 (Paper)
+ -dM OVERLAY 2021: 	Jul 11, 2021 (Paper)
+ -dM RW 2021: 	Aug 25, 2021 (Registration closes)
+ -dM CCC 2021: 	Aug 30, 2021 (Deadline)
+ -dM NMR-2021:  Jul 2, 2021 (Paper registration, Extended), Jul 7, 2021 (Paper, Extended)
+ -dM CPSIoTSec 2021:  Jul 13, 2021 (Submission deadline, Extended), Jul 30, 2021 (Submission deadline only for papers rejected from ACM CCS 2021)
+
+
+
+
+XLoKR 2021: 2nd Workshop on Explainable Logic-Based Knowledge Representation (XLoKR 2021) 
+  co-located with KR 2021 https://kr2021.kbsg.rwth-aachen.de
+  6-8 November 2021 (exact date(s) TBD), Hanoi, Vietnam (virtually) 
+  https://xlokr21.ai.vub.ac.be/ 
+CALL FOR PAPERS
+*  Embedded or cyber-physical systems that interact autonomously with the real world, or with users they are supposed to support, must continuously make decisions based on sensor data, user input, knowledge they have acquired during runtime as well as knowledge provided during design-time. To make the behavior of such systems comprehensible, they need to be able to explain their decisions to the user or, after something has gone wrong, to an accident investigator.
+  While systems that use Machine Learning (ML) to interpret sensor data are very fast and usually quite accurate, their decisions are notoriously hard to explain, though huge efforts are currently being made to overcome this problem. In contrast, decisions made by reasoning about symbolically represented knowledge are in principle easy to explain. For example, if the knowledge is represented in (some fragment of) first-order logic, and a decision is made based on the result of a first-order reasoning process, then one can in principle use a formal proof in an appropriate calculus to explain a positive reasoning result, and a counter-model to explain a negative one. In practice, however, things are not so easy also in the symbolic KR setting. For example, proofs and counter-models may be very large, and thus it may be hard to comprehend why they demonstrate a positive or negative reasoning result, in particular for users that are not experts in logic. Thus, to leverage explainability as an advantage of symbolic KR over ML-based approaches, one needs to ensure that explanations can really be given in a way that is comprehensible to different classes of users (from knowledge engineers to laypersons). 
+  The problem of explaining why a consequence does or does not follow from a given set of axioms has been considered for full first-order theorem proving since at least 40 years, but there usually with mathematicians as users in mind. In knowledge representation and reasoning, efforts in this direction are more recent, and were usually restricted to sub-areas of KR such as AI planning and description logics. The purpose of this workshop is to bring together researchers from different sub-areas of KR and automated deduction that are working on explainability in their respective fields, with the goal of exchanging experiences and approaches. A non-exhaustive list of areas to be covered by the workshop are the following: * AI planning * Answer set programming * Argumentation frameworks * Automated reasoning * Causal reasoning * Constraint programming * Description logics * Non-monotonic reasoning * Probabilistic representation and reasoning 
+* INVITED SPEAKERS
+  Sheila McIlraith and Joe Halpern will deliver the keynotes at the workshop. 
+* IMPORTANT DATES  
+ -dh Paper submission: July 2, 2021 
+ -d Notification: August 6, 2021
+ -dv Workshop dates (exact date TBD): Nov 6-8, 2021 
+*  SUBMISSION INFORMATION
+  Researchers interested in participating in the workshop should submit extended abstracts of 2-5 pages in Springer LNCS Style on topics related to explanation in logic-based KR: https://easychair.org/conferences/?conf=xlokr21. 
+  The workshop will have informal proceedings, and thus, in addition to new work, also papers covering results that have recently been published or will be published at other venues are welcome. 
+                
+                
+FSCD 2021: Sixth International Conference on Formal Structures for Computation and Deduction
+  July 17 – July 24, 2021, Buenos Aires, Argentina
+  https://fscd2021.github.io/
+  In-cooperation with ACM SIGLOG and SIGPLAN
+CALL FOR PARTICIPATION
+* The 2021 edition of FSCD and of its satellite workshops will be held online. Participation will, a priori, be free of charge, unless we receive way too many requests, in which case we will invite those who can to pay the modest amount of 7 USD.
+  FSCD covers all aspects of formal structures for computation and deduction from theoretical foundations to applications. Building on two communities, RTA (Rewriting Techniques and Applications) and TLCA (Typed Lambda Calculi and Applications), FSCD embraces their core topics and broadens their scope to closely related areas in logics, models of computation (e.g., quantum computing, probabilistic computing, homotopy type theory), semantics and verification in new challenging areas (e.g., blockchain protocols or deep learning algorithms).
+* REGISTRATION 
+  Open at: https://fscd2021.dc.uba.ar/registration.html
+  This link should be used also to register for affiliated workshops.
+  -dh Registration deadline: Jul 11, 2021
+  FSCD 2021 will run over the Clowdr platform. After the registration is closed, you will receive an invitation link and instructions on how to participate.
+* INVITED SPEAKERS  
+  - Zena M. Ariola https://ix.cs.uoregon.edu/~ariola/ 
+  - Nao Hirokawa https://www.jaist.ac.jp/~hirokawa/ 
+  - Elaine Pimentel https://sites.google.com/site/elainepimentel/ 
+  - Sam Staton https://www.cs.ox.ac.uk/people/samuel.staton/main.html
+* FSCD AFFILIATED WORKSHOPS:  
+ - HoTT/UF (6th Workshop on Homotopy Type Theory/Univalent Foundations, July 17-18) 
+ - ITRS (10th Workshop on Intersection Types and Related Systems, July 17) 
+ - WPTE (7th International Workshop on Rewriting Techniques for Program Transformations and Evaluation, July 18) 
+ - UNIF (35th International Workshop on Unification, July 18) 
+ - LSFA (16th Logical and Semantics Frameworks with Applications, July 23-24) 
+ - IWC (10th International Workshop on Confluence, July 23) 
+ - IFIP WG 1.6 (24th meeting of the IFIP Working Group 1.6: Rewriting, July 24)
+
+
+
+
+
+SPIN 2021: International Symposium on Model Checking of Software
+  July 12, 2021, 9:50 to 18:15 CEST
+  ONLINE EVENT
+  https://conf.researchr.org/home/spin-2021
+CALL FOR PARTICIPATION
+* ABOUT SPIN
+  The 27th edition of the SPIN symposium aims at bringing together researchers and practitioners interested in automated tool-based techniques for the analysis of software as well as models of software, for the purpose of verification and validation. The symposium specifically focuses on concurrent software but does not exclude the analysis of sequential software. Submissions are solicited on theoretical results, novel algorithms (classical and quantum), tool development, including for modern hardware (parallel and distributed), and empirical evaluation.
+* REGISTRATION
+  Registration is free. In order to receive the event links, sign up here: https://conf.researchr.org/home/spin-2021#Registration
+* INVITED SPEAKERS 
+  - Vincenzo Ciancia, ISTI-CNR 
+  - Mariëlle Stoelinga, Twente / Radboud University 
+  - Moshe Vardi, Rice University
+
+FMM 2021: Fifth Workshop on Formal Mathematics for Mathematicians
+  26-31 July 2021 (exact date TBA) Timisoara, Romania (hybrid or fully virtual) https://cicm-conference.org/2021/cicm.php?event=fmm  
+  Co-located with 14th Conference on Intelligent Computer Mathematics (CICM 2021) https://cicm-conference.org/2021/cicm.php
+CALL FOR PAPERS
+* DATES
+ -dh Paper submission: 14 July 2021 
+ -d Author notification: 21 July 2021 
+ -d Final version due: 25 July 2021 
+* SCOPE
+  The FMM workshop series enables mathematicians interested in computer assistance and researchers in formal and computer-understandable mathematics to meet and exchange ideas. The meeting provides a platform for discussion of suitable forms of computer assistance between the formal community and interested mathematicians and other researchers.
+  The main points of interest include: 
+  - formalization of challenging mathematical problems   
+  - design of proof languages and techniques   
+  - repositories of formalized mathematics   
+  - interactive and automated theorem proving   
+  - development of proof assistants   
+  - semantic representation of mathematical knowledge   
+  - formal tools in program verification   
+  - foundations and philosophy of mathematics   
+  - proof assistants in education 
+* INVITED SPEAKERS 
+  Mario Carneiro (Carnegie Mellon University, USA) Manuel Eberl (Technical University of Munich, Germany) 
+* SUBMISSION GUIDELINES
+ https://easychair.org/conferences/?conf=cicm2021 and choose FMM. 
+ We welcome submission of short papers presenting research related to the workshop's points of interest. Submitted papers should be 4-6 pages long and formatted in LaTeX using the style "onecolceurws" (see http://ceur-ws.org/Vol-XXX/samplestyles/).
+ Submission is continuous until 14 July 2021 AoE. At least one author of each accepted paper is expected to attend FMM and present the work (online or in person). We plan to publish electronic proceedings in the CEUR Workshop Proceedings series. 
+
+
+FSTTCS 2021: Foundations of Software Technology and Theoretical Computer Science
+  December 15 - 18, 2021
+  Virtual Conference
+  https://www.fsttcs.org.in/2021/
+CALL FOR PAPERS
+* FSTTCS 2021 is the 41’st conference on Foundations of Software Technology and Theoretical Computer Science. It is organised by IARCS, the Indian Association for Research in Computing Science. It is a forum for presenting original results in foundational aspects of Computer Science and Software Technology.
+* LIST OF TOPICS
+  Track A
+  - Algebraic Complexity
+  - Algorithms and Data Structures
+  - Algorithmic Graph Theory and Combinatorics
+  - Approximation Algorithms
+  - Combinatorial Optimization
+  - Communication Complexity
+  - Computational Biology
+  - Computational Complexity
+  - Computational Geometry
+  - Computational Learning Theory
+  - Cryptography and Security
+  - Data Streaming and Sublinear algorithms
+  - Economics and Computation
+  - Parallel, Distributed and Online Algorithms
+  - Parameterized Complexity
+  - Proof Complexity
+  - Quantum Computing
+  - Randomness in Computing
+  - Theoretical Aspects of Mobile and High-Performance Computing
+  Track B
+  - Automata, Games and Formal Languages
+  - Logic in Computer Science
+  - Modal and Temporal Logics
+  - Models of Concurrent, Distributed and Mobile Systems
+  - Models of Timed, Reactive, Hybrid and Stochastic Systems
+  - Model Theory
+  - Principles and Semantics of Programming Languages
+  - Program Analysis and Transformation
+  - Security Protocols
+  - Specification, Verification and Synthesis
+  - Theorem Proving and Decision Procedures
+* INVITED SPEAKERS
+  - Scott Aaronson (University of Texas, Austin)
+  - Javier Esparza (TU Munich)
+  - Leslie Ann Goldberg (University of Oxford)
+  - Huijia (Rachel) Lin (University of Washington)
+  - Rahul Savani (University of Liverpool)
+* WORKSHOPS AND CO-LOCATED EVENTS
+  See conference website for the most recent information. We invite researchers interested in holding a workshop or co-located event to contact the PC Chairs.
+* SUBMISSION GUIDELINES
+  https://easychair.org/conferences/?conf=fsttcs2021
+  LIPIcs LaTeX style, 12 pages excluding bibliography but may include a clearly marked appendix containing technical details. The appendix will be read only at the discretion of the program committee. Simultaneous submissions to journals or other conferences with published proceedings are disallowed. Accepted papers published in LIPIcs (open access CC-BY) subject to one author presenting the paper at the conference.
+* IMPORTANT DATES (AoE)
+  -dh Submission deadline (firm): July 19, 2021 
+  -dv Rebuttal phase:  Aug 30 - Sept 1, 2021 
+  -d Notification to authors: September 20, 2021
+  -d Deadline for camera-ready papers: October 4, 2021
+  -d Pre-conference workshops: December 14, 2021
+  -dv FSTTCS 2021: December 15–17, 2021
+  -d Post-conference workshops: December 18, 2021
+
+
+
+CPP 2022: Certified Programs and Proofs
+  16-18 January 2022
+  Co-located with POPL 2022 in Philadelphia, Pennsylvania, United States
+  https://popl22.sigplan.org/home/CPP-2022
+CALL FOR PAPERS
+* Certified Programs and Proofs (CPP) is an international conference on practical and theoretical topics in all areas that consider formal verification and certification as an essential paradigm for their work. CPP spans areas of computer science, mathematics, logic, and education.
+  CPP 2022 is sponsored by ACM SIGPLAN, in cooperation with ACM SIGLOG.
+  CPP 2022 will welcome contributions from all members of the community. The CPP 2022 organizers will strive to enable both in-person and remote participation, in cooperation with the POPL 2022 organizers. 
+* IMPORTANT DATES (AoE, strict)
+  -dh Abstract Submission Deadline: 16 September 2021 
+  -d Paper Submission Deadline: 22 September 2021 
+  -d Notification (tentative): 22 November 2021 
+  -d Camera Ready Deadline (tentative): 12 December 2021 
+  -dv Conference: Jan 16-18 2022
+* DISTINGUISHED PAPER AWARDS
+  Around 10% of the accepted papers at CPP 2022 will be designated as Distinguished Papers. This award highlights papers that the CPP program committee thinks should be read by a broad audience due to their relevance, originality, significance and clarity.
+* TOPICS OF INTEREST
+  We welcome submissions in research areas related to formal certification of programs and proofs. The following is a non-exhaustive list of topics of interest to CPP: 
+  - certified or certifying programming, compilation, linking, OS kernels, runtime systems, security monitors, and hardware; 
+  - certified mathematical libraries and mathematical theorems; 
+  - proof assistants (e.g, ACL2, Agda, Coq, Dafny, F*, HOL4, HOL Light, Idris, Isabelle, Lean, Mizar, Nuprl, PVS, etc); 
+  - new languages and tools for certified programming; 
+  - program analysis, program verification, and program synthesis; 
+  - program logics, type systems, and semantics for certified code; 
+  - logics for certifying concurrent and distributed systems; 
+  - mechanized metatheory, formalized programming language semantics, and logical frameworks; 
+  - higher-order logics, dependent type theory, proof theory, logical systems, separation logics, and logics for security; 
+  - verification of correctness and security properties; 
+  - formally verified blockchains and smart contracts; 
+  - certificates for decision procedures, including linear algebra, polynomial systems, SAT, SMT, and unification in algebras of interest; 
+  - certificates for semi-decision procedures, including equality, first-order logic, and higher-order unification; 
+  - certificates for program termination; 
+  - formal models of computation; 
+  - mechanized (un)decidability and computational complexity proofs; 
+  - formally certified methods for induction and coinduction; 
+  - integration of interactive and automated provers; 
+  - logical foundations of proof assistants; 
+  - applications of AI and machine learning to formal certification; 
+  - user interfaces for proof assistants and theorem provers; 
+  - teaching mathematics and computer science with proof assistants.
+* SUBMISSION GUIDELINES
+   Anonymized, English, ACM SIGPLAN (acmart sigplan option), PDF:  https://cpp2022.hotcrp.com
+   Must provide sufficient detail to allow the program committee to assess the merits of the contribution. 
+   Max 12 pages (excluding bibliography and appendices). The papers should be self-contained without the appendices. Shorter papers are welcome and will be given equal consideration.
+   Please see full CFP for full double-blind reviewing process, concurrent submissions, plagiarism, publications, copyright and open access.
+
+
+
+
+FLoC 2022: The 2022 Federated Logic Conference
+  July 31 - August 12, 2022
+  Haifa, Israel
+  http://www.floc2022.org/
+CALL FOR WORKSHOPS
+* The Eighth Federated Logic Conference (FLoC 2022) will host the following ten conferences and affiliated workshops.
+  - LICS (37th Annual ACM/IEEE Symposium on Logic in Computer Science)  http://lics.rwth-aachen.de/ Workshop chair: Frederic Blanqui Frederic.Blanqui@inria.fr
+  - FSCD (7th International Conference on Formal Structures for Computation and Deduction)  http://fscd-conference.org/ Workshop chair: Nachum Dershowitz nachumd@tau.ac.il
+  - ITP (13th International Conference on Interactive Theorem Proving)  https://itp-conference.github.io/ Workshop chair: Cyril Cohen cyril.cohen@inria.fr
+  - IJCAR (International Joint Conference on Automated Reasoning) http://www.ijcar.org Workshop chair: Simon Robillard simon.robillard@imt-atlantique.fr
+  - CSF (35th IEEE Computer Security Foundations Symposium)  http://www.ieee-security.org/CSFWweb/ Workshop chair: Musard Balliu musard@kth.se
+  - CAV (34th International Conference on Computer Aided Verification) http://i-cav.org/ Workshop chair: TBD
+  - KR (19th International Conference on Principles of Knowledge Representation and Reasoning) http://www.kr.org/ Workshop chair: Stefan Borgwardt stefan.borgwardt@tu-dresden.de
+  - ICLP (38th International Conference on Logic Programming)  https://www.cs.nmsu.edu/ALP/conferences/ Workshop chair: Daniela Inclezan inclezd@miamioh.edu
+  - SAT (25th International Conference on Theory and Applications of Satisfiability Testing)  http://www.satisfiability.org Workshop chair: TBD
+  - CP (25th International Conference on Principles and Practice of Constraint Programming)  http://a4cp.org/events/cp-conference-series Workshop chair: TBD
+* SUBMISSION OF WORKSHOP PROPOSALS
+  Researchers and practitioners are invited to submit proposals for workshops on topics in the field of computer science, related to logic in the broad sense. Each workshop proposal must indicate one affiliated conference of FLoC 2022.
+  It is strongly suggested that prospective workshop organizers contact the relevant conference workshop chair before submitting a proposal.
+  Each proposal should consist of the following two parts.
+  1) A short scientific justification of the proposed topic, its significance, and the particular benefits of the workshop to the community, as well as a list of previous or related workshops (if relevant). 
+  2) An organisational part including:
+  - contact information for the workshop organizers; 
+  - proposed affiliated conference; 
+  - estimate of the number of workshop participants (please note that small workshops, i.e., of less than ~13 participants, will likely be cancelled or merged); 
+  - proposed format and agenda (e.g. paper presentations, tutorials, demo sessions, etc.); 
+  - potential invited speakers; 
+  - procedures for selecting papers and participants; 
+  - plans for dissemination, if any (e.g. a journal special issue); 
+  - duration (which may vary from one day to two days); 
+  - preferred period (pre or post FLoC); 
+  - virtual/hybrid backup plans (including platform preference). 
+  The FLoC Organizing Committee will determine the final list of accepted workshops based on the recommendations from the Workshop Chairs of the hosting conferences and availability of space and facilities.
+  Proposals should be submitted through EasyChair: https://easychair.org/conferences/?conf=floc2022workshops
+* IMPORTANT DATES
+  -dh Submission of workshop proposals deadline: September 27, 2021 
+  -d Notification: November 1, 2021 
+  -dv Pre-FLoC workshops: Jul 31–Aug 1, 2022 
+  -dv Post-FLoC workshops: Aug 11-12, 2022
+* CONTACT INFORMATION
+  Questions regarding proposals should be sent to the workshop chairs of the proposed affiliated conference. General questions should be sent to: shaull@technion.ac.il GuillermoAlberto.Perez@uantwerpen.be
+

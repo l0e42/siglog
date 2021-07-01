@@ -48,7 +48,7 @@ def format(item):
 
 def repl(match):
 	obj = match.group(0)
-	urlify = obj#.replace("_","\\_")
+	urlify = obj.replace("#","\\#")
 	other = obj.replace("_",":UNDERSCORE:")
 	return  "\\href{" + other+ "}{" + urlify+ "}"
 
@@ -59,7 +59,7 @@ def text(item):
 	txt = txt.replace("}","\\}")
 	txt = txt.replace("\\textbackslash","\\textbackslash{}")
 	
-	txt = re.sub(r"http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+([a-zA-Z]|[0-9]|\/)+", repl,txt)	
+	txt = re.sub(r"http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+#]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+([a-zA-Z]|[0-9]|\/)+", repl,txt)	
 	txt = re.sub(r"\"(.*?)\"","``\\g<1>''",txt)
 	return format(txt).replace(":UNDERSCORE:","_")
 
