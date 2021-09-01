@@ -1,0 +1,71 @@
+-dd September 01, 2021
+
+ -dM Tenure track lecturer (Vrije Universiteit Brussel):   Sept 6, 2021 (application deadline)
+ -dM CPP 2022: Sep 16, 2021 (Abstract submission deadline), Sep 22, 2021 (Paper submission deadline)
+ -dM FLoC 2022:  Sep 27, 2021 (Submission of workshop proposals deadline)
+
+
+
+
+
+HSCC 2022: 25th ACM International Conference on Hybrid Systems Computation and Control 
+  Part of CPS-IoT Week 2022
+  May 4-6, 2022, Milan, Italy
+  https://hscc.acm.org/2022/
+CALL FOR PAPERS
+* Hybrid Systems: Computation and Control (HSCC) 2022 is the 25th in a series of conferences focusing on original research on concepts, tools, and techniques from computer science, control theory, and applied mathematics for the analysis and control of hybrid dynamical systems, with an emphasis on computational aspects. By drawing on strategies from computation and control, the hybrid systems field offers techniques that are applicable to both man-made cyber-physical systems (ranging from small robots to global infrastructure networks) and natural systems (ranging from biochemical networks to physiological models). Papers in the conference are expected to range over a wide spectrum of topics from theoretical results to practical considerations, and from academic research to industrial adoption.
+* TOPICS
+  Topics of interest include, but are not limited to:
+  - Mathematical foundations, computability and complexity
+  - Analysis, verification, validation, and testing
+  - Modeling paradigms and techniques
+  - Design, synthesis, planning, and control
+  - Programming and specification languages
+  - Network science and network-based control
+  - Security, privacy, and resilience for cyber-physical systems with focus on computation and control
+  - Safe autonomy, Artificial intelligence and Machine learning in CPS
+  - Software tools for the above topics
+  - Applications and industrial case studies in: automotive, transportation, autonomous systems, avionics, energy and power, robotics, medical devices, manufacturing, systems and synthetic biology, models for the life sciences, and other related areas.
+* SUBMISSION
+  HSCC invites submissions in two categories: (1) regular papers and (2) tool and case study papers. Submissions in both of these categories can be either long (10 pages max, 9pt font, two-column ACM format) or short papers (6 pages max, 9pt font, two-column ACM format). We will employ a double-blind reviewing process and will have a rebuttal phase to provide authors with the opportunity to reply to the reviewers’ concerns.  https://easychair.org/conferences/?conf=hscc2022
+* IMPORTANT DATES (AOE)
+  -dh Submission deadline: October 29, 2021 
+  -d Tool/case study paper repeatability package submission deadline: November 1, 2021 
+  -dv Rebuttal phase: December 15-17, 2021
+  -d Acceptance/rejection notifications: January 17, 2022
+  -d Posters/demos submission deadline: January 31, 2021 
+
+
+
+
+Positions in the Formal Methods for Software Reliability group of TU Munich led by Prof. Jan Kretinsky: 
+  https://www7.in.tum.de/~kretinsk/positions.html
+JOB ANNOUNCEMENT
+* JOBS
+  We are looking for highly motivated candidates who will fit our enthusiastic and collaborative group spirit:
+  - postdoc in the area of quantitative verification
+  - PhD students in quantitative verification and verified AI, possibly interested in co-developing Automata Tutor
+  - main developer of Automata Tutor 
+* TOPICS: 
+  - QUANTITATIVE VERIFICATION: analysis of probabilistic systems (Markov decision processes, stochastic games, chemical reaction networks), automata theory and temporal logic, machine learning in verification and verification of machine-learnt systems such as neural networks (also in industrial cooperation with AUDI), building model checkers (also verified by automated theorem proving) etc.
+  - AUTOMATA TUTOR (available at https://automata-tutor.model.in.tum.de/, described in publication https://doi.org/10.1007/978-3-030-53291-8_1) is a tool to teach undergraduate students the basics of theoretical computer science. It offers automatic grading and feedback of various types of exercises. The tool has been used at dozens of universities around the world (including 5 times at TUM) and graded almost a million exercise solutions. 
+* Please see the full job posting for further information on the requirements, offer, conditions, salary and application process (deadline Sept 13, 2021). https://www7.in.tum.de/~kretinsk/positions.html
+ -dM Applications for positions in Formal Methods for Software Reliability group (TU Munich):  Sept 13, 2021
+* Please contact jan.kretinsky@tum.de for any further information. 
+
+
+
+
+PhD position in Formal Methods for Security and Concurrency at NTNU
+JOB ANNOUNCEMENT
+* We have a vacancy for a PhD researcher at the Systems Security Group in the Information Security Division of the Department of Information Security and Communication Technology at the Norwegian University of Science and Technology (NTNU) in the Gjøvik campus.
+* DEADLINE AND APPLICATION
+  -dh Deadline:  September 30, 2021
+  Apply through the official announcement https://www.jobbnorge.no/en/available-jobs/job/209665/phd-candidate-in-formal-methods-for-security-and-concurrency 
+* TOPIC
+  The topic is generally placed at the intersection between security and concurrency with applications to many modern systems included under the term concurrency, such as distributed and communicating systems, multi-core or high-performance computing, or more generally systems of systems. The main focus of the topic will be on formal methods and tools applied to novel problems stemming from the combinations of security and highly complex concurrent systems. Depending on the inclinations and skills of the applicant, the work can include theoretical investigations as well as development and improvement of existing methods and tools for solving verification challenges in such modern applications; but the work can also include modelling and verification of real-world protocols pertaining to, e.g., IoT, Smart Grids, or Smart Contracts. Therefore, the research tasks can be anything from more theoretical, designing new formalisms and algorithms, to more practical, implementing modules, extensions, or new tools. If the work will go in a more theoretical direction, the candidate can expect to look into formalisms such as process algebras and their methods such as bisimulations, or into concurrency models and the challenges these bring to security, or into more mathematical topics including logics, relational algebras, automata, etc. If the work will go in a more practical direction, the candidate can expect to work with security verification tools such as Isabelle or Tamarin.
+* Contact: christian.johansen@ntnu.no  (for inquires about the position) 
+* For further details regarding application process, selection criteria, salary, conditions and further information please see the full advert: https://www.jobbnorge.no/en/available-jobs/job/209665/
+
+
+
