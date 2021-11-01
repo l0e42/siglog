@@ -1,0 +1,468 @@
+-dd November 01, 2021
+
+
+ -dM ICALP 2022:   Nov 19, 2021 (Workshop proposal deadline)
+ -dM NFM 2022:   Dec 03, 2021 (Abstract), Dec 10, 2021 (Paper)
+ -dM FSCD 2022:  Jan 22, 2022 (Call for Locations), Feb 08, 2022 (Abstract), Feb 11, 2022 (Paper)
+ -dM AiML 2022:  Mar 07, 2022 (Abstracts for full papers), Mar 14, 2022 (Full papers), May 23, 2022 (Short presentations)
+
+
+
+
+
+
+LICS 2022: Thirty-Seventh Annual ACM/IEEE Symposium on LOGIC IN COMPUTER SCIENCE
+  August 2022
+  Part of Federated Logic Conference 2022 (Haifa)
+  https://lics.siglog.org/lics22
+  https://floc2022.org/
+CALL FOR PAPERS -s SIGLOG MATTER
+* SCOPE 
+  The LICS Symposium is an annual international forum on theoretical and practical topics in computer science that relate to logic, broadly construed. We invite submissions on topics that fit under that rubric. 
+  Suggested, but not exclusive, topics of interest include: automata theory, automated deduction, categorical models and logics, concurrency and distributed computation, constraint programming, constructive mathematics, database theory, decision procedures, description logics, domain theory, finite model theory, formal aspects of program analysis, formal methods, foundations of computability, foundations of probabilistic, real-time and hybrid systems, games and logic, higher-order logic, knowledge representation and reasoning, lambda and combinatory calculi, linear logic, logic programming, logical aspects of AI, logical aspects of bioinformatics, logical aspects of computational complexity, logical aspects of quantum computation, logical frameworks, logics of programs, modal and temporal logics, model checking, process calculi, programming language semantics, proof theory, reasoning about security and privacy, rewriting, type systems, type theory, and verification.
+* COVID-19 etc..
+  For people who cannot travel to Israel, the possibility of remote participation will be ensured.
+* IMPORTANT DATES
+  Authors are required to submit a paper title and a short abstract of about 100 words in advance of submitting the extended abstract of the paper. The exact deadline time on these dates is given by anywhere on earth (AoE).
+  -dh Titles and Short Abstracts Due: 17 January 2022
+  -dh Full Papers Due: 21 January 2022
+  -dv Author Feedback/Rebuttal Period:  Mar 10-13, 2022
+  -d Author Notification: 14 April 2022
+  -dv Conference: Aug 2-5,  2022 (tentative)
+  -dv FLOC: Jul 31-Aug 12, 2022. 
+  Submission deadlines are firm; late submissions will not be considered. All submissions will be electronic via https://www.easychair.org/conferences/?conf=lics2022.
+* SUBMISSION INSTRUCTIONS
+  Every full paper must be submitted in the ACM SIGPLAN Proceedings 2-column 10pt format and may be at most 12 pages, excluding references. Latex style files and further submission information is at https://lics.siglog.org/lics22/cfp.php. 
+  LICS 2022 will use a lightweight double-blind reviewing process. Following this process means that reviewers will not see the authors’ names or affiliations as they initially review a paper. The authors’ names will then be revealed to the reviewers only once their reviews have been submitted. Please see the website for further details and requirements from the double-blind process.
+* LICS DISTINGUISHED PAPERS 
+  Around 10% of accepted LICS papers will be selected as distinguished papers. These are papers that, in the view of the LICS programme committee, make exceptionally strong contribution to the field and should be read by a broad audience due their relevance, originality, significance and clarity.
+* KLEENE AWARD FOR BEST STUDENT PAPER
+  An award in honour of the late Stephen C. Kleene will be given for the best student paper(s), as judged by the program committee.
+* SPECIAL ISSUES
+  Full versions of up to three accepted papers, to be selected by the program committee, will be invited for submission to the Journal of the ACM. Additional selected papers will be invited to a special issue of Logical Methods in Computer Science.
+* PUBLICATION
+  The official publication date may differ from the first day of the conference. The official publication date may affect the deadline for any patent filings related to published work. We will clarify the official publication date in due course.
+
+
+
+
+
+
+
+
+
+
+
+Proof Society: The Proof Society Workshop on Proof Theory and its Applications and the Winter School on Proof Theory
+  https://kgs.logic.at/madeira2021/
+  Madeira, Nov 29-Dec 3, 2021 
+CALL FOR PARTICIPATION
+* We are very happy to announce the third edition of The Proof Society Workshop on Proof Theory and its Applications together with the Winter School on Proof Theory. The event will be attending-only and shall not be streamed online. 
+  The intended audience for the Winter School is advanced master students, PhD students, postdocs and experienced researchers new to the field in mathematics, computer science and philosophy. The workshop will bring together researchers on proof theory and its applications through a series of invited and contributed talks as well as panel discussion.
+* Confirmed speakers include:
+  -Bahareh Afshari  
+  -Juan Aguilera  
+  -Eduardo Fermé  
+  -David Fernández Duque  
+  -Anupam Das  
+  -Graham Leigh  
+  -Alexander Leitsch  
+  -Fedor Pakhomov  
+  -Norbert Preining  
+  -Michael Rathjen
+*  IMPORTANT DATES 
+   -dh Workshop contributed talks abstracts submission: November 8, 2021
+   -dh Early registration closes: November 15, 2021
+   -d Notification:  November 11, 2021
+   -dv Winter School on Proof Theory and its Applications: Nov 29—Dec 1, 2021;
+   -dv Workshop on Proof Theory: Dec 2-3, 2021
+   
+
+
+
+LACompLing2021: Logic and Algorithms in Computational Linguistics 2021
+  10 - 17 December 2021, online, part of the week Mathematical Linguistics (MALIN) 2021
+  https://staff.math.su.se/rloukanova/LACompLing2021-web/
+CALL FOR PAPERS
+* DESCRIPTION of LACompLing
+  Computational linguistics studies natural language in its various manifestations from a computational point of view, both on the theoretical level (modeling grammar modules dealing with natural language form and meaning, and the relation between these two) and on the practical level (developing applications for language and speech technology). Right from the start in the 1950s, there have been strong links with computer science, logic, and many areas of mathematics - one can think of Chomsky's contributions to the theory of formal languages and automata, or Lambek's logical modeling of natural language syntax. The symposium assesses the place of logic, mathematics, and computer science in present day computational linguistics. It intends to be a forum for presenting new results as well as work in progress.
+* SCOPE of LACompLing
+  The symposium focuses mainly on logical approaches to computational processing of natural language, and on the applicability of methods and techniques from the study of artificial languages (programming/logic) in computational linguistics. We invite participation and submissions from other relevant approaches too, especially if they can inspire new work and approaches.
+* TOPICS The topics of LACompLing2021 include, but are not limited to:
+  - Computational theories of human language
+  - Computational syntax
+  - Computational semantics
+  - Computational syntax-semantics interface
+  - Interfaces between morphology, lexicon, syntax, semantics, speech, text, pragmatics
+  - Computational grammar
+  - Logic and reasoning systems for linguistics
+  - Type theories for linguistics
+  - Models of computation and algorithms for linguistics
+  - Computational approaches of computational linguistics for domain specific areas
+  - Language processing
+  - Parsing algorithms
+  - Generation of language from semantic representations
+  - Large-scale grammars of natural languages
+  - Multilingual processing
+  - Computational theories and systems of reasoning in natural language
+  - Data science in language processing
+  - Machine learning of language
+  - Interdisciplinary methods
+  - Integration of formal, computational, model theoretic, graphical, diagrammatic, statistical, and other related methods
+  - Logic for information extraction or expression in written and / or spoken language
+  - Language theories based on biological fundamentals of information and languages
+  - Computational neuroscience of language
+  LACompLing2021 is especially interested in topics on the interconnections between Logic, Language, and Argumentation, e.g.:
+  - Formal languages of reasoning and argumentation
+  - Algorithms related to natural language of argumentation    
+  - theories, implementations, applications
+  - Formal models of argumentations
+  - Logic of preferences
+  - Beliefs, attitudes, persuasions - theories and applications
+* IMPORTANT DATES
+  -dh Paper Submission: 14 November 2021 
+  -d Notifications: 21 November 2021
+  -dv Final submissions: TBA 
+  -dv LACompLing2021:  Dec 13-17, 2021
+* SUBMISSION INSTRUCTIONS
+  We welcome submissions of abstracts of presentations of original work. The intended papers should not be submitted concurrently to another conference or conference event and should not have been published or submitted for publication consideration elsewhere. NOTE: We will not accept submissions that are on work submitted to another event at MALIN 2021, concurrently during the submission to LACompLing2021.
+  - Submission of abstracts of presentations: limited to 1 page, including the title, other heading material, about half of a page text, and references
+  - Authors can submit more than one abstract. Invited speakers can submit invited and contributed abstracts. 
+  - The camera-ready submissions may require all the necessary typesetting sources, which are not in the standard LaTeX distribution
+* Typesetting Instructions 
+  For LaTeX, authors are required to use Springer LNCS package, please use BibTeX style spmpsci.
+* SUBMISSIONS
+  https://easychair.org/conferences/?conf=lacompling2021
+* PUBLICATIONS
+  We will organize a post-conference, special volume after the symposium LACompLing2021, for publication of extended papers based on accepted abstracts with presentations at LACompLing2021. The submissions to the special volume have to be original, unpublished, and not concurrently submitted elsewhere. They will go through thorough peer reviews.
+
+
+
+
+
+RSSRail 2022: International Conference on Reliability, Safety and Security of Railway Systems
+  https://rssrail2021.univ-gustave-eiffel.fr/
+CALL FOR PAPERS
+* The 4th International Conference on Reliability, Safety and Security of Railway Systems will be held on the 1st and 2nd of June 2022, in the International Union of Railways Congress Center, Paris.
+  RSSRail 2022 will address challenges currently faced by the railway industry such as:
+  - improving system safety
+  - decreasing production costs and time to market
+  - reducing carbon emissions and running costs
+  - increasing the capacity of the railway.
+  Railway systems are now being integrated into larger multi-transport networks. Such systems require an even higher degree of automation at all levels of operation. These trends dramatically increase the complexity of railway applications and pose new challenges in developing novel methods of modelling, analysis, verification and validation to ensure their reliability, safety and security, as well as in supporting novel mechanisms and procedures to help make the case that development processes meet the mandated standards. 
+* Development of the complex railway systems of the future requires integrated  environments and methods that support different abstraction levels and  different views, including: 
+  - systems architecture 
+  - safety analysis 
+  - security analysis 
+  - verification tools and methods. 
+  The conference aims to bring together researchers and engineers interested  in building critical railway applications and systems. This will be a working  conference in which research challenges and progress will be discussed and  evaluated by both researchers and engineers, focusing on their potential  to be deployed in industrial settings. 
+* Topics of particular interest include: 
+  - safety in development processes and safety management 
+  - combined approaches to safety and security 
+  - system and software safety analysis 
+  - formal modelling and verification techniques 
+  - system reliability 
+  - validation according to the standards 
+  - safety and security argumentation 
+  - fault and intrusion modelling and analysis 
+  - evaluation of system capacity, energy consumption, cost   and their interplay 
+  - tool and model integration, toolchains 
+  - domain-specific languages and modelling frameworks 
+  - model reuse for reliability, safety and security 
+  - modelling for maintenance strategy engineering. 
+* Submissions
+  - Research papers – not more than 16 pages in length
+  - Industrial experience reports – not more than 10 pages in length
+  - PhD student papers – not more than 10 pages in length.
+  To submit your paper please go to the conference submission site. Submissions must be formatted in the Springer LNCS format. Accepted papers will be published by Springer in a volume in the LNCS series. 
+* IMPORTANT DATES
+  -dh Abstract submission:  November 25th, 2021
+  -dh Full paper submission:  December 2nd, 2021
+  -d Notification:  February 1st, 2022
+  -d Camera-ready papers submitted:  March 1st, 2022
+
+ 
+
+
+NLPinAI 2022: Natural Language Processing in Artificial Intelligence
+  Online 4-6 February, 2022 
+  http://www.icaart.org/NLPinAI.aspx?y=2022
+  Special Session within the 14th International Conference on Agents and Artificial Intelligence - ICAART 2022 http://www.icaart.org
+CALL FOR PAPERS
+* SCOPE 
+  Computational and technological developments that incorporate natural language are proliferating. Adequate coverage encounters difficult problems related to partiality, underspecification, and context-dependency, which are signature features of information in nature and natural languages. Furthermore, agents (humans or computational systems) are information conveyors, interpreters, or participate as components of informational content. Generally, language processing depends on agents' knowledge, reasoning, perspectives, and interactions.
+  The session covers theoretical work, applications, approaches, and techniques for computational models of information and its presentation by language (artificial, human, or natural in other ways). The goal is to promote computational systems of intelligent natural language processing and related models of thought, mental states, reasoning, and other cognitive processes.
+* TOPICS
+  We invite contributions relevant to the following topics, without being limited to them:
+  - Type theories for applications to language and information processing
+  - Computational grammar
+  - Computational syntax
+  - Computational semantics of natural languages
+  - Computational syntax-semantics interface
+  - Interfaces between morphology, lexicon, syntax, semantics, speech, text, pragmatics
+  - Parsing
+  - Multilingual processing
+  - Large-scale grammars of natural languages
+  - Interfaces between morphology, lexicon, syntax, semantics, speech, text, pragmatics
+  - Models of computation and algorithms for natural language processing
+  - Computational models of partiality, underspecification, and context-dependency
+  - Models of situations, contexts, and agents, for applications to language processing
+  - Information about space and time in language models and processing
+  - Models of computation and algorithms for linguistics
+  - Data science in language processing
+  - Machine learning of language
+  - Interdisciplinary methods
+  - Integration of formal, computational, model theoretic, graphical, diagrammatic, statistical, and other related methods
+  - Logic for information extraction or expression in written and spoken language
+  - Language processing based on biological fundamentals of information and languages
+  - Computational neuroscience of language
+* IMPORTANT DATES
+  -dh Paper Submission: November 26, 2021
+  -d Authors Notification: December 14, 2021
+  -d Camera Ready and Registration: December 22, 2021
+* PAPER SUBMISSION 
+  Prospective authors are invited to submit papers in any of the topics listed above.
+  Instructions for preparing the manuscript (in LaTeX and Word styles) are available on the ICAART pages.
+  Please read the Guidelines of NLPinAI 2022 at ICAART, and respect the double-blind review method: http://www.icaart.org/Guidelines.aspx
+  Papers must be submitted electronically via the web-based submission system using the button SUBMIT PAPER on the pages of  NLPinAI 2022 at ICAART 2022.
+  All accepted papers will be published in a special section of the conference proceedings book. We expect a post-conference, post-proceedings Special Issue with extended publications based on selected papers presented at NLPinAI 2022, ICAART 2022.
+
+
+
+
+
+
+
+
+
+CiE 2022: Computability in Europe 2022: Revolutions and revelations in computability
+  Swansea, Wales, United Kingdom
+  July 11-15, 2022
+  https://cs.swansea.ac.uk/cie2022/
+  Submission link: https://easychair.org/conferences/?conf=cie2022
+CALL FOR PAPERS
+* IMPORTANT DATES (AOE):
+  -dh Article registration, abstract submission:  January 14, 2022 
+  -dh Article submission: January 28, 2022 
+  -d Notification of acceptance: April 11, 2022
+  -d Final versions due: April 25, 2022
+  -d Deadline for informal presentations submission: May 1, 2022
+  -d Early registration before: May 15, 2022.
+  The notifications of acceptance for informal presentations will be sent a few days after submission.
+* CiE 2022 is the 18th conference organized by CiE (Computability in Europe), a European association of mathematicians, logicians, computer scientists, philosophers, physicists and others interested in new developments in computability and their underlying significance for the real world.
+* TUTORIAL SPEAKERS:
+  - Noam Greenberg (Victoria University of Wellington)
+  - Karoliina Lehtinen (LIS, Aix-Marseille University)
+* INVITED SPEAKERS:
+  - Erika Ábrahám (RWTH Aachen University)
+  - Thierry Coquand (University of Gothenburg)
+  - Liesbeth de Mol (Université de Lille)
+  - Damir Dzhafarov (University of Connecticut)
+- Harvey Friedman (The Ohio State University)
+  - Svetlana Selivanova (Korea Advanced Institute of Science and Technology - KAIST)
+* SPECIAL SESSIONS:
+  - At the intersection of computability and other areas of mathematics, organised by Denis Hirschfeldt (University of Chicago) and Karen Lange (Wellesley College)
+  - Computability theory of blockchain technology, organised by Arnold Beckmann (Swansea University) and Anton Setzer (Swansea University)
+  - Computing Language: Love Letters, Large Models and NLP, organised by Liesbeth de Mol (Université de Lille) and Giuseppe Primiero (University of Milan) for the Council of the HaPoC Commission
+  - Computing with bio-molecules, organised by Jérôme Durand-Lose (Université d'Orleans) and Claudio Zandron (University of Milan Bicocca)
+  - Constructive and reverse mathematics, organised by Samuele Maschio (Universita di Padova) and Takako Nemoto (Japan Advanced Institute of Science and Technology - JAIST)
+  - Reachability problems, organised by Paul Bell (Loughborough University) and Igor Potapov (University of Liverpool)
+* SUBMISSION
+  https://easychair.org/conferences/?conf=cie2022
+  Papers must be submitted in PDF format, using the LNCS style, max 12 pages (including references, excluding appendix) 
+  Papers building bridges between different parts of the research community are particularly welcome.
+  The CONFERENCE PROCEEDINGS will be published by LNCS, Springer-Verlag.
+* INFORMAL PRESENTATIONS:
+  Continuing the tradition of past CiE conferences, we invite researchers to present informal presentations of their recent work. A proposal for an informal presentation must be submitted via EasyChair using the LNCS style file and be 1 page long; a brief description of the results suffices and an abstract is not required. Informal presentations will not be published in the LNCS conference proceedings. Results presented as informal presentations at CiE 2022 may appear or may have appeared in other conferences with formal proceedings and/or in journals. 
+* WOMEN IN COMPUTABILITY:
+  We are very happy to announce that within the framework of the Women in Computability program, we are able to offer some grants for junior women researchers who want to participate in CiE 2022. Applications for this grant should be sent to Liesbeth de Mol, liesbeth.demol@univ-lille3.fr, before May 15, 2022 and include a short cv (at most 2 pages) and contact information for an academic reference. Preference will be given to junior women researchers who are presenting a paper (including informal presentations) at CiE 2022.
+
+
+
+
+CAV 2022: 34th International Conference on Computer-Aided Verification
+  August 7-10 2022, Technion, Haifa, Israel
+  part of FLoC https://floc2022.org/
+  http://i-cav.org/2022
+  Full information at: http://i-cav.org/2022/call-for-papers/
+CALL FOR PAPERS
+* IMPORTANT DATES (AoE)
+  -dh Paper submission: January 21, 2022
+  -dv Rebuttal period: Mar 23-25, 2022
+  -d Author notification: April 30, 2022
+  -dv Artifact submission: TBD
+  -dv Artifact notification: TBD
+  -dv Final version due: TBD
+  -d CAV AWARD Nomination deadline: February 20, 2022
+  -dv Main conference: Aug 7-10, 2022
+* SCOPE 
+  CAV 2022 is the 34th in a series dedicated to the advancement of the theory and practice of computer-aided formal analysis methods for hardware and software systems. The conference covers the spectrum from theoretical results to concrete applications, with an emphasis on practical verification tools and the algorithms and techniques that are needed for their implementation. CAV considers it vital to continue spurring advances in hardware and software verification while expanding to new domains such as machine learning, autonomous systems, and computer security. The proceedings of the conference will be published in the Springer-Verlag Lecture Notes in Computer Science series. A selection of papers is expected to be invited to a special issue of Formal Methods in System Design and the Journal of the ACM.
+  The conference will take place as part of Federated Logic Conference (FLoC) on August 7-10, 2022 in Technion campus, Haifa, Israel (if the pandemic and the world permit).
+
+
+FSCD 2023: Formal Structures for Computation and Deduction
+CALL FOR LOCATION
+*  The FSCD conference covers all aspects of Formal Structures for Computation and Deduction from theoretical foundations to applications. The annual FSCD conference comprises the main conference and a considerable number of affiliated workshops (expectedly, more than ten).
+  We invite proposals for locations to host the 8th FSCD International Conference to be held during the summer of 2023. Previous (and upcoming) FSCD meetings include:
+  - FSCD 2016 in Porto (Portugal);
+  - FSCD 2017 in Oxford (UK) co-located with ICFP 2017;
+  - FSCD 2018 in Oxford (UK) as part of FLoC 2018;
+  - FSCD 2019 in Dortmund (Germany);
+  - FSCD 2020 in Paris (France) co-located with IJCAR 2020;
+  - FSCD 2021 in Buenos Aires (Argentina);
+  - FSCD 2022 in Haifa (Israel) as part of FLoC 2022.
+* The deadline for proposals is  Jan 22, 2022. Proposals should be sent to the FSCD Steering Committee Chair (see contact information below). We encourage proposers to register their intention informally as soon as possible.
+  The proposals will be put forward to the FSCD mailing list for an indicative vote (the results of which will not be made public), after which the final decision about hosting and organising of FSCD 2023 will be taken by the SC.
+* Proposals should address the following points:
+  - FSCD Conference Chair (complete name and current position), host institution, FSCD Local Committee (complete names and current positions), availability of student-volunteers.
+  - National, regional, and local government and industry support, both organizational and financial.
+  - Accessibility to the location (i.e., transportation) and attractiveness of the proposed site. Accessibility can include both information about local transportation and travel information to the location (flight and/or train connections), as well as estimated costs.
+  - Appropriateness of the proposed dates (including consideration of holidays/other events during the period), hotel prices, and access to dormitory facilities for students.
+  - Estimated costs on registration for the conference and workshops, both for regular and student participants.
+  - Conference and exhibit facilities for the anticipated number of registrants (typically around 200). For example: number, capacity and audiovisual equipment of meeting rooms; a large plenary session room that can hold all the registrants; enough rooms for parallel sessions/workshops/tutorials; internet connectivity and workstations for demos/competitions; catering services; and presence of professional staff.
+  - Residence accommodations and food services in a range of price categories and close to the conference venue, for example, number and cost range of hotels, and availability and cost of dormitory rooms (e.g., at local universities) and kind of services they offer.
+  - Other relevant information, which can include information about leisure activities and attractiveness of the location (e.g., cultural and historical aspects, touristic activities, etc...).
+* Contact information:
+  Herman Geuvers (FSCD SC Chair): herman@cs.ru.nl
+
+
+
+
+
+
+
+
+ICALP 2022: The 49th International Colloquium on Automata, Languages, and Programming
+   Paris, France, and online, 4-8 July 2022
+   https://icalp2022.irif.fr/
+CALL FOR PAPERS
+* The 2022 edition has the following special features:
+  - Submissions are anonymous, and there is a rebuttal phase.
+  - The conference is hybrid.
+  - This will be the 50th birthday of the conference and some special events are planned.
+* ICALP is the main conference and annual meeting of the European Association for Theoretical Computer Science (EATCS). As usual, ICALP will be preceded by a series of workshops, which will take place on July 4. The 2022 edition will be the occasion to celebrate the 50th anniversary of both EATCS and the first ICALP, which was first held in 1972 in Rocquencourt, in the Paris area.
+* IMPORTANT DATES  (AoE)
+  -dh Paper submission: February 9, 2022 
+  -dv Rebuttal: Mar 21-23, 2022
+  -d Notification: April 11, 2022
+  -d Camera-ready version: April 25, 2022
+  -dv Early registration: TBA
+  -dv Conference: Jul 4-8, 2022
+  Deadlines are firm; late submissions will not be considered.
+  https://easychair.org/my/conference?conf=icalp2022
+* Invited Speakers 
+  - Albert Atserias, Universitat Politècnica de Catalunya
+  - Constantinos Daskalakis, MIT
+  - Leslie Ann Goldberg, Oxford University
+  - Madhu Sudan, Harvard
+  - Stéphan Thomassé, ENS Lyon
+  - Santosh Vempala, Georgia Tech
+* Submission Guidelines 
+  - Papers must present original research on the theory of computer science. No prior publication or no simultaneous submission. Authors are encouraged to also make full versions of their submissions freely accessible in an on-line repository such as ArXiv, HAL, ECCC.
+  -  EasyChair, PDF, LIPIcs style, Max 15 pages (excluding references and appendix (read at the discretion of program committee members)). The extended abstract has to present the merits of the paper and its main contributions clearly, and describe the key concepts and technical ideas used to obtain the results. Submissions must provide the proofs which can enable the main mathematical claims of the paper to be fully verified.
+  - Lightweight double-blind (anonymous). See full CfP for rules.
+  -  During the rebuttal phase, authors will have three days, March 21-23, to view and respond to initial reviews. Further instructions will be sent to authors of submitted papers before that time.
+  -  One author per accepted paper is expected to present the work in Paris, unless there are strong reasons not to do so, including high environmental cost of travel or impossibility to travel. We will be monitoring the current situation and are aware of possible travel restrictions, but we aim to organize the conference as a hybrid event with a strong in-person attendance. If no speaker can attend, a remote presentation and participation to the discussion session are mandatory.
+  -  Papers authored only by students should be marked as such upon submission in order to be eligible for the best student paper awards of the track.
+  - Accepted papers will be published in LIPIcs (open access).
+* AWARDS  
+  During the conference, the following awards will be given:
+  - the EATCS award (https://eatcs.org/index.php/eatcs-award),
+  - the Gödel prize (https://eatcs.org/index.php/goedel-prize),
+  - the Presburger award (https://eatcs.org/index.php/presburger),
+  - the EATCS distinguished dissertation award (https://eatcs.org/index.php/dissertation-award),
+  - the best papers for Track A and track B,
+  - the best student papers for Track A and track B (see submission guidelines).
+* Topics   
+  Papers presenting original research on all aspects of theoretical computer science are sought. Typical but not exclusive topics of interest are:
+  Track A: Algorithms, Complexity and Games
+  - Algorithmic and Complexity Aspects of Network Economics
+  - Algorithmic Aspects of Biological and Physical Systems
+  - Algorithmic Aspects of Networks and Networking
+  - Algorithmic Aspects of Security and Privacy
+  - Algorithmic Game Theory and Mechanism Design
+  - Approximation and Online Algorithms
+  - Combinatorial Optimization
+  - Combinatorics in Computer Science
+  - Computational Complexity
+  - Computational Geometry
+  - Computational Learning Theory
+  - Cryptography
+  - Data Structures
+  - Design and Analysis of Algorithms
+  - Distributed and Mobile Computing
+  - Foundations of Machine Learning
+  - Graph Mining and Network Analysis
+  - Parallel and External Memory Computing
+  - Parameterized Complexity
+  - Quantum Computing
+  - Randomness in Computation
+  - Sublinear Time and Streaming Algorithms
+  - Theoretical Foundations of Algorithmic Fairness 
+  Track B: Automata, Logic, Semantics, and Theory of Programming
+  - Algebraic and Categorical Models of Computation
+  - Automata, Logic, and Games
+  - Database Theory, Constraint Satisfaction Problems, and Finite Model Theory
+  - Formal and Logical Aspects of Learning
+  - Formal and Logical Aspects of Security and Privacy
+  - Logic in Computer Science and Theorem Proving
+  - Models of Computation: Complexity and Computability
+  - Models of Concurrent, Distributed, and Mobile Systems
+  - Models of Reactive, Hybrid, and Stochastic Systems
+  - Principles and Semantics of Programming Languages
+  - Program Analysis, Verification, and Synthesis
+  - Type Systems and Typed Calculi
+
+
+
+
+
+
+
+
+
+Research Team Leader, Warsaw, Poland
+JOB ANNOUNCEMENT
+* The newly established IDEAS NCBR institute is looking for a position of research team leader  dealing with formal modeling and proving the security of cryptographic protocols used in blockchain technology. The research will be carried out in cooperation with the cryptography and blockchain laboratory headed by prof. Stefan Dziembowski at the University of Warsaw.
+* Requirements:
+  - very good knowledge of at least one of the following theorem proving systems: Coq, Easycrypt, Why3, and Isabelle/HOL,
+  - PhD in computer science/mathematics or comparable professional experience,
+  - significant experience in communicating scientific results in English both orally and in writing,
+  - ability to understand scientific papers in English,
+  - experience in working in an international scientific environment.
+* Desirable qualifications:
+  - scientific achievements in the field of automated theorem proving documented by publications,
+  - knowledge of scientific aspects of cryptography and blockchain technology.
+* We offer:
+  - work on very interesting scientific projects with the possibility of implementing the obtained results in practice,
+  - frequent interaction with Prof. S. Dziembowski's scientific team implementing ERC (European Research Council) and NSC (National Science Centre) projects,
+  - opportunity to co-create a scientific team,
+  - form of employment: work contract,
+  - remuneration: PLN 15 000 gross,
+  - the Innovation Bonus - a share in the benefits of future commercialization of the results of a Research Project, constituting an additional remuneration in relation to the basic remuneration. The Innovation Bonus, depending on the adopted model of commercialization of the results of the Research Project, may take the form of: the right to participate in our income from their commercialization (in particular in the form of a license or disposal of intellectual property rights), or the right of acquisition of shares or stocks in a spin-out company commercializing such solutions.
+  - medical care
+  - multisport card
+  - group insurance
+  - lunch cards
+  - benefits from the Company Social Benefit Fund
+  - work tools: mobile phone, laptop
+  - relocation assistance
+* The complete set of required documents should be sent by e-mail to: jobs@ideas-ncbr.pl
+
+
+
+Associate Professorship/Professorship in Automated Verification with a tutorial fellowship at Trinity College, University of Oxford
+  http://www.cs.ox.ac.uk/news/1976-full.html
+JOB ANNOUNCEMENT
+* Applications are invited for the post of Associate Professor (or Professor) of Automated Verification in the Department of Computer Science and Trinity College, to start before October 2022. The successful candidate will also be appointed as a Fellow and Tutor in Computer Science at Trinity College, and will be responsible for the organisation and teaching of their subject within the College.
+  - You will be a member of both the University and the College community, part of a lively and intellectually stimulating research community with access to the excellent research facilities which Oxford offers. You will have a role to play in the running of the College as a member of the Governing Body and a trustee of the College as a charity. 
+  - The Department of Computer Science is a vibrant and growing academic department, which has a research profile across the entire spectrum of contemporary computer science.  You will be expected to engage in independent and original research aligned with the Automated Verification research theme, to secure funding and engage in the management of research projects and disseminate research of the highest international standard through publications, conferences and seminars.  You will also contribute to teaching on the Department’s highly successful undergraduate and graduate programmes.
+  - You will hold a doctoral degree in Computer Science (or cognate discipline), have the ability to teach across a range of Computer Science subjects, and will also have a proven research record of high quality at international level, and experience of research collaborations at both national and international level.
+* APPLICATION DEADLINE AND INTERVIEW DATE 
+  - The closing date for applications is 12 noon on 21 January 2022.
+  - Interviews are expected to be held on 4 March 2022.
+* HOW TO APPLY, FURTHER PARTICULARS AND SELECTION CRITERIA
+  - http://www.cs.ox.ac.uk/news/1976-full.html
+  - http://www.cs.ox.ac.uk/files/12971/153743%20-%20Job%20Description%20and%20Selection%20Criteria.pdf
+
+
