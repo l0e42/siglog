@@ -1,0 +1,138 @@
+-dd December 01, 2021
+
+
+
+ -dM NFM 2022:   Jan 03, 2022 (Abstract, EXTENDED), Jan 10, 2022 (Paper, EXTENDED)
+ -dM CiE 2022:   Jan 14, 2022 (Article registration, abstract), Jan 28, 2022 (Article)
+ -dM LICS 2022:  Jan 17, 2022 (Titles and Short Abstracts Due), Jan 21, 2022 (Full Papers Due)
+ -dM CAV 2022:   Jan 21, 2022 (Paper)
+ -dM FSCD 2022:  Jan 22, 2022 (Call for Locations), Feb 08, 2022 (Abstract), Feb 11, 2022 (Paper)
+ -dM AiML 2022:  Mar 07, 2022 (Abstracts for full papers), Mar 14, 2022 (Full papers), May 23, 2022 (Short presentations)
+
+
+
+Winners of the 2021 Ackermann Award
+ANNOUNCEMENT
+* The Ackermann Award 2021, the EACSL Outstanding Dissertation Award for Logic in Computer Science, is given to two PhD theses (in alphabetic order)
+  - Marie Fortin: Expressivity of first-order logic, star-free propositional dynamic logic and communicating automata
+  - Sandra Kiefer: Power and Limits of the Weisfeiler-Leman Algorithm
+* The award will be presented at the 30th Computer Science Logic (CSL 2022) Conference, the annual meeting of the European Association for Computer Science Logic. This will be held online, February 14th - 19th, 2022, organised by the Fundamentals of Computer Science Group at University of Göttingen, Germany.
+* A detailed report will be published in the proceedings of CSL 2022
+
+
+
+PODS 2022: 41st ACM SYMPOSIUM ON PRINCIPLES OF DATABASE SYSTEMS
+  Second Submission Cycle
+  https://databasetheory.org/node/125
+CALL FOR PAPERS
+* SCOPE 
+  PODS seeks high-quality scientific articles that present principled contributions to modeling, application, system building, and both theoretical and experimental validation in the context of data management. Such articles might be based, among others, on establishing theoretical results, developing new concepts and frameworks that deserve further exploration, providing experimental work that sheds light on the scientific foundations of the discipline, or a rigorous analysis of both widely used and recently developed industry artifacts.
+* CHANGES IN SUBMISSIONS: 
+  There are two important changes with respect to submissions for PODS 2022.
+  1) Submitted papers must be formatted using the standard ACM proceedings stylesheet AND can be up to 8 pages.
+  2) For the first time, PODS 2022 will use a lightweight double-blind reviewing process. However, authors should feel free to disseminate their ideas or draft versions of their paper as they normally would. For instance, authors may post drafts of their papers on the web or give talks on their research ideas.
+* IMPORTANT DATES: Dates for the second submission cycle are as follows.
+  -dh Second cycle abstract: December 10, 2021
+  -dh Full paper submission: December 17, 2021
+  -d Reviews sent to authors: February 28, 2022
+  -dv Rebuttal phase: Mar 1-5, 2022
+  -d Notification: March 13, 2022
+
+
+
+
+FoIKS 2022: 12th International Symposium on Foundations of Information and Knowledge Systems
+  University of Helsinki, Finland, Jun 20-23, 2022
+  https://foiks2022.github.io
+CALL FOR PARTICIPATION
+* The FoIKS symposia provide a biennial forum for presenting and discussing theoretical and applied research on information and knowledge systems. The goal is to bring together researchers with an interest in this subject, share research experiences, promote collaboration, and identify new issues and directions for future research. 
+  FoIKS 2022 solicits original contributions (as well as extensions of previously published contributions) dealing with any foundational aspect of information and knowledge systems. This includes submissions that apply ideas, theories or methods from specific disciplines to information and knowledge systems. Examples of such disciplines are discrete mathematics, logic and algebra, model theory, information theory, complexity theory, algorithmics and computation, statistics, and optimisation, among, of course, many others.
+  The FoIKS symposia are a forum for intensive discussions. Speakers will be given sufficient time to present their ideas and results within the larger context of their research. Furthermore, participants will be asked to prepare a first response to another contribution in order to initiate discussion.
+* SUGGESTED TOPICS
+  The suggested topics include, but are not limited to:
+  - Database design: formal models, dependencies and independencies
+  - Big data: models for data in the Cloud, programming languages for big data, query processing
+  - Dynamics of information: models of transactions, concurrency control, updates, consistency preservation, belief revision
+  - Information fusion: heterogeneity, views, schema dominance, multiple source information merging, reasoning under inconsistency
+  - Integrity and constraint management: verification, validation, consistent query answering, information cleaning
+  - Intelligent agents: multi-agent systems, autonomous agents, foundations of software agents, cooperative agents, formal models of interactions, negotiations and dialogue, logical models of emotions
+  - Knowledge discovery and information retrieval: machine learning, data mining, formal concept analysis and association rules, text mining, information extraction
+  - Knowledge representation, reasoning and planning: non-monotonic formalisms, probabilistic and non-probabilistic models of uncertainty, graphical models and independence, similarity-based reasoning, preference modelling and handling, computational models of argument, argumentation systems
+  - Logics in databases and AI: classical and non-classical logics, logic programming, description logics, spatial and temporal logics, probability logic, fuzzy logic
+  - Mathematical foundations: discrete structures and algorithms, graphs, grammars, automata, abstract machines, finite model theory, information theory, coding theory, complexity theory, randomness
+  - Security in information and knowledge systems: identity thee, privacy, trust, intrusion detection, access control, inference control, secure Web services, secure Semantic Web, risk management
+  - Semi-structured data and XML: data modelling, data processing, data compression, data exchange
+  - Social computing: collective intelligence and self-organising knowledge, collaborative filtering, computational social choice, Boolean games, coalition formation, reputation systems
+  - The Semantic Web and knowledge management: languages, ontologies, agents, adaption, intelligent algorithms, ontology-based data access
+  - The WWW: models of Web databases, Web dynamics, Web services, Web transactions and negotiations, social networks, Web mining
+* SUBMISSION GUIDELINES
+  - Long papers: suggested number of pages is 16, and the maximum number of pages is 18. 
+  - Short papers: the maximum number of pages is 10. 
+  All papers must PDF using LMCS LaTeX style, original and not simultaneously submitted to another journal or conference.  The submissions will be judged for scientific quality and for suitability as a basis for broader discussion.
+  Submission: https://easychair.org/conferences/?conf=foiks2022 
+* IMPORTANT DATES
+  -dh Abstract submission: 4 February 2022
+  -dh Paper submission: 11 February 2022
+  -d Author notification: 11 April 2022
+  -d Camera-ready paper due: 6 May 2022
+  -dv FoIKS 2022 Symposium: Jun 20-23, 2022
+* PUBLICATION
+  The proceedings will be published by Springer-Verlag in the Lecture Notes in Computer Science. After the symposium, authors of selected papers will be invited to submit extended journal versions of their papers for a FoIKS 2022 special issue of the Annals of Mathematics and Artificial Intelligence or another journal. Exact details will be provided on the conference website in due time.
+
+
+
+
+
+
+TYPES 2022 and CA20111: 28th International Conference on Types for Proofs and Programs and EuroProofNet Cost Action meeting
+  Nantes, France,  Jun, 20-25 2022
+  https://types22.inria.fr
+CALL FOR CONTRIBUTIONS
+* BACKGROUND
+  The TYPES meetings are a forum to present new and on-going work in all aspects of type theory and its applications, especially in formalised and computer assisted reasoning and computer programming.
+  The TYPES areas of interest include, but are not limited to:
+  - foundations of type theory and constructive mathematics;
+  - applications of type theory;
+  - dependently typed programming;
+  - industrial uses of type theory technology;
+  - meta-theoretic studies of type systems;
+  - proof assistants and proof technology;
+  - automation in computer-assisted reasoning;
+  - links between type theory and functional programming;
+  - formalizing mathematics using type theory.
+  We encourage talks proposing new ways of applying type theory. In the spirit of workshops, talks may be based on newly published papers, work submitted for publication, but also work in progress.
+  The EuroProofNet Cost Action CA20111 focuses on the same research topics as TYPES and partially sponsors the TYPES Conference.
+* CONTRIBUTED TALKS:
+  We solicit contributed talks. Selection of those will be based on extended abstracts/short papers of 2 pages (not including bibliography) formatted with easychair.cls. The submission site is https://easychair.org/conferences/?conf=types2022
+* IMPORTANT DATES:
+  -dh 2 page abstract submission:           9 March 2022
+  -d notification of acceptance/rejection: 20 April 2022
+  -d camera-ready version of abstract:     15 May 2022
+  Camera-ready versions of the accepted contributions will be published in an informal book of abstracts for distribution at the workshop.
+* POST-PROCEEDINGS
+  A post-proceedings volume will be published in the Leibniz International Proceedings in Informatics (LIPIcs) series. Submission to that volume will be open to everyone. Tentative submission deadline for the post-proceedings: September 2022.
+
+
+
+
+Research Positions available - working on Adaptive Cyber-Physical Systems at Mälardalen University, Sweden
+JOB ANNOUNCEMENT
+*  At Mälardalen University in Sweden,  we have an extraordinary chance and a long-term plan to expand the department and hire competent researchers. Research Positions are announced to work on Adaptive Cyber-Physical Systems and their synthesis within the research lab for Cyber-Physical Systems Analysis. A PhD in Computer Science or Software Engineering is necessary.
+  For more information see the links below.
+  - PostDoc Positions: The PostDoc Position has the condition of completion of the PhD degree not more than three years before the deadline. https://web103.reachmee.com/ext/I018/1151/job?site=8&lang=UK&validator=2efd9e54ee423d53334ac7960e3b4e03&job_id=1324
+  - More senior researchers are welcome to apply using this link: https://web103.reachmee.com/ext/I018/1151/job?site=8&lang=UK&validator=2efd9e54ee423d53334ac7960e3b4e03&job_id=1321
+  -d Application deadline: Dec 15, 2021
+* Contact Person: Marjan Sirjani (marjan.sirjani@mdh.se, http://www.es.mdh.se/staff/3242-Marjan_Sirjani)
+
+
+Master in Pure and Applied Logic 
+JOB ANNOUNCEMENT
+*  The 2022--2024 edition of the two-year Master in Pure and Applied Logic jointly organized by the University of Barcelona (UB) and Polytechnical University of Catalunya (UPC) will soon open for pre-registration. Students are welcome to express their interest by sending their background, motivation, and CV to the email address masterlogic@ub.edu
+  The Master in Pure and Applied Logic caters in the most central aspects of advanced logic, including Computability Theory, Model Theory, Non-Classical Logics, Proof Theory and Set Theory.
+  Additional information on the master can be found at:
+  - http://www.ub.edu/masterlogic/  
+  - https://www.ub.edu/web/ub/en/estudis/oferta_formativa/master_universitari/fitxa/P/M0C0D/index.html? 
+  - http://diposit.ub.edu/dspace/handle/2445/133559
+  For questions related to eligibility, content, scheduling, scholarships, housing etc. please contact masterlogic@ub.edu
+
+
