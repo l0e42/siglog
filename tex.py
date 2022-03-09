@@ -255,7 +255,7 @@ fontfamily=\\rmdefault
 """
 html += "\\title{\\huge\\sc SIGLOG Monthly "  +  str(document['number']) + "}"
 html += """
-\\author{DAVID PURSER\\affil{Max Planck Institute for Software Systems, Saarbr\\"ucken}
+\\author{DAVID PURSER\\affil{University of Warsaw, Poland}
 \\vspace*{-2.6cm}\\begin{flushright}\\includegraphics[width=30mm]{dp}\\end{flushright}
 }
 
