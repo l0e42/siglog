@@ -254,7 +254,7 @@ if email:
 	html += "<br>\n" 
 	html += "Kind regards, <br>\n"
 	html += "David Purser <br>\n"
-	html += "University of Warsaw, Poland"
+	html += "University of Warsaw <br>\n"
 
 html +="</body></html>"
 

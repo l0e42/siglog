@@ -1,0 +1,367 @@
+-dd April 01, 2022
+
+
+ -dM Alonzo Church Award: 	Apr 02, 2022 (Deadline for nominations)
+ -dM LearnAut: 	April 07, 2022 (Submission deadline, EXTENDED)
+ -dM NALOMA 22: 	Apr 15, 2022 (Papers & extended abstracts)
+ -dM FORMATS 2022: 	Apr 19, 2022 (Abstract), Apr 22, 2022 (Paper)
+ -dM GCM 2022: 	Apr 20, 2022 (Abstract Submission), Apr 27, 2022 (Paper Submission)
+ -dM DECFOML: 	Apr 22, 2022 (Submissions)
+ -dM LPNMR 2022: 	Apr 23, 2022 (Paper registration), Apr 30, 2022 (Paper)
+ -dM ATVA 2022: 	May 01, 2022 (Abstract, extended), May 08, 2022 (Paper, extended)
+ -dM MOVEP2022: 	May 01, 2022 (Student Abstract), Apr 30, 2022 (Early registration deadline)
+ -dM ASL 2022: 	May 10, 2022 (Papers)
+ -dM NSV 2022: 	May 10, 2022 (Paper)
+ -dM PODS 2023: 	May 30, 2022 (First cycle abstract), Jun 06, 2022 (Full paper), Nov 28, 2022 (Second cycle abstract), Dec 05, 2022 (Full paper)
+ -dM ACKERMANN AWARD 2022: 	Jul 01, 2022 (Deadline for nomination)
+
+
+Alonzo Church Award:
+CALL FOR NOMINATIONS
+* SIGLOG reminds you to submit nominations for the Alonzo Church Award by April 02, 2022.
+
+
+
+FLoC'22 MW: FLoC 2022 Mentoring Workshop
+  https://www.floc2022.org/flocmentoringworkshop
+  1 August 2022 and 5 August 2022
+  Haifa, Israel
+CALL FOR APPLICATIONS FOR TRAVEL SCHOLARSHIP
+* We warmly invite students to apply for travel scholarships to attend the Mentoring Workshop and FLoC.  The deadline for applications is April 11th. Applications are received via the form at https://forms.gle/QxWmYcvQCPgXRxEq6
+  -dh Deadline for applications: April 11, 2022
+* ABOUT THE MENTORING WORKSHOP
+  The purpose of the FLoC 2022 Mentoring Workshop (FLoC'22 MW) is to provide mentoring and career advice to early-stage graduate students, to attract them to pursue research careers in various logic-related areas. The workshop will particularly encourage participation of women and under-represented minorities.
+  There will be two workshop days, one for each FLoC Conference Block, so the students can choose which one of the two they prefer to attend. The workshop program will include a number of talks and interactive sessions. The talks will give an overview of the field along with brief introductions to the varied topics highlighted at FLoC. Other talks will provide mentoring and career advice, from academia and industry.
+* CONFIRMED SPEAKERS
+  Mentoring Workshop for FLoC Conference Block 1 (Friday, August 5th, 2022) 
+  - TBA (check the website for updates!)
+  Mentoring Workshop for FLoC Conference Block 2 (Friday, August 5th, 2022)
+  - Rajeev Alur, University of Pennsylvania, USA
+  - Kristin Rozier, Iowa State University, USA
+  - Natarajan Shankar, SRI, USA
+  - Alexandra Silva, Cornell University, USA
+
+
+
+
+
+E. W. Beth Outstanding Dissertation Prize 2022:
+CALL FOR NOMINATIONS
+* ABOUT
+  Since 1998, the Association for Logic, Language, and Information (FoLLI) has been awarding the annual E.W. Beth Dissertation Prize to outstanding Ph.D. dissertations in Logic, Language, and Information (http://www.folli.info/?page_id=74), with financial support of the E.W. Beth Foundation (https://www.knaw.nl/en/awards/funds/evert-willem-beth-stichting/evert-willem-beth-foundation). 
+  In accordance with the aim of the Beth Foundation to continue and extend the work of the Dutch logician Evert Willem Beth, nominations are invited of outstanding dissertations on topics in the broad remit of ESSLLI, in logic, language, information and computation. Interdisciplinary dissertations with results impacting various of these research areas in their investigations are especially solicited. Nominations are now invited for outstanding dissertations in these areas resulting in a Ph.D. degree awarded in 2021. 
+  -dh Deadline for nominations:  April 15, 2022
+* Qualifications:
+  - A Ph.D. dissertation on a related topic is eligible for the Beth Dissertation Prize 2022, if the degree was awarded between January 1st and December 31st, 2021.
+  - There are no restrictions on the nationality, ethnicity, age, gender or employment status of the author of the nominated dissertation, nor on the university, academic department or scientific institution formally conferring the Ph.D. degree, nor on the language in which the dissertation has originally been written.
+  - If a nominated dissertation has originally been written in a language other than English, its file should still contain the required 10 page English abstract, see below. If the committee decides that a nominated dissertation in a language other than English requires translation to English for proper evaluation, the committee can transfer its nomination to the competition in 2023. The English translation must in such cases be submitted before the deadline of the call for nominations in 2023. The committee may recommend the Beth Foundation to consider supporting such nominated dissertations for English translation, upon request by the author of the dissertation. 
+* The prize consists of: 
+  - a certificate
+  - a donation of 3000 euros, provided by the E.W. Beth Foundation, divided among the winners, should there be more than one winner
+  - an invitation to submit the dissertation, possibly after revision, for publication in FoLLI Publications on Logic, Language and Information (Springer). 
+ Only digital submissions are accepted, without exception. Hard copy submissions are not allowed. The following documents are to be submitted in a single nomination file in zip format: 
+  - The original dissertation in pdf format (ps/doc/rtf etc. not acceptable).
+  - A ten-page English abstract of the dissertation, presenting the main results of each chapter.
+  - A letter of nomination from the dissertation supervisor, which concisely describes the scope and significance of the dissertation, stating when the degree was officially awarded and the members of the Ph.D. committee. Nominations should contain the address, phone and email details of the nominator.
+  - Two additional letters of support, including at least one from a referee not affiliated with the academic institution that awarded the Ph.D. degree, nor otherwise related to the nominee (e.g. former teachers, supervisors, co-authors, publishers or relatives) or the dissertation.
+  - Self-nominations are not possible. 
+  All pdf documents must be submitted electronically, as one zip file, via EasyChair by following the link https://easychair.org/conferences/?conf=bodp2022. In case of any problems or questions please contact the chair of the committee Mehrnoosh Sadrzadeh (m.sadrzadeh@ucl.ac.uk). 
+  The prize will be awarded by the chair of the FoLLI board at a ceremony during the 33rd ESSLLI summer school, in Galway, August 8-19, 2021. 
+
+
+
+IWC 2022: 11th International Workshop on Confluence
+  1st August 2022, Haifa, Israel
+  Affiliated with FSCD @ FLoC 2022
+  http://cl-informatik.uibk.ac.at/iwc/2022/
+CALL FOR PAPERS
+* BACKGROUND
+  Confluence provides a general notion of determinism and has been conceived as one of the central properties of rewriting systems. Confluence relates to many topics of rewriting (completion, modularity, termination, commutation, etc.) and has been investigated in many formalisms of rewriting, such as first-order rewriting, lambda-calculi, higher-order rewriting, constraint rewriting, conditional rewriting, and so on. Recently there is a renewed interest in confluence research, resulting in new techniques, tool support, confluence competition, and certification as well as in new applications. The scope of the workshop is all these aspects of confluence and related topics.
+  The goal of the workshop is to provide a forum for researchers interested in the topic of confluence to exchange and share new developments in the field. The workshop will enable discussion on theoretical results, new problems, applications, implementations and benchmarks, and share the current state-of-the-art on the development of confluence tools.
+  The 11th Confluence Competition CoCo 2022 will run live during IWC 2022.
+* Topics
+  - confluence and related properties (unique normal forms, commutation, ground confluence)
+  - completion
+  - critical pair criteria
+  - decidability issues
+  - complexity issues
+  - system descriptions
+  - certification
+  - applications of confluence 
+* IMPORTANT DATES (AoE)
+  -dh Paper submission: 2nd May 2022
+  -d notification: 5th June 2022
+  -d workshop: 1st August 2022
+* SUBMISSION
+  We solicit short papers or extended abstracts of at most five pages. There will be no formal reviewing. In particular, we welcome short versions of recently published articles and papers submitted elsewhere. The program committee checks relevance and may provide additional feedback. The accepted papers will be made available electronically before the workshop.
+  The page limit for papers is 5 pages in EasyChair style. 
+
+
+
+WPTE 2022: 9th International Workshop on Rewriting Techniques for Program Transformations and Evaluation
+  July 31, 2022
+  https://wpte2022.github.io/
+  https://easychair.org/conferences/?conf=wpte2022
+CALL FOR PAPERS
+* New! Publication will be organised for selected papers as part of a Special Issue in the Journal of Logical and Algebraic Methods in Programming.
+* The aim of WPTE is to bring together the researchers working on program transformations, evaluation, and operationally based programming language semantics, using rewriting methods, in order to share the techniques and recent developments and to exchange ideas to encourage further activation of research in this area.
+* TOPICS
+  - Correctness of program transformations, optimizations and translations.
+  - Program transformations for proving termination, confluence, and other properties.
+  - Correctness of evaluation strategies.
+  - Operational semantics of programs, operationally-based program equivalences such as contextual equivalences and bisimulations.
+  - Cost-models for arguing about the optimizing power of transformations and the costs of evaluation.
+  - Program transformations for verification and theorem proving purposes.
+  - Translation, simulation, equivalence of programs with different formalisms, and evaluation strategies.
+  - Program transformations for applying rewriting techniques to programs in specific programming languages.
+  - Program transformations for program inversions and program synthesis.
+  - Program transformation and evaluation for Haskell and rewriting.
+* IMPORTANT DATES (AoE)
+  -dh Abstract submission: 26 April 2022
+  -dh Paper submission: 3 May 2022
+  -d Notifications: 15 June 2022
+  -d Final version for informal proceedings: 29 June 2022
+  -d Workshop: 31 July 2022
+  -dv Post-proceedings (JLAMP special issue): autumn 2022
+
+
+Algorithmic Law Design and Implementation: 
+  April 28-29, 2022 Barcelona
+CALL FOR PARTICIPATION
+* About
+  From April 28 — April 29, 2022, we will hold the in-situ Conference on Algorithmic Law Design and Implementation in Barcelona.  This is a highly interdisciplinary event with speakers and attendees among different communities like logicians, computer scientists, practicing lawyers, public administrators, industrial professionals, and legal scholars.
+  An important logical aspect of the conference is how formal verification techniques (both proof assistants and model checking) can be set to work to prevent errors in critical legal software and to warrant legal principles as fairness, accountability and transparency. Various related technical, juridical, philosophical, and practical aspects will be discussed during the conference. 
+* Registration and more information can be found at: https://www.ub.edu/prooftheory/event/lawdesign/
+
+
+Eleventh Summer School on Formal Techniques:
+  May 30 - June 5, 2022, Menlo College, Atherton, California
+  http://fm.csl.sri.com/SSFT22
+CALL FOR PARTICIPATION
+ * The Eleventh Summer School on Formal Techniques is directed at graduate students and young researchers. A prior background in formal methods is helpful but not required. This year, the school will take place in a hybrid mode: the lectures and labs will be live-streamed and recorded, but we strongly encourage in-person participation. Funding for transportation/food/lodging is available for US-based students.
+* The lecturers at the school include Corina Pasareanu (NASA Ames/CMU West), Randy Bryant (CMU), Sanjit Seshia (UC Berkeley), Ruzica Piskac (Yale University), and Mayur Naik (U. of Pennsylvania).
+* We also have distinguished invited talks from Thomas Wies (New York University), Phokion G. Kolaitis (University of California Santa Cruz and IBM Research), Maria Paola Bonacina (Università degli Studi di Verona), Susmit Jha (SRI International)
+* The main lectures in the summer school start on Tuesday May 31 and will be preceded by a background course on logic given by Natarajan Shankar (SRI) and Stephane Graham-Lengrand (SRI) on Monday May 30 and a mini-bootcamp on Sunday June 5.
+ -d Registration deadline: April 30, 2022
+
+
+
+Runtime Verification 2022:
+  https://rv22.gitlab.io
+CALL FOR PAPERS
+* We are pleased to invite you to submit papers for the 22nd International Conference on Runtime Verification (RV'22), which will take place as part of the Computational Logic Autumn Summit CLAS 2022 (http://viam.science.tsu.ge/clas2022/) in Tbilisi, Georgia, from September 28-30, 2022.
+* DATES (AoE)
+  -dh Paper submission: 5 May 2022
+  -d Notification: 22 June 2022
+  -d Camera-ready: 24 July 2022
+  -dv Conference: Sep 28-30, 2022
+* Conference Objectives and Scope 
+  Runtime verification is concerned with the monitoring and analysis of the runtime behaviour of software and hardware systems. Runtime verification techniques are crucial for system correctness, reliability, and robustness; they provide an additional level of rigor and effectiveness compared to conventional testing and are generally more practical than exhaustive formal verification. Runtime verification can be used prior to deployment, for testing, verification, and debugging purposes, and after deployment for ensuring reliability, safety, and security and for providing fault containment and recovery as well as online system repair.
+* TOPICS
+  The topics of the conference include, but are not limited to:
+  - specification languages for monitoring
+  - monitor construction techniques
+  - program instrumentation
+  - logging, recording, and replay
+  - combination of static and dynamic analysis
+  - specification mining and machine learning over runtime traces
+  - monitoring techniques for concurrent and distributed systems
+  - runtime checking of privacy and security policies
+  - metrics and statistical information gathering
+  - program/system execution visualization
+  - fault localization, containment, resilience, recovery and repair
+  - systems with learning-enabled components
+  - dynamic type checking and assurance cases
+  - runtime verification for autonomy and runtime assurance
+  Application areas of runtime verification include cyber-physical systems, autonomous systems, safety/mission critical systems, enterprise and systems software, cloud systems, reactive control systems, health management and diagnosis systems, and system security and privacy.
+* PAPERS 
+  There are four categories of papers which can be submitted: regular, short, tool demo, and benchmark papers. Papers in each category will be reviewed by at least three members of the Program Committee.
+  - Regular Papers (up to 16 pages, not including references) should present original unpublished results. We welcome theoretical papers, system papers, papers describing domain-specific variants of RV, and case studies on runtime verification.
+  - Short Papers (up to 8 pages, not including references) may present novel but not necessarily thoroughly worked out ideas, for example emerging runtime verification techniques and applications, or techniques and applications that establish relationships between runtime verification and other domains.
+  - Tool Demonstration Papers (up to 8 pages, not including references) should present a new tool, a new tool component, or novel extensions to existing tools supporting runtime verification. The paper must include information on tool availability, maturity, selected experimental results and it should provide a link to a website containing the theoretical background and user guide. Furthermore, we strongly encourage authors to make their tools and benchmarks available with their submission.
+  - Benchmark Papers (up to 8 pages, not including references) should describe a benchmark, suite of benchmarks, or benchmark generator useful for evaluating RV tools. Papers should include information as to what the benchmark consists of and its purpose (what is the domain), how to obtain and use the benchmark, an argument for the usefulness of the benchmark to the broader RV community and may include any existing results produced using the benchmark. We are interested in both benchmarks pertaining to real-world scenarios and those containing synthetic data designed to achieve interesting properties. Broader definitions of benchmark e.g. for generating specifications from data or diagnosing faults are within scope. We encourage benchmarks that are tool agnostic, especially if they have been used to evaluate multiple tools. We also welcome benchmarks that contain verdict labels and with rigorous arguments for correctness of these verdicts, and benchmarks that are demonstrably challenging with respect to the state-of-the-art tools. Benchmark papers must be accompanied by an easily accessible and usable benchmark submission. Papers will be evaluated by a separate benchmark evaluation panel who will assess the benchmarks relevance, clarity, and utility as communicated by the submitted paper.
+  The Program Committee of RV 2021 will give a Springer-sponsored Best Paper Award to one eligible regular paper.
+* SUBMISSIONS 
+  English, PDF, LNCS/Springer style, ORCIDs encouraged, original work and not be submitted for publication elsewhere: https://easychair.org/conferences/?conf=rv2022.
+  At least one author of each accepted paper and tutorial must register and attend RV'22 to present.
+
+
+
+LogTeach-22:  Why and how to tech Logic for CS undergraduates?
+  https://easychair.org/cfp/LogTeach-22
+  LogTeach-22: LICS 2022 Workshop (July 31 and August 1, 2022, Haifa)
+CALL FOR PAPERS
+* SCIENTIFIC JUSTIFICATION
+  Logic is one of the pillars of the foundation of Computer Science, together with Algorithmic Mathematics, Information Theory, and Electronics. Consequently various versions of Logic courses used to be part of the undergraduate syllabus of Computer Science. However, as witnessed by the variety of conferences related to Logic present at the FLoC event, the emphasis has moved from the foundation to applications of Logic in Computer Science. Each of these conferences deal with topics suitable for advanced undergraduate and graduate courses, which require some Logic based prerequisite. On the other hand, Logic courses in the undergraduate syllabus have been forced to make place for courses deemed more suitable for the education of future specialists and practitioners working in IT. Many of the top Universities worldwide have dropped foundational Logic courses for undergraduates for more practical oriented courses, turning undergraduate CS programs into programs more suitable for what used to be vocational colleges and professional schools.
+  Time has come to critically reflect upon and reevaluate the role of Logic in the undergraduate syllabus. It seems clear that the classical Logic in CS courses have no place there anymore. They seem to teach and emphasize the wrong narrative of logic as taught by tradition. However, it seems also clear that eliminating Logic courses all together is counter productive. The purpose of the workshop is the prepare a proposal for a logic course Logic-2020 which is useful and acceptable for University undergraduates in CS, and which can serve as a prerequisite for the many diverse branches of applied logic.
+  Georg Kreisel: "Logic may be not very useful, if you know it, but very harmful, if you ignore it" 
+* INVITED SPEAKERS  
+  - Moshe Vardi (Rice University, Houston TX, USA) 
+  - TBC
+* ORGANISATION 
+  The purpose of the workshop is to prepare a joint position paper to be published possibly in the Communications of ACM, or a similar prominent place, with recommendations for the future of teaching Logic for undergraduate CS-students. We plan to have presentations of position papers (30 minutes, including discussion) and invited lectures (60 minutes including discussion), followed by a two hour panel discussion.
+* DATES AND LOCATION 
+  FLOC is planned to be a conference with physical presence (possibly hybrid) in Haifa. The final decision on this will be made by May 1, 2022.
+  -dh Abstract submission:  May 10, 2022 
+  -dh Paper submission:  May 20, 2022 
+  -d Notification of acceptance: June 15, 2022 
+  Submission link https://easychair.org/conferences/?conf=logteach22
+
+
+ASL 2022: Workshop on Advances in Separation Logics 
+  Haifa, Israel, July 31st 2022
+  ASL 2022 is a workshop affiliated to IJCAR 2022 at FLOC 2022.
+  https://asl-workshop.github.io/asl22/
+CALL FOR PAPERS
+* ABOUT
+  The past two decades have witnessed important progress in static analysis and verification of code with low-level pointer and heap manipulations, mainly due to the development of Separation Logic (SL). SL is a resource logic, a dialect of the logic of Bunched Implications (BI) designed to describe models of the heap memory and the mutations that occur in the heap as the result of low-level pointer updates. The success of SL in program analysis is due to the support for local reasoning, namely the ability of describing only the resource(s) being modified, instead of the entire state of the system. This enables the design of compositional analyses that synthesize specifications of the behavior of small parts of the program before combining such local specifications into global verification conditions. Another interesting line of work consists in finding alternatives to the underlying semantic domain of SL, namely heaps with aggregative composition, in order to address other fields in computing, such as self-adapting distributed networks, blockchain and population protocols, social networks or biological systems. 
+* TOPICS 
+  We consider submissions on topics including:
+  - decision procedures for SL and other resource logics,
+  - computational complexity of decision problems such as satisfiability, entailment and abduction for SL and other resource logics,
+  - axiomatisations and proof systems for automated or interactive theorem proving for SL and other resource logics,
+  - verification conditions for real-life interprocedural and concurrent programs, using SL and other resource logics,
+  - alternative semantics and computation models based on the notion of resource,
+  - application of separation and resource logics to different fields, such as sociology and biology.
+* KEYNOTE SPEAKERS
+  - Philippa Gardner, Imperial College London
+  - Ralf Jung, MIT CSAIL
+* IMPORTANT DATES (AoE)
+  -dh Papers due: May 10, 2022 
+  -d Authors notification: June 15, 2022 
+  -d Workshop: July 31, 2022
+
+
+
+LAMAS&SR 2022: 2nd International Workshop on Logical Aspects in Multi-Agent Systems and Strategic Reasoning
+  August 25-26, 2022, Rennes, France
+  https://lamassr.github.io/ 
+  Co-located with the 14th International Conference on Advances In Modal Logic (AiML 2022, 22-25 August).
+CALL FOR CONTRIBUTIONS
+* OBJECTIVES  
+  Logics and strategic reasoning play a central role in multi-agent systems. Logics can be used, for instance, to express the agents’ abilities, knowledge, and objectives. Strategic reasoning refers to algorithmic methods that allow for developing good behaviour for the agents of the system. At the intersection, we find logics that can express existence of strategies or equilibria, and can be used to reason about them.
+  The LAMAS&SR workshop merges two international workshops: LAMAS (Logical Aspects of Multi-Agent Systems), which focuses on all kinds of logical aspects of multi-agent systems from the perspectives of artificial intelligence, computer science, and game theory, and SR (Strategic Reasoning), devoted to all aspects of strategic reasoning in formal methods and artificial intelligence.
+* LIST OF TOPICS 
+  The topics covered by the workshop include, but are not limited to: Logical systems for specification, analysis, and reasoning about multi-agent systems, Logic-based modelling of multi-agent systems, Dynamical multi-agent systems, Deductive systems and decision procedures for logics for multi-agent systems, Development and implementation of methods for verification in multi-agent systems, Logic-based tools for multi-agent systems, Logics for reasoning about strategic abilities, Logics for multi-agent mechanism design, verification, and synthesis, Logical foundations of decision theory for multi-agent systems, Strategic reasoning in formal verification, Automata theory for strategy synthesis, Applications and tools for cooperative and adversarial reasoning, Robust planning and optimisation in multi-agent systems, Risk and uncertainty in multi-agent systems, Quantitative aspects in strategic reasoning
+* INVITED SPEAKERS 
+  - Rineke Verbrugge, University of Groningen
+* COVID-19
+  Local organizers are following closely the evolution of the pandemic situation. Our preference is for a full in-person event, but we will employ an online or hybrid format according to the situation.
+* IMPORTANT DATES (AoE) 
+  -dh Paper submission: May 23, 2022
+  -d Author notification: June 30 , 2022
+  -d Camera ready: July 15 , 2022
+  -dv Workshop: August 25-26, 2022
+* CONTRIBUTION SUBMISSION 
+  Authors are invited to submit extended abstracts of 2 pages, plus 1 page for references only, in the AAMAS 2022 format. Both published and unpublished works are welcome. Submissions are subject to a single-blind review process, thus, submissions should not be anonymous, must be in PDF format, and will be handled via EasyChair at https://easychair.org/conferences/?conf=lamassr22
+  Although there will be no formal proceedings, accepted extended abstracts will be made available on the workshop website. Extensions of selected original contributions will be then invited to a special issue of Games, an MDPI open-access journal, with a special arrangement.
+
+
+
+
+
+
+GandALF 2022: The Thirteenth International Symposium on Games, Automata, Logics, and Formal Verification 
+  Madrid (Spain), September 21-23, 2022.
+CALL FOR PAPERS
+* AIM
+  The aim of GandALF 2022 is to bring together researchers from academia and industry which are actively working in the fields of Games, Automata, Logics, and Formal Verification. The idea is to cover an ample spectrum of themes, ranging from theory to applications, and stimulate cross-fertilization. Papers focused on formal methods are especially welcome. Authors are invited to submit original research or tool papers on all relevant topics in these areas. Papers discussing new ideas that are at an early stage of development are also welcome. 
+* TOPICS
+  The topics covered by the conference include, but are not limited to, the following: Automata Theory, Automated Deduction, Computational aspects of Game Theory, Concurrency and Distributed computation, Decision Procedures, Deductive, Compositional, and Abstraction Techniques for Verification, Finite Model Theory, First-order and Higher-order Logics, Formal Languages, Formal Methods for Systems Biology, Hybrid, Embedded, and Mobile Systems, Games and Automata for Verification, Game Semantics, Logical aspects of Computational Complexity, Logics of Programs, Modal and Temporal Logics, Model Checking, Models of Reactive and Real-Time Systems, Probabilistic Models (Markov Decision processes), Program Analysis and Software Verification, Reinforcement Learning, Run-time Verification and Testing, Specification and Verification of Finite and Infinite-state Systems, Synthesis
+ * IMPORTANT DATES AoE
+  -d Abstract submission: May 27, 2022
+  -d Paper submission: June 3, 2022
+  -d Notification: July 24, 2022
+  -d Camera-ready: August 12, 2022
+  -dv Conference: Sept 21-23, 2022
+* Publication
+  The proceedings will be published by Electronic Proceedings in Theoretical Computer Science. Authors of the best papers will be invited to submit a revised version of their work to a special issue of Logical Methods in Computer Science. The previous editions of GandALF already led to special issues of the International Journal of Foundations of Computer Science (GandALF 2010), Theoretical Computer Science (GandALF 2011 and 2012), Information and Computation (GandALF 2013, 2014, 2016, 2017, 2019 and 2020), Acta Informatica (GandALF 2015) and Logical Methods in Computer Science (2021). Submission
+  Submitted papers should not exceed 14 pages (excluding references and clearly marked appendices) using EPTCS format (please use the LaTeX style provided here, be unpublished and contain original research. For papers reporting experimental results, authors are encouraged to make their data available with their submission. Submissions must be in PDF format and will be handled via the HotCRP Conference system at the following address:
+  https://hotcrp.software.imdea.org/gandalf2022
+
+
+
+
+
+FSCD 2024: International Conference on Formal Structures for Computation and Deduction
+  Contact information: Herman Geuvers herman@cs.ru.nl FSCD SC Chair
+CALL FOR LOCATION
+* ABOUT
+  The FSCD conference covers all aspects of Formal Structures for Computation and Deduction from theoretical foundations to applications. The annual FSCD conference comprises the main conference and a considerable number of affiliated workshops (expectedly, more than ten).
+  We invite proposals for locations to host the 9th FSCD International Conference to be held during the summer of 2024. Previous (and upcoming) FSCD meetings include: FSCD 2016 in Porto (Portugal); FSCD 2017 in Oxford (UK) co-located with ICFP 2017; FSCD 2018 in Oxford (UK) as part of FLoC 2018; FSCD 2019 in Dortmund (Germany); FSCD 2020 in Paris (France) co-located with IJCAR 2020; FSCD 2021 in Buenos Aires (Argentina); FSCD 2022 in Haifa (Israel) as part of FLOC2022; FSCD 2023 in Rome (Italy). 
+* DEADLINE
+  -dh Deadline for proposals:  June 27, 2022
+  Proposals should be sent to the FSCD Steering Committee Chair (see contact information below). We encourage proposers to register their intention informally as soon as possible.
+  Selected proposals are to be presented at the business meeting of FSCD 2022 taking place at Haifa in August 2022. The final decision about hosting and organising of FSCD 2024 will be taken by the SC after an advisory vote of the members of the community in attendance at the business meeting. 
+* FORMAT
+  Proposals should address the following points:
+  - FSCD Conference Chair (complete name and current position), host institution, FSCD Local Committee (complete names and current positions), availability of student-volunteers.
+  - National, regional, and local government and industry support, both organizational and financial.
+  - Accessibility to the location (i.e., transportation) and attractiveness of the proposed site. Accessibility can include both information about local transportation and travel information to the location (flight and/or train connections), as well as estimated costs.
+  - Appropriateness of the proposed dates (including consideration of holidays/other events during the period), hotel prices, and access to dormitory facilities for students.
+  - Estimated costs on registration for the conference and workshops, both for regular and student participants.
+  - Conference and exhibit facilities for the anticipated number of registrants (typically around 200). For example: = number, capacity and audiovisual equipment of meeting rooms; = a large plenary session room that can hold all the registrants; = enough rooms for parallel session workshops/tutorials in the two days before and the two days after the main conference; = internet connectivity and workstations for demos/competitions; = catering services; = presence of professional staff.
+  - Support for hybrid attendance to the conference.
+  - Residence accommodations and food services in a range of price categories and close to the conference venue, for example, number and cost range of hotels, and availability and cost of dormitory rooms (e.g., at local universities) and kind of services they offer.
+  - Other relevant information, which can include information about leisure activities and attractiveness of the location (e.g., cultural and historical aspects, touristic activities, etc...). 
+
+
+
+
+
+Datalog 2.0 2022:  4th International Workshop on the Resurgence of Datalog in Academia and Industry
+   https://tinyurl.com/datalog20-22 datalog20-22@easychair.org 
+   September 5, 2022, Genova, Italy Workshop of LPNMR 2022
+CALL FOR PAPERS
+* AIMS AND SCOPE
+  Datalog 2.0 is a workshop for Datalog researchers, implementors, and users. Its aim is to bring together researchers and practitioners interested in different aspects of Datalog to share research experiences, promote collaboration and identify directions for joint future research.
+  The 4th International Workshop on the Resurgence of Datalog in Academia and Industry (Datalog 2.0 2022) will be held in Genova, Italy, on September 5, 2022. Datalog 2.0 2022 is a workshop of the 16th International Conference on Logic Programming and Non-monotonic Reasoning (LPNMR 2022).
+  The first edition of Datalog 2.0 was held in Oxford, UK, in 2010, and it was by invitation only. Since Datalog has resurrected as a lively topic with applications in many different areas of computer science, as well as industry, the second and the third edition of the workshop, which were held in Vienna in 2012 and in Philadelphia in 2019, respectively, were open for submissions. 
+* TOPICS 
+  Authors are invited to submit papers presenting original and unpublished research on the foundational aspects of Datalog, as well as on its applications in other areas of computer science and in industry. Potential areas of application of Datalog may include (among others): data management, data mining, knowledge representation and reasoning, cloud computing, distributed computing, logic programming, privacy and security, probabilistic reasoning, program analysis, programming languages, semantic web, social networks, streaming, verification, web services. 
+* SUBMISSION
+ Datalog 2.0 2022 welcomes two types of submissions
+  - Long papers of up to 12 pages, presenting original research 
+  - Short papers of up to 5 pages that may contain either original ongoing research or recently published results in the following categories: Technical papers,  System descriptions,  Application descriptions
+  The indicated number of pages includes title page and references. All submissions will be peer-reviewed. Accepted papers will be submitted for publication in the CEUR Workshop proceedings (http://ceur-ws.org). Authors can opt-out if desired. At least one author of each accepted paper must attend the workshop to present the work. Submissions must be written in English, and formatted according to Springer's guidelines and technical instructions. 
+  Paper submission is enabled via the Datalog 2.0 2022 EasyChair site: https://easychair.org/conferences/?conf=datalog20-22 
+* IMPORTANT DATES
+  -dh Paper registration: July 1, 2022
+  -dh Paper submission: July 8, 2022
+  -d Notification: August 1, 2022
+  -d Final versions due: August 20, 2022
+
+
+
+
+
+
+
+PhD student position on proof theory and verification of legal software:
+  Barcelona, 
+JOB ANNOUNCEMENT
+* DEADLINE (AoE)
+  -dh Deadline: April 3th, 2022 
+* The University of Barcelona offers a 3 year PhD position in collaboration with the Catalan industrial sector. The industrial component of the PhD revolves around the development and verification of legal software in Coq within Formal Vindications SL (formalvindications.com). This work will be complemented with the formalisation of parts of logic/mathematics and possibly research of a less applied nature.
+  As such, there are two possible tracks:
+  - (1) The PhD student proposes an external supervisor with whom to work on academic Coq-related questions (such as verified extraction, or others);
+  - (2) The PhD student works under the supervision of Joost J. Joosten (joostjjoosten.nl) in the area of proof theory and formal logic for the academic part of the thesis.
+  Gross salary is about 22K€ per year (well above average for a PhD student in Spain) and comes with a travel allowance of at least 2200€ per year. Starting date should be around August/September 2022.
+  The successful candidate will enter an active and strong logic group in Barcelona. They will be trained on Coq and functional programming in OCaml by an experienced team. If needed, the contract can be extended after the initial three years.
+  We are looking for very strong candidates with a background in theoretical computer science, mathematics and/or mathematical logic. It is a strict requirement to have finished a relevant Master degree with an average undergraduate and master score of at least 6.5 out of 10.
+  Interested candidates should send their CV, letter of motivation and academic track record to Aleix Solé <aleix.sole@ub.edu>. Further questions on the position can be sent to Joost J. Joosten <jjoosten@ub.edu>.
+
+10 PhD Positions at TU Wien:
+JOB ANNOUNCEMENT
+* 10 PHD POSITIONS: University Assistant (Pre-Doc) 
+* 40 hours/week, limited for 4 years
+* Novel & interdisciplinary Marie Skłodowska-Curie COFUND doctoral training programme LogiCS@TUWien - Logics for Computer Science
+* TU Wien, Faculty of Informatics (Vienna, Austria)
+* Research Projects on Logical Methods in Computer Science and their applications, including: AI, Databases, Verification, Algorithms, Security, CPS
+* English-language Curriculum
+* Supervision by internationally renowned professors
+* Deadline
+  -dh Deadline 1st Call: April 30, 2022
+* Application Details and Contact: http://www.vcla.at/msca
+
+
