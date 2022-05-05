@@ -1,0 +1,219 @@
+-dd May 01, 2022
+
+-dM ATVA 2022:  May 01, 2022 (Abstract, extended), May 08, 2022 (Paper, extended)
+-dM MOVEP2022:  May 01, 2022 (Student Abstract), Apr 30, 2022 (Early registration deadline)
+-dM IWC 2022:   May 02, 2022 (Paper)
+-dM FORMATS 2022:   May 04, 2022 (Abstract, extended), May 06, 2022 (Paper, extended)
+-dM Runtime Verification 2022:  May 05, 2022 (Paper)
+-dM ASL 2022:   May 10, 2022 (Papers), May 10, 2022 (Papers due)
+-dM CiE 2022:   May 10, 2022 (Abstracts of informal presentations)
+-dM NSV 2022:   May 10, 2022 (Paper)
+-dM LAMAS&SR 2022:  May 23, 2022 (Paper)
+-dM PODS 2023:  May 30, 2022 (First cycle abstract), Jun 06, 2022 (Full paper), Nov 28, 2022 (Second cycle abstract), Dec 05, 2022 (Full paper)
+-dM FSCD 2024:  Jun 27, 2022 (Deadline for proposals)
+-dM ACKERMANN AWARD 2022:   Jul 01, 2022 (Deadline for nomination)
+-dM Datalog 2.0 2022:   Jul 01, 2022 (Paper registration), Jul 08, 2022 (Paper)
+
+SAS 2022: 29th Static Analysis Symposium
+  Auckland, New Zealand, December 5th-7th, 2022
+  co-located with SPLASH
+  https://2022.splashcon.org/home/sas-2022
+CALL FOR PAPERS
+* CONFERENCE
+  The 28th Static Analysis Symposium, SAS 2022, will be co-located with SPLASH 2022 in Auckland, New Zealand.
+  Static Analysis is widely recognized as a fundamental tool for program verification, bug detection, compiler optimization, program understanding, and software maintenance. The series of Static Analysis Symposia has served as the primary venue for the presentation of theoretical, practical, and application advances in the area.
+* IMPORTANT DATES
+-dh Full paper submission: Wednesday, May 4th, 2022 
+-dh Full paper updates until: May 12th, 2022 
+-dh Artifact submission: Wednesday, May 18th, 2022 
+-dv Author response period: Jun 27-30, 2022
+-d Notification: Friday, July 15th, 2022 
+-d Final version due: Friday, September 16th, 2022 
+-dv Conference: Dec 5-7, 2022
+* PAPER SUBMISSION
+  All paper submissions will be judged on the basis of significance, relevance, correctness, originality, and clarity. Submission link: https://easychair.org/conferences/?conf=sas2022 We welcome regular papers as well as papers focusing on any of the following:
+  -  Experience with static analysis tools, Industrial Reports, and Case Studies
+  -  Tool papers
+  -  Brief announcements of work in progress
+  -  Well-motivated discussion of new questions or new areas. We do not impose a page limit for submitted papers but we encourage brevity as reviewers have a limited time that they can spend on each paper. With the exception of experience papers, all other papers will follow a lightweight double-blind reviewing process.
+* RADHIA COUSOT AWARD
+  The program committee will select an accepted regular paper for the Radhia Cousot Young Researcher Best Paper Award in memory of Radhia Cousot and her fundamental contributions to static analysis, as well as being one of the main promoters and organizers of the SAS series of conferences.
+* ARTIFACTS
+  As in previous years, we encourage authors to submit a virtual machine image containing any artifacts and evaluations presented in the paper. Artifact submission is optional. Artifact evaluation will be concurrent with paper review.
+
+
+CiE 2022: Computability in Europe 2022 Revolutions and revelations in computability
+  CiE 2022 is planned as an on-site conference with online elements 
+  Swansea, Wales, United Kingdom
+  July 11-15, 2022
+  https://cs.swansea.ac.uk/cie2022/
+CALL FOR INFORMAL PRESENTATIONS
+* Continuing the tradition of past CiE conferences, we invite researchers to present informal presentations of their recent work. A proposal for an informal presentation must be submitted via EasyChair (https://easychair.org/conferences /?conf=cie2022), using the LNCS style file, and be 1 page long; a brief description of the results suffices and an abstract is not required. Informal presentations will not be published in the LNCS conference proceedings. Results presented as informal presentations at CiE 2022 may appear or may have appeared in other conferences with formal proceedings and/or in journals. The deadline for the submission of abstracts for informal presentations is May 10, 2022. The notifications of acceptance for informal presentations will be sent a few days after submission.
+
+
+ICALP 2022: International Colloquium on Automata, Languages, and Programming
+  Paris, France, and online on 4-8 July 2022
+  https://icalp2022.irif.fr/
+CALL FOR PARTICIPATION
+* The 2022 edition has the following special features: - The conference is hybrid. - This will be the 50th birthday of the conference and some special events are planned. - The ICALP Extended Stay Support Scheme (IESSS) is here for helping the organisation of collaborations around the conference.
+  ICALP is the main conference and annual meeting of the European Association for Theoretical Computer Science (EATCS). As usual, ICALP will be preceded by a series of workshops, which will take place on July 4.
+  The 2022 edition will be also the occasion to celebrate the 50th anniversary of both EATCS and the first ICALP, which was first held in 1972 in Rocquencourt, in the Paris area.
+* IMPORTANT DATES AND INFORMATION 
+  -dh Early Registration: May 11,2022
+  -dv Conference: Jul 4-8, 2022 
+  -d Workshops: July 4, 2022
+* REGISTRATION 
+  For registration, follow this link: https://icalp2022.irif.fr/?page_id=50
+* EXTENDED STAY SUPPORT SCHEME (IESS) 
+  For its 49th edition, the ICALP conference offers to its attendees an Extended Stay Support Scheme (IESSS) aiming at enhancing scientific collaborations and diminishing the carbon footprint of scientific research activities. ICALP 2022 attendees are encouraged to combine their visit to Paris with collaborations with local researchers.
+  This support scheme is primarily intended for participants travelling long distances and must be combined with an attendance to ICALP. Upon acceptation, research institutes involved in this mechanism will cover standard expenses (accommodation and traveling fees, plane excluded) and will provide material support for research activities.
+  See https://icalp2022.irif.fr/?page_id=50 for more information.
+* INVITED SPEAKERS 
+  - Albert Atserias, Universitat Politècnica de Catalunya
+  - Constantinos Daskalakis, MIT 
+  - Leslie Ann Goldberg, Oxford University 
+  - Madhu Sudan, Harvard 
+  - Stéphan Thomassé, ENS Lyon 
+  - Santosh Vempala, Georgia Tech
+* AWARDS 
+  During the conference, the following awards will be given:
+  - the EATCS award (https://eatcs.org/index.php/eatcs-award),
+  - the Gödel prize (https://eatcs.org/index.php/goedel-prize),
+  - the Presburger award (https://eatcs.org/index.php/presburger),
+  - the EATCS distinguished dissertation award (https://eatcs.org/index.php/dissertation-award),
+  - the best papers for Track A and track B,
+  - the best student papers for Track A and track B.
+* ACCEPTED PAPERS 
+  See https://icalp2022.irif.fr/?page_id=85 
+* WORKSHOPS 
+  See https://icalp2022.irif.fr/?page_id=46 for more information.
+  - Parameterized Approximation Algorithms Workshop 
+  - Combinatorial Reconfiguration 
+  - Recent Advances on Total Search Problems 
+  - Algorithmic Aspects of Temporal Graphs V 
+  - Trends in Arithmetic Theories 
+  - Structure Meets Power 2022 
+  - Straight-Line Programs, Word Equations and their Interplay 
+  - Graph Width Parameters: from Structure to Algorithms
+
+
+
+
+
+ 
+
+NFM 2022: 14th NASA Formal Methods Symposium 
+  NFM 2022 is organized by Jet Propulsion Laboratory, USA 
+  May 24-27, 2022
+  Pasadena, California, USA (MIXED PHYSICAL + VIRTUAL SYMPOSIUM)
+  https://nfm2022.caltech.edu
+  Free Registration: https://nfm2022.caltech.edu/register
+CALL FOR PARTICIPATION
+* After two years of virtual NFM symposia, we are returning to arranging a physical event. However, virtual participation is supported for those who prefer this option.
+* THEME OF THE SYMPOSIUM
+  The complexity of mission-critical and safety-critical systems at NASA and in the aerospace industry requires advanced techniques to address their specification, design, verification, validation, and certification. The NASA Formal Methods Symposium (NFM) is a forum to foster collaboration between theoreticians and practitioners from NASA, academia, and industry working on formal methods to develop and apply such techniques. 
+  The NASA Formal Methods Symposium is an annual event organized by the NASA Formal Methods Research Group, composed of researchers spanning six NASA centers. 
+* REGISTRATION
+  There is no registration fee charged to participants. Register here: https://nfm2022.caltech.edu/register 
+* KEYNOTE SPEAKERS
+  - Dines Bjørner (Technical University of Denmark, Denmark
+  - Steve Chien (Jet Propulsion Laboratory, USA
+  - Daniel Jackson (MIT CSAIL, USA
+  - Julia Lawall (Inria-Paris, France
+  - Sriram Sankaranarayanan (University of Colorado Boulder, USA
+  - Alex Summers (University of British Columbia, Canada
+  - Emina Torlak (University of Washington, USA)
+* TUTORIALS
+  - Edwin Brady (University of St. Andrews, UK)
+  - Ankush Desai (Amazon Web Services, USA)
+  - Anastasia Mavridou (KBR Inc/NASA Ames Research Center, USA)
+  - Leonardo de Moura (Microsoft Research, USA)
+  - Sebastian Ullrich (Karlsruhe Institute of Technology, Germany)
+
+ 
+
+
+
+
+
+PERR2022: 5th Workshop on Program Equivalence and Relational Reasoning 
+  August 11, 2022 at Technion, Haifa, Israel associated with CAV 2022 at FLOC 2022 
+  https://perr-workshop.github.io/2022
+  Submission Deadline: Friday, 28 May, 2022 (AoE)
+  Submit at: https://easychair.org/conferences/?conf=perr2022
+CALL FOR PAPERS/PRESENTATIONS
+* PERR is an annual international workshop dedicated to the formal verification of program equivalence and related relational problems. It is the 5th in a series of meetings that bring together researchers from different areas interested in equivalence and related questions. PERR 2022 will be a workshop at FLOC 2022, and a satellite event to CAV 2022.
+  Program equivalence is arguably one of the most interesting and at the same time important problems in formal verification. It is a cross-cutting topic that has attracted the interest of several research communities: the field of denotational (game) semantics, deductive software verification, bounded model checking, specification inference, software evolution and regression testing, etc.
+  The goal of the workshop is to bring researchers of the different fields in touch and to stipulate an exchange of ideas leading to forging a community working on PERR. It welcomes contributions from the topics mentioned above but is also open to new questions regarding program equivalence. This includes related research areas of relational reasoning like program refinement or the verification of hyperproperties, in particular of secure information flow.
+  - regression verification 
+  - program equivalence 
+  - equivalence of higher order programs 
+  - product programs, relational calculi 
+  - verification of hyperproperties 
+  - program refinement, refinement calculus 
+  - specification of differences between programs 
+  - inferring semantic differences between programs 
+  - transformation validation 
+  - correct compiler transformations 
+  - automata bisimulation 
+  - code equivalence checking in teaching and marking
+  This is an informal workshop that welcomes work in progress, overviews of more extensive work, programmatic or position papers and tool presentations.
+* SUBMISSION GUIDELINES
+  Please submit an abstract (this can be in the form of 1-2 pages of text, or a paper of no more than 15 pages in LNCS format) of your proposed talk on the EasyChair submission page below. Submissions will be reviewed by at least 2 PC members and feedback will be provided.
+ https://easychair.org/conferences/?conf=perr2022
+  The workshop will have informal proceedings, posted on the webpage, and speakers will be asked to consider submitting papers towards a post-proceedings volume (to be published e.g. as a technical report).
+* IMPORTANT DATES (AoE) 
+  -dh Submission Deadline: Friday, 28 May, 2022 
+  -d Notification: Friday, July 1, 2022 
+  -d Workshop: Thursday, August 11, 2022 
+
+
+
+
+ 
+
+LogTeach-22: Why and how to teach Logic for CS undergraduates? 
+  https://www.cs.technion.ac.il/~janos/LogTeach-22/ 
+  LICS 2022 Workshop (July 31 and August 1, 2022, Haifa)
+  FLOC is planned to be a conference with physical presence (possibly hybrid) in Haifa.
+  https://easychair.org/cfp/LogTeach-22
+CALL FOR CONTRIBUTIONS 
+* SCIENTIFIC JUSTIFICATION 
+  Logic is one of the pillars of the foundation of Computer Science, together with Algorithmic Mathematics, Information Theory, and Electronics. Consequently various versions of Logic courses used to be part of the undergraduate syllabus of Computer Science. However, as witnessed by the variety of conferences related to Logic present at the FLoC event, the emphasis has moved from the foundation to applications of Logic in Computer Science. Each of these conferences deal with topics suitable for advanced undergraduate and graduate courses, which require some Logic based prerequisite. On the other hand, Logic courses in the undergraduate syllabus have been forced to make place for courses deemed more suitable for the education of future specialists and practitioners working in IT. Many of the top Universities worldwide have dropped foundational Logic courses for undergraduates for more practical oriented courses, turning undergraduate CS programs into programs more suitable for what used to be vocational colleges and professional schools.
+  Time has come to critically reflect upon and reevaluate the role of Logic in the undergraduate syllabus. It seems clear that the classical Logic in CS courses have no place there anymore. They seem to teach and emphasize the wrong narrative of logic as taught by tradition. However, it seems also clear that eliminating Logic courses all together is counter productive. The purpose of the workshop is the prepare a proposal for a logic course Logic-2020 which is useful and acceptable for University undergraduates in CS, and which can serve as a prerequisite for the many diverse branches of applied logic.
+  Georg Kreisel: "Logic may be not very useful, if you know it, but very harmful, if you ignore it" 
+* INVITED SPEAKERS (updated)
+  - Moshe Vardi (Rice University, Houston TA, USA) 
+  - Matthias Baaz (Technical University, Vienna, Austria) 
+  - Reinhold Kahle (Universität Tübingen, Tübingen, Germany) 
+  - Arnon Avron (TA University, Tel Aviv, Israel) 
+  - Martin Davis (Courant Institute, New York, USA) 
+  - Thomas Zeume (Ruhr Universität Bochum, Germany)
+  To be completed
+* CONTRIBUTED TALKS
+  We invite contributed talks, which can be 15 minute or 30 minutes (including discussion). This will serve as the basis for the planned panel discussion. Contributers should submit a pdf-file of an abstract or summary of atmost 3 pages at https://easychair.org/cfp/LogTeach-22 till 30. May, 2022. Full papers may be additionally submitted only as a second submission besides the 3 page version.
+* ORGANISATION 
+  The purpose of the workshop is to prepare a joint position paper to be published possibly in the Communications of ACM, or a similar prominent place, with recommendations for the future of teaching Logic for undergraduate CS-students. We plan to have presentations of position papers (30 minutes, including discussion) and invited lectures (60 minutes including discussion), followed by a two hour panel discussion.
+* DATES   
+  -dh Deadline for submission of contributions: May 30, 2022 
+  -d Notification of acceptance: June 20, 2022 
+  Submission link: https://easychair.org/conferences/?conf=logteach22 
+
+ESSLLI 2022: European Summer School in Logic, Language and Information
+  Galway, Ireland 
+CALL FOR PARTICIPATION
+*  Registration is now open for the 33rd European Summer School in Logic, Language and Information (ESSLLI), taking place from 8-19 August, 2022 at the National University of Ireland Galway: https://2022.esslli.eu/
+* OVERVIEW
+  The European Summer School in Logic, Language and Information (ESSLLI) is a yearly recurring event, organised under the auspices of the Association for Logic, Language and Information (FoLLI), and has been running since 1989. The ESSLLI Summer School provides an interdisciplinary setting in which courses and workshops are offered in logic, linguistics and computer science, also from wider scientific, historical, and philosophical perspectives.
+  ESSLLI attracts around 400 participants from all parts of Europe, as well as from North and Latin America, and Asia. The ESSLLI has become the main meeting place for young researchers and students in logic, linguistics and computer science to discuss current research and to share knowledge. The event is unique in its interdisciplinary set-up, with no equivalents in Europe.
+* PROGRAMME
+  The ESSLLI Summer School offers an exciting two-week programme, consisting of the following: 
+  - Workshops in logic, linguistics and computer science 
+  - Courses, foundational, introductory and advanced, in three areas: Language and Computation, Logic and Computation, and Logic and Language 
+  - Student session 
+  - Evening lectures 
+  - Social activities
+* REGISTRATION
+  Registration for attendees, course lecturers, student session and workshop organisers and speakers is now open. https://2022.esslli.eu/registration.html. 
+  -dh Early registration deadline: May 31, 2022
+
