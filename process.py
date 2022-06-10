@@ -304,11 +304,13 @@ for typ in types:
 								}
 							]
 						})
+				print(elements)
 
 document['toc'] = {
 		"type": "ul",
 		"text": elements
 	}
+
 
 
 lst = list(document['dates'].items())

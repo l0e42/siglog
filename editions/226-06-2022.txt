@@ -1,0 +1,362 @@
+-dd June 01, 2022
+
+
+ -dM LAMAS&SR 2022:   Jun 06, 2022 (Paper, extended) 
+ -dM FSCD 2024:  Jun 27, 2022 (Deadline for proposals)
+ -dM Datalog 2.0 2022:   Jul 01, 2022 (Paper registration), Jul 08, 2022 (Paper)
+ -dM PODS 2023: Nov 28, 2022 (Second cycle abstract), Dec 05, 2022 (Full paper)
+ -dM ESSLLI 2022: Jun 05, 2022 (Early bird registration, extended)
+ -dM PERR2022:   Jun 04, 2022 (Submission, extended)
+ -dM GandALF 2022: Jun 03, 2022 (abstract, extended), Jun 10, 2022 (submission, extended)
+
+FLOC 2022: The Eighth Federated Logic Conference
+  Jul 31-Aug 12, 2022, Haifa, Israel 
+  https://www.floc2022.org/
+CALL FOR PARTICIPATION -s SIGLOG MATTER
+* IMPORTANT INFORMATION
+  -dh Early registration closed: 20th June 2022.
+  -dh Regular registration closes: 20th July 2022.
+  ON-SITE REGISTRATION will be possible during the conference.
+  The conference will take place IN PERSON, see https://www.floc2022.org/covid-19 for the latest COVID regulations.
+  It is imperative that you BOOK ACCOMMODATION ASAP to avoid disappointment.
+  - Registration: https://www.floc2022.org/registration
+  - Accommodation: https://www.floc2022.org/accommodation
+  Registration for the main conference block gives you access to any other conference in the same period. Conference registration includes reception, lunches, and coffee breaks. A banquet ticket can be added to the conference registration.
+  Registration for a workshop day means you can attend any other workshop on the same day. Workshop registration includes lunches and coffee breaks.
+* ACCOMMODATION
+  https://www.floc2022.org/accommodation
+  We have made block bookings at several locations in Haifa until mid-May and any unsold rooms are now being released. It is imperative that you book NOW to avoid disappointment, as July/August is a busy period in Haifa!
+* ABOUT FLOC
+  During the past forty years there has been extensive, continuous, and growing interaction between logic and computer science. In many respects, logic provides computer science with both a unifying foundational framework and a tool for modeling. In fact, logic has been called “the calculus of computer science”, playing a crucial role in diverse areas such as artificial intelligence, computational complexity, distributed computing, database systems, hardware design, programming languages, and software engineering.
+  The Federated Logic Conference brings together several international conferences related to mathematical logic and computer science and was first organized in 1996, as part of the DIMACS Special Year on Logic and Algorithms. Since then FLoC was held in Trento in 1999, Copenhagen in 2002, Seattle in 2006, Edinburgh in 2010, Vienna in 2014, and Oxford in 2018.
+  The eighth Federated Logic Conference (FLoC'22) will be held in Haifa, Israel, in July 2022.
+* CONFERNCES
+  FLoC 2022 brings together twelve major international conferences, 70+ workshops, and several special events.
+  - CAV http://i-cav.org/2022/
+  - CP https://cp2022.a4cp.org/
+  - CSF https://www.ieee-security.org/TC/CSF2022/
+  - DL https://dai.fmph.uniba.sk/events/dl2022/
+  - FSCD https://www.cs.tau.ac.il/~nachumd/FSCD/
+  - ICLP https://software.imdea.org/Conferences/ICLP2022/
+  - IJCAR https://easychair.org/cfp/IJCAR-2022
+  - ITP https://itpconference.github.io/ITP22/
+  - KR https://kr2022.cs.tu-dortmund.de/
+  - NMR https://sites.google.com/view/nmr2022/home-page
+  - LICS https://lics.siglog.org/lics22/
+  - SAT http://satisfiability.org/SAT22/
+* KEYNOTES/PLENARY LECTURES
+  - Catuscia Palamidessi, Director of Research at INRIA
+  - Don Knuth, CP invited speaker, The Art of Computer Programming at Stanford University
+  - Orna Kupferman, School of Computer Science and Engineering at The Hebrew University of Jerusalem
+  - Ziyad Hanna, Corporate Vice President at Cadence Design Systems
+  - Aarti Gupta, Department of Computer Science at Princeton University
+* CONFERENCE INVITED SPEAKERS
+  - CAV: Arie Gurfinkel, Neha Rungta
+  - FSCD: Cynthia Kop, Alwen Tiu
+  - ICLP: Fabrizio Riguzzi, Theresa Swift
+  - LICS: Amal Ahmed, Mikolaj Bojanczyk
+  - KR: Yejin Choi, Tony Hunter, Leonid Libkin
+* SOCIAL EVENTS
+  There is one Reception and one Banquet during each FLoC block, and one Workshop Dinner during each of the workshop blocks. For details, see https://www.floc2022.org/program. Guests are welcome: you can reserve your place(s) via the registration system.
+* SPECIAL EVENTS
+  Two logic lounges are held - one on August 2nd and the other on August 7th. See https://www.floc2022.org/logiclounge for details.
+* MENTORING WORKSHOPS
+  Two mentoring workshops will be held, on August 1 and August 5.
+  See https://www.floc2022.org/flocmentoringworkshop for more details.
+* SPONSORSHIP
+  We are indebted to our sponsors for making FLoC possible, see: https://www.floc2022.org/sponsors
+* LOCAL INFORMATION
+  Our website includes details for travel (including accessibility), venues, and things to do in Haifa for our attendees and their families: see https://www.floc2022.org/information for more information.
+  FLoC 2022 promises to be an exciting meeting, and we hope to see you in Haifa!
+* CALL FOR VOLUNTEERS
+  FLoC 2022 invites students to apply to our volunteer program. Volunteers will receive a stipend (a variable amount towards registration and travel costs for students depending on the origin of travel) in exchange for volunteer work at the conference. FLoC’22 volunteers will be able to interact with speakers and participants, network with other researchers, and meet graduate students from all over the world. See https://www.floc2022.org/volunteers for details.
+* ADDITIONAL INFORMATION
+  See https://www.floc2022.org/about
+
+
+
+
+
+
+
+
+ACKERMANN AWARD 2022: THE EACSL OUTSTANDING DISSERTATION AWARD FOR LOGIC IN COMPUTER SCIENCE
+CALL FOR NOMINATIONS
+* Nominations are now invited for the 2022 Ackermann Award. PhD dissertations in topics specified by the CSL and LICS conferences, which were formally accepted as PhD theses at a university or equivalent institution between 1 January 2020 and 31 December 2021 are eligible for nomination for the award.
+  -dh Deadline for nomination: 1 July 2022. 
+  Nominations can be submitted from 1 March 2022 and should be sent to the chair of the Jury, Thomas Schwentick, by e-mail: thomas.schwentick@tu-dortmund.de
+* THE AWARD 
+  The 2022 Ackermann award will be presented to the recipient(s) at CSL 2023, the annual conference of the EACSL.
+  The award consists of
+  - a certificate, 
+  - an invitation to present the thesis at the CSL conference, 
+  - the publication of the laudatio in the CSL proceedings, 
+  - an invitation to the winner to publish the thesis in the FoLLI subseries of Springer LNCS, and 
+  - financial support to attend the conference.
+  The jury is entitled to give the award to more (or less) than one dissertation in a year.
+* THE JURY
+  The jury consists of:
+  - Christel Baier (TU Dresden); 
+  - Maribel Fernandez (King’s College London); 
+  - Jean Goubault-Larrecq (ENS Paris-Saclay); 
+  - Delia Kesner (IRIF, U Paris); 
+  - Slawomir Lasota (U Warsaw); 
+  - Prakash Panangaden (McGill University); 
+  - Simona Ronchi Della Rocca (University of Torino), the vice-president of EACSL; 
+  - Thomas Schwentick (TU Dortmund), the president of EACSL; 
+  - Alexandra Silva, (University College London), ACM SigLog representative; 
+  - James Worrell (U Oxford).
+* HOW TO SUBMIT 
+  The candidate or his/her supervisor should submit
+   - the thesis (ps or pdf file); 
+   - a detailed description (not longer than 10 pages) of the thesis in ENGLISH (ps or pdf file); it is recommended to not squeeze as much material as possible into these (at most) 10 pages, but rather to use them for a gentle introduction and overview, stressing the novel results obtained in the thesis and their impact; 
+   - a supporting letter by the PhD advisor and two supporting letters by other senior researchers (in English); supporting letters can also be sent directly to Thomas Schwentick (thomas.schwentick@tu-dortmund.de); 
+   - a short CV of the candidate; 5. a copy of the document asserting that the thesis was accepted as a PhD thesis at a recognized University (or equivalent institution) and that the candidate has received his/her PhD within the specified period.
+  The submission should be sent by e-mail as attachments to the chairman of the jury, Thomas Schwentick: thomas.schwentick@tu-dortmund.de
+  With the following subject line and text:
+   - Subject: Ackermann Award 22 Submission 
+   - Text: Name of candidate, list of attachments
+  Submission can be sent via several e-mail messages. If this is the case, please indicate it in the text. 
+
+
+
+
+
+TYPES 2022 and CA20111: 28th International Conference on Types for Proofs and Programs and EuroProofNet Cost Action meeting
+  Nantes, France, 20-25 June 2022 
+  https://types22.inria.fr
+  Early registration deadline: June, 1st 2022
+  Registration: https://types22.sciencesconf.org/registration/
+CALL FOR PARTICIPATION
+  -dM TYPES 2022 and CA20111: Jun 01, 2022 (Early registration deadline)
+* INVITED SPEAKERS
+  - Youyou Cong: Composing Music from Types
+  - Ekaterina Komendantskaya: Refine and Synthesise: a type-theoretic view on neural network robustness.
+  - Sam Lindley: On the expressive power of types.
+  - Leonardo de Moura: The Lean 4 theorem prover and programming language
+* REGISTRATION FEES
+  To facilitate their attendance, TYPES'22 offers a reduced rate for students, available in the registration form. In addition, all registrations performed before June, 1st will be offered a discount.
+  It is possible to register for the satellite events only, which will take place on June 24th and 25th. Such a registration is free, but mandatory for catering purposes. Registering to TYPES'22 implicitly includes registration to satellite events.
+  See the registration page https://types22.sciencesconf.org/registration/ for details.
+* BACKGROUND
+  The TYPES meetings are a forum to present new and on-going work in all aspects of type theory and its applications, especially in formalised and computer assisted reasoning and computer programming.
+  The TYPES areas of interest include, but are not limited to:
+  - foundations of type theory and constructive mathematics; 
+  - applications of type theory; 
+  - dependently typed programming; 
+  - industrial uses of type theory technology; 
+  - meta-theoretic studies of type systems; 
+  - proof assistants and proof technology; 
+  - automation in computer-assisted reasoning; 
+  - links between type theory and functional programming; 
+  - formalizing mathematics using type theory.
+  The EuroProofNet Cost Action CA20111 focuses on the same research topics as TYPES and partially sponsors the TYPES Conference. 
+
+
+
+
+
+
+
+Logic for the AI Spring Summer School
+  Lake Como School of Advanced Studies,
+  September 12-16, 2022
+  https://lais.lakecomoschool.org/
+CALL FOR PARTICIPATION
+* DESCRIPTION
+  Logic for the AI Spring aims at bringing together logicians and other scientists working around and within the currently blossoming new AI Spring. In addition to a glorious past which must not be forgotten, logic has a fundamental role to play, which is still largely in the making, in the future of AI research and applications. Researchers entering the field now have an opportunity to shape logic-based AI in the years to come. The School is designed to help them become culturally aware of the larger picture, which is made of urgent scientific and societal challenges, against which the unprecedented successes of the present AI Spring must be evaluated.
+* PROGRAMME & TOPICS
+  The School will feature four 8-hour tutorials:
+  - History and culture of AI (Stephanie Dick, Simon Fraser University)
+  - Combining Machine Learning and Theorem Proving (Josef Urban, Czech Institute of of Informatics, Robotics and Cybernetics)
+  - Multiagent Systems (Michel Wooldridge, Oxford University)
+  - Logic (Alessandra Palmigiano, VU Amsterdam)
+  A selection of participants will have an opportunity to present their own work in dedicated Work in Progress (WiP) sessions. The following is a (non exhaustive) list of topics in which we welcome WiP submissions:
+  - Knowledge representation and reasoning in AI
+  - Logical methods in AI
+  - Uncertainty and decision-making in AI
+  - Computational social choice
+  - Explainable AI
+  - Human-compatible AI.
+* APPLICATION
+  Registration fees: 250 euro, VAT 22% included. The fee covers all lectures; course materials; lunches and coffee breaks; social dinner.
+* HOW TO APPLY
+  Details available at https://lais.lakecomoschool.org/application/
+* DEADLINES:
+  -dh Student application: June 15, 2022
+  -d Notification of acceptance: June 30, 2022
+  -d Registration (only accepted students): 10 July, 2022
+* SUPPORT
+  Owing to generous funding from MOSAIC, HaPoC and Turing Center ETH we can offer limited financial support for particularly strong candidates who do not have access to funding. If you wish to apply for it, please send to hykel.hosni@unimi.it a letter stating your funding status.
+* PUBLICATION
+  The International Journal of Approximate Reasoning will publish a Special Issue to follow up on the themes covered in the School. Applicants are particularly encouraged to submit their original research to the SI (the usual refereeing procedure applies to guarantee the highest scientific standards). Deadlines to follow.
+* CO-LOCATED EVENT
+  On Saturday 17 September a one day workshop on “Bias, Risk and Opacity in AI” organised by members of the BRIO Research project (sites.unimi.it/brio) will take place at the Department of Philosophy, University of Milan. Participants to the Summer School are welcome to attend. A poster session for PhDs and Postdocs will be organised and School attendees are very welcome to present their current research (whether they have been selected or not for presentation at the Summer School). Please contact Giuseppe Primiero giuseppe.primiero@unimi.it for information.
+* CONTACTS
+  For enquiries about the venue of the school, travel, accommodation, and application procedure, please contact Alessandra Cazzaniga (alessandra.cazzaniga@fondazionealessandrovolta.it) at Fondazione Alessandro Volta, Como. 
+
+
+
+
+CiE 2022: Computability in Europe 2022
+  Swansea, Wales, United Kingdom, CiE 2022 will be an on-site conference with some remote talks
+  July 11-15, 2022
+  https://cs.swansea.ac.uk/cie2022/
+  Registration link: https://easychair.org/register/register.cgi?a=28759463
+CALL FOR PARTICIPATION
+* Computability in Europe 2022: Revolutions and revelations in computability
+* IMPORTANT DATES:
+  -dh Regular registration: June 30, 2022
+  Information about travel and accommodation is available at https://cs.swansea.ac.uk/cie2022/travelandaccommodation
+  CiE 2022 is the 18th conference organized by CiE (Computability in Europe), a European association of mathematicians, logicians, computer scientists, philosophers, physicists and others interested in new developments in computability and their underlying significance for the real world.
+* TUTORIAL SPEAKERS:
+  - Dora Giammarresi (Università di Roma Tor Vergata)
+  - Noam Greenberg (Victoria University of Wellington)
+* INVITED SPEAKERS:
+  - Erika Ábrahám (RWTH Aachen University)
+  - Thierry Coquand (University of Gothenburg)
+  - Liesbeth de Mol (Université de Lille)
+  - Damir Dzhafarov (University of Connecticut)
+  - Harvey Friedman (The Ohio State University)
+  - Svetlana Selivanova (Korea Advanced Institute of Science and Technology - KAIST)
+* SPECIAL SESSIONS:
+  - At the intersection of computability and other areas of mathematics, organised by Denis Hirschfeldt (University of Chicago) and Karen Lange (Wellesley College)
+  - Computability theory of blockchain technology, organised by Arnold Beckmann (Swansea University) and Anton Setzer (Swansea University)
+  - Computing Language: Love Letters, Large Models and NLP, organised by Liesbeth de Mol (Université de Lille) and Giuseppe Primiero (University of Milan) for the Council of the HaPoC Commission
+  - Computing with bio-molecules, organised by Jérôme Durand-Lose (Université d'Orleans) and Claudio Zandron (University of Milan Bicocca)
+  - Constructive and reverse mathematics, organised by Samuele Maschio (Universita di Padova) and Takako Nemoto (Hiroshima Institute of Technology)
+  - Reachability problems, organised by Paul Bell (Liverpool John Moores University) and Igor Potapov (University of Liverpool)
+* See https://cs.swansea.ac.uk/cie2022/ for further information
+
+
+
+
+
+
+ICALP 2022: The 49th International Colloquium on Automata, Languages, and Programming
+  July 04-08  2022, in Paris, France, and online
+CALL FOR PARTICIPATION
+* CONFERENCE
+  ICALP is the main conference and annual meeting of the European Association for Theoretical Computer Science (EATCS). As usual, ICALP will be preceded by a series of workshops, which will take place on July 4. 
+  The 2022 edition has the following special features:
+  - The conference is hybrid.
+  - This will be the 50th birthday of the conference and some special events are planned.
+  - The ICALP Extended Stay Support Scheme (IESSS) is here for helping the organisation of collaborations around the conference.
+  The 2022 edition will be also the occasion to celebrate the 50th anniversary of both EATCS and the first ICALP, which was first held in 1972 in Rocquencourt, in the Paris area.
+* IMPORTANT DATES AND INFORMATION 
+  Website: https://icalp2022.irif.fr/ 
+  -dv Conference: July 04-08, 2022 
+  -d Workshops: July 4, 2022
+  Early registration past, registration still possible
+* REGISTRATION 
+  For registration, follow this link: https://icalp2022.irif.fr/?page_id=50
+* EXTENDED STAY SUPPORT SCHEME (IESS) 
+  For its 49th edition, the ICALP conference offers to its attendees an Extended Stay Support Scheme (IESSS) aiming at enhancing scientific collaborations and diminishing the carbon footprint of scientific research activities. ICALP 2022 attendees are encouraged to combine their visit to Paris with collaborations with local researchers.
+  This support scheme is primarily intended for participants travelling long distances and must be combined with an attendance to ICALP. Upon acceptation, research institutes involved in this mechanism will cover standard expenses (accommodation and traveling fees, plane excluded) and will provide material support for research activities.
+  See https://icalp2022.irif.fr/?page_id=50 for more information.
+* INVITED SPEAKERS 
+  - Albert Atserias, Universitat Politècnica de Catalunya 
+  - Constantinos Daskalakis, MIT 
+  - Leslie Ann Goldberg, Oxford University
+  - Madhu Sudan, Harvard 
+  - Stéphan Thomassé, ENS Lyon 
+  - Santosh Vempala, Georgia Tech
+* AWARDS 
+   During the conference, the following awards will be given:
+   - the EATCS award (https://eatcs.org/index.php/eatcs-award),
+   - the Gödel prize (https://eatcs.org/index.php/goedel-prize),
+   - the Presburger award (https://eatcs.org/index.php/presburger),
+   - the EATCS distinguished dissertation award (https://eatcs.org/index.php/dissertation-award),
+   - the best papers for Track A and track B,
+   - the best student papers for Track A and track B.
+* ACCEPTED PAPERS 
+  See https://icalp2022.irif.fr/?page_id=85 
+* WORKSHOPS 
+  See https://icalp2022.irif.fr/?page_id=46 for more information.
+  - Parameterized Approximation Algorithms Workshop 
+  - Combinatorial Reconfiguration 
+  - Recent Advances on Total Search Problems 
+  - Algorithmic Aspects of Temporal Graphs V 
+  - Trends in Arithmetic Theories 
+  - Structure Meets Power 2022 
+  - Straight-Line Programs, Word Equations and their Interplay 
+  - Graph Width Parameters: from Structure to Algorithms 
+
+ 
+RCRA 2022: 29th RCRA workshop on Experimental evaluation of algorithms for solving problems with combinatorial explosion 
+  affiliated to the 16th International Conference on Logic Programming and Non-monotonic Reasoning (LPNMR 2022) https://sites.google.com/view/lpnmr2022 
+  September, 5th, 2022; Genova, Italy 
+  RCRA group web site: http://rcra.aixia.it/ Workshop web site: TBA e-mail: marco@dibris.unige.it, M.Vallati@hud.ac.uk
+CALL FOR PAPERS
+*  This event follows the series of the RCRA (Knowledge Representation and Automated Reasoning) annual meetings, held since 1994. The success of the previous events shows that RCRA is becoming a major forum for exchanging ideas and proposing experimentation methodologies for algorithms in Artificial Intelligence.
+* IMPORTANT DATES 
+  -dh Paper submission deadline: July 10th, 2022 
+  -d Notification of acceptance: August 1st, 2022 
+  -d Final version of accepted original papers: August 22nd, 2022 
+  -d RCRA workshop: September 5th, 2022
+* AIMS AND SCOPE
+  Many problems in Artificial Intelligence show an exponential explosion of the search space. Although stemming from different research areas in AI, such problems are often addressed with algorithms that have a common goal: the effective exploration of huge state spaces. Many algorithms developed in one research area are applicable to other problems, or can be hybridized with techniques in other areas. Artificial Intelligence tools often exploit or hybridize techniques developed by other research communities, such as Operations Research. In recent years, research in Artificial Intelligence has more and more focused on experimental evaluation of algorithms, the development of suitable methodologies for experimentation and analysis, the study of languages and the implementation of systems for the definition and solution of problems.
+  Scope of the workshop is fostering the cross-fertilization of ideas stemming from different areas, proposing benchmarks for new challenging problems, comparing models and algorithms from an experimental viewpoint, and, in general, comparing different approaches with respect to efficiency, problem modeling, and ease of development.
+  Topics of interest include, but are not limited to: * Experimental evaluation of algorithms for o knowledge representation o automated reasoning o planning o scheduling o machine learning o model checking o boolean satisfiability (SAT) o constraint programming o argumentation o temporal reasoning o combinatorial optimization o quantified boolean formulae and quantified constraints o modal logics o logic programming o answer set programming o ontological reasoning * Definition and construction of benchmarks * Experimentation methodologies * Metaheuristics * Algorithm hybridization * Static analysis of combinatorial problems * Languages and systems for definition and solution of problems * Comparisons between systems and algorithms * Application experiences (visualization, graphics, security, transports,...) 
+* SUBMISSIONS
+  Authors are invited to submit either original and non-original papers. Publications showing negative results are welcome, provided that the approach was original and very promising in principle, the experimentation was well-conducted, the results obtained were unforeseeable and gave important hints in the comprehension of the target problem, helping other researchers to avoid unsuccessful paths.
+  Workshop submissions must be in PDF format, do not exceed 15 (for full papers) or 8 (for short papers) pages, and should be written in LaTeX, using the LNCS style. 
+  https://easychair.org/conferences/?conf=rcra2022
+  All submissions will be reviewed by at least three members of the program committee (TBD). 
+* CONTACT 
+  In case of need, the workshop co-chairs can be contacted by sending an email to: marco@dibris.unige.it, M.Vallati@hud.ac.uk 
+* PROCEEDINGS
+  CEUR-WS Proceedings: Accepted original papers will be published in the AIxIA series of CEUR-WS AI*IA Series on CEUR-WS.org (upon authors confirmation) 
+  Moreover, as in some previous editions (http://rcra.aixia.it/publications), we are considering the possibility of having a special issue of an international journal, provided that a sufficient amount of high quality papers is collected. All technical papers, original and non-original, will be eligible.
+
+
+
+
+
+The ALP Alain Colmerauer Prolog Heritage Prize:
+CALL FOR NOMINATIONS
+* The ALP Alain Colmerauer Prolog Heritage Prize is organized by The Association for Logic Programming (ALP) and The Prolog Heritage Association.
+* INTRODUCTION 
+  In the summer of 1972, Alain Colmerauer and his team in Marseille developed and implemented the first version of the logic programming language Prolog. Together with both earlier and later collaborations with Robert Kowalski and his colleagues in Edinburgh, this work laid the practical and theoretical foundations for the Prolog and logic programming of today. Prolog and its related technologies soon became key tools of symbolic programming and Artificial Intelligence.
+  The Year of Prolog celebrates the 50th anniversary of these events and highlights the continuing significance of Prolog and Logic Programming both for symbolic, explainable AI, and for computing more generally.
+  This celebration will culminate with the award of the inaugural edition of the ALP Alain Colmerauer Prolog Heritage Prize for recent practical accomplishments that highlight the benefits of Prolog-inspired computing for the future. 
+* ELIGIBILITY AND NOMINATIONS
+  Any individual or group of individuals can nominate themselves or their institution(s)/organization(s) for the Prize. The Prize will be given for depth, novelty, and proven or potential impact. A shortlist of up to five nominations will also be selected in the process.
+  -dh Deadline for nominations:  September 2, 2022 
+  -d Notification of the shortlisted candidates:  September 30, 2022 
+  For more information and details, see: https://prologyear.logicprogramming.org/ColmerauerPrize.html
+* PRESENTATION OF THE AWARD
+  The Prize will be presented at the Prolog Day Symposium on November 10, 2022, in Paris, France. The winner(s) will receive a certificate and a cash Prize of 2,000 Euros. The expenses of the shortlisted nominees will be covered up to 1,000 Euros, supported by the Artificial Intelligence Journal.
+  The Year of Prolog and its activities, including the Alain Colmerauer Prize, are sponsored by the Association for Logic Programming, the Prolog Heritage Association, the AI Journal, Institut Carnot Cognition, and Institut Fredrik Bull, among others.
+
+
+
+
+
+AiML 2022: 14TH INTERNATIONAL CONFERENCE ON ADVANCES IN MODAL LOGIC
+  RENNES, Aug 22-25, 2022
+  Registration now open
+CALL FOR PARTICIPATION
+* Advances in Modal Logic is an initiative aimed at presenting the state of the art in modal logic and its various applications. The initiative consists of a conference series together with volumes based on the conferences.
+  AiML 2022 will be co-located with the Workshop on Logical Aspects of Multi-Agent Systems and Strategic Reasoning (LAMAS&SR 2022). 
+* REGISTRATION LINK
+  https://aimllamassr2022.sciencesconf.org/
+* WEBPAGES  
+  - AiML 2022: https://aiml2022.irisa.fr/
+  - AiML Series: http://www.aiml.net
+  - LAMAS&SR: https://lamassr.github.io/
+* TOPICS  
+  - history of modal logic
+  - philosophy of modal logic
+  - applications of modal logic
+  - computational aspects of modal logic
+  - theoretical aspects of modal logic
+  - specific instances and variations of modal logic
+* INVITED SPEAKERS
+   - Willem Conradie, University of the Witwatersrand 
+   - Wesley Holliday, University of Berkeley 
+   - Francesca Poggiolesi, Sorbonne and CNRS 
+   - Rineke Verbrugge, University of Groningen (joint LAMAS&SR speaker)
+
+ 
+
