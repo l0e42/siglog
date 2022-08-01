@@ -1,0 +1,99 @@
+-dd August 01, 2022
+
+ -dM AiML 2022:  Aug 10, 2022 (Registration deadline)
+ -dM The ALP Alain Colmerauer Prolog Heritage Prize:   Sep 02, 2022 (Deadline for nominations)
+ -dM CPP 2023:   Sep 14, 2022 (Abstract), Sep 21, 2022 (Paper)
+ -dM OVERLAY 2022:   Sep 30, 2022 (Paper)
+ -dM FSEN 23:  Oct 07, 2022 (Abstract), Oct 14, 2022 (Paper)
+ -dM PODS 2023:  Nov 28, 2022 (Second cycle abstract), Dec 05, 2022 (Full paper)
+
+
+FLoC: The 8th Federated Logic Conference
+  https://www.floc2022.org/
+SIGLOG MATTER
+* Registration is still possible: https://www.floc2022.org/registration
+* Reminder of the program: https://easychair.org/smart-program/FLoC2022/index.html
+
+
+
+AAAI-23: Special Track on Safe and Robust AI
+  https://aaai.org/Conferences/AAAI-23/safeandrobustai 
+  https://aaai.org/Conferences/AAAI-23/aaai23call
+CALL FOR PAPERS
+* We are pleased to announce that AAAI-23 will have a new special track on Safe and Robust AI, covering research on creating safe and robust AI systems, as well as using AI to create other safe and robust systems. We invite you to submit your contributions to this special track at AAAI-23.
+* AIMS AND SCOPE
+  This special track focuses on the theory and practice of safety and robustness in AI-based systems. AI systems are increasingly being deployed throughout society within different domains such as data science, robotics and autonomous systems, medicine, economy, and safety-critical systems. Although the widespread use of AI systems in today's world is growing, they have fundamental limitations and practical shortcomings, which can result in catastrophic failures. Specifically, many of the AI algorithms that are being implemented nowadays fail to guarantee safety and success and lack robustness in the face of uncertainties. 
+  To ensure that AI systems are reliable, they need to be robust to disturbance, failure, and novel circumstances. Furthermore, this technology needs to offer assurance that it will reasonably avoid unsafe and irrecoverable situations. In order to push the boundaries of AI systems' reliability, this special track at AAAI-23 will focus on cutting-edge research on both the theory and practice of developing safe and robust AI systems. Specifically, the goal of this special track is to promote research that studies 1) the safety and robustness of AI systems, 2) AI algorithms that are able to analyze and guarantee their own safety and robustness, and 3) AI algorithms that can analyze the safety and robustness of other systems. For acceptance into this track, we would expect papers to have fundamental contributions to safe and robust AI, as well as applicability to the complexity and uncertainty inherent in real-world applications.
+  In short, the special track covers topics related to safety and robustness of AI-based systems and to using AI-based technologies to enhance the safety and robustness of themselves and other critical systems, including but not limited to: 
+  - Safe and Robust AI Systems
+  - Safe Learning and Control
+  - Quantification of Uncertainty and Risk
+  - Safe Decision Making Under Uncertainty and Limited Information
+  - Robustness Against Perturbations and Distribution Shifts
+  - Detection and Explanation of Anomalies and Model Misspecification
+  - Formal Methods for AI Systems
+  - On-line Verification of AI Systems
+  - Safe Human-Machine Interaction
+* SUBMISSION INSTRUCTIONS 
+  Submissions to this special track will follow the regular AAAI technical paper submission procedure, but the authors need to select the Safe and Robust AI special track (SRAI).
+* IMPORTANT DATES (AoE)
+  -dh Abstract submission: August 8, 2022
+  -dh Paper submission: August 15, 2022
+
+
+
+BEWARE:
+  https://sites.google.com/view/beware2022/
+  Co-located with AIxIA 2022
+  November 28 - December 2, 2022,
+  University of Udine, Udine, Italy
+  Joint BRIO Workshop (Bias, Risk and Opacity in AI), ME&E-LP Workshop (Machine Ethics & Explainability - the Role of Logic Programming), and AWARE AI Workshop (Ethics and AI, a two-way relationship)
+CALL FOR PAPERS
+* The workshop invites submissions from computer scientists, philosophers, economists and sociologists wanting to discuss contributions ranging from the formulation of epistemic and normative principles for AI, their conceptual representation in formal models, to their development in formal design procedures and translation into computational implementations.
+* TOPICS
+  Topics of interest include, but are not at all limited to:
+  - Conceptual and formal definitions of bias, risk and opacity in AI 
+  - Epistemological and normative principles for fair and trustworthy AI 
+  - Ethical AI and the challenges brought by AI to Ethics 
+  - Explainable AI 
+  - Uncertainty in AI 
+  - Ontological modelling of trustworthy as opposed to biased AI systems 
+  - Defining trust and its determinants for implementation in AI systems 
+  - Methods for evaluating and comparing the performances of AI systems 
+  - Approaches to verification of ethical behaviour 
+  - Logic Programming Applications in Machine Ethics 
+  - Integrating Logic Programming with methods for Machine Ethics and Explainable AI
+  Submission The workshop invites (possibly non-original) submissions of FULL PAPERS (up to 15 pages) and SHORT PAPERS (up to 5 pages). Short papers are particularly suitable to present work in progress, extended abstracts, doctoral theses, or general overviews of research projects. Note that all papers will undergo a careful peer-reviewer process and, if accepted, camera-ready versions of the papers will be published on the AIxIA subseries of CEUR proceedings (Scopus indexed).
+  Manuscripts must be formatted using the 1-column CEUR-ART Style. For more information, please see the CEUR website http://ceur-ws.org/HOWTOSUBMIT.html. Papers must be submitted through EasyChair https://easychair.org/conferences/?conf=beware22.
+* IMPORTANT DATES 
+  -dh Submission deadline: 23 September 2022 
+  -d Notification: 21 October 2022 
+  -d Camera ready: 18 November 2022
+* ORGANIZATION AND PROGRAMME COMMITTEE 
+  https://sites.google.com/view/beware2022/organization-and-pc 
+
+
+
+
+PhD Student or Postdoc Position in Alexander von Humboldt Professor group
+JOB ANNOUNCEMENT
+* The group of André Platzer, the Alexander von Humboldt Professor for Logic of Autonomous Dynamical Systems, in the Department of Informatics at KIT is recruiting a PhD student or postdoc (TVL E13, full-time). Our research develops the logical foundations for cyber-physical systems and practical theorem proving tools for analyzing and correctly building such systems, including the theorem prover KeYmaera X, verified runtime monitoring ModelPlex, verified compilation, and verified safe machine learning techniques. Our techniques are used to analyze the safety of autonomous cars, airplanes and collision avoidance protocols in aerospace applications, robotics, and train control.
+* REQUIREMENTS
+  Key requirements for successful applications:
+  - Strong demonstrable commitment to research.
+  - Strong background in logic, formal methods, theorem proving, or programming language theory.
+  - Strong background in mathematics, physics, or engineering.
+  - Excellent M.Sc. degree in computer science, mathematics or related subjects.
+  - Proficiency in English, excellent speaking and writing skills.
+  - Experience in software development projects is a plus.
+  The successful candidate is able to quickly get into new research areas and will be responsible for actively engaging in novel research questions, publishing and communicating research results, advising junior students, assisting in research grants, implementation of research results in formal methods tools, and demonstrating their applicability in cyber-physical systems applications.
+* FACULTY / DIVISION:
+  Alexander von Humboldt Professor on Logic of Autonomous Dynamical Systems
+* INSTITUTE:
+  Institute of Information Security and Dependability (KASTEL)
+* STARTING DATE: 
+  Immediately
+* CONTACT PERSON: 
+  André Platzer https://lfcps.org/pub/job-ad.html
+
+
