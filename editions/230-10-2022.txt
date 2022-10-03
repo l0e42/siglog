@@ -1,0 +1,57 @@
+-dd October 01, 2022
+
+
+
+-dM Lecturer/Senior Lecturer at UNSW, Sydney:  Oct 12, 2022 (Formal Methods and Logic in Computer Science Job Closing)
+-dM FSEN 23: 	Oct 07, 2022 (Abstract), Oct 14, 2022 (Paper)
+-dM ETAPS 2023: 	Oct 13, 2022 (Paper)
+-dM PODS 2023: 	Nov 28, 2022 (Second cycle abstract), Dec 05, 2022 (Full paper)
+
+
+2022 ALONZO CHURCH AWARD ANNOUNCEMENT
+ANNOUNCEMENT -s SIGLOG MATTER
+ * The ACM Special Interest Group on Logic (SIGLOG), the European Association for Theoretical Computer Science (EATCS), the European Association for Computer Science Logic (EACSL), and the Kurt Goedel Society (KGS) are pleased to announce that 
+  - Dexter Kozen
+  has been selected as the winner of the 
+  - 2022 Alonzo Church Award for Outstanding Contributions to Logic and Computation
+  for his fundamental work on developing the theory and applications of Kleene Algebra with Tests, an equational system for reasoning about iterative programs, published in:
+  Kleene Algebra with Tests. ACM Transactions on Programming Languages and Systems 19(3): 427-443 (1997).
+* THE CONTRIBUTION
+  This work on Kleene Algebra with Tests (KAT) is one of the high points among remarkable contributions of Dexter Kozen to logics of programs. It is a culmination of a series of articles by Dexter Kozen that define and apply Kleene Algebra with Tests (KAT), an equational system that combines Kleene Algebra (the algebra of regular expressions) with Boolean Algebra (the tests). Together, the terms of the two algebras are capable of representing while programs, and their combined equational theory is capable of proving a wide range of important properties of programs. Although reasoning in KAT under arbitrary commuting conditions is undecidable, Kozen observes that when the commuting conditions are limited to including tests, it is decidable and in PSPACE. He illustrates the power of KAT with these decidable commuting conditions by proving a well-known folk theorem: Every while program can be simulated by a program with just one loop. KAT has been successfully applied to a variety of problems over the past 25 years, including modeling and reasoning about packet-switched networks.
+* The 2022 Church Award was selected by a jury consisting of Thomas Colcombet, Mariangiola Dezani, Javier Esparza, Radha Jagadeesan (chair), and Igor Walukiewicz.
+
+
+
+
+
+
+
+TYPES 2022: International Conference on Types for Proofs and Programs
+  https://types22.inria.fr/
+CALL FOR POST-PROCEEDING PAPERS
+  TYPES is a major forum for the presentation of research on all aspects of type theory and its applications. TYPES 2022 was held from 20 to 25 June at LS2N, University of Nantes, France. The post-proceedings volume will be published in LIPIcs, Leibniz International Proceedings in Informatics, an open-access series of conference.
+* SUBMISSION GUIDELINES
+  Submission is open to everyone, also to those who did not participate in the TYPES 2022 conference. We welcome high-quality descriptions of original work, as well as position papers, overview papers, and system descriptions. Submissions should be written in English, and being original, i.e. neither previously published, nor simultaneously submitted to a journal or a conference.
+  - Papers have to be formatted with the current LIPIcs style and adhere to the style requirements of LIPIcs. 
+  - The upper limit for the length of submissions is 20 pages, excluding bibliography (but including title and appendices). 
+  - Papers have to be submitted as PDF. A link to the submission system will be made available on https://types22.inria.fr/. 
+  - Authors have the option to attach to their submission a zip or tgz file containing code (formalised proofs or programs), but reviewers are not obliged to take the attachments into account and they will not be published.
+* DEADLINES (AoE) 
+  -dh Abstract submission : 31 October 2022 
+  -dh Paper submission: 30 November 2022 
+  -d Author notification: 31 March 2022
+* LIST OF TOPICS
+  The scope of the post-proceedings is the same as the scope of the conference: the theory and practice of type theory. In particular, we welcome submissions on the following topics:
+  - Foundations of type theory; 
+  - Applications of type theory (e.g. linguistics or concurrency); 
+  - Constructive mathematics; 
+  - Dependently typed programming; 
+  - Industrial uses of type theory technology; 
+  - Meta-theoretic studies of type systems; 
+  - Proof assistants and proof technology; 
+  - Automation in computer-assisted reasoning; 
+  - Links between type theory and functional programming; 
+  - Formalising mathematics using type theory; 
+  - Homotopy type theory and univalent mathematics. 
+
+
