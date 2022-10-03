@@ -1,11 +1,12 @@
--dd October 01, 2022
+-dd October 03, 2022
 
 
 
 -dM Lecturer/Senior Lecturer at UNSW, Sydney:  Oct 12, 2022 (Formal Methods and Logic in Computer Science Job Closing)
 -dM FSEN 23: 	Oct 07, 2022 (Abstract), Oct 14, 2022 (Paper)
 -dM ETAPS 2023: 	Oct 13, 2022 (Paper)
--dM PODS 2023: 	Nov 28, 2022 (Second cycle abstract), Dec 05, 2022 (Full paper)
+-dM PODS 2023:  Nov 28, 2022 (Second cycle abstract), Dec 05, 2022 (Full paper)
+-dM Oxford Faculty Positions:  Dec 14, 2022 (noon)
 
 
 2022 ALONZO CHURCH AWARD ANNOUNCEMENT
@@ -19,6 +20,58 @@ ANNOUNCEMENT -s SIGLOG MATTER
 * THE CONTRIBUTION
   This work on Kleene Algebra with Tests (KAT) is one of the high points among remarkable contributions of Dexter Kozen to logics of programs. It is a culmination of a series of articles by Dexter Kozen that define and apply Kleene Algebra with Tests (KAT), an equational system that combines Kleene Algebra (the algebra of regular expressions) with Boolean Algebra (the tests). Together, the terms of the two algebras are capable of representing while programs, and their combined equational theory is capable of proving a wide range of important properties of programs. Although reasoning in KAT under arbitrary commuting conditions is undecidable, Kozen observes that when the commuting conditions are limited to including tests, it is decidable and in PSPACE. He illustrates the power of KAT with these decidable commuting conditions by proving a well-known folk theorem: Every while program can be simulated by a program with just one loop. KAT has been successfully applied to a variety of problems over the past 25 years, including modeling and reasoning about packet-switched networks.
 * The 2022 Church Award was selected by a jury consisting of Thomas Colcombet, Mariangiola Dezani, Javier Esparza, Radha Jagadeesan (chair), and Igor Walukiewicz.
+
+
+
+
+LICS 2023: The 38th Annual ACM/IEEE Symposium on Logic in Computer Science
+ Boston, USA 
+ June 26–29, 2023 with workshops June 24–25.
+CALL FOR PAPERS -s SIGLOG MATTER
+* The LICS Symposium is an annual international forum on theoretical and practical topics in computer science that relate to logic, broadly construed. We invite submissions on topics that fit under that rubric. Suggested, but not exclusive, topics of interest include:
+  - automata theory, automated deduction, categorical models and logics, concurrency and distributed computation, constraint programming, constructive mathematics, database theory, decision procedures, description logics, domain theory, finite model theory, formal aspects of program analysis, formal methods, foundations of computability, foundations of probabilistic, real-time and hybrid systems, games and logic, higher-order logic, knowledge representation and reasoning, lambda and combinatory calculi, linear logic, logic programming, logical aspects of AI, logical aspects of bioinformatics, logical aspects of computational complexity, logical aspects of quantum computation, logical frameworks, logics of programs, modal and temporal logics, model checking, process calculi, programming language semantics, proof theory, reasoning about security and privacy, rewriting, type systems, type theory, and verification.
+* INSTRUCTIONS TO AUTHORS
+  Authors are required to submit a paper title and a short abstract of about 100 words in advance of submitting the full paper. The exact deadline time on these dates is given by anywhere on earth (AoE).
+  -dh Titles and Short Abstracts Due:  18 January 2023
+  -dh Full Papers Due:   23 January 2023
+  -dv Author Response Period:  Mar 15–19, 2023
+  -d Author Notification:   5 April 2023
+  -dv Conference:   Jun 26–29, 2023
+  Submission deadlines are firm; late submissions will not be considered.
+  Please see the full call for further instructions including formatting details, double-blind requirements, submission via EasyChair and other rules: https://lics.siglog.org/lics23/cfp.php
+* KLEENE AWARD, DISTINGUISHED PAPERS AND SPECIAL ISSUES
+  - An award in honor of the late Stephen C. Kleene will be given for the best student paper(s), as judged by the program committee.
+  - Around 10% of accepted papers will be selected as distinguished papers. These are papers that, in the view of the LICS program committee, make exceptionally strong contribution to the field and should be read by a broad audience due their relevance, originality, significance and clarity.
+  - Full versions of up to three accepted papers, to be selected by the program committee, will be invited for submission to the Journal of the ACM. Additional selected papers will be invited to a special issue of Logical Methods in Computer Science.
+
+
+
+2022 Victor Lesser Distinguished Dissertation Award
+CALL FOR NOMINATIONS
+* IFAAMAS, the International Foundation for Autonomous Agents and Multiagent Systems is pleased to announce the call for 2022 Victor Lesser Distinguished Dissertation Award. 
+  This award is named after Professor Victor Lesser, a long-standing member of the AAMAS community who has supervised a large number of outstanding PhD students in the area. It is awarded for dissertations written as part of a PhD defended in the specified period, nominated by the supervisor (with supporting references), which show originality, significance and impact, and are supported by high quality publications.
+  Nominations are invited for the award which is sponsored by IFAAMAS and will be presented at AAMAS-2023.
+  Eligible doctoral dissertations are those defended between November 1, 2021 and October 1, 2022 in the area of Autonomous Agents or Multiagent Systems.
+  This award includes a certificate and a 1500 EUR payment.
+* IMPORTANT DATES 
+  -dh Submission deadline: Oct 15th, 2022
+* SELECTION PROCEDURE
+  The selection of the dissertation will be based on the originality, significance, and impact of the work. Evidence of such impact include publications at highly selective conferences and journals in the field, with due importance given to the AAMAS conference series and JAAMAS. Research output that resulted primarily from the student’s initiative will be considered more favourably. 
+  The selection committee will be the final arbiter in the decision process. The selection committee might also decide to consult external assessors and reserves the right to not award the prize if the nominations do not meet the expected quality level.
+  The dissertation must be nominated by the thesis supervisor and must be supported by the following documents, all should be delivered via the link below by Oct 15th, 2022:
+   - A link to a PDF file of the dissertation. If the dissertation is not written in English, the nomination must include an accessible link to a substantial manuscript in English, with the nominee as the first author, published in a peer-reviewed journal or conference.
+   - A PDF that contains a list of publications that have arisen from the dissertation, with links to the published papers.
+   -  A recommendation from the dissertation supervisor, on departmental letterhead, nominating the dissertation for the IFAAMAS-22 Victor Lesser Distinguished Dissertation Award. The recommendation should explain the contribution of the dissertation to the field of autonomous agents and multiagent systems, argue the merit and possible future impact of the work, and highlight, where relevant, how the work resulted from the initiative of the student. Finally, this document should certify the eligibility of the PhD by asserting that the PhD was defended successfully between November 1, 2021 and October 1, 2022.
+    - The names, email addresses, and affiliations of at least one and at most three referees, familiar with the research of the candidate and experts in the pertinent research area, who will directly email their recommendations for the candidate to the chair of the selection committee (Paolo Turrini, p.turrini@warwick.ac.uk). A reference letter should be no more than 500 words in length and should be on official letterhead, signed and emailed as a PDF file.
+  Note: it is the responsibility of the dissertation supervisor to contact the referees and ensure that letters (max 500 words, signed, and on letterhead) are submitted by the deadline.
+  Though the nomination is to be submitted by the nominee’s dissertation supervisor, it is required that the nominee has consented that the dissertation be considered for this award and, if selected for the award, commits to attend the AAMAS-2023 conference, where they will receive the award and will give a presentation in a special session of the conference on the work contained in the dissertation. The cost of attending the conference is not covered by the award.
+* SUBMISSION LINK 
+  https://tinyurl.com/VictorLesserDA22
+* For questions, please contact the chair of the selection committee, Paolo Turrini (p.turrini@warwick.ac.uk).
+
+
+
+
 
 
 
@@ -53,5 +106,14 @@ CALL FOR POST-PROCEEDING PAPERS
   - Links between type theory and functional programming; 
   - Formalising mathematics using type theory; 
   - Homotopy type theory and univalent mathematics. 
+
+
+
+Four faculty positions in CS at Oxford
+JOB ANNOUNCEMENT
+* The University of Oxford Computer Science Department is hiring four new faculty
+  - The positions are open to all areas of computer science.
+  - The closing date is 12 noon on 14 December 2022. 
+  - For more information, see https://www.cs.ox.ac.uk/aboutus/vacancies/vacancy-faculty-hiring.html
 
 
