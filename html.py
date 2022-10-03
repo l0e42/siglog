@@ -4,6 +4,9 @@ import pickle
 document = pickle.load( open( "save.p", "rb" ) )
 print(document)
 
+if 'error' in document:
+	exit()
+
 import sys
 
 if len(sys.argv) > 1:

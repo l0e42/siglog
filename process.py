@@ -14,6 +14,11 @@ except:
 	exit()
 
 
+import pickle
+pickle.dump({'error':'did not complete'}, open( "save.p", "wb" ) )
+
+
+
 
 document = {
 	'dates': {},
@@ -333,6 +338,5 @@ document['dates'] = ul
 
 
 pprint(document)
-import pickle
 pickle.dump(document, open( "save.p", "wb" ) )
 
