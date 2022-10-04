@@ -26,7 +26,7 @@ ANNOUNCEMENT -s SIGLOG MATTER
 
 LICS 2023: The 38th Annual ACM/IEEE Symposium on Logic in Computer Science
  Boston, USA 
- June 26–29, 2023 with workshops June 24–25.
+ June 26-29, 2023 with workshops June 24-25.
 CALL FOR PAPERS -s SIGLOG MATTER
 * The LICS Symposium is an annual international forum on theoretical and practical topics in computer science that relate to logic, broadly construed. We invite submissions on topics that fit under that rubric. Suggested, but not exclusive, topics of interest include:
   - automata theory, automated deduction, categorical models and logics, concurrency and distributed computation, constraint programming, constructive mathematics, database theory, decision procedures, description logics, domain theory, finite model theory, formal aspects of program analysis, formal methods, foundations of computability, foundations of probabilistic, real-time and hybrid systems, games and logic, higher-order logic, knowledge representation and reasoning, lambda and combinatory calculi, linear logic, logic programming, logical aspects of AI, logical aspects of bioinformatics, logical aspects of computational complexity, logical aspects of quantum computation, logical frameworks, logics of programs, modal and temporal logics, model checking, process calculi, programming language semantics, proof theory, reasoning about security and privacy, rewriting, type systems, type theory, and verification.
@@ -34,9 +34,9 @@ CALL FOR PAPERS -s SIGLOG MATTER
   Authors are required to submit a paper title and a short abstract of about 100 words in advance of submitting the full paper. The exact deadline time on these dates is given by anywhere on earth (AoE).
   -dh Titles and Short Abstracts Due:  18 January 2023
   -dh Full Papers Due:   23 January 2023
-  -dv Author Response Period:  Mar 15–19, 2023
+  -dv Author Response Period:  Mar 15-19, 2023
   -d Author Notification:   5 April 2023
-  -dv Conference:   Jun 26–29, 2023
+  -dv Conference:   Jun 26-29, 2023
   Submission deadlines are firm; late submissions will not be considered.
   Please see the full call for further instructions including formatting details, double-blind requirements, submission via EasyChair and other rules: https://lics.siglog.org/lics23/cfp.php
 * KLEENE AWARD, DISTINGUISHED PAPERS AND SPECIAL ISSUES
@@ -56,7 +56,7 @@ CALL FOR NOMINATIONS
 * IMPORTANT DATES 
   -dh Submission deadline: Oct 15th, 2022
 * SELECTION PROCEDURE
-  The selection of the dissertation will be based on the originality, significance, and impact of the work. Evidence of such impact include publications at highly selective conferences and journals in the field, with due importance given to the AAMAS conference series and JAAMAS. Research output that resulted primarily from the student’s initiative will be considered more favourably. 
+  The selection of the dissertation will be based on the originality, significance, and impact of the work. Evidence of such impact include publications at highly selective conferences and journals in the field, with due importance given to the AAMAS conference series and JAAMAS. Research output that resulted primarily from the student's initiative will be considered more favourably. 
   The selection committee will be the final arbiter in the decision process. The selection committee might also decide to consult external assessors and reserves the right to not award the prize if the nominations do not meet the expected quality level.
   The dissertation must be nominated by the thesis supervisor and must be supported by the following documents, all should be delivered via the link below by Oct 15th, 2022:
    - A link to a PDF file of the dissertation. If the dissertation is not written in English, the nomination must include an accessible link to a substantial manuscript in English, with the nominee as the first author, published in a peer-reviewed journal or conference.
@@ -64,7 +64,7 @@ CALL FOR NOMINATIONS
    -  A recommendation from the dissertation supervisor, on departmental letterhead, nominating the dissertation for the IFAAMAS-22 Victor Lesser Distinguished Dissertation Award. The recommendation should explain the contribution of the dissertation to the field of autonomous agents and multiagent systems, argue the merit and possible future impact of the work, and highlight, where relevant, how the work resulted from the initiative of the student. Finally, this document should certify the eligibility of the PhD by asserting that the PhD was defended successfully between November 1, 2021 and October 1, 2022.
     - The names, email addresses, and affiliations of at least one and at most three referees, familiar with the research of the candidate and experts in the pertinent research area, who will directly email their recommendations for the candidate to the chair of the selection committee (Paolo Turrini, p.turrini@warwick.ac.uk). A reference letter should be no more than 500 words in length and should be on official letterhead, signed and emailed as a PDF file.
   Note: it is the responsibility of the dissertation supervisor to contact the referees and ensure that letters (max 500 words, signed, and on letterhead) are submitted by the deadline.
-  Though the nomination is to be submitted by the nominee’s dissertation supervisor, it is required that the nominee has consented that the dissertation be considered for this award and, if selected for the award, commits to attend the AAMAS-2023 conference, where they will receive the award and will give a presentation in a special session of the conference on the work contained in the dissertation. The cost of attending the conference is not covered by the award.
+  Though the nomination is to be submitted by the nominee's dissertation supervisor, it is required that the nominee has consented that the dissertation be considered for this award and, if selected for the award, commits to attend the AAMAS-2023 conference, where they will receive the award and will give a presentation in a special session of the conference on the work contained in the dissertation. The cost of attending the conference is not covered by the award.
 * SUBMISSION LINK 
   https://tinyurl.com/VictorLesserDA22
 * For questions, please contact the chair of the selection committee, Paolo Turrini (p.turrini@warwick.ac.uk).
