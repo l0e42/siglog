@@ -66,7 +66,7 @@ CALL FOR NOMINATIONS
   Note: it is the responsibility of the dissertation supervisor to contact the referees and ensure that letters (max 500 words, signed, and on letterhead) are submitted by the deadline.
   Though the nomination is to be submitted by the nominee's dissertation supervisor, it is required that the nominee has consented that the dissertation be considered for this award and, if selected for the award, commits to attend the AAMAS-2023 conference, where they will receive the award and will give a presentation in a special session of the conference on the work contained in the dissertation. The cost of attending the conference is not covered by the award.
 * SUBMISSION LINK 
-  https://tinyurl.com/VictorLesserDA22
+  https://docs.google.com/forms/d/e/1FAIpQLSd7bU9lEkZAw9j73B4hoYghgsQmd74iDlheLvd4n4dCyN51Ng/viewform
 * For questions, please contact the chair of the selection committee, Paolo Turrini (p.turrini@warwick.ac.uk).
 
 
