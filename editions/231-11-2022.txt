@@ -1,0 +1,195 @@
+-dd November 01, 2022
+
+-dM FSEN 23:  Nov 4, 2022 (Extended)
+-dM PODS 2023:  Nov 28, 2022 (Second cycle abstract), Dec 05, 2022 (Full paper)
+-dM Oxford Faculty Positions:   Dec 14, 2022 at noon (Application deadline)
+-dM TYPES 2022:   Nov 14, 2022 (Abstract, EXTENDED), Nov 30, 2022 (Paper)
+-dM LICS 2023:  Nov 30, 2022 (Workshop proposals), Jan 18, 2023 (Titles and Short Abstracts Due), Jan 23, 2023 (Full Papers Due)
+
+
+
+
+
+LICS 2023 WORKSHOPS: 38TH ANNUAL ACM/IEEE SYMPOSIUM ON LOGIC IN COMPUTER SCIENCE
+  https://lics.siglog.org/lics23/
+CALL FOR WORKSHOP PROPOSALS -s SIGLOG MATTER
+* The thirty-eighth Annual ACM/IEEE Symposium on Logic in Computer Science (LICS'23) will be held in Boston, US, on June 26-29, 2023. The workshops will take place on June 24-25, 2023.
+* Researchers and practitioners are invited to submit proposals for workshops on topics relating logic - broadly construed - to computer science or related fields. Typically, LICS workshops feature a number of invited speakers and a number of contributed presentations. LICS workshops do not usually produce formal proceedings. However, in the past there have been special issues of journals based in part on certain LICS workshops.
+* Proposals should include:
+   -  A short scientific summary and justification of the proposed topic. This should include a discussion of the particular benefits of the topic to the LICS community.
+   -  Potential invited speakers.
+   -  Procedures for selecting participants and papers.
+   -  Plans for dissemination (for example, special issues of journals).
+   -  The proposed duration, which is one or two days.
+   -  A discussion of the proposed format and agenda.
+   -  Expected number of participants, providing data on previous years
+      if the workshop has already been organised in the past.
+  Proposals should be sent to Valentin Blot: lics23-workshops at valentinblot.org
+* IMPORTANT DATES:
+  -d Submission deadline:            Nov 30, 2022
+  -dv Notification:                   mid-December, 2022
+  -d Program of the workshops ready: May 24, 2023
+  -dv Workshops:                      June 24-25, 2023
+  -dv LICS conference:                June 26-29, 2023
+
+
+
+
+
+
+ACM SIGAI Autonomous Agents Research Award
+  https://sigai.acm.org/main/the-acm-sigai-autonomous-agents-research-award/
+CALL FOR NOMINATIONS
+*  Nominations are solicited for the 2023 ACM SIGAI Autonomous Agents Research Award. This award is made for excellence in research in the area of autonomous agents. It is intended to recognize researchers in autonomous agents whose current work is an important influence on the field. The award is an official ACM award, funded by an endowment created by ACM SIGAI from the proceeds of previous Autonomous Agents conferences. The recipient of the award will receive a monetary prize and a certificate, and will be invited to present a plenary talk at the AAMAS 2023 conference in London, United Kingdom.
+* How to Nominate
+  Anyone can make a nomination. Nominations should be made by email to the chair of the award committee, Manuela Veloso (mmv@cs.cmu.edu), and should consist of a short (< 1 page) statement that emphasizes not only the research contributions that the individual has made that merit the award but also how the individual’s current work is an important influence on the field.
+  NOTE: a candidate can only be considered for the award if they are explicitly nominated. If you believe that someone deserves the award, then NOMINATE THEM — don’t assume that somebody else will!
+* IMPORTANT DATES
+ -dh Deadline for nominations:  15 November 2022
+ -d Announcement of winner:  15 December 2022
+ -dv AAMAS-2023 conference in London, United Kingdom: May 29-Jun 2, 2023
+
+
+
+Dov Gabbay Prize for Logic and Foundations
+  Deadline: Jan 31, 2023
+CALL FOR NOMINATIONS
+* THE PRIZE
+  The "Dov Gabbay Prize for Logic and Foundations" is an international research prize established to honour the extraordinary, multi-faceted, and ongoing scientific and editorial work of Prof. Dov Gabbay, known in particular for editing an extensive collection of specialized Logic Handbooks. It has been launched on the occasion of his 77th birthday (for a short bio, see: https://dgp.iloaf.org/dov.html).
+  The prize rewards outstanding researchers in Logic and Foundations, including Mathematical, Philosophical, and Computational Logic. It promotes work able to inspire current and future generations of logicians, if not a broader audience, ideally combining deep foundational insight and conceptual innovation with sophisticated theoretical analysis.
+  The winner will receive 2001 EUR and be invited to give a talk (accessible for an online audience) at a major logic centre or a logic-related meeting in 2023, the choice depending on the recipient's research area. Additional efforts will be made to promote the rewarded scientific work.
+* NOMINATION
+  Each nomination has to specify the researcher, provide a justification accessible to non-expert logicians (0.5-2 pages), and list the publications considered relevant.
+  It also has to include the name, affiliation, and email address of the nominator. Self-nominations are not allowed, the nominator should not depend on the nominee.
+  Proposals in pdf-format have to be sent to "dgp@iloaf.org". 
+  The deadline for this call is Jan 31, 2023.
+  -dM Dov Gabbay Prize for Logic and Foundations: Jan 31, 2023 (Deadline for nominations)
+* DECISION
+  The decision is made by an independent selection committee consisting of six internationally renowned logicians representing Mathematical, Philosophical, and Computational logic (for details, see: https://dgp.iloaf.org). The jury can decide to attribute no prize in a given year. The winner of the 2022 call will be announced in May 2023.
+* ADMIN
+  Prize and process are managed by the "Logic and Foundations Initiative (ILOAF)", which aims at initiating and supporting scientific and educational activities in Logic and Foundations. It is currently sponsored by the Luxembourg Logic Community.
+* CONTACT
+  For any questions, please contact the organizing committee (only) via email.
+  Web: https://dgp.iloaf.org 
+  Email: dgp@iloaf.org
+
+
+
+S. Barry Cooper Prize
+  Association Computability in Europe
+  Deadline: Jan 31, 2023
+  https://www.acie.eu/2022/10/03/call-for-nominations-for-2023-s-barry-cooper-prize/
+CALL FOR NOMINATIONS
+  The S. Barry Cooper Prize is awarded to a researcher who has contributed to a broad understanding and foundational study of computability by outstanding results, by seminal and lasting theory building, by exceptional service to the research communities involved, or by a combination of these. This award is presented every two to three years, with the presentation taking place at the International Conference Computability in Europe (CiE).
+  The Prize is named in honor of S. Barry Cooper, the founding President of the Association Computability, in recognition of his vision of the fundamental concept of computability that brought together several different research communities. The awardee shall be invited to the next annual CiE conference to give an invited talk and will be presented with an award plaque on this occasion.
+* NOMINATIONS AND ELIGIBILITY
+  Nominations may be made by any member of the scientific community and any such member can be nominated. Nomination letters can have multiple signatories and should provide a motivation for awarding the prize to the nominee, precisely stating their outstanding results, their seminal and lasting theory building, and/or their exceptional service to the research communities involved.
+  Nominations for the award should be submitted by email to the Award Committee Chair:
+  - Anuj Dawar (University of Cambridge) anuj.dawar@cl.cam.ac.uk
+  Any emails and related messages should have the subject line starting with “S. Barry Cooper Prize 2023”.
+  To be considered, nominations for the 2023 Prize must be received by Jan 31, 2023.
+  -dM S. Barry Cooper Prize: Jan 31, 2023 (Deadline for nominations)
+  A nomination package should include:
+  1. A statement of motivation for awarding the prize to the nominee describing the nominee’s outstanding results, their seminal and lasting theory building and/or exceptional service to the research communities, as the case may be. These should be supported by at least one of
+  - A list of the most important publications, accompanied by a brief summary of the technical content of the papers and a brief explanation of their significance. Where possible, this should include pointers to online versions of the publications.
+  - A statement explaining the role played and the exceptional services rendered by the nominee, in the research communities involved in computability and related areas.
+  2. A support letter or letters signed by at least two members of the scientific community. The nomination package must be in English, but it may include reference to publications in other languages.
+* Selection Process
+  The Award Committee is solely responsible for the selection of the winner of the award. All matters relating to the selection process that are not specified here are left to the discretion of the Award Committee, whose decision will be final.
+
+
+
+
+
+
+CiE 2023: Computability in Europe 2023
+  Batumi, Georgia
+  July 24-28, 2023
+  https://www.viam.science.tsu.ge/cie2023/
+CALL FOR PAPERS
+* IMPORTANT DATES: (AOE)
+  -dh Abstract submission:  February 8, 2023 
+  -dh Article submission: February 15, 2023 
+  -d Notification of acceptance: April 20, 2023
+  -d Final versions due: May 1, 2023
+  -dv Deadline for informal presentations submission: Jun 8, 2023 (The notifications of acceptance for informal presentations will be sent a few days after submission.)
+  -d Early registration before: June 10, 2023.
+* GENERAL INFORMATION
+  CiE 2023 is the 19th conference organized by CiE (Computability in Europe), a European association of mathematicians, logicians, computer scientists, philosophers, physicists and others interested in new developments in computability and their underlying significance for the real world.
+* TUTORIAL SPEAKERS
+  - Ludovic Perret (Sorbonne University)
+  - Ludovic Patey (Université Paris Diderot)
+* INVITED SPEAKERS; 
+  Andrei Bulatov (Simon Fraser University); Anne Condon (University of British Columbia); Stephanie Dick (University of Pennsylvania); Kirsten Eisenträger (Pennsylvania State University); Neil Lutz (Iowa State University); Mark Steedman (University of Edinburgh)
+* SPECIAL SESSIONS
+  We are going to have 6 special sessions. The topics of the special sessions will be announced soon.
+* CONFERENCE TOPICS
+  The CiE conferences serve as an interdisciplinary forum for research in all aspects of computability, foundations of computer science, logic, and theoretical computer science, as well as the interplay of these areas with practical issues in computer science and with other disciplines such as biology, mathematics, philosophy, or physics.
+* PAPER SUBMISSION
+  THE PROGRAM COMMITTEE cordially invites all researchers, European and non-European, to submit their papers in all areas related to the above for presentation at the conference and inclusion in the proceedings of CiE 2023 at https://easychair.org/conferences/?conf=cie2023
+  CONFERENCE PROCEEDINGS  
+  - Papers submitted to the conference proceedings should represent original work, not simultaneously submitted to another journal or conference with formal proceedings.
+  - The Program Committee will rigorously review and select submitted papers. Accepted papers will be published as a proceedings volume in the Lecture Notes in Computer Science (LNCS) series from Springer-Verlag.
+  - Papers to be considered in the conferences proceedings must be submitted in PDF format, using the LNCS style (available at https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and must have a maximum of 12 pages, including references but excluding a possible appendix in which one can include proofs and other additional material. Papers building bridges between different parts of the research community are particularly welcome.
+  INFORMAL PRESENTATIONS
+  - Continuing the tradition of past CiE conferences, we invite researchers to present informal presentations of their recent work. A proposal for an informal presentation must be submitted via EasyChair (https://easychair.org/conferences/?conf=cie2023), using the LNCS style file (available at https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines), and be 1 page long; a brief description of the results suffices and an abstract is not required. Informal presentations will not be published in the LNCS conference proceedings. Results presented as informal presentations at CiE 2023 may appear or may have appeared in other conferences with formal proceedings and/or in journals.
+
+
+
+
+
+ICALP 2023: The 50th EATCS International Colloquium on Automata, Languages, and Programming
+  Paderborn, Germany, 10-14 July 2023.
+  https://icalp2023.cs.upb.de/
+  Twitter: @ICALPconf
+CALL FOR PAPERS
+* ABOUT
+  ICALP is the main conference and annual meeting of the European Association for Theoretical Computer Science (EATCS). As usual, ICALP will be preceded by a series of workshops, which will take place on July 10. The 2023 edition has the following features:
+  - Submissions are anonymous, and there is a rebuttal phase.
+  - The conference is planned as a physical, in-person event.
+  - This will be the 50th ICALP conference and some special events are planned.
+* IMPORTANT DATES AND INFORMATION
+  -dv Submissions: Feb 11, 2023 at 11am CET
+  -dM ICALP 2023: Feb 11, 2023 at 11am CET (Submissions)
+  -dv Rebuttal: Mar 22-25, 2023
+  -d Author notification: April 21, 2023
+  -d Camera-ready version: May 5, 2023
+  -dv Early registration: TBA
+  -dv Conference: Jul 10-14, 2023 (Workshops on July 10, 2023)
+  Deadlines are firm; late submissions will not be considered.
+* INVITED SPEAKERS
+  - Anna Karlin - University of Washington, USA
+  - Rasmus Kyng - ETH Zurich, Switzerland
+  - Rupak Majumdar - Max Planck Institute for Software Systems, Germany
+  - Thomas Vidick - California Institute of Technology, USA, and Weizmann Institute of Science, Israel
+  - James Worrell - University of Oxford, UK
+* SUBMISSION GUIDELINES
+  15 page (excl. references+appendix), PDF in LIPIcs format, anonymous/double-blind, original research with no concurrent submission, submission via EasyChair: https://easychair.org/conferences/?conf=icalp2023
+  See full call for full rules and guidance: https://icalp2023.cs.upb.de/call-for-papers/
+  Resulting publications will be open access via LIPIcs.
+* AWARDS
+  During the conference, the following awards will be given:
+  - the EATCS award,
+  - the Church prize,
+  - the Presburger award,
+  - the EATCS distinguished dissertation award,
+  - the best papers for Track A and Track B,
+  - the best student papers for Track A and Track B (see submission guidelines).
+* TOPICS
+  Papers presenting original research on all aspects of theoretical computer science are sought. Typical but not exclusive topics of interest are:
+  - Track A: Algorithms, Complexity and Games: Algorithmic and Complexity Aspects of Network Economics; Algorithmic Aspects of Biological and Physical Systems; Algorithmic Aspects of Networks and Networking; Algorithmic Aspects of Security and Privacy; Algorithmic Game Theory and Mechanism Design; Approximation and Online Algorithms; Combinatorial Optimization; Combinatorics in Computer Science; Computational Complexity; Computational Geometry; Computational Learning Theory; Cryptography; Data Structures; Design and Analysis of Algorithms; Distributed and Mobile Computing; Foundations of Machine Learning; Graph Mining and Network Analysis; Parallel and External Memory Computing; Parameterized Complexity; Quantum Computing; Randomness in Computation; Sublinear Time and Streaming Algorithms; Theoretical Foundations of Algorithmic Fairness
+  - Track B: Automata, Logic, Semantics, and Theory of Programming: Algebraic and Categorical Models of Computation; Automata, Logic, and Games; Database Theory, Constraint Satisfaction Problems, and Finite Model Theory; Formal and Logical Aspects of Learning; Formal and Logical Aspects of Security and Privacy; Logic in Computer Science and Theorem Proving; Models of Computation: Complexity and Computability; Models of Concurrent, Distributed, and Mobile Systems; Models of Reactive, Hybrid, and Stochastic Systems; Principles and Semantics of Programming Languages; Program Analysis, Verification, and Synthesis; Type Systems and Typed Calculi
+
+
+
+Faculty Position at Cambridge
+  https://www.jobs.cam.ac.uk/job/37369/
+JOB ANNOUNCEMENT
+* Assistant/Associate Professor in Logical Foundations and Formal Methods in the Department of Computer Science and Technology, University of Cambridge
+* The Department is seeking to recruit a new faculty member at the Assistant or Associate Professor level who can contribute to research and teaching in the area of Logical Foundations and Formal Methods.
+* DATE
+  -dh Application deadline: 5 December 2022
+* Interested applicants are encouraged to make informal enquiries about the post to marcelo.fiore@cl.cam.ac.uk
+
+
+
