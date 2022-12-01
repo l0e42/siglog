@@ -1,0 +1,256 @@
+-dd December 01, 2022
+
+ -dM PODS 2023:  Dec 05, 2022 (Full paper)
+ -dM LICS 2023:  Jan 18, 2023 (Titles and Short Abstracts Due), Jan 23, 2023 (Full Papers Due)
+ -dM Faculty Position at Cambridge:  Dec 05, 2022 (Application deadline)
+ -dM Oxford Faculty Positions:   Dec 14, 2022 at noon (Application deadline)
+ -dM Dov Gabbay Prize for Logic and Foundations:   Jan 31, 2023 (Deadline for nominations)
+ -dM S. Barry Cooper Prize:  Jan 31, 2023 (Deadline for nominations)
+ -dM CiE 2023:   Feb 08, 2023 (Abstract), Feb 15, 2023 (Article)
+ -dM ICALP 2023:   Feb 11, 2023 at 11am CET (Paper)
+
+
+
+Winner of the 2022 Ackermann Award
+ANNOUNCEMENT
+* The Ackermann Award 2021, the EACSL Outstanding Dissertation Award for Logic in Computer Science, is given to the PhD thesis:
+  -  Alexander Bentkamp: Superposition for Higher-Order Logic
+* The award will be presented at the 31st Computer Science Logic (CSL 2023) Conference, the annual meeting of the European Association for Computer Science Logic, February 13-16, 2023, in Warsaw, Poland.
+* A detailed report will be published in the proceedings of CSL 2023.
+
+
+FSCD-CADE
+  FSCD 2023 https://easyconferences.eu/fscd2023/ July 3-6, 2023
+  CADE-29 https://easyconferences.eu/cade2023/ July 1-4, 2023
+  Rome, Italy
+CALL FOR WORKSHOP AND TUTORIAL PROPOSALS
+* We invite proposals for workshops, tutorials or other satellite events, on any topic related to formal structures in computation, deduction and automated reasoning, from theoretical foundations to tools and applications.
+  FSCD satellite events will take place before the main conference on July 1-2, and CADE satellite events will take place after the main conference on July 4 (afternoon)-5. It is expected that satellite events would run for 1/2, 1 or 2 days (max 1 and 1/2 day for CADE satellite events), and be open to participants of parallel events. Please note overlaps between FSCD workshops and CADE conference and between CADE workshops and FSCD conference (see Important Dates below).
+* PROPOSALS
+  For proposal submission information, please see https://easyconferences.eu/cade2023/call-for-workshops-tutorial-proposals/
+* IMPORTANT DATES
+  -dv CADE: July 1-4, 2023
+  -dv FSCD: July 3-6, 2023
+  -dv CADE Workshops: July 4 (afternoon) and 5, 2023
+  -dv FSCD Workshops: July 1-2, 2023
+  -dh Workshop proposal submission: December 18th, 2022
+  -d Notification of success of proposals: December 23rd, 2022
+
+
+
+
+STAF 2023: Software Technologies Applications and Foundations 
+  Leicester, UK, between July 17-21
+  https://conf.researchr.org/home/staf-2023
+CALL FOR WORKSHOP PROPOSALS
+*  Software Technologies: Applications and Foundations (STAF) is a federation of leading conferences on software technologies. It was formed after the end of the successful TOOLS federated event in 2012, providing an umbrella organisation, with a steering committee that aims to provide continuity. The STAF federated event runs annually; the conferences that participate may vary from year to year, but all focus on practical and foundational advances in software technology. The conferences address all aspects of software technology, from object-oriented design, testing, formal approaches to modelling and verification, transformation, model-driven engineering, aspect-oriented techniques, and tools.
+  The workshops at STAF will provide a collaborative forum for groups of typically 15 to 35 participants to exchange recent and/or preliminary results, to conduct intensive discussions on a particular topic, or to coordinate efforts between representatives of a technical community. They are intended as a forum for lively discussion on innovative ideas, recent progress, or practical experience on specific aspects, specific problems, or domain-specific needs. Each workshop should provide a balanced distribution of its time for both presentation of papers and discussions. We encourage prospective workshop organisers to submit proposals for highly-interactive workshops. Both research-oriented and applied topics are welcome. The duration of each workshop is either half day or full day.
+* IMPORTANT DATES
+  -dh Workshop proposal submission: December 20th, 2022 
+  -d Notification of acceptance of workshop proposals: January 10th, 2023 
+* For details and submission instructions see:  https://conf.researchr.org/track/staf-2023/staf-2023-workshops
+
+
+
+
+
+
+
+
+
+
+
+
+
+ICLP 2023: 39TH INTERNATIONAL CONFERENCE ON LOGIC PROGRAMMING
+  London, United Kingdom (in-person)
+  July 9-15, 2023
+  https://iclp2023.imperial.ac.uk/ 
+CALL FOR PAPERS
+* SCOPE
+  Since the first conference held in Marseille in 1982, ICLP has been the premier international event for presenting research in logic programming. Contributions are sought in all areas of logic programming, including but not restricted to:
+  - Theoretical Foundations.
+  - Language Design and Programming Methodologies.
+  - Program Analysis and Optimization.
+  - Implementation Methodologies.
+  - Related Paradigms, Integration, and Synergies.
+  - Applications of Logic Programming.  
+* IMPORTANT DATES
+  -dh Abstract registration: January 23, 2023
+  -dh Paper submission (regular, applications, thematic tracks): January 31, 2023
+  -d Notification to authors: February 28, 2023
+  -d Revision submission (TPLP papers): March 20, 2023
+  -dh Paper submission (other paper types): April 28, 2023
+  -d Workshop proposals: March 20, 2023
+  -d Final notifications (all paper kinds): May 19, 2023
+  -d Camera-ready copy due (all paper kinds): May 26, 2023
+  -dv Conference: Jul 9-15, 2023
+  Deadlines expire at the end of the day, anywhere on earth.
+* TRACKS AND SPECIAL SESSIONS
+  Besides the main track, ICLP 2023 will host additional tracks:
+  - Applications Track: we invite submissions of papers on emerging and deployed applications of LP, describing all aspects of the development, deployment, and evaluation of logic programming systems to solve real-world problems, including interesting case studies and benchmarks, and discussing lessons learned.
+  - Thematic Tracks: we invite submissions to two thematic tracks, exploring specific roles and potential for logic programming; these thematic tracks are: Logic Programming and Machine Learning and Logic Programming and Explainability, Ethics, and Trustworthiness
+  - Recently Published Research Track: this track provides a forum to discuss important results related to logic programming that appeared recently (from January 2021 onwards) in selective journals and conferences, but have not been previously presented at ICLP.
+  - System Demonstrations: we invite submissions showcasing logic programming systems and implementations in a live setting. This track is not designed to be sales pitches, demonstrations are a way for the community to see the relevance, potential, and innovation of the tool and allow time for discussion with its creator.
+  - Birds-of-a-Feather (BoF) sessions: we invite proposals for sessions meant to provide an inclusive environment for colleagues with similar interests to meet for informal discussion. Proposers of BoF sessions should serve as discussion leaders only. BoFs are not intended to be presentations.
+  In addition,  ICLP 2023 will host:
+  - Doctoral Consortium and Mentoring Sessions: the Doctoral Consortium (DC) on Logic Programming provides students and early career researchers with the opportunity to present and discuss their research directions, obtain feedback from both peers and experts in the field, and participate in mentoring sessions on how to prepare and succeed for a research career. We will have leaders in logic programming research from academia and industry to give invited talks on their research areas. The best paper from the DC will be given the opportunity to make a presentation in a session of the main ICLP conference.
+  - Tutorials.
+  - Co-located Workshops.
+  - Summer School on Logic Programming.
+  - Logic Programming Contest.
+* SUBMISSION DETAILS
+  See https://iclp2023.imperial.ac.uk/calls for further details and specific instructions for each track on the respecitve subpages.
+* Any additional question can be directed towards the ICLP Chairs: iclp2023@easychair.org
+
+
+
+
+
+FSCD 2023: 8th International Conference on Formal Structures for Computation and Deduction
+  July 3-6, 2023, Rome, Italy
+  https://easyconferences.eu/fscd2023/
+  In-cooperation with ACM SIGLOG and SIGPLAN
+CALL FOR PAPERS
+* IMPORTANT DATES
+  All deadlines are midnight anywhere-on-earth (AoE); late submissions will not be considered.
+  -dh Abstract:      January 30, 2023
+  -dh Paper submission:    February 3, 2023
+  -dv Rebuttal:      Mar 24-28, 2023
+  -d Notification:  April 13, 2023
+  -d Final version: April 27, 2023
+* OVERVIEW
+  FSCD (https://fscd-conference.org/) covers all aspects of formal structures for computation and deduction from theoretical foundations to applications. Building on two communities, RTA (Rewriting Techniques and Applications) and TLCA (Typed Lambda Calculi and Applications), FSCD embraces their core topics and broadens their scope to closely related areas in logic, models of computation, semantics and verification in new challenging areas.
+  The suggested, but not exclusive, list of topics for submission is: 
+  - Calculi: Rewriting systems (string, term, higher-order, graph, conditional, modulo, infinitary, etc.); Lambda calculus; Logics (first-order, higher-order, equational, modal, linear, classical, constructive, etc.); Proof theory (natural deduction, sequent calculus, proof nets, etc.); Type theory and logical frameworks; Homotopy type theory; Quantum calculi.
+  - Methods in Computation and Deduction: Type systems (polymorphism, dependent, recursive, intersection, session, etc.); Induction, coinduction; Matching, unification, completion, orderings; Strategies (normalization, completeness, etc.); Tree automata; Model building and model checking; Proof search and theorem proving; Constraint solving and decision procedures.
+  - Semantics: Operational semantics and abstract machines; Game Semantics and applications; Domain theory and categorical models; Quantitative models (timing, probabilities, etc.); Quantum computation and emerging models in computation.
+  - Algorithmic Analysis and Transformations of Formal Systems: Type inference and type checking; Abstract Interpretation; Complexity analysis and implicit computational complexity; Checking termination, confluence, derivational complexity and related properties; Symbolic computation.
+  - Tools and Applications: Programming and proof environments; Verification tools; Proof assistants and interactive theorem provers; Applications in industry; Applications of formal systems in other sciences; Applications of formal systems in education.
+  - Formal Systems for Semantics and Verification in new challenging areas: Certification; Security; Blockchain protocols; Data bases; Deep learning and machine learning algorithms; Planning.
+* SPECIAL ISSUE
+  We aim to have a special issue of Logical Methods in Computer Science of selected papers. More details will be provided later.
+* BEST PAPER AWARD BY JUNIOR RESEARCHERS
+  The program committee will select a paper in which at least one author is a junior researcher, i.e. either a student or whose PhD award date is less than three years from the first day of the meeting. When submitting the paper, other authors should declare to the PC Chair that at least 50% of contribution is made by the junior researcher(s). 
+* See full call for papers for submission and publication information: https://easyconferences.eu/fscd2023/cfp/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CONFEST 2023
+  September 18-23, 2023, Antwerpen, Belgium
+  https://www.uantwerpen.be/en/conferences/confest-2023/
+CALL FOR WORKSHOP PROPOSALS
+* CONFEST is an umbrella conference comprising four international meetings:
+  - CONCUR (34th International Conference on Concurrency Theory),
+  - QEST (20th International Conference on Quantitative Evaluation of SysTems),
+  - FORMATS (21st International Conference on Formal Modeling and Analysis of Timed Systems), and
+  - FMICS (28th International Conference on Formal Methods for Industrial Critical Systems).
+*  Researchers and practitioners are invited to submit proposals for ONE DAY workshops on topics related to theory, formal modeling, verification,performance evaluation and engineering of concurrent, timed, industrial,and other systems.Typically, CONFEST workshops feature a number of invited speakers and anumber of contributed presentations.
+  The workshops will take place one day before (18 September) and one day after (23 September) the main conferences.
+* TOPICS
+  The purpose of the workshops is to provide participants with a friendly, stimulating, and interactive atmosphere for
+  - presenting novel ideas,
+  - discussing their applications,
+  - encouraging cross-fertilization between industry and academia, and
+  - fostering opportunities for young and prospective researchers.
+* IMPORTANT DATES
+  -dh Submission deadline: February 2, 2023
+  -d Notification: February 16, 2023
+  -d Program of the workshops ready: August 16, 2023
+  -dv Workshops: Sep 18+23, 2023 
+  -dv CONFEST conferences: Sep 18-23, 2023
+* For details and submission instructions, see: https://www.uantwerpen.be/en/conferences/confest-2023/workshops/call/
+
+
+
+
+
+
+LOGIC COLLOQUIUM 2023: European Summer Meeting of the Association for Symbolic Logic
+  University of Milan, Italy
+  June 5-9 2023
+  https://lc2023.unimi.it
+CALL FOR PAPERS
+* GENERAL INFORMATION
+  LOGIC COLLOQUIUM is the European Summer Meeting of the Association for Symbolic Logic (ASL) - https://aslonline.org - an international organization supporting research and critical studies in logic. LOGIC COLLOQUIUM is a venue for all researchers working in logic from computer science, mathematics, and philosophy.
+* IMPORTANT DATES
+-dh Abstract submission: 1st March, 2023
+-dh Student Travel Grants deadline: 1st March, 2023
+-d Notifications of Abstract Acceptance: 3rd April, 2023
+-d Decision on Travel Grants: 5th April, 2023
+-d Deadline for Early Registration: 1st May, 2023
+-d Registration closing: 15th May, 2023
+-d Start of the Conference: 5th June, 2023
+-d End of the Conference: 9th June, 2023
+* CONTRIBUTED TALKS
+  Online contributed talks are welcome and we will do our best to make this event hybrid, although we of course encourage you to come to Milan to meet the community.
+  Topics of interest include:
+  - Set Theory
+  - Proof Theory
+  - Model Theory
+  - Computability Theory
+  - Philosophical Logic
+  - Logic in Computer Science
+  Please see submission instructions on the full call: https://lc2023.unimi.it/call-for-papers/
+* STUDENT TRAVEL GRANTS
+  To be considered for a travel award, please see the full call: https://lc2023.unimi.it/call-for-papers/
+* INVITED SPEAKERS
+- Gal Binyamini (Weizmann Institute of Science, Israel)
+- Nicola Gambino (Department of Mathematics, University of Manchester, UK)
+- Martino Lupini (Department of Mathematics, University of Bologna, Italy)
+- Francesca Poggiolesi (Université Paris 1 Panthéon-Sorbonne, CNRS, Institut d’Histoire et de Philosophie des Sciences et des Techniques, France)
+- Viorica Sofronie-Stokkermans (Institut für Informatik, University Koblenz-Landau, Germany)
+- Igor Carboni Oliveira (Department of Computer Science, University of Warwick, UK)
+- Zoltán Vidnyánszky (Institute of Mathematics, Eotvos University, Hungary)
+- Gabriel Goldberg (Mathematics, UCBerkeley, USA)
+- Johanna Franklin (Department of Mathematics, Hofstra University, USA)
+* TUTORIAL SPEAKERS
+- Itay Kaplan (Einstein Institute of Mathematics, Hebrew University of Jerusalem, Israel)
+  MORE TUTORIAL SPEAKERS T.B.A.
+* SPECIAL SESSIONS
+  Logic Colloquium 2023 will feature 6 special sessions, the topics of which are to be announced.
+
+
+
+
+
+
+PostDoc position in automata theory / algorithmic game theory, University of Warsaw
+JOB ANNOUNCEMENT
+* DETAILS
+  - Application deadline: December 20, 2022
+  - Starting date: Flexible
+  - Salary: 7600 PLN/month before taxes (quite competitive in Poland)
+  - Duration: 6 or 12 months
+  - Project: "Computational aspects of infinite-duration games" funded by NCN
+  - Principal investigator: Paweł Parys (www.mimuw.edu.pl/~parys)
+  - Contact: parys@mimuw.edu.pl
+* The project concerns solving parity games and other kind of games, and related questions. This is mostly a theoretical research. We promise a vibrant working atmosphere in the automata group at the University of Warsaw, and exciting and challenging research problems.
+* The ideal candidate is expected to have:
+ - PhD degree or equivalent in computer science or math (finished or to be
+  finished soon),
+ - solid background in formal methods and automata theory,
+ - significant publication record,
+ - strong motivation for research work in foundations of computer science,
+ - advanced skills in written and spoken English.
+* To apply, please send your curriculum vitae to parys@mimuw.edu.pl.
+
+-dM PostDoc in automata/games, Warsaw: Dec 20, 2022 (Application deadline)
+
+
+
+
+
