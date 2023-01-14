@@ -1,0 +1,215 @@
+-dd January 03, 2023
+
+
+-dM LICS 2023:  Jan 18, 2023 (Titles and Short Abstracts Due), Jan 23, 2023 (Full Papers Due)
+-dM ICLP 2023:  Jan 23, 2023 (Abstract registration), Jan 31, 2023 (Paper (regular, applications, thematic tracks)), Apr 28, 2023 (Paper (other paper types))
+-dM FSCD 2023:  Jan 30, 2023 (Abstract), Feb 03, 2023 (Paper)
+-dM Dov Gabbay Prize for Logic and Foundations:   Jan 31, 2023 (Deadline for nominations)
+-dM S. Barry Cooper Prize:  Jan 31, 2023 (Deadline for nominations)
+-dM CONFEST 2023:   Feb 02, 2023 (Submission deadline)
+-dM CiE 2023:   Feb 08, 2023 (Abstract), Feb 15, 2023 (Article)
+-dM ICALP 2023:   Feb 11, 2023 at 11am CET (Paper)
+-dM LOGIC COLLOQUIUM 2023:  Mar 01, 2023 (Abstract), Mar 01, 2023 (Student Travel Grants deadline)
+
+
+
+Alonzo Church Award 2023: The 2023 Alonzo Church Award for Outstanding Contributions to Logic and Computation
+CALL FOR NOMINATIONS -s SIGLOG MATTER
+* INTRODUCTION
+  An annual award, called the Alonzo Church Award for Outstanding Contributions to Logic and Computation, was established in 2015 by the ACM Special Interest Group for Logic and Computation (SIGLOG), the European Association for Theoretical Computer Science (EATCS), the European Association for Computer Science Logic (EACSL), and the Kurt Goedel Society (KGS). The award is for an outstanding contribution represented by a paper or by a small group of papers published within the past 25 years. This time span allows the lasting impact and depth of the contribution to have been established. The award can be given to an individual, or to a group of individuals who have collaborated on the research. For the rules governing this award, see https://siglog.org/alonzo-church-award/, https://www.eatcs.org/index.php/church-award/, and https://www.eacsl.org/alonzo-church-award/.
+  The 2022 Alonzo Church Award was given to Dexter Kozen for his ground- breaking work on the theory and applications of Kleene Algebra with Tests. Lists containing this and all previous winners can be found through the links above. 
+* ELIGIBILITY AND NOMINATIONS
+  The contribution must have appeared in a paper or papers published within the past 25 years. Thus, for the 2023 award, the cut-off date is January 1, 1998. When a paper has appeared in a conference and then in a journal, the date of the journal publication will determine the cut-off date. In addition, the contribution must not yet have received recognition via a major award, such as the Turing Award, the Kanellakis Award, or the Goedel Prize. (The nominee(s) may have received such awards for other contributions.) While the contribution can consist of conference or journal papers, journal papers will be given a preference.
+  Nominations for the 2023 award are now being solicited. The nominating letter must summarise the contribution and make the case that it is fundamental and outstanding. The nominating letter can have multiple co-signers. Self-nominations are excluded. Nominations must include: a proposed citation (up to 25 words); a succinct (100-250 words) description of the contribution; and a detailed statement (not exceeding four pages) to justify the nomination. Nominations may also be accompanied by supporting letters and other evidence of worthiness. Nominations for the 2023 award are automatically considered for all future editions of the award, until they receive the award or the nominated papers are no longer eligible. Nominations should be submitted to dezani@di.unito.it and to mariangiola.dezani@gmail.com.
+  -dh Deadline for nominations: February 1, 2023
+* PRESENTATION OF THE AWARD
+  The 2023 award will be presented at the 50th EATCS International Colloquium on Automata, Languages and Programming, which is scheduled to take place in Paderborn - Germany on July 10-14, 2023. The award will be accompanied by an invited lecture by the award winner, or by one of the award winners. The awardee(s) will receive a certificate and a cash prize of USD 2,000. If there are multiple awardees, this amount will be shared. 
+* AWARD COMMITTEE
+  The 2023 Alonzo Church Award Committee consists of the following five members: Thomas Colcombet, Mariangiola Dezani (chair), Marcelo Fiore, Radha Jagadeesan, and Igor Walukiewicz.
+
+
+
+
+CPP 2023: Certified Programs and Proofs
+  Jan 16-17, 2023, co-located with POPL 2023, Boston
+  Registration: https://popl23.sigplan.org/attending/registration
+  Accommodation: Boston Park Plaza https://popl23.sigplan.org/venue/POPL-2023-venue
+CALL FOR PARTICIPATION
+* ABOUT
+  Certified Programs and Proofs (CPP) is an international conference on practical and theoretical topics in all areas that consider formal verification and certification as an essential paradigm for their work. CPP spans areas of computer science, mathematics, logic, and education.
+  CPP 2023 (https://popl23.sigplan.org/home/CPP-2023) will be held on 16-17 January 2023 and will be co-located with POPL 2023. CPP 2023 is sponsored by ACM SIGPLAN, in cooperation with ACM SIGLOG, and supported by a diverse set of industrial sponsors. Similarly to other events collocated with POPL 2023, CPP will take place as an in-person event at Boston Park Plaza, and will require attendees to provide proof of vaccination (details will be available soon). Virtual participation via Airmeet will also be available; look for updated information about that option on the POPL web site.
+  For more information about this edition and the CPP series, please visit https://popl23.sigplan.org/home/CPP-2023 
+* INVITED SPEAKERS
+ - Sandrine Blazy, University of Rennes and IRISA
+ - Cezary Kaliszyk, University of Innsbruck
+* ACCEPTED PAPERS
+  The list of accepted papers is available at https://popl23.sigplan.org/home/CPP-2023#event-overview
+ 
+
+
+
+CAV 2023: 35th International Conference on Computer-Aided Verification
+  July 17-22, 2023, Paris, France
+  http://www.i-cav.org/2023/
+CALL FOR PAPERS
+* CAV 2023 is the 35th in a series dedicated to the advancement of the theory and practice of computer-aided formal analysis methods for hardware and   software systems. The conference covers the spectrum from theoretical results to concrete applications, with an emphasis on practical verification tools and the algorithms and techniques that are needed for their implementation. CAV considers it vital to continue spurring advances in hardware and software verification while expanding to new domains such as machine learning, autonomous systems, and computer security. The proceedings of the conference will be published in the Springer-Verlag Lecture Notes in Computer Science series.
+* IMPORTANT DATES: (firm)
+  -dh Paper submission: February 3, 2023 
+  -dv Rebuttal period: March 29-31, 2023
+  -dh Artifact submission: April 25, 2023
+* Detailed information can be found on the webpage.
+CALL FOR NOMINATIONS
+*CAV AWARD
+  The CAV award is given annually at the CAV conference for fundamental contributions to the field of Computer-Aided Verification.
+ -dh CAV AWARD Nomination deadline: February 20, 2023
+
+
+
+Salomaa Prize: Salomaa Prize in Automata Theory, Formal Languages, and Related Topics
+  Deadline Feb 28, 2023
+  https://math.utu.fi/salomaaprize/
+CALL FOR NOMINATIONS
+* ABOUT 
+  The Salomaa Prize in Automata Theory, Formal Languages, and Related Topics is awarded annually at the conference DLT (Developments in Language Theory). It consists of the diploma and the prize of 2000 Euros donated by the University of Turku. The award is given to a distinguished researcher on his/her fundamental achievements on automata theory and related topics. The achievement might be a single article, a series of articles, or a broader impact on the theory. The Salomaa Prize 2023 will be awarded at DLT 2023 In Umea, Sweden. Nominations should be sent to the chair of the selection committee (Wolfgang Thomas, RWTH Aachen University, thomas@cs.rwth-aachen.de). For all further information see the Salomaa Prize website mentioned above. 
+  -dh Deadline for nominations: Feb 28, 2023
+
+ICGT 2023: 16th International Conference on Graph Transformation
+  https://conf.researchr.org/home/icgt-2023
+  Part of STAF 2023, 17-21st July in Leicester, UK
+  https://conf.researchr.org/home/staf-2023
+CALL FOR PAPERS
+* AIMS AND SCOPE 
+  The use of graphs and graph-like structures as a formalism for specification and modelling is widespread in all areas of computer science as well as in many fields of computational research and engineering. Relevant examples include software architectures, pointer structures, state space and control/data flow graphs, UML and other domain-specific models, network layouts, topologies of cyber-physical environments, quantum computing and molecular structures. Often, these graphs undergo dynamic change, ranging from reconfiguration and evolution to various kinds of behaviour, all of which may be captured by rule-based graph manipulation. Thus, graphs and graph transformation form a fundamental universal modelling paradigm that serves as a means for formal reasoning and analysis, ranging from the verification of certain properties of interest to the discovery of fundamentally new insights.
+  The International Conference on Graph Transformation aims at fostering exchange and collaboration of researchers from different backgrounds working with graphs and graph transformation, either in contributing to their theoretical foundations or by applying established formalisms to classical or novel areas. The conference not only serves as a well-established scientific publication outlet, but also as a platform to boost inter- and intra-disciplinary research and to leeway for new ideas.
+  The 16th International Conference on Graph Transformation (ICGT 2023) will be held in Leicester, UK, as part of STAF 2023 (Software Technologies: Applications and Foundations). The conference takes place under the auspices of EATCS and IFIP WG 1.3. Proceedings will be published by Springer in the Lecture Notes in Computer Science (LNCS) series.
+* IMPORTANT DATES (AoE)
+  -dh Abstract submission: 28 Feb 2023 
+  -dh Paper submission: 07 Mar 2023 
+  -d Notification: 21 Apr 2023
+  -d Final version due: 07 May 2023
+  -dv Conference: within  Jul 17-21, 2023
+* TOPICS  
+  In order to foster a lively exchange of perspectives on the subject of the conference, the programme committee of ICGT 2023 encourages all kinds of contributions related to graphs and graph transformation, either from a theoretical point of view or a practical one.
+ Topics of interest include, but are not limited to the following subjects:
+  - General models of graph transformation (e.g. adhesive categories and hyperedge replacement systems)
+  - Analysis and verification of graph transformation systems
+  - Graph-based machine learning, including graph neural networks and models of rule inference
+  - Graph theoretical properties of graph languages
+  - Automata on graphs and parsing of graph languages
+  - Logical aspects of graph transformation
+  - Computational models based on graphs
+  - Structuring and modularisation of graph transformation
+  - Hierarchical graphs and decomposition of graphs
+  - Parallel, concurrent, and distributed graph transformation
+  - Term graph and string diagram rewriting
+  - Petri nets and other models of concurrency
+  - Business process models and notations
+  - Bigraphs and bigraphical reactive systems
+  - Graph databases and graph queries
+  - Model-driven development and model transformation
+  - Model checking, program analysis and verification, simulation and animation
+  - Syntax, semantics and implementation of programming languages, including domain-specific and visual languages
+  - Graph transformation languages and tool support
+  - Efficient algorithms (e.g. pattern matching, graph traversal, network analysis)
+  - Applications and case studies in software engineering (e.g. software architectures, refactoring, access control, and service-orientation)
+  - Applications to computing paradigms (e.g. bio-inspired, quantum, ubiquitous, and visual)
+  - Graph transformation and artificial intelligence (e.g., AI for graph transformations, applying graph transformations in AI engineering and search-based software engineering) 
+* SUBMISSION
+  See full call for submission details: https://conf.researchr.org/track/icgt-2023/icgt-2023-papers
+
+
+
+
+
+
+FORMATS 2023: 21st International Conference on Formal Modeling and Analysis of Timed Systems
+  https://www.uantwerpen.be/en/conferences/confest-2023/formats/
+  19-21 September 2023, Antwerp, Belgium
+  co-located with CONCUR, FMICS and QEST as part of CONFEST 2023
+CALL FOR PAPERS
+* SCOPE & TOPICS
+  FORMATS (International Conference on Formal Modeling and Analysis of Timed Systems) is an annual conference which aims to promote the study of fundamental and practical aspects of timed systems, and to bring together researchers from different disciplines that share interests in the modelling, design and analysis of timed computational systems. The conference aims to attract researchers interested in real-time issues in hardware design, performance analysis, real-time software, scheduling, semantics and verification of real-timed, hybrid and probabilistic systems.
+* TOPICS 
+  Typical topics include (but are not limited to):
+  - Foundations and Semantics: Theoretical foundations of timed systems, languages and models (e.g., timed automata, timed Petri nets, hybrid automata, timed process algebra, max-plus algebra, probabilistic models).
+  - Methods and Tools: Techniques, algorithms, data structures, and software tools for analyzing timed systems and resolving temporal constraints (e.g., scheduling, worst-case execution time analysis, optimization, model checking, testing, constraint solving).
+  - Applications: Adaptation and specialization of timing technology in application domains in which timing plays an important role (e.g., real-time software, hardware circuits, scheduling in manufacturing and telecommunication, robotics).
+  This year, FORMATS will incorporate a special track on: Monitoring of cyber-physical systems. We encourage the submission of papers on all approaches related to the monitoring of cyber-physical systems, including monitoring methods, monitoring applications (such as robustness-guided falsification), and related techniques (such as validation of a formal specification for monitoring).
+* INVITED SPEAKERS
+  FORMATS 2023 will feature the following invited speakers:
+  - Joost-Pieter Katoen, RWTH Aachen University, Germany (joint with all CONFEST conferences) 
+  - Nicolas Markey, CNRS & University of Rennes, France (joint with CONCUR) 
+  - David Parker, Oxford University, UK (joint with QEST, CONCUR) 
+  - Jaco van de Pol, Aarhus University, Denmark (joint with CONCUR, FMICS)
+* PAPER SUBMISSION
+  FORMATS 2023 solicits high-quality papers describing research results, experience reports and/or tools related to the topics mentioned above. 
+  - Regular papers, max 15 pages in length (excl. references)
+  - Short papers, max 7 pages in length (excl. references)
+  See full call for details: https://www.uantwerpen.be/en/conferences/confest-2023/formats/call/
+* ARTIFACT EVALUATION 
+   FORMATS encourages authors to submit artifacts where appropriate, for example to demonstrate how to reproduce experimental data in a research paper or to examine the usability and applicability of a software tool. 
+* PUBLICATION AND BEST PAPER AWARD
+  The proceedings of FORMATS 2023 will be published by Springer in the Lecture Notes in Computer Science series. The best paper of the conference will be awarded the Oded Maler Award in Timed Systems.
+* IMPORTANT DATES
+ -dh Abstract submission: 21 April 2023
+ -dh Paper submission: 28 April 2023
+ -d Acceptance notification: 16 June 2023
+ -d Camera-ready deadline: 14 July 2023
+ -dv Conference: Sep 19-21, 2023 
+
+
+
+
+
+-dM POST-DOC POSITION IN LOGIC at LUCI-UNIMI: Jan 18, 2023 23:59 CET (Applications)
+
+POST-DOC POSITION IN LOGIC at LUCI-UNIMI
+  2 Years post-doc position in Logic within the Logic, Uncertainty, Computation and Information (LUCI) Group, Department of Philosophy, University of Milan.
+JOB ANNOUNCEMENT
+* PROJECT: 
+  This project aims to develop logics for the verification of properties of interest in the development and use of machine learning systems in Artificial Intelligence. In particular, the aim is to develop methods for demonstrating or verifying models that simulate the probabilistic structures underlying supervised, unsupervised and/or reinforcement learning methods and to check for biases and assess their risks.
+  The project activities consist of:
+  1) Formulation of multi-agent models and/or probabilistic deductive reasoning checking for forms of bias and risk
+  2) Presentation of scientific results at international conferences
+  3) Publication of research results in international journals
+  4) Supporting the organisation of scientific events
+* PROFILE OF THE RESEARCHER  
+  The ideal candidate has obtained a PhD in Logic or related field (Philosophy/AI/CS/Mathematics), with knowledge of least two of the following disciplines:
+  - proof theory and automated theorem proving
+  - probabilistic extensions of Curry-Howard isomorphisms and lambda-calculus
+  - temporal logics and model checking
+  - formal models of Bias and Risk in AI
+  In addition, the ideal candidate has a great aptitude for teamwork, with good organisational skills.
+* HOW TO APPLY & DEADLINE 
+  The deadline for application is on 18th January 2023 at 23:59 CET (strict – please note that late applications cannot be considered). Please follow carefully the instructions available on the official call, published at 
+  https://www.unimi.it/it/ricerca/ricerca-lastatale/fare-ricerca-da-noi/assegni-e-borse/bandi-assegni-di-ricerca/bando-di-tipo-b-prof-primiero-id-5590
+  Online interviews are scheduled on 27th January 2023 at 10:00am CET.
+  For any informal inquiry please write to giuseppe.primiero@unimi.it
+
+
+
+-dM POSTDOC POSITION in WARSAW: Feb 15, 2023 (Applications)
+
+POSTDOC POSITION in WARSAW: Postdoc position for the National Science Centre project "Hybrid models of natural reasoning" implemented at the Institute of Mathematics PAS
+JOB ANNOUNCEMENT
+* ABOUT
+  This research project is located in the intersection of cognitive science, computer science, and computational linguistics. It aims to develop and study hybrid models of natural reasoning that combine methods of logic and deep learning. In hybrid models, reasoning is ultimately based on rules of logic, but neural networks are involved in tasks such as the process of premise selection or construction of reasoning steps. We are interested in analyzing and interpreting interactions between the logical and the neural components, with emphasis on problems such as explainability for neural networks, compositionality in the context of reasoning, reasoning with background knowledge, etc.
+  We offer a genuinely interdisciplinary scientific environment, and oversight of the postdoc’s research activities by two advisers – one specializing in logic (prof. Maciej Malicki, Institute of Mathematics of the Polish Academy of Sciences), and another one specializing in cognitive science/computational linguistics (prof. Jakub Szymanik, University of Trento). During the implementation of the project, we will cooperate with researchers from Poland, Italy and USA.  
+  To learn more about the project, write to mmalicki@impan.pl. 
+  We expect:
+  - PhD (defended before Oct 1st) in a field related to the project: cognitive science, computational linguistics, computer science, philosophy, etc.,
+  - substantial research experience in methods of logic and/or machine learning,
+  - passion for interdisciplinary research at the intersection of cognitive science, logic and computer science,
+  - ability to work in a team, and assist in supervising a PhD student,
+  - good command of English (oral and written).
+* START OF WORK: 
+  March – October 2023 (depending on the candidate’s preferences).
+* REMUNERATION
+  A salary of appr. 6500PLN (appr. 8400PLN gross) will be paid for 12 months.
+* APPLICATION PROCEDURE
+  For full consideration, send your application to mmalicki@impan.pl by Feb 15, 2023. It should include a statement, a detailed description of your research interests, experience, and achievements, including a list of publications, as well the names, addresses, and e-mail addresses of at least two references. Selected candidates will be interviewed on-line.
+
+
+
+
+

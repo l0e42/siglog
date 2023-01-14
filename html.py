@@ -251,13 +251,14 @@ for x in document['items']:
 	html += item(x)
 
 
-html += "<br><br>To the <a href=\"http://siglog.org/\">SIGLOG</a> or <a href=\"https://lics.siglog.org\">LICS</a> website"
+html += "<br><br><br>To the <a href=\"http://siglog.org/\">SIGLOG</a> or <a href=\"https://lics.siglog.org\">LICS</a> website."
 html += "</div>"
 if email:
 	html += "<br>\n" 
+	html += "<br>\n" 
 	html += "Kind regards, <br>\n"
 	html += "David Purser <br>\n"
-	html += "University of Warsaw <br>\n"
+	html += "University of Liverpool <br>\n"
 
 html +="</body></html>"
 

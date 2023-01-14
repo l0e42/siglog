@@ -256,9 +256,9 @@ fontfamily=\\rmdefault
 
 \\acmArticle{CFP}
 """
-html += "\\title{\\huge\\sc SIGLOG Monthly "  +  str(document['number']) + "}"
+html += "\\title{{\\huge\\sc SIGLOG Monthly "  +  str(document['number']) + "}\n\n " + document['renderdate'].strftime("%B %Y") + "}"
 html += """
-\\author{DAVID PURSER\\affil{University of Warsaw, Poland}
+\\author{DAVID PURSER\\affil{University of Liverpool, UK}
 \\vspace*{-2.6cm}\\begin{flushright}\\includegraphics[width=30mm]{dp}\\end{flushright}
 }
 
