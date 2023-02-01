@@ -262,6 +262,13 @@ html += """
 \\vspace*{-2.6cm}\\begin{flushright}\\includegraphics[width=30mm]{dp}\\end{flushright}
 }
 
+\\begin{abstract}
+"""
+html += document['renderdate'].strftime("%B %Y")
+html += """ edition of SIGLOG Monthly, featuring deadlines, calls and community announcements.
+\\end{abstract}
+
+
 \\maketitlee
 """
 

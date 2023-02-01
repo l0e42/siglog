@@ -1,0 +1,199 @@
+-dd February 01, 2023
+
+
+-dM Alonzo Church Award 2023:   Feb 01, 2023 (Deadline for nominations)
+-dM CONFEST 2023:   Feb 02, 2023 (Submission deadline)
+-dM CAV 2023:   Feb 03, 2023 (Paper), Apr 25, 2023 (Artifact), Feb 20, 2023 (CAV AWARD Nomination deadline)
+-dM CiE 2023:   Feb 08, 2023 (Abstract), Feb 15, 2023 (Article)
+-dM ICALP 2023:   Feb 11, 2023 at 11am CET (Paper)
+-dM POSTDOC POSITION in WARSAW:   Feb 15, 2023 (Applications)
+-dM Salomaa Prize:  Feb 28, 2023 (Deadline for nominations)
+-dM ICGT 2023:  Feb 28, 2023 (Abstract), Mar 07, 2023 (Paper)
+-dM LOGIC COLLOQUIUM 2023:  Mar 01, 2023 (Abstract), Mar 01, 2023 (Student Travel Grants deadline)
+-dM FORMATS 2023:   Apr 21, 2023 (Abstract), Apr 28, 2023 (Paper)
+-dM ICLP 2023: Apr 28, 2023 (non-regular paper)
+
+
+IJCAI 2023: 32nd International Joint Conference on Artificial Intelligence
+  August 19-25, 2023
+  Cape Town, South Africa
+CALL FOR WORKSHOPS
+* The 32nd International Joint Conference on Artificial Intelligence (IJCAI 2023) is inviting proposals for workshops to be held August 19-21, 2023, in Cape Town, South Africa, immediately before the main conference.
+  All the details can be found here: https://ijcai-23.org/call-for-workshop-proposals/
+  The important dates are: (anywhere on earth)
+  -dh  Proposal submission deadline: February 3, 2023
+  -d  Acceptance notification: March 6, 2023
+  -dv IJCAI 2023 workshops: Aug 19-21, 2023
+  We look forward to receiving your proposals! Should you have any question about the workshops, feel free to reach us at the email workshops@ijcai-23.org.
+
+
+DEON 2023: 16th INTERNATIONAL CONFERENCE ON DEONTIC LOGIC AND NORMATIVE SYSTEMS
+  July 5-7, 2023, Trois-Rivières, Canada
+  http://www.uqtr.ca/DEON2023
+CALL FOR PAPERS
+* DEON 2023 will focus on the theme Theoretical and technical limitations of automated behavior.
+* Important dates:
+  -dh Abstract submission: March 1st, 2023
+  -dh Paper submission: March 31st, 2023
+* Invited Speakers: 
+  -Lou Goble (Willamette University), Pedro Cabalar (Corunna University),
+  - Huimin Dong (Sun Yat-Sen University), other speakers TBA.
+* Detailed information can be found on the webpage.
+
+
+
+
+
+ICDT 2024: 27th INTERNATIONAL CONFERENCE ON DATABASE THEORY
+  Paestum, Italy, March 25-28, 2024
+  For more info check https://dastlab.github.io/edbticdt2024/
+CALL FOR PAPERS
+  * ICDT is a series of international scientific conferences on research of data management theory (https://databasetheory.org/icdt-pages). The 27th edition of ICDT, in 2024, will take place in Paestum, Italy.
+  * Topics of Interest
+    We welcome research papers on *every* topic related to the principles and theory of data management, provided that there is a clear connection to foundational aspects.
+  This includes, for example, articles on "classical" data management topics such as:
+  - The design and study of data models and query languages
+  - The development and analysis of algorithms for data management
+  - The theoretical investigation of various aspects underlying data management systems (indexes, concurrency, distributed computation, privacy and security, ...)
+  but also includes papers exploring existing or identifying new connections between data management and other areas, such as the areas of:
+  - knowledge representation, semantic web
+  - information retrieval and data mining
+  - machine learning/AI
+  - distributed computing
+  - theoretical computer science.
+* Important dates.  
+  ICDT will have two submission cycles for 2024, with deadlines as follows:
+    -dh Cycle 1 Abstract submission: March 20, 2023
+    -dh Cycle 1 Full Submission due: March 27, 2023
+    -d Cycle 1 Notification: June 5, 2023
+    -dh Cycle 2 Abstract submission: September 13, 2023
+    -dh Cycle 2 Full submission: September 20, 2023
+    -d Cycle 2 Notification: November 29, 2023
+* Submission instructions can be found on the webpage
+
+
+
+
+
+MARKTOBERDORF SUMMER SCHOOL 2023 ON SAFETY AND SECURITY THROUGH FORMAL VERIFICATION
+  August 2-11, 2023
+  https://events.model.in.tum.de/mod23
+CALL FOR PARTICIPATION
+* The "Marktoberdorf Summer School" is an 11-day event for young computer scientists and mathematicians, typically doctoral and post-doctoral researchers. It provides mini-courses on state-of-the-art topics in "Safety and Security through Formal Verification" and leaves ample room for interaction between participants and speakers.
+* Registration
+  Registration opens on February 2023. Register online at
+  https://events.model.in.tum.de/mod23/participation.html
+  -dh Registration deadline: April 15, 2023
+* SPEAKERS AND COURSES:
+  - PAROSH AZIZ ABDULLA: Algorithmic Verification of Infinite-State Systems
+  - JASMIN BLANCHETTE: Solvers and Provers
+  - BYRON COOK: Cloud Reasoning
+  - JAVIER ESPARZA: Interactive Proof Systems: From Theory to Practice
+  - JAN KRETINSKY: Learning-Aided Probabilistic Verification and Synthesis
+  - ANCA MUSCHOLL Distributed synthesis and control
+  - ALEKSANDAR NANEVSKI: Type and Proof Structures for Concurrent Programs
+  - CORINA PASAREANU: Symbolic Execution and Quantitative Reasoning: Applications to Software Safety and Security
+  - GRIGORE ROSU: Automated Synthesis of Temporal-Logic Specifications
+  - JAMES WORRELL: Orbit Problems for Dynamical Systems
+  - HONGSEOK YANG: Probabilistic Programming 
+
+
+CLAR 2023: The 5th International Conference on Logic and Argumentation
+  September 10-12, 2023, Hangzhou (China)
+  https://www.zlaire.net/clar2023/
+CALL FOR PAPERS
+* CLAR 2023
+  The 5th International Conference on Logic and Argumentation (CLAR 2023) invites contributions from logic, artificial intelligence, philosophy, computer science, linguistics, law, and other areas studying logic and formal argumentation. CLAR 2023 will be held 10th-12th September 2023 at Zhejiang University in Hangzhou. 
+  CLAR 2023 aims to highlight recent advances in logic and argumentation and foster interaction in these two areas between researchers within and outside China.
+   The interplay between logic and argumentation spans different disciplines and historical eras: from ancient philosophy (Socrates' dialectics, Aristotle's logic) to contemporary computer science (dialogues, multiagent systems). Research in logic and argumentation offers formal or semi-formal models that capture reasoning patterns and dialogue activities of diverse kinds. Their applications in artificial intelligence range from law and ethics to linguistics. CLAR 2023 will focus on a variety of topics and formalisms, including formal models of argumentation (abstract or structured), preference and support, but also dispute and dialogue systems for online argumentation or the processing of legal texts.
+  Established in 2016 as a workshop hosted by Zhejiang University, the CLAR series has been increasingly successful and become an international event and discussion forum in the two areas of logic and argumentation. Our aim for CLAR 2023 is to be a platform for the advancement of the existing discussions within each of the areas above, to span bridges between their different traditions, and finally to open argumentation to new applications and other areas in artificial intelligence, such as legal reasoning, explainable AI, ethical dilemmas, reasoning about uncertainty and knowledge representation, etc. Previous conferences can be accessed via: http://www.xixilogic.org/events/clar.
+  CLAR 2023 will be financially supported by a national key project called "Research on Logics for New Generation Artificial Intelligence" (2021-2025), granted by the National Social Science Foundation of China. Information about the project: https://xixilogic.org/lngai/.
+* Important Dates
+  -dh Submission deadline: 10th April 2023
+  -d Notification: 15th June 2023 
+  -d Camera Ready: 30th June 2023
+  -dv Conference dates: Sep 10-12, 2023
+* Topics
+  Suggested topics include, but are not limited to, the following:
+  Abstract argumentation; Applications of logic and/or argumentation; Applied logic; Argumentation and game theory; Argumentation and law; Argumentation and linguistics; Argumentation and medical reasoning; Argumentation and causal reasoning; Argumentation and explainable AI; Argumentation and ethical AI; Argumentation and knowledge graph reasoning; Argumentation and modal logics; Argument mining; Argumentation schemes; BDI logic; Computational argumentation; Deontic logic; Dynamic epistemic logic ; Belief revision; Formal models for dialog and argumentation; Informal logic; Judgment aggregation; Knowledge representation and reasoning; Logic for game theory; Logic for multi-agent systems; Logic for semantic web; Logic for social networks; Mathematical logic; Modal logic; Nonmonotonic logics; Numerical and uncertainty reasoning; Philosophical logic; Pragma-Dialectics; Preference logic; Probabilistic argumentation; Quantitative argumentation  ; Structured (i.e. logic-based) argumentation; Uncertain argumentation 
+* Submission
+  See submission information: https://www.zlaire.net/clar2023/submission.html
+* Proceedings and Special Issue
+  Proceedings in LNCS Springer. (To be confirmed) After the conference, a selection will be made among the papers accepted at CLAR 2023. The authors will be invited to submit an extended version for a special Issue in a high-impact journal. (To be confirmed)
+
+
+
+
+
+
+
+GCM 2023: 14th International Workshop on Graph Computation Models
+  July 18-21, 2023 (exact day TBC)
+  Leicester, UK
+  https://conf.researchr.org/home/staf-2023/gcm-2023
+  Part of STAF 2023 https://conf.researchr.org/home/staf-2023
+CALL FOR PAPERS
+* Graphs are common mathematical structures which are visual and intuitive. They constitute a natural and seamless way for system modeling in science, engineering and beyond, including computer science, life sciences, business processes, etc. Graph computation models constitute a class of very high-level models where graphs are first-class citizens. They generalize classical computation models based on strings or trees, such as Chomsky grammars or term rewrite systems. Their mathematical foundation, in addition to their visual nature, facilitates specification, validation and analysis of complex systems. A variety of computation models have been developed using graphs and rule-based graph transformation. These models include features of programming languages and systems, paradigms for software development, concurrent calculi, local computations and distributed algorithms, and biological and chemical computations.
+  The International Workshop on Graph Computation Models aims at bringing together researchers interested in all aspects of computation models based on graphs and graph transformation. It promotes the cross-fertilizing exchange of ideas and experiences among young and senior researchers from different communities who are interested in the foundations, applications, and implementations of graph computation models and related areas.
+* IMPORTANT DATES
+  -dh Abstract submission:    07 May 2023
+  -dh Paper submission:       14 May 2023
+  -d Notification:           12 June 2023
+  -d Final version due:      26 June 2023
+  -dv Workshop:               18–21 July 2023 (exact day TBC)
+* TOPICS
+  GCM 2023 solicits papers on all aspects of graph computation models. This includes, but is not limited to the following topics:
+  FOUNDATIONS
+  - Models of graph transformation
+  - Analysis and verification of graph transformation systems
+  - Parallel, concurrent, and distributed graph transformation
+  - Term graph rewriting
+  - Formal graph languages
+  APPLICATIONS
+  - Graph-based programming models and visual programming
+  - Program analysis and transformation
+  - Graph-based machine learning, including graph neural networks and models of rule inference
+  - Model-driven engineering and model transformation
+  - Evolutionary computation; software architectures, validation and evolution
+  - Databases
+  - Graph-based security models
+  - Workflow and business processes
+  - Social network analysis
+  - Bioinformatics and computational chemistry
+  - Quantum computing
+  - Case studies
+* SUBMISSION TYPES
+  Authors are invited to submit papers in any of the following three categories:
+  1) Regular papers of at most 16 pages describing innovative contributions.
+  2) Short papers (work in progress, system descriptions, or position papers) of 6 to 12 pages.
+  3) Short announcements of 1 or 2 pages, to be presented as lightning talks of 5 minutes.
+  See full call for submission instructions: https://conf.researchr.org/home/staf-2023/gcm-2023#Call-for-Papers
+
+
+Assistant Professor in Theoretical Computer Science in Amsterdam
+  Vrije Universiteit Amsterdam
+JOB ANNOUNCEMENT
+* The Department of Computer Science at the Vrije Universiteit Amsterdam offers an open position as assistant professor in Theoretical Computer Science, in the area of logic or semantics, broadly construed.
+  https://workingat.vu.nl/ad/assistant-professor-tcs-tenure-track-career-track/b860v9
+  -dh Deadline for application: March 14, 2023
+
+
+
+
+Faculty Positions at the University of Quebec in Montreal
+  https://www.info.uqam.ca
+JOB ANNOUNCEMENT
+* Two Assistant/Associate Professor positions in computer science in the broad areas: Parallel, Concurrent, Distributed, and High-Performance Computing, including concurrency and more fundamental aspects http://info.uqam.ca/PP.pdf and Data Science, including logic-based approaches, ontologies, etc. http://info.uqam.ca/SD.pdf
+* DATE
+  -dh Application deadline: Mar 31, 2023
+  For any further inquiry, please contact Roger Villemaire <villemaire.roger@uqam.ca>
+
+
+
+
+
+
+
+
+
+
