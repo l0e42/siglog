@@ -1,0 +1,330 @@
+-dd March 01, 2023
+
+ -dM LOGIC COLLOQUIUM 2023:  Mar 01, 2023 (Abstract), Mar 01, 2023 (Student Travel Grants deadline)
+ -dM CAV 2023: Mar 01, 2023 (CAV AWARD Nomination deadline, Extended)
+ -dM DEON 2023:  Mar 01, 2023 (Abstract), Mar 31, 2023 (Paper)
+ -dM Assistant Professor in Theoretical Computer Science in Amsterdam:   Mar 14, 2023 (Deadline for application)
+ -dM ICDT 2024:  Mar 20, 2023 (Cycle 1 Abstract), Mar 27, 2023 (Cycle 1 Full Submission due), Sep 13, 2023 (Cycle 2 Abstract), Sep 20, 2023 (Cycle 2 Full)
+ -dM Faculty Positions at the University of Quebec in Montreal:  Mar 31, 2023 (Application deadline)
+ -dM CLAR 2023:  Apr 10, 2023 (Submission deadline)
+ -dM MARKTOBERDORF 2023:   Apr 15, 2023 (Registration deadline)
+ -dM FORMATS 2023:   Apr 21, 2023 (Abstract), Apr 28, 2023 (Paper)
+ -dM ICLP 2023:  Apr 28, 2023 (non-regular paper)
+ -dM GCM 2023:   May 07, 2023 (Abstract), May 14, 2023 (Paper)
+
+
+
+IWCS 2023: 15th International Conference on Computational Semantics
+  Université de Lorraine, Nancy, France
+  20-23th June 2023   
+  http://iwcs2023.loria.fr/
+CALL FOR PAPERS
+*  IWCS is the biennial meeting of SIGSEM (http://sigsem.org/), the ACL special interest group on semantics (http://aclweb.org/); this year's edition is organized in person by the Loria (https://www.loria.fr/fr/) and IDMC (http://idmc.univ-lorraine.fr/) of the Université de Lorraine.
+  The aim of the IWCS conference is to bring together researchers interested in any aspects of the computation, annotation, extraction, representation and neuralisation of meaning in natural language, whether this is from a lexical or structural semantic perspective. IWCS embraces both symbolic and machine learning approaches to computational semantics, and everything in between. The conference and workshops will take place 20-23 June 2023.
+* TOPICS OF INTEREST
+  We invite paper submissions in all areas of computational semantics, in other words all computational aspects of meaning of natural language within written, spoken, signed, or multi-modal communication.
+  Presentations will be oral and posters.
+  Submissions are invited on these closely related areas, including the following:
+  - design of meaning representations
+  - syntax-semantics interface
+  - representing and resolving semantic ambiguity
+  - shallow and deep semantic processing and reasoning
+  - hybrid symbolic and statistical approaches to semantics
+  - distributional semantics
+  - alternative approaches to compositional semantics
+  - inference methods for computational semantics
+  - recognising textual entailment
+  - learning by reading
+  - methodologies and practices for semantic annotation
+  - machine learning of semantic structures
+  - probabilistic computational semantics
+  - neural semantic parsing
+  - computational aspects of lexical semantics
+  - semantics and ontologies
+  - semantic web and natural language processing
+  - semantic aspects of language generation
+  - generating from meaning representations
+  - semantic relations in discourse and dialogue
+  - semantics and pragmatics of dialogue acts
+  - multimodal and grounded approaches to computing meaning
+  - semantics-pragmatics interface
+  - applications of computational semantics
+* SUBMISSION INFORMATION
+  Two types of submission are solicited: long papers and short papers.
+  - Long papers should describe original research: max 8 pages excluding acknowledgements and references. 
+  - Short papers (typically system or project descriptions, or ongoing research): max 4 pages excluding acknowledgements and references.
+  Both types will be published in the conference proceedings and in the ACL Anthology. Accepted papers get an extra page in the camera-ready version.
+  See full call for formatting and submission instructions: http://iwcs2023.loria.fr/call-for-papers/
+* IMPORTANT DATES(anywhere on earth)
+  -dh Paper submission: 15 March 2023  
+  -d Decisions sent to authors: 17 April 2023 
+  -d Camera-ready papers due: 15 May 2023 
+  -dv IWCS conference: Jun 20-23, 2023 
+*  For questions, contact: iwcs2023-contact@univ-lorraine.fr
+
+
+
+
+
+VCLA International Student Awards
+  http://www.vcla.at/2023/01/call-for-nominations-vcla-international-student-awards/
+  https://logic-cs.at/vcla-international-student-awards-2023/
+CALL FOR NOMINATIONS
+*  The Vienna Center for Logic and Algorithms of TU Wien calls for the nomination of authors of outstanding theses and scientific works in the field of Logic and Computer Science, in the following two categories:
+  - Outstanding Master Thesis Award*
+  - Outstanding Undergraduate Thesis Award (Bachelor thesis or equivalent, 1st cycle of the Bologna process)*
+  The degree must have been awarded between January 1st, 2021 and December 31st, 2022 (inclusive).
+* The main areas of interest are:
+  - Computational Logic, covering theoretical and mathematical foundations such as proof theory, model theory, computability theory, Boolean satisfiability (SAT), QBF, constraint satisfaction, satisfiability modulo theories, automated deduction (resolution, refutation, theorem proving), non-classical logics (substructural logics, multi-valued logics, deontic logics, modal and temporal logics).
+  - Algorithms and Computational Complexity, including design and analysis of discrete algorithms, complexity analysis, algorithmic lower bounds, parameterized and exact algorithms, decomposition methods, approximation algorithms, randomized algorithms, algorithm engineering, as well as algorithmic game theory, computational social choice, parallel algorithms, graph drawing algorithms, and distributed algorithms.
+  - Databases and Artificial Intelligence, concerned with logical methods for modeling, storing, and drawing inferences from data and knowledge. This includes subjects like query languages based on logical concepts (Datalog, variants of SQL, XML, and SPARQL), novel database-theoretical methods (schema mappings, information extraction and integration), logic programming, knowledge representation and reasoning (ontologies, answer-set programming, belief change, inconsistency handling, argumentation, planning).
+  - Verification, concerned with logical methods and automated tools for reasoning about the behavior and correctness of complex state-based systems such as software and hardware designs as well as hybrid systems. This ranges from model checking, program analysis and abstraction to new interdisciplinary areas such as fault localization, program repair, program synthesis, and the analysis of biological systems.
+* AWARDS
+  - The Outstanding Master Thesis Award: 1200 EUR.
+  - The Outstanding Undergraduate Thesis Award: 800 EUR.
+  The winners will be invited to present their work at an award ceremony in Vienna, if the situation allows.
+* ELIGIBILITY
+  - The degree must have been awarded between January 1st, 2021 and December 31st, 2022 (inclusive).
+  - Students who obtained their degree at TU Wien are not eligible.
+* NOMINATION REQUIREMENTS
+  Nominations must include:
+  - A cover page that contains the name and contact details of the nominated person, the title of the work for which the person is being nominated, award category, the date on which the degree was awarded, and the name of the university.
+  - An English summary of the thesis of maximum 3 pages, excluding references (A4 or letter page size, 11pt font min). The summary must clearly state the main contribution of the work, its novelty, and its relevance to some of the aforementioned areas of interest.
+   - The CV of the nominated person, including publication list (if applicable).
+  - An endorsement letter from a supervisor or another proposing person. The letter must clearly state the independent and novel contribution of the student, and why the proposer believes the student deserves the award. The endorsement letter may be provided after the submission deadline, and emailed directly to award (AT) logic-cs.at.
+  - The full thesis.
+  All documents should be in English, with the exception of the thesis. In case the thesis is in a different language, it must be accompanied by a research report in English of at least 10 pages that should be sufficient for the committee to evaluate the merit and quality of the submitted work.
+* INSTRUCTIONS
+  Instructions for submitting self-nominations
+  - Nominations should be submitted electronically by the applicants using the following link to EasyChair: https://easychair.org/conferences/?conf=vclaawards2023.
+  - Submissions consist of two pdf files. The first is a single pdf file containing all documents for the nomination except the full thesis; the documents should appear in the order they are listed above. The second pdf file is the full thesis.
+  - The endorsement letter may optionally be sent by email by the endorser and omitted from the Easychair submission. In this case, please email the letter as a pdf file, including the name of the nominated person in the subject, to award (AT) logic-cs DOT at.
+  - The submission must be accompanied by a plain text electronic abstract of the thesis of at most 400 words, and three keywords.
+  - The nominated student must be listed as the only author in the submission form.
+* IMPORTANT DATES (AoE)
+  -dh Submission deadline: March 31, 2023 
+  -dv Notification of decision: After Jun 30, 2023
+* CONTACT
+  Please send all inquiries to award@logic-cs.at.
+
+
+
+
+InqBnB4 workshop: Inquisitiveness Below and Beyond the Sentence Boundary
+  Nancy (France), 20 June 2023, hosted by IWCS 2023
+  https://iwcs2023.loria.fr/inqbnb4-inquisitiveness-below-and-beyond-the-sentence-boundary/
+CALL FOR PAPERS
+* InqBnB is a workshop series bringing together researchers interested in the semantics and pragmatics of interrogatives (questions or embedded interrogative clauses). This series was originally organized by the Inquisitive Semantics Group of the Institute for Logic, Language and Computation (ILLC) from the University of Amsterdam. As such, the focus point mainly revolves around analyses using or related to inquisitive semantics.
+  After three successful editions in the Netherlands, we hope to open the inquisitive community to a wider audience. The 4th edition is planned on 20 June 2023, just before IWCS 2023 (Internation Conference on Computational Semantics). As invited speakers we are welcoming Wataru Uegaki (University of Edinburgh) and one other to be announced.
+  InqBnB4 invites submissions on original and unpublished research focussed on the properties of inquisitive content. We are mainly interested in theoretical questions, formal models and empirical work. But we are also welcoming papers based on statistical or neural models, provided their main goal is to bring new insights regarding inquisitiveness.
+  Here are some examples of questions of interest: 
+  - Which operators (connectives, quantifiers, modals, conditionals) generate inquisitiveness? 
+  - How do these operators project the inquisitive content of their arguments? e.g. what triggers maximality, exhaustivity or uniqueness of readings? 
+  - How does inquisitive content interact with informative content in compositional semantics? e.g. how do interrogative words interact with negative polarity items, free choice items, indefinites or plurality? 
+  - How do conventions of use interact with inquisitive content? e.g. how can non-answering responses (e.g. clarification questions) be handled? 
+  - In which ways is pragmatics sensitive to inquisitive content? e.g. how does answer bias and ignorance inferences arise? 
+  - What kind of discourse anaphora are licensed by inquisitive expressions? e.g. does dynamic inquisitive semantics manage to correctly derive donkey anaphora?
+* SUBMISSION: Submission link on SoftConf: https://softconf.com/iwcs2023/inqbnb4/
+  Sumitted papers must not exceed eight (8) pages (not counting acknowledgement, references and appendices). Accepted papers get an extra page in the camera-ready version. Submitted papers should be formatted following the common two-column structure as used by ACL. Please use the specific style-files or the Overleaf template for IWCS 2023, taken from ACL 2021. Initial submissions should be fully anonymous to ensure double-blind reviewing. The proceedings will be published in the ACL anthology.
+* IMPORTANT DATES: 
+  -dh Submission deadline: 14 April, 2023 
+  -d Author notification: 12 May, 2023
+  -d Camera ready: 9 June, 2023
+  -d Workshop day: 20 June, 2023
+
+
+
+
+WiL 2023: 7th Women in Logic Workshop
+  July 1, 2023
+  Co-located with FSCD 2023
+  https://sites.google.com/view/wil2023/home
+CALL FOR CONTRIBUTIONS
+* Women in Logic 2023 is a satellite event of the  8th International Conference on Formal Structures for Computation and Deduction (FSCD 2023) to be held in Rome, Italy, from July 1 to July 6, 2023.
+  The Women in Logic workshop (WiL) provides an opportunity to increase awareness of the valuable contributions made by women in the area of logic in computer science. Its main purpose is to promote the excellent research done by women, with the ultimate goal of increasing their visibility and representation in the community. Our aim is to:
+  - provide a platform for female researchers to share their work and achievements;
+  - increase the feelings of community and belonging, especially among junior faculty, post-docs and students through positive interactions with peers and more established faculty;
+  - establish new connections and collaborations;
+  - foster a welcoming culture of mutual support and growth within the logic research community.
+  We believe these aspects will benefit women working in logic and computer science, particularly early-career researchers.
+  Previous versions of Women in Logic (Reykjavík 2017, Oxford 2018, Vancouver 2019, Paris 2020, Rome 2021, and Haifa 2022) were very successful in showcasing women's work and as catalysts for a recognition of the need for change in the community.
+* Topics of interest include but are not limited to: automata theory, automated deduction, categorical models and logics, concurrency and distributed computation, constraint programming, constructive mathematics, database theory, decision procedures, description logics, domain theory, finite model theory, formal aspects of program analysis, formal methods, foundations of computability, games and logic, higher-order logic, lambda and combinatory calculi, linear logic, logic in artificial intelligence, logic programming, logical aspects of bioinformatics, logical aspects of computational complexity, logical aspects of quantum computation, logical frameworks, logics of programs, modal and temporal logics, model checking, probabilistic systems, process calculi, programming language semantics, proof theory, real-time systems, reasoning about security and privacy, rewriting, type systems and type theory, and verification.
+* INVITED SPEAKERS
+  - Marie Kerjean (LIPN, Institut Galilée)
+  - TBA
+* IMPORTANT DATES
+  -dh Abstract submission: April 23, 2023
+  -d Notification: May 15, 2023
+  -d Contribution for Informal Proceedings: June 25, 2023 
+  -d Workshop: July 1, 2023
+* SUBMISSIONS
+  Abstracts should be written in English (1-2 pages), and prepared using the Easychair style (https://easychair.org/publications/for_authors). The abstracts should be uploaded to the WiL 2023 Easychair page https://easychair.org/my/conference?conf=wil2023 as a PDF file before the submission deadline on April 23, 2023, anywhere on Earth.
+
+
+
+RSSRail 2023: International conference on reliability, safety and security of railway systems - modelling, analysis, verification and certification
+  October 10-12, 2023, Berlin, Germany
+  https://rssr2023.ebuef.de/
+CALL FOR CONTRIBUTIONS
+* The railway industry faces increasing pressure to improve system safety, to decrease production costs and time to market, to reduce carbon emissions and running costs, and to increase the capacity of the railway. Railway systems are now being integrated into larger multi-transport networks. Such systems require an even higher degree of automation at all levels of operation. These trends dramatically increase the complexity of railway applications and pose new challenges in developing novel methods of modelling, analysis, verification and validation to ensure their reliability, safety and security, as well as in supporting novel mechanisms and procedures to help make the case that development processes meet the mandated standards.
+  This conference will bring together researchers and developers working on railway system reliability, security and safety to discuss how all of these requirements can be met in an integrated way. It is also vital to ensure that advances in research (in both academia and industry) are driven by the real industrial needs. This will help ensure that such advances are followed by effective industrial deployment. Another particularly important objective is to integrate advances in research into the current development processes, and make them usable and scalable. Finally, a key goal is to develop advanced methods and tools that can ensure that the systems meet the requirements imposed by the regulatory standards and help in building the supportive arguments. This will be a working conference in which research challenges and progress will be discussed and evaluated by both researchers and engineers, focusing on their potential to be deployed in industrial settings.
+* TOPICS OF PARTICULAR INTEREST:
+  - Safety in development processes and safety management
+  - Combined approaches to safety and security
+  - System and software safety analysis
+  - Formal modelling and verification techniques
+  - System reliability
+  - Validation according to the standards
+  - Safety and security argumentation
+  - Fault and intrusion modelling and analysis
+  - Evaluation of system capacity, energy consumption, cost and their interplay
+  - Tool and model integration, tool chain
+  - Domain-specific languages and modelling frameworks
+  - Model reuse for reliability, safety and security
+  - Modelling for maintenance strategy engineering.
+* PRESENTATIONS
+  The conference offers different options for presenting research:
+  - Regular conference papers of 16 pages
+  - Industrial conference papers of 10 pages, providing real-life feedback
+  - Student conference papers of 10 pages, showcasing novel ideas and early research results
+  - Poster presentation, not to be accompanied by a full paper, however the abstract will be published on the website
+  - Tutorials to be offered in the first day (in total 4 tutorials a 90 minute in two parallel sessions).
+* IMPORTANT DATES:
+  -dh Abstract submission for all papers: April 28, 2023  
+  -dh Abstract submission for tutorials: April 28, 2023 
+  -dh Full paper submission: May 5, 2023 
+  -d Notification: June 16, 2023 
+  -d Camera-ready papers submitted: July 14, 2023 
+  -d Abstract submission for posters: July 14, 2023 
+* PROCEEDINGS
+  The conference proceedings will be published by Springer in the LNCS series. The conference submission will be via https://www.tu.berlin/bbi/rssr2023 Submissions must be formatted in the Springer LNCS format, see https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines.
+
+
+
+
+HOR 2023: 11th International Workshop on Higher-Order Rewriting
+   4 July 2023
+   Rome, Italy
+   https://hor2023.github.io/
+   HOR 2023 is affiliated with FSCD 2023
+   https://easyconferences.eu/fscd2023/
+CALL FOR SUBMISSIONS
+* OVERVIEW
+  HOR is a forum to present work concerning all aspects of higher-order rewriting.
+  HOR aims to provide an informal and friendly setting to discuss recent work and work in progress concerning higher-order rewriting, broadly construed. This includes rewriting systems that have functional variables or bound variables, the lambda-calculus and combinatory logic being paradigmatic examples.
+* TOPICS
+  The following is a non-exhaustive list of topics for the workshop:
+ - Applications: proof checking, theorem proving, generic programming, declarative programming, program transformation, automated termination/confluence/equivalence analysis tools.
+ - Foundations: pattern matching, unification, strategies, narrowing, termination, syntactic properties, type theory, complexity of derivations.
+ - Frameworks: term rewriting, conditional rewriting, graph rewriting, net rewriting, comparisons of different frameworks.
+ - Implementation: explicit substitution, rewriting tools, compilation techniques.
+ - Semantics: semantics of higher-order rewriting, categorical rewriting, higher-order abstract syntax, games and rewriting.
+* SUBMISSION GUIDELINES 
+  To give a presentation at the workshop, please submit an extended abstract (between 2 to 5 pages) via Easychair: https://easychair.org/conferences/?conf=hor2023 
+  Please use LaTeX and the Easychair style to prepare your submission: https://easychair.org/publications/easychair.zip
+  HOR is a platform for discussing open questions, ongoing research, and new perspectives, as well as new results. Extended abstracts describing work in progress, preliminary results, research projects, or problems in higher-order rewriting are very welcome. Specifically, short versions of recently published papers are welcome, and submission to HOR does not preclude formal publication at other venues.
+  The workshop has informal electronic proceedings that will be made available on the workshop website.
+* IMPORTANT DATES
+  -dh Submission deadline: 2 May 2023 
+  -d Notification: 29 May 2023 
+  -d Final version: 12 June 2023
+
+
+
+
+
+
+
+ACT 2023: 6th Annual International Conference on Applied Category Theory
+  July 31 – August 4, 2023
+  https://act2023.github.io/
+CALL FOR PAPERS
+* The Sixth International Conference on Applied Category Theory will take place at the University of Maryland from 31 July to 4 August 2023, preceded by the Adjoint School 2023 from 24 to 28 July. This conference follows previous events at Strathclyde (UK), Cambridge (UK), Cambridge (MA), Oxford (UK) and Leiden (NL). 
+  Applied category theory is important to a growing community of researchers who study computer science, logic, engineering, physics, biology, chemistry, social science, systems, linguistics and other subjects using category-theoretic tools.  The background and experience of our members is as varied as the systems being studied. The goal of the Applied Category Theory conference series is to bring researchers together, strengthen the applied category theory community, disseminate the latest results, and facilitate further development of the field.
+* SUBMISSIONS 
+  We accept submissions in English of original research papers, talks about work accepted/submitted/published elsewhere, and demonstrations of relevant software. Accepted original research papers will be published in a proceedings volume. The conference will include an industry showcase event and community meeting. We particularly encourage people from underrepresented groups to submit their work and the organizers are committed to non-discrimination, equity, and inclusion. 
+  Original research papers intended for conference proceedings should present original, high-quality work in the style of a computer science conference paper (up to 12 pages, not counting the bibliography; more detailed parts of proofs may be included in an appendix for the convenience of the reviewers). Please use the EPTCS style files available at <http://style.eptcs.org>. Such submissions should not be an abridged version of an existing journal article although pre-submission arXiv preprints are permitted. These submissions will be adjudicated for both a talk and publication in the conference proceedings. 
+* IMPORTANT DATES (AoE)
+  -dh Submission Deadline: Wednesday 3 May, 2023
+  -d Author Notification: Wednesday 7 June, 2023
+  -d Camera-ready version due: Tuesday 27 June, 2023
+  -d Conference begins: 31 July, 2023
+
+
+
+ 
+LORI 2023: International Conference on Logic, Rationality and Interaction
+  26-29 October 2023, Shandong, China
+CALL FOR PAPERS
+* The International Conference on Logic, Rationality and Interaction (LORI) conference series aims at bringing together researchers working on a wide variety of logic-related topics that concern the understanding of rationality and interaction. The series aims at fostering a view of Logic as an interdisciplinary endeavour, and supports the creation of an East-Asian community of interdisciplinary researchers.
+  We invite submission of contributed papers on any of the broad themes of LORI series; specific topics of interest include, but are not limited to, formal approaches to
+  - agency
+  - argumentation and agreement
+  - belief representation
+  - probability and uncertainty
+  - belief revision and belief merging
+  - knowledge and action
+  - dynamics of informational attitudes
+  - intentions, plans, and goals
+  - decision making and planning
+  - preference and utility
+  - cooperation
+  - strategic reasoning and game theory
+  - epistemology
+  - social choice
+  - social interaction
+  - speech acts
+  - knowledge representation
+  - norms and normative systems
+  - natural language
+  - rationality
+  - philosophical logic
+* Submitted papers should be at most 12 pages long, with one additional page for references, in PDF format following the Springer LNCS style, submitted via EasyChair (https://easychair.org/conferences/?conf=lori9). Accepted papers will be collected as a volume in the FoLLI Series on Logic, Language and Information, and authors may be later invited to submit extended versions of their papers in a special issue of a prestigious journal.
+  -dh Paper submission deadline:  May 15, 2023
+  For detailed conference information and registration, please visit golori.org/lori2023/ 
+
+
+FSCD 2025: International Conference on Formal Structures for Computation and Deduction
+CALL FOR LOCATION
+* The FSCD conference covers all aspects of Formal Structures for Computation and Deduction from theoretical foundations to applications.  The annual FSCD conference comprises the main conference and a considerable number of affiliated workshops (expectedly, more than ten). We invite proposals for locations to host the 10th FSCD International Conference to be held during the summer of 2025. 
+  -dh Deadline for location proposals: 27th May 2023 
+  Proposals should be sent to the FSCD Steering Committee Chair (see contact information below). We encourage proposers to register their intention informally as soon as possible.
+  Previous (and upcoming) FSCD meetings include:
+  - FSCD 2016 in Porto (Portugal);
+  - FSCD 2017 in Oxford (UK) co-located with ICFP 2017;
+  - FSCD 2018 in Oxford (UK) as part of FLoC 2018;
+  - FSCD 2019 in Dortmund (Germany);
+  - FSCD 2020 in Paris (France) co-located with IJCAR 2020;
+  - FSCD 2021 in Buenos Aires (Argentina);
+  - FSCD 2022 in Haifa (Israel) as part of FLOC2022;
+  - FSCD 2023 in Rome (Italy) co-located with CADE 2023;
+  - FSCD 2024 in Tallinn (Estonia).
+  Selected proposals are to be presented at the business meeting of FSCD 2023 taking place in Rome in July 2023.  The final decision about hosting and organising of FSCD 2025 will be taken by the SC after an advisory vote of the members of the community in attendance at the business meeting.
+* Proposals should address the following points:
+  - FSCD Conference Chair (complete name and current position), host institution, FSCD Local Committee (complete names and current positions), availability of student-volunteers.
+  - National, regional, and local government and industry support, both organizational and financial.
+  - Accessibility to the location (i.e., transportation) and attractiveness of the proposed site. Accessibility can include both information about local transportation and travel information to the location (flight and/or train connections), as well as estimated costs.
+  - Proposed dates, including allowing 2-3 days before and/or after the main conference for affiliated workshops. (Please also take into consideration holidays or local events during the period).
+  - Estimated costs of registration for the conference and workshops, both for regular and student participants.
+  - Conference and exhibit facilities for the anticipated number of registrants (including all workshop participants, typically around 200). For example: number, capacity and audiovisual equipment of meeting rooms; a large plenary session room that can hold all the registrants; enough rooms for parallel session workshops/tutorials in the two days before and the two days after the main conference; internet connectivity and workstations for demos/competitions; catering services; presence of professional staff.
+  - Support for hybrid attendance to the conference.
+  - Residence accommodations and food services in a range of price categories and close to the conference venue, for example, number and cost range of hotels, and availability and cost of dormitory rooms (e.g., at local universities) and kind of services they offer.
+  - Other relevant information, which can include information about leisure activities and attractiveness of the location (e.g., cultural and historical aspects, touristic activities, etc...).
+
+
+
+
+
+Assistant Professor with Tenure Track of Artificial Intelligence Ethics
+  TU Wien, Faculty of Informatics, Vienna
+JOB ANNOUNCEMENT
+* Full-time Assistant Professor with tenure track; the position is directed to Artificial Intelligence Ethics and is affiliated to the Institute of Logic and Computation, Research Unit Theory and Logic. The estimated starting date is October 2023. The successful candidate will have an outstanding research record in the field of Ethics of Artificial Intelligence (AI), with a strong grounding in symbolic AI methods. Details: https://jobs.tuwien.ac.at/Job/198329
+  -dh Application deadline: Mar 16, 2023
+
+ 
+
+
+
+
+
+ 

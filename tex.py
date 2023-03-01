@@ -289,7 +289,7 @@ for x in document['items']:
 	html += item(x)
 
 
-html += "\n\n\nTo the \\href{http://siglog.org/}{SIGLOG} or \\href{https://lics.siglog.org}{LICS} website"
+html += "\n\n\n\\bigskip Links: \\href{http://siglog.org/}{SIGLOG website}, \\href{https://lics.siglog.org}{LICS website}, \\href{https://lics.siglog.org/newsletters/}{SIGLOG Monthly}"
 html += "\\end{document}"
 
 with open("editions/"+document['number'] + ".tex", "w") as f:
