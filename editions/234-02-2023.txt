@@ -1,6 +1,6 @@
 -dd February 01, 2023
 
-
+-dM FSCD 2023:  Feb 04, 2023 (Abstract, Extended), Feb 09, 2023 (Paper, Extended)
 -dM Alonzo Church Award 2023:   Feb 01, 2023 (Deadline for nominations)
 -dM CONFEST 2023:   Feb 02, 2023 (Submission deadline)
 -dM CAV 2023:   Feb 03, 2023 (Paper), Apr 25, 2023 (Artifact), Feb 20, 2023 (CAV AWARD Nomination deadline)
@@ -32,10 +32,10 @@ DEON 2023: 16th INTERNATIONAL CONFERENCE ON DEONTIC LOGIC AND NORMATIVE SYSTEMS
   http://www.uqtr.ca/DEON2023
 CALL FOR PAPERS
 * DEON 2023 will focus on the theme Theoretical and technical limitations of automated behavior.
-* Important dates:
+* IMPORTANT DATES
   -dh Abstract submission: March 1st, 2023
   -dh Paper submission: March 31st, 2023
-* Invited Speakers: 
+* INVITED SPEAKERS
   -Lou Goble (Willamette University), Pedro Cabalar (Corunna University),
   - Huimin Dong (Sun Yat-Sen University), other speakers TBA.
 * Detailed information can be found on the webpage.
@@ -49,7 +49,7 @@ ICDT 2024: 27th INTERNATIONAL CONFERENCE ON DATABASE THEORY
   For more info check https://dastlab.github.io/edbticdt2024/
 CALL FOR PAPERS
   * ICDT is a series of international scientific conferences on research of data management theory (https://databasetheory.org/icdt-pages). The 27th edition of ICDT, in 2024, will take place in Paestum, Italy.
-  * Topics of Interest
+* TOPICS OF INTEREST
     We welcome research papers on *every* topic related to the principles and theory of data management, provided that there is a clear connection to foundational aspects.
   This includes, for example, articles on "classical" data management topics such as:
   - The design and study of data models and query languages
@@ -61,7 +61,7 @@ CALL FOR PAPERS
   - machine learning/AI
   - distributed computing
   - theoretical computer science.
-* Important dates.  
+* IMPORTANT DATES 
   ICDT will have two submission cycles for 2024, with deadlines as follows:
     -dh Cycle 1 Abstract submission: March 20, 2023
     -dh Cycle 1 Full Submission due: March 27, 2023
@@ -75,12 +75,12 @@ CALL FOR PAPERS
 
 
 
-MARKTOBERDORF SUMMER SCHOOL 2023 ON SAFETY AND SECURITY THROUGH FORMAL VERIFICATION
+MARKTOBERDORF 2023: MARKTOBERDORF SUMMER SCHOOL 2023 ON SAFETY AND SECURITY THROUGH FORMAL VERIFICATION
   August 2-11, 2023
   https://events.model.in.tum.de/mod23
 CALL FOR PARTICIPATION
 * The "Marktoberdorf Summer School" is an 11-day event for young computer scientists and mathematicians, typically doctoral and post-doctoral researchers. It provides mini-courses on state-of-the-art topics in "Safety and Security through Formal Verification" and leaves ample room for interaction between participants and speakers.
-* Registration
+* REGISTRATION
   Registration opens on February 2023. Register online at
   https://events.model.in.tum.de/mod23/participation.html
   -dh Registration deadline: April 15, 2023
@@ -108,17 +108,17 @@ CALL FOR PAPERS
    The interplay between logic and argumentation spans different disciplines and historical eras: from ancient philosophy (Socrates' dialectics, Aristotle's logic) to contemporary computer science (dialogues, multiagent systems). Research in logic and argumentation offers formal or semi-formal models that capture reasoning patterns and dialogue activities of diverse kinds. Their applications in artificial intelligence range from law and ethics to linguistics. CLAR 2023 will focus on a variety of topics and formalisms, including formal models of argumentation (abstract or structured), preference and support, but also dispute and dialogue systems for online argumentation or the processing of legal texts.
   Established in 2016 as a workshop hosted by Zhejiang University, the CLAR series has been increasingly successful and become an international event and discussion forum in the two areas of logic and argumentation. Our aim for CLAR 2023 is to be a platform for the advancement of the existing discussions within each of the areas above, to span bridges between their different traditions, and finally to open argumentation to new applications and other areas in artificial intelligence, such as legal reasoning, explainable AI, ethical dilemmas, reasoning about uncertainty and knowledge representation, etc. Previous conferences can be accessed via: http://www.xixilogic.org/events/clar.
   CLAR 2023 will be financially supported by a national key project called "Research on Logics for New Generation Artificial Intelligence" (2021-2025), granted by the National Social Science Foundation of China. Information about the project: https://xixilogic.org/lngai/.
-* Important Dates
+* IMPORTANT DATES
   -dh Submission deadline: 10th April 2023
   -d Notification: 15th June 2023 
   -d Camera Ready: 30th June 2023
   -dv Conference dates: Sep 10-12, 2023
-* Topics
+* TOPICS
   Suggested topics include, but are not limited to, the following:
   Abstract argumentation; Applications of logic and/or argumentation; Applied logic; Argumentation and game theory; Argumentation and law; Argumentation and linguistics; Argumentation and medical reasoning; Argumentation and causal reasoning; Argumentation and explainable AI; Argumentation and ethical AI; Argumentation and knowledge graph reasoning; Argumentation and modal logics; Argument mining; Argumentation schemes; BDI logic; Computational argumentation; Deontic logic; Dynamic epistemic logic ; Belief revision; Formal models for dialog and argumentation; Informal logic; Judgment aggregation; Knowledge representation and reasoning; Logic for game theory; Logic for multi-agent systems; Logic for semantic web; Logic for social networks; Mathematical logic; Modal logic; Nonmonotonic logics; Numerical and uncertainty reasoning; Philosophical logic; Pragma-Dialectics; Preference logic; Probabilistic argumentation; Quantitative argumentation  ; Structured (i.e. logic-based) argumentation; Uncertain argumentation 
-* Submission
+* SUBMISSION
   See submission information: https://www.zlaire.net/clar2023/submission.html
-* Proceedings and Special Issue
+* PROCEEDINGS AND SPECIAL ISSUE
   Proceedings in LNCS Springer. (To be confirmed) After the conference, a selection will be made among the papers accepted at CLAR 2023. The authors will be invited to submit an extended version for a special Issue in a high-impact journal. (To be confirmed)
 
 
@@ -184,9 +184,8 @@ Faculty Positions at the University of Quebec in Montreal
   https://www.info.uqam.ca
 JOB ANNOUNCEMENT
 * Two Assistant/Associate Professor positions in computer science in the broad areas: Parallel, Concurrent, Distributed, and High-Performance Computing, including concurrency and more fundamental aspects http://info.uqam.ca/PP.pdf and Data Science, including logic-based approaches, ontologies, etc. http://info.uqam.ca/SD.pdf
-* DATE
   -dh Application deadline: Mar 31, 2023
-  For any further inquiry, please contact Roger Villemaire <villemaire.roger@uqam.ca>
+  For any further inquiry, please contact Roger Villemaire: villemaire.roger@uqam.ca
 
 
 
