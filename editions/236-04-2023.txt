@@ -1,0 +1,512 @@
+-dd April 02, 2023
+
+  -dM ICDT 2024: 	 Sep 13, 2023 (Cycle 2 Abstract), Sep 20, 2023 (Cycle 2 Full)
+  -dM CLAR 2023: 	Apr 10, 2023 (Submission deadline)
+  -dM InqBnB4 workshop: 	Apr 14, 2023 (Submission deadline)
+  -dM MARKTOBERDORF 2023: 	Apr 15, 2023 (Registration deadline)
+  -dM FORMATS 2023: 	Apr 21, 2023 (Abstract), Apr 28, 2023 (Paper)
+  -dM WiL 2023: 	Apr 23, 2023 (Abstract)
+  -dM ICLP 2023: 	Apr 28, 2023 (non-regular paper)
+  -dM RSSRail 2023: 	Apr 28, 2023 (Abstract for all papers), Apr 28, 2023 (Abstract for tutorials), May 05, 2023 (Full paper)
+  -dM HOR 2023: 	May 02, 2023 (Submission deadline)
+  -dM ACT 2023: 	May 03, 2023 (Submission Deadline)
+  -dM GCM 2023: 	May 07, 2023 (Abstract), May 14, 2023 (Paper)
+  -dM LORI 2023: 	May 15, 2023 (Paper deadline)
+  -dM FSCD 2025: 	May 27, 2023 (Deadline for location proposals)
+  -dM VCLA International Student Awards: 	Apr 11, 2023 (Submission deadline, EXTENDED)
+  -dM TAYSIR: Apr 30, 2023 (End of competition)
+
+
+
+TAYSIR: Transformer+RNN Algorithms to Yield Simple and Interpretable Representation
+  Competition has started and will last until April 30th 2023. 
+  https://remieyraud.github.io/TAYSIR/ 
+CALL FOR PARTICIPATION
+* The Transformers+RNN: Algorithms to Yield Simple and Interpretable Representations (TAYSIR) competition is an on-line challenge on extracting simpler models from already trained neural networks. These neural nets are trained on tasks involving sequences of symbols. Some of these tasks are artificial and some come from real world problems in domains like natural language processing (NLP), bioinformatics, software engineering and others. Taysir means "simple" in Arabic.
+  The quality of the extracted models is evaluated in two ways:
+  - How well the extracted model approximates the original model
+  - The simplicity of the extracted model as measured by assorted metrics
+  There are two tracks in the competition corresponding to the kind of function the trained neural networks produce. 
+  - Neural nets trained for binary classification. These networks represent functions Σ* ➝ {0,1}. This task can be thought of as extracting models for formal languages.
+  - Neural nets trained for language modeling and used as density estimators. These networks represent functions Σ* ➝ ℝ. 
+  Each track consists of about 10 trained models. The trained models are in PyTorch but available in a MLFlow format for compatibility with other frameworks.
+  The competition has started and will last until April 30th 2023.
+  Half a day will be dedicated to the competition results during the 16th International Conference on Grammatical Inference to be held in Morocco in July 2023 at the Faculty of Sciences, Mohammed V University in Rabat, Morocco.
+  http://www.fsr.ac.ma/icgi2023/
+  Participants in TAYSIR will be encouraged to attend ICGI 2023 and to submit an extended abstract presenting their work (2 to 4 pages, including appendices) by May 15th which will be appended to the proceedings of ICGI (publisher: PMLR) in a track dedicated to the competition. These abstracts will be peer-reviewed primarily for clarity of presentation.
+* HOW TO PARTICIPATE
+  Everything can be found on our website: https://remieyraud.github.io/TAYSIR/ 
+
+
+
+
+UNIF 2023: 37th INTERNATIONAL WORKSHOP ON UNIFICATION
+  July 2, 2023, Rome, Italy
+  A satellite workshop of CADE/FSCD, affiliated with FSCD
+  https://project.inria.fr/unif2023
+CALL FOR PAPERS
+* The International Workshop on Unification (UNIF) is a yearly forum
+  devoted to unification theory and its applications. Unification is
+  concerned with the problem of identifying terms, finding solutions
+  for equations, or making formulas equivalent. It is a fundamental
+  process used in a number of fields of computer science, including
+  automated reasoning, term rewriting, logic programming, natural
+  language processing, program analysis, types, etc.
+* A non-exhaustive list of topics of interest includes: syntactic and
+  equational unification; matching; constraint solving; unification in
+  modal, temporal, and description logics; narrowing; disunification;
+  anti-unification; semi-unification; higher-order unification;
+  complexity issues; implementation techniques; applications.
+* IMPORTANT DATES:
+  -dh Paper Submission:                  April 21, 2023
+  -d Author notification:                 May 26, 2023
+  -d Final version:                       June 9, 2023
+* INVITED SPEAKERS: 
+  - Mauricio Ayala-Rincon (Universidade de Brasilia)
+  - Deepak Kapur (UNM, Albuquerque)
+* Detailed information can be found on the webpage
+
+
+
+
+
+WPTE 2023: 10th International Workshop on Rewriting Techniques for Program Transformations and Evaluation
+  July 1, 2023, Rome, Italy
+  https://wpte2023.github.io/
+  https://easychair.org/conferences/?conf=wpte2023
+CALL FOR PAPERS
+* The aim of WPTE is to bring together the researchers working on program transformations, evaluation, and operationally based programming language semantics, using rewriting methods, in order to share the techniques and recent developments and to exchange ideas to encourage further activation of research in this area.
+* Topics include: correctness of program transformations, optimizations and translations; program transformations for proving termination, confluence, and other properties; correctness of evaluation strategies; operational semantics of programs, operationally-based program equivalences such as contextual equivalences and bisimulations; cost-models for arguing about the optimizing power of transformations and the costs of evaluation; program transformations for verification and theorem proving purposes; translation, simulation, equivalence of programs with different formalisms, and evaluation strategies; program transformations for applying rewriting techniques to programs in specific programming languages; program transformations for program inversions and program synthesis; program transformation and evaluation for Haskell and rewriting.
+* IMPORTANT DATES: (AoE)
+  -dh Paper submission: 21 April 2023 
+  -d Notifications: 22 May 2023
+  -d Final version for informal proceedings: 10 June 2023
+  -d Workshop: 1 July 2023
+  -dv Submission to post-proceedings (journal): Autumn 2023 (tbc)
+
+
+
+
+
+
+MFCS 2023: 48th International Symposium on Mathematical Foundations of Computer Science
+  August 28 — September 1, 2023, Bordeaux, France
+  https://mfcs2023.labri.fr
+CALL FOR PAPERS
+* The MFCS conference series on Mathematical Foundations of Computer Science is a high-quality venue for original research in all branches the longest history in the field-the first conference in the series was held already in 1972. Traditionally, the conference moved between the Czech Republic, Slovakia, and Poland, while since 2013, the conference has traveled around Europe. MFCS 2023 will be held in Bordeaux, France.
+  Barring substantial and unforeseen developments, MFCS will be organized as a physical event, and at least one author of each accepted paper must register at the conference.
+* IMPORTANT DATES (AOE)
+  -dh Abstract submission:   April 24th, 2023
+    -dh Paper submission:      April 28th, 2023
+    -d Notification of authors:        June 27th, 2023
+    -d Camera-ready:                   July 18th, 2023
+    -dv Conference dates:               Aug 28-Sep 1, 2023
+* SUBMISSION GUIDELINES
+  Papers should be submitted electronically through EasyChair. https://easychair.org/my/conference?conf=mfcs2023
+  LIPIcs Style mandatory, max 12 pages (excluding references and appendix to be consulted at the discretion of the program committee).
+  No prior publication or simultaneous submission (except preprint repositories such as arXiv or workshops without formal published proceedings).
+* LIST OF TOPICS
+  We encourage submission of original research papers in all areas of theoretical computer science, including (but not limited to) the following: algebraic and co-algebraic methods in computer science; algorithms and data structures; automata and formal languages; bioinformatics; combinatorics on words, trees, and other structures; computational complexity (structural and model-related); computational geometry; computer-aided verification; computer assisted reasoning; concurrency theory; cryptography and security; cyber physical systems, databases and knowledge-based systems; formal specifications and program development; foundations of computing; logics in computer science; mobile computing; models of computation; networks; parallel and distributed computing; quantum computing; semantics and verification of programs; theoretical issues in artificial intelligence and machine learning; types in computer science
+
+
+
+
+
+
+
+
+
+CONCUR 2023: the 34th International Conference on Concurrency Theory
+  September 19-22, 2023, University of Antwerp, Belgium
+  Part of CONFEST 2023
+  https://www.uantwerpen.be/en/conferences/confest-2023/concur/
+CALL FOR PAPERS
+* CONCUR 2023 solicits high quality papers reporting research results and/or experience related to the topics mentioned below. All papers must be original, unpublished, and not submitted for publication elsewhere.
+* SUBMISSION 
+  Full submission information can be found at https://www.uantwerpen.be/en/conferences/confest-2023/concur/call/
+* IMPORTANT dates (anywhere on Earth)
+  -dh Abstract submission: April 24, 2023
+  -dh Paper submission: May 2, 2023 
+  -dv Rebuttal Response: Jun 5-9, 2023
+  -d Notification: June 28, 2023
+  -d Camera Ready: July 12, 2023 
+  -dv Conference(s): Sep 17-22, 2023
+  -dv Workshops: Sep 18+23, 2023
+* TOPICS
+  Submissions are solicited in semantics, logics, verification and analysis of concurrent systems. The principal topics include (but are not limited to):
+  - Basic models of concurrency such as abstract machines, domain-theoretic models, game-theoretic models, process algebras, graph transformation systems, Petri nets, hybrid systems, mobile and collaborative systems, probabilistic systems, real-time systems, biology-inspired systems, and synchronous systems;
+  - Logics for concurrency such as modal logics, probabilistic and stochastic logics, temporal logics, and resource logics;
+  - Verification and analysis techniques for concurrent systems such as abstract interpretation, atomicity checking, model checking, race detection, pre-order and equivalence checking, run-time verification, state-space exploration, static analysis, synthesis, testing, theorem proving, type systems, and security analysis; 
+  - Distributed algorithms and data structures: design, analysis, complexity, correctness, fault tolerance, reliability, availability, consistency, self-organization, self-stabilization, protocols;
+  - Theoretical foundations of architectures, execution environments, and software development for concurrent systems such as geo-replicated systems, communication networks, multiprocessor and multi-core architectures, shared and transactional memory, resource management and awareness, compilers and tools for concurrent programming, programming models such as component-based, object- and service-oriented.
+
+
+
+
+HIGHLIGHTS’23: HIGHLIGHTS OF LOGIC, GAMES, AND AUTOMATA
+  Kassel, Germany, 24 — 28 July 2023
+  https://highlights-conference.org/2023/
+CALL FOR PRESENTATIONS
+* HIGHLIGHTS’23 is the eleventh in the series of international conferences “Highlights of Logic, Games and Automata”, aiming at integrating the community working in algorithmic model theory, automata theory, databases, games for logic and verification, logic, and verification. Papers from these areas are dispersed across many conferences, which makes them difficult to follow. A visit to the HIGHLIGHTS conference should offer a wide picture of the latest research in the field and a chance to meet everybody in the community, not just those who happen to publish in one particular proceedings volume. There are no publications.
+  HIGHLIGHTS’23 is scheduled from July 24 to July 28, 2023 at the Campus Center of the University of Kassel, Germany. The main conference will be preceded by the Highlights Collaborative Research Week (HCRW), from July 17 to July 21, 2023 at the Faculty of Electrical Engineering and Computer Science of the University of Kassel.
+* HIGHLIGHTS’23 key features: 
+  new: A group chat has been set up to facilitate exchanges among the HIGHLIGHTS community. HIGHLIGHTS is a conference without publication, where speakers give short presentations of their best work. 
+  new: The conference will span five days, including tutorials. 
+  new: The Highlights’ Collaborative Research Week (HCRW) is a new initiative meant to facilitate research collaborations/discussions between participants. HCRW is scheduled from July 17 to July 21, 2023, i.e. the week before HIGHLIGHTS’23 and after ICALP’23 (in Paderborn, Germany). 
+  The Highlights Extended Stay Support Scheme (HESSS) is intended to help participants find collaborators and organize visits around HIGHLIGHTS. 
+  We encourage you to attend and present your best work, be it already published or not, at HIGHLIGHTS’23.
+* SCOPE
+  Representative areas include, but are not restricted to: Algorithmic model theory Automata theory, Databases, Games for logic and verification, Logic, Verification
+* IMPORTANT DATES AND INFORMATION
+  -dh Regular submission: April 25, 2023  
+  -d Regular notification: May 5, 2023 
+  -dv Early registration: TBA 
+  -dv Highlights’ Collaborative Research Weak (HCRW): Jul 17-21, 2023
+  -dv Conference: Jul 24-28, 2023 
+  -d Tutorial day: July 24, 2023 
+* Before coming from far away, please review how your trip and international flights are contributing to climate change. We encourage you to take the train as much as possible, possibly taking the opportunity for visiting colleagues on the way and thus decomposing the travel into smaller pieces. More generally, we encourage you to make the most of your stay. This means extending your journey to the previous and/or following weeks for more scientific activities in Kassel and around.
+* SUBMISSIONS AND GUIDELINES
+  See the full call for further information: https://highlights-conference.org/2023/
+* TUTORIALS:
+  - Bernd Finkbeiner (Saarland Univ and CISPA, Germany) 
+  - Édouard Bonnet (ENS Lyon, France) 
+* INVITED TALKS:
+  - Udi Boker (Reichman Univ, Israel) 
+  - Véronique Bruyère (Univ of Mons, Belgium) 
+  - Meena Mahajan (Institute of Mathematical Sciences, India) 
+  - Sophie Pinchinat (IRISA, France) 
+  - Sven Schewe (Univ of Liverpool, UK)
+
+
+
+
+
+TIME 2023: 30th International Symposium on Temporal Representation and Reasoning
+  25-26 September, 2023
+  NCSR Demokritos, Athens, Greece
+  https://cer.iit.demokritos.gr/events/time23/
+CALL FOR PAPERS
+* TIME brings together researchers from different disciplines of Computer Science working on temporal aspects of computational systems. We are happy to announce that TIME is back to an in-person conference! In addition to theoretical work, we invite submissions focusing on the development, deployment and evaluation of *systems* for temporal reasoning. Such systems papers will be evaluated primarily on the quality of the empirical evaluation and reusability.
+* TOPICS for TIME 2023 include, but are not limited to: 
+  time in artificial intelligence; time in data science; temporal logic and reasoning; spatial and temporal reasoning; time in natural language processing; reasoning about action and change; complex event recognition and forecasting; planning and planning languages; ontologies of time and space-time; belief and uncertainty in temporal knowledge; temporal learning and discovery; temporal data models and query languages; temporal query processing and indexing; temporal data mining; time-series data management; stream data management; spatio-temporal data management, including moving objects; data currency and expiration; indeterminate and imprecise temporal data; temporal constraints; specification and verification of systems; verification of software and web applications; synthesis and execution; model checking algorithms and implementations; temporal logics for infinite-state systems; runtime verification of temporal properties; temporal aspects of agent- and policy-based systems; temporal networks.
+* IMPORTANT DATES:
+    -dh Abstract submission: April 28, 2023
+    -dh Paper submission: May 5, 2023
+    -d Notification: June 16, 2023
+* SUBMISSION:
+  See submission information at https://cer.iit.demokritos.gr/events/time23/#submissions
+
+
+
+
+Twelfth Summer School on Formal Techniques and First Formal Methods in the Field Bootcamp
+  Twelfth Summer School on Formal Techniques: May 24 - May 28, 2023 (http://fm.csl.sri.com/SSFT23) 
+  First Formal Methods in the Field Bootcamp: May 29-June 2, 2023
+CALL FOR PARTICIPATION
+* Techniques based on formal logic, such as model checking, satisfiability, static analysis, and automated theorem proving, are finding a broad range of applications in modeling, analysis, verification, and synthesis. This school, the twelfth in the series, will focus on the principles and practice of formal techniques, with a strong emphasis on the hands-on use and development of this technology. It primarily targets graduate students and young researchers who are interested in studying and using formal techniques in their research.  A prior background in formal methods is helpful but not required. Participants at the school can expect to have a seriously fun time experimenting with the tools and techniques presented in the lectures during laboratory sessions. 
+  This year, 2023, we celebrate the 60th anniversary of Alan Robinson's first publication on Resolution, and are delighted to have a series of lectures devoted to the latest developments in this important strand of automated reasoning.  The summer school will be immediately followed by a Formal Methods in the Field (FMiTF) Bootcamp.  Participants in the Bootcamp will employ formal tools and techniques (including those taught in this and prior summer school editions) under the supervision of the Bootcamp faculty to create verified artifacts.
+* LECTURERS 
+  - Pamela Zave (Princeton) and Tim Nelson (Brown): No More Garbage In:  Validating Formal Models 
+  - Laura Kovacs (TU Wien) and Andrei Voronkov (Manchester): First-Order Theorem Proving 
+  - Geoff Sutcliffe (Miami): The TPTP World - Infrastructure for Automated Reasoning 
+  - Natarajan Shankar and Stephane Graham-Lengrand (SRI CSL): Speaking Logic
+  In addition, we have distinguished invited talks: 
+  - Maria Paola Bonacina, Università degli Studi di Verona: Resolution, Unification, and Subsumption: Fundamental Concepts in Theorem Proving 
+  - Leslie Lamport (MSR): Q & A on Paxos 
+  - Jesse Michael Han (OpenAI):: Language Model Software and the Future of Verified Programming
+  The Formal Methods in the Field Bootcamp will be held following the summer school from May 29 to the morning of June 2, 2023.  This edition of the FMiTF Bootcamp will be taught by SRI staff with expertise spanning a range of tools covering static and dynamic analyzers, code verifiers, rewrite engines, SAT/SMT solvers, interactive proof assistants, and model checkers.
+* This year, the school/bootcamp will take place in a hybrid mode: the lectures and labs will be live-streamed and recorded. We strongly encourage in-person participation so that you can benefit from interactions outside the classroom. We have funding from NSF to cover transportation/food/lodging expenses for selected US-based students. Non-student and non-US in-person participants are expected to cover their own transportation and will be charged a fee (around $150/day) to cover the cost of food and lodging.
+  The registration link is at the URL: http://fm.csl.sri.com/SSFT23. Participants can register separately for the school and the bootcamp.
+  The 2023 Summer School on Formal Techniques will be presented in a hybrid format.  We encourage those students who can attend in person to do so.  Those who cannot be there in person can still participate virtually but they will need to synchronize with the Pacific Daylight Savings Time. Applications should be submitted together with names of two references (preferably advisors, professors, or senior colleagues).
+  Applicants are urged to submit their applications before April 30, 2023, since there are only a limited number of spaces available.  Those needing invitation letters for visa purposes are encouraged to complete their applications as early as possible.  We strongly encourage the participation of women and under-represented minorities in the summer school. 
+  -dh Recommended Application deadline: Apr 30, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LICS 2023 Workshop on Combinatorial Games in Finite Model Theory
+  June 24-25, 2023, Boston, USA
+  https://gamesandfmt.org/workshop2023/
+CALL FOR CONTRIBUTIONS AND PARTICIPATION
+* The goal of this workshop is to promote work at the interface of complexity and logic. The workshop has two main foci: the first is recent progress in using combinatorial games to prove logical (in)expressiblity results, the second is limitations in the method of combinatorial games as a tool for establishing lower bounds in computational complexity.
+* INVITED SPEAKERS
+  Yijia Chen (Shanghai Jiao Tong University),  Erich Grädel (RWTH Aachen), Neil Immerman (University of Massachusetts Amherst), Antonina Kolokolova (Memorial University of Newfoundland)
+* SUBMISSION GUIDELINES
+  Those wishing to speak at the workshop on any topic related to combinatorial games in finite model theory are invited to submit an Extended Abstract of up to three pages (including references) describing the content of the contributed presentation. At least one author from each accepted abstract must register for the workshop and present the work in person. For additional information, please visit the workshop webpage https://gamesandfmt.org/workshop2023/
+* IMPORTANT DATES
+  -dh Abstract Submission: May 1, 2023
+  -d Author Notification: May 15, 2023
+  -d Workshop Dates: June 24-25, 2023
+
+
+
+EUMAS 2023: European Conference on Multi-Agent Systems
+  University of Naples (September 14-15th, 2023). EUMAS
+  https://vadimmalvone.github.io/eumas2023/
+CALL FOR PAPERS
+* The 20th European Conference on Multi-Agent Systems (EUMAS 2023) will be located at the University of Naples (September 14-15th, 2023). EUMAS 2023 is an EURAMAS designated and aims to encourage and support activity in the research and development of multi-agent systems, in academic and industrial effort. The conference aspires to be the primary European forum for researchers interested in the theory and practice of autonomous agents and multi-agent systems. EUMAS enables researchers to meet, present challenges, preliminary and mature research results in an open environment. EUMAS 2023 features formal proceedings published as part of the Lecture Notes in Computer Science (LNCS) series of Springer
+  EUMAS 2023 welcomes original, unpublished papers including improved versions of extended abstracts or rejected papers from AAMAS, AAAI and IJCAI 2023. The submission should describe work that has not been previously published, accepted for publication, nor is currently under review by another conference or journal.
+* TOPICS of interest include, but are not limited to:
+  Action and Planning; Adaptation and Learning; Agent Architectures; Agent Programming Languages; Agent Development Methodologies and Tools; Agent-Based Simulation; Agent Organizations and Institutions; Agent-oriented Software Engineering; Agents and Complex Systems; Applications of Multi-agent Systems; Argumentation; Automated negotiation; Biologically inspired approaches; Cognitive Models; Collective and Swarm Intelligence; Collective Intentionality; Communication, Cooperation, and Coordination - Computational Social Choice; Economic Models; Electronic Commerce; Ethical behavior of multi-agent systems; Formal Modelling; Game-Theoretic Methods - Human-Agent Interaction; Logics for Multi-Agent Systems; Logics for Strategic Reasoning; Negotiation; Self-organization; Semantic Web Agents - Social Networks; Socio-technical Systems; Theories of Agency; Trust and Reputation; Verification; Virtual Agents; Voting and Judgment Aggregation Models for multi-agent systems
+* SUBMISSIONS
+   See full call for details:
+   https://vadimmalvone.github.io/eumas2023
+* IMPORTANT DATES
+  -dh Papers submission: May 20, 2023
+  -d Notification: July 5, 2023
+  -d Camera ready papers: July 20, 2023
+
+
+iFM 2023: 18th International Conference on integrated Formal Methods
+   13-15 November 2023, Leiden, the Netherlands
+   https://ifm23.liacs.nl
+CALL FOR PAPERS
+* IMPORTANT DATES
+  -dh Abstract submission:              25 May 2023
+  -d Paper submission:                 1 June 2023
+  -d Acceptance notification:       10 August 2023
+  -dv iFM 2023 main conference: Nov 13-15, 2023
+* OBJECTIVE AND SCOPE 
+  In the last decades, we have witnessed a proliferation of approaches that integrate several modelling, verification and simulation techniques, facilitating more versatile and efficient analysis of software-intensive systems. These approaches provide powerful support for the analysis of different functional and non-functional properties of the systems, complex interaction of components of different nature as well as validation of diverse aspects of system behaviour. The iFM conference series is a forum for discussing recent research advances in the development of integrated approaches to formal modelling and analysis. The conference covers all aspects of the design of integrated techniques, including language design, verification and validation, automated tool support and the use of such techniques in software engineering practice. To credit the effort of tool developers, we use EAPLS artefact badging https://eapls.org/pages/artifact_badges/.
+  Areas of interest include (but are not limited to):
+  - Formal and semi-formal modelling notations 
+  - Combining formal methods with different performance, simulation and system analysis techniques 
+  - Program verification, model checking, and static analysis 
+  - Theorem proving, decision procedures and SAT/SMT solving 
+  - Runtime analysis, monitoring and testing 
+  - Program synthesis 
+  - Modelling, analysis and synthesis of cyber-physical, hybrid, embedded, probabilistic, distributed or concurrent systems 
+  - Abstraction and refinement 
+  - Model learning and inference 
+  - Approaches to integrating formal methods into software engineering practice or industry 
+  - Approaches to integrating formal methods into standardisation or certification processes 
+  - Formal methods for AI 
+  - Tools and case studies supporting the integration of formal methods 
+* PAPER CATEGORIES 
+  iFM 2023 solicits high-quality papers reporting research results and/or experience reports related to the overall theme of formal methods integration.
+  We accept papers in the following categories:
+  - 1) Regular papers (limit 16 pages) on: original scientific research results, tools, their foundation and evaluations, applications of formal methods, including rigorous evaluations
+  - 2) Short papers (limit 6 pages) on: any subject of interest in the area of formal methods that can be described with sufficient detail within the page limit
+  All page limits exclude the references. Appendices may be included, but they will only be read by a reviewer at their discretion.
+  Regular and short papers must be original, unpublished, and not submitted for publication elsewhere. Papers will undergo a thorough review process. Submissions will be judged on the basis of significance, relevance, correctness, originality and clarity.
+  See full call for submission information: https://liacs.leidenuniv.nl/~bonsanguemm/ifm23/calls.html
+* EAPLS ARTEFACT BADGING
+  Reproducibility of experiments is crucial to foster an atmosphere of open, reusable and trustworthy research. To improve and reward reproducibility and to give more visibility and credit to the effort of tool developers in our community, authors of accepted papers will be invited to submit possible artefacts associated with their paper for evaluation, and based on the level of reproducibility they will be awarded one or more badges. See https://eapls.org/pages/artifact_badges/. Artefact submission is optional and the result of the artefact evaluation will not alter the paper’s acceptance decision.
+  To credit the effort of tool developers, we plan to apply for a special issue of the Original Software Publication track in Science of Computer Programming. Authors of selected artefacts will be invited to contribute to this issue. 
+
+
+ESSLLI: 34th European Summer School in Logic, Language and Information
+  1 July - 11 August, 2023 at the University of Ljubljana
+  https://2023.esslli.eu/
+CALL FOR PARTICIPATION
+* Registration is now open for the 34th European Summer School in Logic, Language and Information (ESSLLI), taking place from 31 July - 11 August, 2023 at the University of Ljubljana, Faculty of Computer and Information Science: https://2023.esslli.eu/
+* OVERVIEW:
+  The European Summer School in Logic, Language and Information (ESSLLI) is a yearly recurring event, organised under the auspices of the Association for Logic, Language and Information (FoLLI), and has been running since 1989. The ESSLLI Summer School provides an interdisciplinary setting in which courses and workshops are offered in logic, linguistics and computer science, also from wider scientific, historical, and philosophical perspectives.
+  ESSLLI attracts around 400 participants from all parts of Europe, as well as from North and Latin America, and Asia. ESSLLI has become the main meeting place for young researchers and students in logic, linguistics and computer science to discuss current research and to share knowledge. The event is unique in its interdisciplinary set-up, with no equivalents in Europe. 
+* PROGRAMME:
+  The ESSLLI Summer School offers an exciting two-week programme, consisting of the following:
+  - Workshops in logic, linguistics and computer science
+  - Courses — foundational, introductory and advanced — in three areas: Language and Computation; Logic and Computation; Logic and Language
+  - Student session
+  - Evening lectures
+  - Social activities 
+* REGISTRATION:
+  Registration for attendees, course lecturers, student session and workshop organisers and speakers is now open. 
+  -dh  Early-registration deadline: 31st May 2023
+  Go to https://2023.esslli.eu/registration.html ESSLLI is offering affordable accommodation to all participants who book before 31st May. We cannot guarantee accommodation for registrations received after this date. 
+
+ 
+
+
+GandALF 23: The Fourteenth International Symposium on Games, Automata, Logics, and Formal Verification
+  Udine (Italy), September 18-20, 2023
+  https://gandalf23.uniud.it/
+CALL FOR PAPERS
+* The aim of GandALF 2023 is to bring together researchers from academia and industry who are actively working in the fields of Games, Automata, Logics, and Formal Verification. The idea is to cover an ample spectrum of themes, ranging from theory to applications, and stimulate cross-fertilization. Papers focused on formal methods are especially welcome. Authors are invited to submit original research or tool papers on all relevant topics in these areas. Papers discussing new ideas that are at an early stage of development are also welcome. The topics covered by the conference include, but are nt limited to, the following:
+    - Automata Theory
+  - Automated Deduction
+  - Computational aspects of Game Theory
+  - Concurrency and Distributed computation
+  - Decision Procedures
+  - Deductive, Compositional, and Abstraction Techniques for Verification
+  - Finite Model Theory
+  - First-order and Higher-order Logics
+  - Formal Languages
+  -Formal Methods for Systems Biology, Hybrid, Embedded, and Mobile Systems
+  -Game Semantics
+  -Games and Automata for Verification
+  -Logical aspects of Computational Complexity
+  -Logics of Programs
+  -Modal and Temporal Logics
+  -Model Checking
+  -Models of Reactive and Real-Time Systems
+  -Probabilistic Models (Markov Decision processes)
+  -Program Analysis and Software Verification
+  -Reinforcement Learning
+  -Run-time Verification and Testing
+  -Specification and Verification of Finite and Infinite-state Systems
+  -Synthesis
+* IMPORTANT DATES (AoE)
+  -dh Abstract submission: 23 June 2023
+  -dh Paper submission: 30 June 2023
+  -d Acceptance notification: 7 August 2023
+  -d Camera-ready deadline: 6 September 2023
+  -dv Conference dates: Sep 18-20, 2023
+* SUBMISSION AND PUBLICATION
+  See full call for submission and publication information
+* INVITED SPEAKERS
+  - Laure Daviaud: City, University of London (UK)
+  - Juha Kontinen: University of Helsinki (Finland)
+  - Sophie Pinchinat: IRISA/University of Rennes (France)
+  - Alexander Rabinovich: Tel Aviv University (Israel)
+
+
+
+
+ACKERMANN AWARD 2023: EACSL OUTSTANDING DISSERTATION AWARD FOR LOGIC IN COMPUTER SCIENCE
+  https://www.eacsl.org/ackermann-award/
+CALL FOR NOMINATIONS
+* Nominations are now invited for the 2023 Ackermann Award. PhD dissertations in topics specified by the CSL and LICS conferences, which were formally accepted as PhD theses at a university or equivalent institution between 1 January 2021 and 31 December 2022 are eligible for nomination for the award.
+  -dh Deadline for submission: 1 July 2023
+  Nominations should be submitted by the candidate or the supervisor via Easychair: https://easychair.org/my/conference?conf=ackermann23
+  Please submit a pdf file containing: 
+  - 1. a summary in English of the thesis (maximum 10 pages), providing a gentle introduction and overview of the thesis, highlighting the novel results and their impact and including a link to the thesis (please do not include the thesis itself); 
+  - 2. a supporting letter by the PhD advisor and two supporting letters by other senior researchers (in English); 
+  - 3. a copy of a document stating that the thesis was accepted as a PhD thesis at a recognised University (or equivalent institution) and that the candidate was awarded the PhD degree within the specified period; 
+  - 4. a short CV of the candidate.
+* The Award The 2023 Ackermann award will be presented to the recipient(s) at CSL 2024, the annual conference of the EACSL. The award consists of a certificate, an invitation to present the thesis at the CSL conference, the publication of the laudatio in the CSL proceedings, an invitation to the winner to publish the thesis in the FoLLI subseries of Springer LNCS, and financial support to attend the conference. 
+* ACKERMANN JURY
+  The jury consists of:
+  - Christel Baier (TU Dresden)
+  - Maribel Fernandez (King’s College London), president of EACSL
+  - Jean Goubault-Larrecq (ENS Paris-Saclay)
+  - Joost-Pieter Katoen (RWTH Aachen University), ACM SigLog rep.
+  - Delia Kesner (IRIF, U Paris Cite)
+  - Slawomir Lasota (U Warsaw)
+  - Florin Manea (U Goettingen), vice-president of EACSL
+  - Prakash Panangaden (McGill University)
+  - James Worrell (U Oxford)
+  For more information please contact Maribel Fernandez: Maribel.Fernandez@kcl.ac.uk
+
+
+
+The Proof Society Summer School and affiliated Workshop
+  10-12 July (Summer School) and 13-14 July (Workshop), 2023
+  Barcelona, Spain
+  https://www.ub.edu/prooftheory/event/tps2023/
+CALL TO SAVE THE DATE
+* AIMS AND SCOPE
+  This year, Barcelona will host the lustrum edition of the TPS school and workshop. Topics presented include. but are not limited to
+   - Ordinal analysis
+   - Applied proof theory and proof assistants
+   - Cut elimination
+   - Proof systems
+   - Philosophy of proof theory
+   - Proof theory and the foundations of mathematics
+   - Proof Complexity
+   - Reverse mathematics
+   - SAT solvers
+   - Automated theorem proving
+   - Types and proofs;
+ * SUMMER SCHOOL
+  The Summer School will be held in the first three days from July 10-12, 2023 and is aimed at PhD students, advanced Master students and interested colleagues. The confirmed lecturers so far are
+  - Albert Atserias;
+  - Lev Beklemishev;
+  - Eduardo Hermo Reyes;
+  - Elaine Pimentel;
+  - Sara Uckelman,
+* WORKSHOP
+  The affiliated workshop is aimed at PhDs and other professionals alike and will be held on July 13-14 and a separate Call for Participation will be send out soon.
+* THE PROOF SOCIETY
+  The events will be organised under the auspicies of The Proof Society whose mission statement is
+  - To support the research on the notion of “proof” in its broadest sense, through a series of suitable activities;
+  - To be therefore inclusive in reaching out to all scientific areas which consider “proof” as an object in their studies;
+  - To enable the community to shape its future by identifying, formulating and communicating its most important goals;
+  - To actively promote “proof” to increase its visibility and representation in the larger scientific community and society.
+* PAST EDITIONS
+  https://www.proofsociety.org/past/summer-school-2018/
+  https://www.proofsociety.org/past/summer-school-2019/
+  https://kgs.logic.at/madeira2021/
+  https://uswpt.sites.uu.nl/
+* CONTACT
+  David Fernández-Duque <fernandez-duque@ub.edu>
+  Joost J. Joosten <jjoosten@ub.edu>
+
+
+
+Postdoc at Penn State: fair division, matching, computational social choice
+JOB ANNOUNCEMENT
+*  The Data Sciences and Artificial Intelligence (DS/AI) group at Penn State is accepting applications for a postdoctoral position starting in Fall 2023. Research in this position primarily focuses on fairness in resource allocation, matching markets, mechanism design, and in general computational social choice. 
+  To apply, please visit: https://psu.wd1.myworkdayjobs.com/PSU_Academic/job/Penn-State-University-Park/Data-Sciences-Artificial-Intelligence-Postdoctoral-Scholar--College-of-IST-_REQ_0000041422-1
+  We accept applications from all candidates with a Ph.D. in computer science, economics, operations research, mathematics, or other related fields. Successful candidates must have a Ph.D. or terminal degree prior to beginning employment at Penn State.
+* ABOUT THE POSITION:
+  The successful candidate will become a Postdoctoral Scholar at the College of Information Sciences and Technology (IST) of the Pennsylvania State University and will be affiliated with the Center for Artificial Intelligence Foundations and Engineered Systems (CAFÉ) and the FAIR lab (https://fairlab.ist.psu.edu/) led by Professor Hadi Hosseini.
+  The position is for one year, with the possibility of renewal. The start time and duration of the position are flexible.
+  The successful candidate will have the opportunity to work with highly motivated graduate students and receive strong support for career development through training in teaching, grant proposal writing, and other collaborative work.
+ * TO APPLY:
+  - Please submit your CV, research statement, name of at least 2 letter writers, and any other relevant material in one PDF document.
+  -dh Deadline (not strict): March 31, 2023.
+  - Applications will still be accepted after this deadline, but priority will be given to those applications received by the deadline.
+  Should you have any questions, please feel free to contact: hadi@psu.edu
+  Only shortlisted candidates will be contacted to provide reference letters.
+
+
+
+
+Postdoc on challenging problems in infinite-state systems
+  On the ERC grant "Challenging problems in infinite-state systems" with Wojciech Czerwiński
+JOB ANNOUNCEMENT
+* Details
+  Location: University of Warsaw
+  Duration: one year, with a possibility of extension for another year/years
+  Starting date: flexible 
+  Salary: around 2200 EUR before taxes
+  -dh Deadline: 14 APR 2023
+* To apply just send your CV to Wojciech Czerwiński: wczerwin@mimuw.edu.pl
+  I look for candidates with solid theoretical background willing to work on mathematically interesting and challenging problems - mostly from the field of infinite-state systems (automata with counters, stack, data etc.). If you have any questions don’t hesitate to ask.
+
+
+
+PhD or Postdoc Position at LMU Munich about Verified Modal Logics
+JOB ANNOUNCEMENT
+* We are looking for a PhD student (4 years) or postdoctoral researcher (3 years) to work on the Isabelle formalization of modal model theory. The work will take place within the Chair of Theoretical Computer Science at LMU Munich under Jasmin Blanchette's supervision with the participation of two external experts: Cláudia Nalon (University of Brasília) and Sophie Tourret (Inria Nancy).
+  Modal logics are extensions of classical logics with operators that allow for the qualification of truth. Model theory for modal logics is concerned with the interplay between the language (syntax, i.e., the set of its formulas) and its meaning (semantics, i.e., the structures over which the language is interpreted). There are, however, different ways of characterizing meaning for modal sentences and also several (well-established) results that allow for restriction on the sets of structures being considered. This project concerns the formalization in Isabelle of those results for general Kripke structures for generalized modal operators (i.e., of any arity). The goal is to produce a library that could then be used (and possibly extended) for specific applications, in particular those related to proof theory.
+  The position is categorized as TV-L E13 according to the German salary scale. It includes some teaching obligations. The starting date is flexible. Please contact Jasmin Blanchette (jasmin.blanchette@ifi.lmu.de) for more information or if you want to apply. 
+  -dh Application deadline: 15 April 2023
+
+
+
+
+Two open positions of logic at Zhejiang University in 2023. 
+JOB ANNOUNCEMENT
+* Position 1:  Faculty member, which can be “Qiushi” Chair Professor, Tenured Professor, Tenured Associate Professor or ZJU100 Young Professor.   
+* Position 2: Postdoctoral researcher
+* DETAILS
+  Location: Zijingang Campus, Zhejiang University, Hangzhou, China 
+  Research areas: logic, knowledge representation and reasoning
+  -dh Application deadline:  31 May 2023
+  About the requirements and the benefits of these positions, please refer to the general information published at: http://talent.zju.edu.cn/2022/1012/c71691a2645569/page.htm
+  https://mp.weixin.qq.com/s/0zH3ks1iebkFPyZC8xITmQ
+  For further information, please contact Beishui Liao  by email (baiseliao@zju.edu.cn)
+
+
+
+
+
+
+
+
+ 
