@@ -1,0 +1,289 @@
+-dd June 02, 2023
+
+
+-dM SEFM'23:  Jun 02, 2023 (Abstract), Jun 09, 2023 (Paper)
+-dM GandALF 23:   Jun 23, 2023 (Abstract), Jun 30, 2023 (Paper)
+-dM ACKERMANN AWARD 2023:   Jul 01, 2023 (Deadline)
+-dM ICDT 2024:  Sep 13, 2023 (Cycle 2 Abstract), Sep 20, 2023 (Cycle 2 Full)
+
+
+
+
+Winner of the 2023 Alonzo Church Award
+  https://siglog.org/winner-of-the-2023-alonzo-church-award/
+ANNOUNCEMENT -s SIGLOG MATTER
+*  The ACM Special Interest Group on Logic (SIGLOG), the European Association for Theoretical Computer Science (EATCS) and the European Association for Computer Science Logic (EACSL) are pleased to announce that Lars Birkedal, Aleš Bizjak, Derek Dreyer, Jacques-Henri Jourdan, Ralf Jung, Robbert Krebbers, Filip Sieczkowski, Kasper Svendsen, David Swasey and Aaron Turon have jointly been selected as the winners of the 2023 Alonzo Church Award for Outstanding Contributions to Logic and Computation for the design and implementation of Iris, a higher-order concurrent separation logic framework, published in:
+   - Ralf Jung, David Swasey, Filip Sieczkowski, Kasper Svendsen, Aaron Turon, Lars Birkedal, Derek Dreyer: “Iris: Monoids and Invariants as an Orthogonal Basis for Concurrent Reasoning”. POPL 2015.
+   - Ralf Jung, Robbert Krebbers, Lars Birkedal, Derek Dreyer: “Higher-order ghost state”. ICFP 2016.
+   - Robbert Krebbers, Ralf Jung, Ales Bizjak, Jacques-Henri Jourdan, Derek Dreyer, Lars Birkedal: “The Essence of Higher-Order Concurrent Separation Logic”. ESOP 2017.
+   - Ralf Jung, Robbert Krebbers, Jacques-Henri Jourdan, Ales Bizjak, Lars Birkedal, Derek Dreyer: “Iris from the ground up: A modular foundation for higher-order concurrent separation logic”. J. Funct. Program. 28 (2018).
+* The Contribution
+  Iris is a unifying framework that is at the same time rigorously founded and elegantly constructed, but also powerful and broadly applicable. Uniquely, Iris can explain a great variety of primitives in terms of a generic logic with a handful of well-understood mechanisms and comes with a mature implementation in the form of a Coq library. Iris has been very influential and has been applied for reasoning about a diverse range of systems, including fine-grained concurrency, weak memory, various type systems (recursive types, ownership types, gradual types, session types etc.), assembly languages, object capabilities, probabilistic languages, distributed systems and last but not least, models of practical languages like Rust, Scala and OCaml. Its features like higher-order ghost state, atomic invariants, guarded recursion have been used to implement program logics for partial and total correctness, but also unary and relational logical relations, and have in many cases made it possible to significantly advance the state of the art for applying those techniques.
+  In addition to the development of Iris itself, Iris is at the core of a vibrant community. The Coq implementation is developed as open source software with regular releases. Course material has been developed, live tutorials have been taught and two dedicated Iris Workshops have been organised.
+  The 2023 Church Award was selected by a jury consisting of: Thomas Colcombet, Mariangiola Dezani, Marcelo Fiore, Radha Jagadeesan, and Igor Walukiewicz.
+
+
+
+
+
+IWCS 2023: 15th International Conference on Computational Semantics (IWCS)
+  Université de Lorraine, Nancy, France
+  20-23th June 2023
+CALL FOR PARTICIPATION
+* Program: http://iwcs2023.loria.fr/program/
+* Registration:  https://iwcs2023.loria.fr/registration/
+
+
+
+
+
+CiE 2023: Computability in Europe 2023 Unity of Logic and Computation
+  Batumi, Georgia
+  July 24-28, 2023
+  https://www.viam.science.tsu.ge/cie2023/
+CALL FOR PARTICIPATION
+* FORMAT
+  The conference will have a hybrid format. 
+  At the same time, we strongly encourage in-person participation for a richer experience: There are direct flights to Batumi from Istanbul and Tel Aviv, among other airports. Hotels can be booked directly on the conference website (https://www.viam.science.tsu.ge/cie2023/) at a reduced rate.  Batumi is located on the Black Sea coast close to the Turkish border. We suggest to book hotels as soon as possible, since Batumi is a well-appreciated touristic location, especially in July. Numerous travel advisory websites currently rank travel to Georgia as very safe.
+*  IMPORTANT DATES:
+  -dh Early registration: June 18, 2023
+* TUTORIAL SPEAKERS
+  - Ludovic Perret (Sorbonne University)
+  - Ludovic Patey (Université Paris Diderot)
+* INVITED SPEAKERS
+  - Andrei Bulatov (Simon Fraser University)
+  - Anne Condon (University of British Columbia)
+  - Stephanie Dick (University of Pennsylvania)
+  - Kirsten Eisenträger (Pennsylvania State University)
+  - Neil Lutz (Iowa State University)
+  - Mark Steedman (University of Edinburgh)
+* SPECIAL SESSIONS
+  The following special sessions will be part of the CiE 2023 activities:
+  - Classical Theories of Degrees
+  - Computational Science
+  - Proof Theory
+  - Scalable computational genomics
+  - Weihrauch Complexity
+* WOMEN IN COMPUTABILITY
+  We are very happy to announce that within the framework of the Women in Computability program, we are able to offer some grants for junior women researchers who want to participate in CiE 2023. Applications for this grant should be sent to Liesbeth de Mol, liesbeth.de-mol@univ-lille.fr, before May 15, 2023 and include a short cv (at most 2 pages) and contact information for an academic reference. Preference will be given to junior women researchers who are presenting a paper (including informal presentations) at CiE 2023.
+CALL FOR INFORMAL PRESENTATIONS
+*  IMPORTANT DATES:
+  -dh Deadline for informal presentations submission: June 8, 2023 
+  The notifications of acceptance for informal presentations will be sent a few days after submission.
+* INFORMAL PRESENTATIONS
+  Continuing the tradition of past CiE conferences, we invite researchers to present informal presentations of their recent work. A proposal for an informal presentation must be submitted via EasyChair (https://easychair.org/conferences/?conf=cie2023), using the LNCS style file (available at https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines), and be 1 page long; a brief description of the results suffices and an abstract is not required. Informal presentations will not be published in the LNCS conference proceedings. Results presented as informal presentations at CiE 2023 may appear or may have appeared in other conferences with formal proceedings and/or in journals.  Since CiE 2023 will be a hybrid conference, informal presentations may be given remotely or in person.
+
+
+
+PhD Symposium iFM 2023: 18th International Conference on integrated Formal Methods
+  16 November 2023, Leiden, the Netherlands
+  https://liacs.leidenuniv.nl/~bonsanguemm/ifm23/phd.html
+CALL FOR PAPERS
+* IMPORTANT DATES (AoE)
+  -dh Paper submission: 29 June 2023
+  -d Author notification: 1 September 2023
+  -d Camera-ready: 14 September 2023
+  -d Symposium date: 16 November 2023
+* OBJECTIVE AND SCOPE
+  The iFM PhD symposium provides PhD students an opportunity to present their work which lies in the fields of theory, implementation, integration or application of formal methods.
+* WHO CAN SUBMIT?
+  PhD students and young researchers at an early career stage (up to 2 years after PhD completion).
+* WHY TO SUBMIT? 
+  Participants will have the possibility to give short presentations about their research projects. Moreover: The doctoral symposium offers an excellent opportunity to present your work in an international setting, and to get feedback from senior researchers in the field. The doctoral symposium lets you exchange knowledge and experiences with fellow PhD-students in a related topic.
+* WHAT TO SUBMIT? 
+  There are two options for your submission: 
+  - Extended abstract of 2-4 pages, describing your research project which you would like to present. Co-authors are allowed. The results may have been accepted or even published elsewhere. If published elsewhere then this should be appropriately referenced. If submitted to iFM2023 the authors should indicate this in their submission.
+  - Short papers describing previously unpublished work of at least 4 pages, up to 6 pages. These submissions will be included in the proceedings of iFM. Co-authors are allowed. This is a great opportunity to showcase preliminary results and ideas.
+* SUBMISSION GUIDELINES
+  Multiple submissions by one author are not permitted. Submissions should be in English and follow the LNCS format.
+  Please submit your abstract electronically in PDF via the EasyChair page: https://easychair.org/my/conference?conf=phdifm2023
+
+
+
+
+ICALP 2023: The 50th EATCS International Colloquium on Automata, Languages, and Programming
+  Paderborn, Germany, on 10-14 July 2023.
+  https://icalp2023.cs.upb.de/
+  Twitter: @ICALPconf
+CALL FOR PARTICIPATION
+* ICALP is the main conference and annual meeting of the European Association for Theoretical Computer Science (EATCS). As usual, ICALP will be preceded by a series of workshops, which will take place on July 10.
+  The 2023 edition has the following features:
+  - The conference is planned as a physical, in-person event.
+  - This will be the 50th ICALP conference and some special events are planned.
+* Important dates and information
+  -dv Conference: Jul 10-14, 2023 
+  -d Workshops: July 10, 2023
+* Registration
+  Please register here: https://icalp2023.cs.upb.de/registration/
+  On-site child care: Please contact noelle.maicher.hoff@upb.de of the Equality Office of Paderborn University as soon as possible.
+* Invited Speakers
+  - Anna Karlin - University of Washington, USA
+  - Rasmus Kyng - ETH Zurich, Switzerland
+  - Rupak Majumdar - Max Planck Institute for Software Systems, Germany
+  - Thomas Vidick - California Institute of Technology, USA, and Weizmann Institute of Science, Israel
+  - James Worrell - University of Oxford, UK
+* Awards
+  During the conference, the following awards will be given:
+  - the EATCS award (https://eatcs.org/index.php/eatcs-award),
+  - the Church award (https://eatcs.org/index.php/church-award)
+  - the Presburger award (https://eatcs.org/index.php/presburger),
+  - the EATCS distinguished dissertation award (https://eatcs.org/index.php/dissertation-award),
+  - the best papers for Track A and Track B,
+  - the best student papers for Track A and Track B (see submission guidelines).
+* Special 50th ICALP session invited talks:
+  - Kurt Mehlhorn (MPI für Informatik, Saarland Informatics Campus)
+  - Thomas Henzinger (IST Austria)
+* Workshops
+- Combinatorial Reconfiguration
+- Graph Width Parameters: from Structure to Algorithms (GWP 2023)
+- Algorithmic Aspects of Temporal Graphs VI
+- Adjoint Homomorphism Counting Workshop (ad hoc)
+- Congestion Games
+- Workshop On Reachability, Recurrences, and Loops '23 (WORReLL'23)
+- Workshop on Recent Trends in Online Algorithms
+- Quantum Computing with Qiskit, and why Classical Algorithms still matter!
+- Algebraic Complexity Theory
+- Computer Science for CONTINUOUS Data 
+
+
+
+FSCD 2023: Eighth International Conference on Formal Structures for Computation and Deduction 
+  July 3-6, 2023, Rome, Italy
+  https://easyconferences.eu/fscd2023/
+CALL FOR PARTICIPATION
+* OVERVIEW
+  FSCD (https://fscd-conference.org/) covers all aspects of formal structures for computation and deduction from theoretical foundations to applications. Building on two communities, RTA (Rewriting Techniques and Applications) and TLCA (Typed Lambda Calculi and Applications), FSCD embraces their core topics and broadens their scope to closely related areas in logic, models of computation, semantics and verification in new challenging areas.
+* REGISTRATION
+  https://easyconferences.eu/fscd2023/registration1/
+  This link should be used also to register for affiliated workshops.
+  Attending FSCD 2023 is possible both in-person and remotely. FSCD 2023 is co-located with CADE-29 (July 1-4, 2023), and special rates are available for joint registration to both conferences.
+* INVITED SPEAKERS
+  https://easyconferences.eu/fscd2023/keynote-speakers/
+  - Maribel Fernández (Joint FSCD-CADE), King’s College London
+  - Mateja Jamnik (Joint FSCD-CADE), University of Cambridge
+  - Giulio Manzonetto, LIPN&CNRS, Université Sorbonne Paris Nord
+  - Akihisa Yamada, Cyber Physical Security Research Center, National Institute of Advanced Industrial Science and Technology (AIST)
+* ACCEPTED PAPERS 
+  https://easyconferences.eu/fscd2023/accepted-papers-2/
+* CO-LOCATION AND AFFILIATED WORKSHOPS
+  FSCD 2023 is co-located with CADE-29: https://easyconferences.eu/cade2023/
+  The following workshops are affiliated with FSCD and CADE in 2023: https://easyconferences.eu/fscd2023/satellite-events/
+  - WIL: 7th Workshop Women in Logic (July 1, 2023)
+  - WPTE: 10th International Workshop on Rewriting Techniques for Program Transformations and Evaluation (July 1, 2023)
+  - TLLA: 7th International Workshop on Trends in Linear Logic and Applications (July 1-2, 2023)
+  - LSFA: 8th Logical and Semantic Frameworks with Applications (July 1-2, 2023)
+  - DCM: 13th International Workshop on Developments in Computational Models (July 2, 2023)
+  - LFMTP: International Workshop on Logical Frameworks and Meta-Languages: Theory and Practice (July 2, 2023)
+  - UNIF: 37th International Workshop on Unification (July 2, 2023)
+  - CASC: The CADE ATP System Competition (July 3, 2023)
+  - HOR: 11th International Workshop on Higher-Order Rewriting (July 4, 2023)
+  - IFIP WG 1.6: Annual Meeting of IFIP Working Group 1.6 on Rewriting (July 5, 2023)
+  - ADeMaL: Automated Deduction for Machine Learning (July 5, 2023)
+  - ThEdu: Theorem proving components for Educational software (July 5, 2023)
+  - Vampire: 7th Vampire Workshop (July 5, 2023)
+  - SMT: 21st International Workshop on Satisfiability Modulo Theories (July 5-6, 2023)
+
+
+
+
+
+CSL'24: Computer Science Logic 
+ https://csl2024.github.io/Home/
+ February 19-23, 2024, in Naples, Italy
+CALL FOR PAPERS
+*  Computer Science Logic (CSL) is the annual conference of the European Association for Computer Science Logic (EACSL), see https://www.eacsl.org/. 
+  It is an interdisciplinary conference, spanning across both basic and application oriented research in mathematical logic and computer science.  
+  CSL'24 will be held on February 19-23, 2024, in Naples, Italy. It is planned as an on-site event, with support for remote presentations.
+* Submission guidelines:
+ See full call: https://csl2024.github.io/Home/
+* Important dates (AoE):
+  -dh Abstract submission: July 24th, 2023
+  -dh Paper submission: July 31st, 2023
+  -d Notification: October 27th, 2023 
+  -dv Conference: Feb 19-23, 2024
+*List of topics:
+ The following list is not exhaustive but indicates the scope of interest for CSL'23:
+  - automated deduction and interactive theorem proving
+  - concurrency and distributed computation
+  - constructive mathematics and type theory
+  - equational logic and term rewriting
+  - automata and games, game semantics
+  - formal methods
+  - modal and temporal logic
+  - description logics
+  - logical aspects of AI 
+  - model checking
+  - decision procedures
+  - logical aspects of computational complexity
+  - knowledge representation and reasoning 
+  - finite model theory
+  - computability
+  - computational proof theory
+  - logic programming and constraints
+  - lambda calculus and combinatory logic
+  - domain theory
+  - categorical logic and topological semantics
+  - database theory
+  - specification, extraction and transformation of programs
+  - logical aspects of quantum computing
+
+
+
+RW 2023: The 19th Reasoning Web Summer School 
+  21-24 September, 2023
+  https://2023.declarativeai.net/events/reasoning-web/reasoning-web-organization
+  Part of "Declarative AI 2023: Rules, Reasoning, Decisions and Explanations" (DeclarativeAI 2023, https://2023.declarativeai.net/)
+CALL FOR APPLICATIONS
+* The purpose of the Reasoning Web Summer School is to disseminate recent advances on reasoning techniques and related issues that are of particular interest to Semantic Web and Linked Data applications. It is primarily intended for postgraduate (PhD or MSc) students, postdocs, young researchers, and senior researchers wishing to deepen their knowledge. In 2023, the broad theme of the school is:
+ - “Declarative Artificial Intelligence: Knowledge, Rules, Logic”
+   As in the previous years, lectures in the summer school will be given by a distinguished group of expert lecturers.
+  This year the school is part of Declarative AI 2023 (https://2023.declarativeai.net/), an event co-organised by OsloMet - Oslo Metropolitan University, SINTEF AS, and University of Oslo at the premises of OsloMet.
+  The school is co-located with:
+  - RuleML+RR: International Joint Conference on Rules and Reasoning, 18-20 September, 2023, https://2023.declarativeai.net/events/ruleml-rr 
+  - DecisionCAMP: Business Rules and Decision Management Technologies, 18-20 September, 2023, https://2023.declarativeai.net/events/decisioncamp
+* CONFIRMED LECTURES 
+  - Martin Giese, University of Oslo, Norway
+  - Evgeny Kharlamov, Bosch Center for Artificial Intelligence, Germany and University of Oslo, Norway
+  - Filip Murlak, University of Warsaw, Poland
+  - Ana Ozaki, University of Bergen, Norway
+  - Andreas Pieris, University of Edinburgh, UK
+  - Riccardo Rosati Sapienza, University of Rome, Italy
+  - Christian Straßer and Kees van Berkel, Ruhr University Bochum, Germany
+  - Michael Thomazo, INRIA, France
+ * APPLICATIONS 
+   The number of attendees will be limited and participation will depend on submitting an application which will undergo a reviewing process. Accepted participants will receive a registration link, meanwhile please see the registration page for fee and other relevant information, https://2023.declarativeai.net/registration.
+   Applications must be submitted by filling the following form: https://forms.gle/Vxwz5ZhmNrejhiP48
+* IMPORTANT DATES
+  -dh Application deadline: 10 August, 2023
+  -d Notification: 15 August, 2023
+  -dv Registration Deadline: 1 week after the acceptance notification
+  -dv Summer school: Sep 18-24, 2023
+
+
+
+
+
+PhD and Post-doctoral Positions Available in Formal Methods for Reversible Concurrent Calculi Augusta University (Georgia, USA)
+JOB ANNOUNCEMENT
+* Candidates interested in a PhD in formal and algebraic methods for concurrent, reversible computation in Augusta University (Georgia, USA), starting in January 2024 are invited to apply by June 1st, 2023. A post-doctoral position will open shortly after, but interested candidates should feel encouraged to reach out to clement.aubert@math.cnrs.fr informally.
+* ABOUT THE POSITION:
+  The successful applicant will be advised by Clément Aubert, and benefit from an international network of collaborators, as well as from a local, lively, group of PhD students (including but not limited to students working on related formal methods). In addition, they will have the opportunity to help mentoring undergraduate research assistants if they wish to do so. More information at https://spots.augusta.edu/caubert/research/cinrc/phd_ad.html
+  TO APPLY:
+  - Please submit your CV, and a brief introduction of yourself and if you have conducted any research already (PhD position), or simply send an email stating your interest (post-doc position).
+  - Deadline (not strict): June 1st, 2023 (PhD) // Until filled, but preferably by September 2023 (post-doc)
+  - Applications will still be accepted after this deadline, but priority will be given to those applications received by the deadline.
+  Should you have any questions, please feel free to contact: clement.aubert@math.cnrs.fr
+
+-dM Post-doctoral Positions Augusta University (Georgia, USA): Sep, 2023 (preferably or until filled)
+
+
+
+
+PhD or Postdoc position at KIT in Logic of Autonomous Dynamical Systems
+  https://logic.kastel.kit.edu/pub/job-ad.html
+JOB ANNOUNCEMENT
+*  The group of André Platzer, the Alexander von Humboldt Professor for Logic of Autonomous Dynamical Systems, in the Computer Science Department at KIT, Karlsruhe, is recruiting a PhD Student / Doctoral Researcher (full-time, about €4200-€4800 gross by TVL E13 depending on experience). Exceptionally qualified applicants for postdoc positions may be considered as well. Our research group develops the logical foundations for cyber-physical systems and practical theorem proving tools such as KeYmaera X for analyzing and correctly building such systems. Our techniques are used to analyze the safety of autonomous cars, airplanes and collision avoidance protocols in aerospace applications, robotics, and train control as well as for provably safe AI. Your exciting mathematical research can have a direct impact on making the world a better place.
+  Please contact André Platzer (andre.platzer@kit.edu) for more information or to apply.
+  -dh Application deadline: July 3, 2023
+
+
