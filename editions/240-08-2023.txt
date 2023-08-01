@@ -1,0 +1,210 @@
+-dd August 01, 2023
+
+
+
+ -dM RW 2023: 	Aug 10, 2023 (Application deadline)
+ -dM Infinity 2023: 	Aug 15, 2023 (Talk)
+ -dM Postoctoral Positions Augusta University (Georgia, USA): 	Sep, 2023 (preferably or until filled)
+ -dM ICDT 2024: 	Sep 13, 2023 (Cycle 2 Abstract), Sep 20, 2023 (Cycle 2 Full)
+ -dM UniVr/UniUd: Aug 18, 2023 (Applications)
+
+
+RSSRail 2023: International conference on reliability, safety and security of railway systems:  modelling, analysis, verification and certification
+  October 10-12, 2023 
+  Berlin, Germany https://rssr2023.ebuef.de/
+CALL FOR PARTICIPATION
+* We would like to invite you to participate in the RSSRail 2023 conference, aiming  to bring together researchers and engineers interested in building critical railway  applications and systems. This will be a working conference in which research  challenges and progress will be discussed and evaluated by both researchers  and engineers, focusing on their potential to be deployed in industrial settings. 
+  This will be the 5th edition of the RSSRail series with the previous conferences held in Paris, Pistoia, Lille and Paris, again.
+  Our plan is to include in the programme three invited talks, technical papers  selected by the PC and four mini-tutorials; see the outline of the programme: https://rssr2023.ebuef.de/program/
+* PROGRAMME
+  The programme includes three invited talks (https://rssr2023.ebuef.de/keynotes/)
+   - Lydia Kaiser, TU Berlin and Einstein Center Digital Future: Unleashing the Potential of Systems Engineering: From Theory to Practice
+   - Andreas Freese, DB Systel: Title to be confirmed.
+   - Aryldo Russo, GESTE ENGINEERING: Continuous Research for Innovation
+ The three tutorials are confirmed now, for more information see - https://rssr2023.ebuef.de/tutorials/
+ -SafeRiver,
+ -Siemens Mobility & TÜV Rheinland InterTraffic GmbH, and
+ -TU Berlin
+ The conference proceedings will be published by Springer in the LNCS series.
+* REGISTRATION
+  https://rssr2023.ebuef.de/registration/ 
+  We are looking forward to welcoming you and your colleagues in Berlin.
+
+
+
+
+FORMATS 2023: 21st International Conference on Formal Modeling and Analysis of Timed Systems
+  https://www.uantwerpen.be/en/conferences/confest-2023/formats/
+  19-21 September 2023, Antwerp, Belgium
+  co-located with CONCUR, FMICS and QEST as part of CONFEST 2023
+CALL FOR PARTICIPATION
+* FORMATS (International Conference on Formal Modeling and Analysis of Timed Systems) is an annual conference which aims to promote the study of fundamental and practical aspects of timed systems, and to bring together researchers from different disciplines that share interests in the modelling, design and analysis of timed computational systems.
+* REGISTRATION
+  Registration to CONFEST is now open https://www.uantwerpen.be/en/conferences/confest-2023/registration/
+  -dh Early registration deadline: Aug 6, 2023 
+  Note that slightly higher standard prices will apply after August 6th.
+  * INVITED SPEAKERS 
+  FORMATS 2023 will feature the following invited speakers:
+  - Joost-Pieter Katoen, RWTH Aachen University, Germany (joint with all CONFEST conferences)
+  - Nicolas Markey, CNRS & University of Rennes, France (joint with CONCUR)
+  - David Parker, Oxford University, UK (joint with QEST, CONCUR)
+  - Jaco van de Pol, Aarhus University, Denmark (joint with CONCUR, FMICS)
+* ACCEPTED PAPERS
+  The list of papers that have been accepted for presentation at FORMATS 2023 can be consulted here:
+  https://www.uantwerpen.be/en/conferences/confest-2023/formats/papers/
+
+
+
+Third edition of the UniVr/UniUd Summer School on Formal Methods for Cyber-Physical Systems and Workshop on Synthesis, Monitoring and Learning
+  UniVr/UniUd:  Udine, August 28-31
+  http://tcs.uniud.it/summer-school 
+  Workshop on Synthesis, Monitoring and Learning - Udine, August 31-September 1
+  http://tcs.uniud.it/smile
+CALL FOR PARTICIPATION
+*  Synthesis is a fundamental problem in computer science and mathematics, concerned with automatically generating programs that satisfy a given logical specification. Its applications span a range of domains, including model-based system design, software engineering, and automated theorem proving. For instance, designing a controller that guides the behavior of a reactive system, that is, a system that continually interacts with its environment, can be framed as a synthesis problem. Similarly, the design and verification of a distributed system often depend on distributed synthesis, which finds programs that enforce correct component interaction and satisfy desired specifications.
+  The third edition of the Summer School on Formal Methods for Cyber-Physical Systems offers an in-depth exploration of reactive synthesis, a topic that was already introduced in the first edition of the school. The lecturers will provide a systematic account of the main achievements and the current trends of research in reactive synthesis, covering both theory and applications.
+  The course will begin with an overview of the classical synthesis problem in the finite-state setting, as originally formulated by Church and solved by Buechi and Landweber. This introductory part will introduce the terminology of infinite two-player games, explain the automatic construction of winning strategies in “regular games”, and address history of the subject, discussing extensions and open problems. From there, the course will investigate approaches for making reactive synthesis more efficient and practical, including techniques for solving the synthesis problem in restricted settings, for decomposing the problem into subproblems, and for employing algorithms, data structures, and heuristics to manage complexity. Variants of the synthesis problem will also be explored, such as control strategies for hybrid and distributed systems, monitor synthesis, synthesis under incomplete information, distributed synthesis, and symmetric synthesis. The implementation of synthesis tools will also receive significant attention, with a focus on recent advances and applications of UPPAAL Stratego and the SYNTCOMP reactive synthesis competition.
+  The summer school will conclude with a workshop on emerging research trends in synthesis, monitoring, and learning, which showcases some exciting interactions between formal methods and machine learning. Distinguished invited speakers will lead the workshop. Participants will also have the opportunity to engage with peers from around the world and may propose to deliver short research talks voluntarily.
+* Lecturers
+  - Wolfgang Thomas - RWTH Aachen University, Germany: 3-hour lecture on “Synthesis of strategies in infinite two-player games”
+  - Martin Zimmermann - Aalborg University, Denmark: 3-hour lecture on “Synthesis of infinite-state systems”
+  - Kim G. Larssen - Aalborg University, Denmark: 3-hour lecture on “Synthesis and Optimization for Cyber Physical Systems”
+  - Dana Fisman - Ben Gurion University of the Negev, Israel: 3-hour lecture on “Automata learning of languages of finite and infinite words”
+  - Swen Jacobs - CISPA Helmholtz-Center for Information Security, Germany: 3-hour lecture on “Reactive synthesis: towards practice”
+  - Alessandro Cimatti - Fondazione Bruno Kessler, Italy: 3-hour lecture on “Runtime verification and monitor synthesis”
+  See http://tcs.uniud.it/summer-school for abstracts and programme
+* Admission and accommodation
+  The course is offered in a hybrid format giving the possibility to remotely attend the course (on the Microsoft Teams platform).
+  On-site places are limited and assigned on first come first served basis.
+  The registration fees are:
+  - On-site participation, 250.00 Euro + VAT 22%
+  - Online participation, 120.00 Euro + VAT 22%
+  Deadline for online application is August 18, 2023.  
+  Participation application is available at https://www.cism.it/en/activities/courses/J2303/
+
+
+
+VMCAI 2024: 25th International Conference on Verification, Model Checking, and Abstract Interpretation
+  January 15-16, 2024, London, United Kingdom
+  https://popl24.sigplan.org/home/VMCAI-2024
+CALL FOR PAPERS
+* VMCAI 2024 is the 25th International Conference on Verification, Model Checking, and Abstract Interpretation. The conference will be held on January 15-16, 2024, in London, UK, co-located with POPL 2024. VMCAI provides a forum for researchers from the communities of Verification, Model Checking, and Abstract Interpretation, facilitating interaction, cross-fertilization, and advancement of hybrid methods that combine these and related areas.
+* Topics include, but are not limited to: Program Verification; Model Checking; Abstract Interpretation; Abstract Domains; Program Synthesis; Static Analysis; Type Systems; Deductive Methods; Program Logics; First-Order Theories; Decision Procedures; Interpolation; Horn Clause Solving; Program Certification; Separation Logic; Probabilistic Programming and Analysis; Error Diagnosis; Detection of Bugs and Security Vulnerabilities; Program Transformations; Hybrid and Cyber-physical Systems; Concurrent and distributed Systems; Analysis of numerical properties; Analysis of smart contracts; Analysis of neural networks.
+* All accepted papers will be published in Springer’s Lecture Notes in Computer Science series. Submissions will undergo a single-blind review process. There will be three categories of papers: regular papers, tool papers, and case studies. 
+* Important dates:  
+  -dh Paper submission: August 31st, 2023
+  -d Notification: October 11th, 2023
+  -d  Camera-ready: October 31st, 2023 
+* Submission details: See https://popl24.sigplan.org/home/VMCAI-2024
+
+
+
+
+
+
+
+OVERLAY 2023
+  6th - 9th November, 2023 (the precise day(s) will be announced later)
+  Rome, Italy
+  https://overlay.uniud.it/workshop/2023
+  Co-located with AIxIA 2023
+  http://www.aixia2023.cnr.it/
+CALL FOR PAPERS
+*  The increasing adoption of Artificial Intelligence techniques in safety-critical systems, employed in real-world scenarios, requires the design of reliable, robust, and verifiable methodologies. Artificial Intelligence systems employed in such applications need to provide formal guarantees about their safety, increasing the need for a close interaction between the Artificial Intelligence and Formal Methods scientific communities, and possibly leading to the proposal of novel neurosymbolic approaches.
+  To witness this increasing need, tools and methodologies integrating Formal Methods and Artificial Intelligence, and more broadly symbolic and sub-symbolic solutions, are getting more and more attention, especially considering the wide-range and pervasive applications of machine and deep learning models.
+  The workshop is the main official initiative supported by the OVERLAY group (https://overlay.uniud.it). The event aims at establishing a stable, long-term scientific forum on relevant topics connected to the relationships between Artificial Intelligence and Formal Methods, by providing a stimulating environment where researchers can discuss opportunities and challenges at the border of the two areas. 
+  Important goals of the workshop are (i) to encourage the ongoing interaction between the formal methods and artificial intelligence communities, (ii) to identify innovative tools and methodologies, and (iii) to elicit a discussion on open issues and new challenges.
+  This year edition will be held between 6th and 9th November 2023 (the precise day(s) will be announced later), as a hybrid workshop co-located with AIxIA 2023 (http://www.aixia2023.cnr.it/), which is scheduled to be held in Rome, Italy.
+  Participants must be registered to AIxIA 2023 (http://www.aixia2023.cnr.it/). Overlay does not have an additional specific fee.
+* Invited speaker 
+  Luciano Serafini - Fondazione Bruno Kessler, Italy
+* Call for contributions  
+  We accept extended abstracts (4 pages + references) focusing on the interaction between Artificial Intelligence and Formal Methods and on the issue of symbolic/sub-symbolic integration. Invited talks will complement the presentations of contributed papers.
+  Topics of interest include (but are not limited to): automata theory; automated reasoning; automated planning and scheduling; controller synthesis; formal specification languages; formal verification; game theory; hybrid and discrete systems; logics in computer science; neurosymbolic approaches; logic for neural networks; neural networks for logic; reactive synthesis; runtime verification and monitoring; satisfiability modulo theories and theorem proving; specification and verification of machine/deep learning systems; tools and applications
+  Contributed papers can present recent results at the border of the two fields, new research directions, challenges and perspectives. Presentation of results recently published in other scientific journals or conferences is also welcome.
+  We plan to include all papers in the Proceedings of the event, published at CEUR Workshop Proceedings. CEUR WS proceedings are archival proceedings indexed by DBLP and Scopus.
+  Submitted papers should not exceed four (4) pages plus references. Authors are asked to use CEUR's LaTeX style, available at https://overlay.uniud.it/workshop/2023/CEURART.zip. 
+  Submissions must be in PDF format and will be handled via the EasyChair Conference system at the following address: https://easychair.org/my/conference?conf=overlay2023.
+* Important dates
+  -dh Paper submission: September 8th, 2023
+  -d Acceptance notification: September 22nd, 2023
+  -d Camera-ready submission: October 15th, 2023
+  -dv Workshop: between Nov 6-9, 2023 (the precise day(s) will be announced later)
+
+
+
+CPP 2024: Certified Proofs and Programs
+  15-16 January 2024, London, UK (co-located with POPL 2024)
+  https://popl24.sigplan.org/home/CPP-2024
+CALL FOR PAPERS
+  Certified Programs and Proofs (CPP) is an international conference on practical and theoretical topics in all areas that consider formal verification and certification as an essential paradigm for their work. CPP spans areas of computer science, mathematics, logic, and education.
+* IMPORTANT DATES
+  -dh Abstract submission: 12 September 2023
+  -dh Paper submission: 19 September 2023
+  -d Notification (tentative): 21 November 2023
+  -dv Camera Ready Deadline (tentative): Mid December 2023 (TBA)
+  -dv Conference: 15-16 January 2024
+  Deadlines expire at the end of the day, anywhere on earth. Abstract and submission deadlines are strict and there will be no extensions. The full call for papers is available at: https://popl24.sigplan.org/home/CPP-2024#Call-for-Papers
+
+
+
+
+
+FLOPS 2024: 17th International Symposium on Functional and Logic Programming
+  May 15-17, 2024, Kumamoto, Japan
+  https://conf.researchr.org/home/flops-2024
+CALL FOR PAPERS
+* FLOPS aims to bring together practitioners, researchers and implementers of declarative programming, to discuss mutually interesting results and common problems: theoretical advances, their implementations in language systems and tools, and applications of these systems in practice. The scope includes all aspects of the design, semantics, theory, applications, implementations, and teaching of declarative programming. FLOPS specifically aims to promote cross-fertilization between theory and practice and among different styles of declarative programming.
+* FLOPS solicits original papers in all areas of declarative programming:
+  - functional, logic, functional-logic programming, rewriting systems, formal methods, and model checking, program transformations, and program refinements, developing programs with the help of theorem provers or SAT/SMT solvers, verifying properties of programs using declarative programming techniques;
+  - foundations, language design, implementation issues (compilation techniques, memory management, run-time systems, etc.),     applications, and case studies.
+* SUBMISSIONS
+  - Regular research papers: they should describe new results and will be judged on originality, correctness, and significance.
+  - System descriptions: they should describe a working system and will be judged on originality, usefulness, and design.
+  - Declarative pearls: new and excellent declarative programs or theories with illustrative applications.
+* DATES (AoE)
+  -dh Abstract due: Wed 6th Dec 2023 
+  -dh Papers due: Wed 13th Dec 2023 
+  -d Notifications: Wed 31st Jan 2024 
+  -d Final versions due: Wed 28th Feb 2024 
+
+
+
+
+DEON2023: SPECIAL ISSUE ON DEONTIC LOGIC AND NORMATIVE SYSTEMS
+  Journal of Applied Logics – IfCoLog Journal (open access)
+  http://www.uqtr.ca/DEON2023/Special.Issue
+CALL FOR PAPERS
+* The special issue will focus on the theme Theoretical and technical limitations of automated behavior.
+* Important dates:
+  -dh Paper submission: January 7th 2024
+* Guest editors: Clayton Peterson (Université du Québec à Trois-Rivières) and Christian Strasser (Ruhr-Universität Bochum)
+* Detailed information can be found on the webpage.
+
+
+
+
+PROFESSOR OF COMPUTATIONAL SCIENCE
+  CALL FOR APPLICATIONS
+JOB ANNOUNCEMENT
+* Peter Paule will retire end of September 2023. As a consequence, the Johannes Kepler University Linz is announcing the position of a PROFESSOR OF COMPUTATIONAL SCIENCE assigned to the Research Institute for Symbolic Computation (RISC) and to begin as soon as possible.
+  -dh Deadline for applications: August 23, 2023.
+  For further details of the application (in particular, the job profile) see https://www.jku.at/en/work-at-the-jku/job-openings/professorship-positions/professor-of-computational-science/
+  In case of questions concerning the position, do not hesitate to contact Carsten Schneider Carsten.Schneider@risc.jku.at. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
