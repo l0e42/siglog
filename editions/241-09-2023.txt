@@ -1,0 +1,121 @@
+-dd September 05, 2023
+
+
+ -dM VMCAI 2024:   Sep 07, 2023 (Paper, extended)
+ -dM OVERLAY 2023:   Sep 22, 2023 (Paper, extended)
+ -dM CPP 2024:   Sep 12, 2023 (Abstract), Sep 19, 2023 (Paper)
+ -dM ICDT 2024:  Sep 13, 2023 (Cycle 2 Abstract), Sep 20, 2023 (Cycle 2 Full)
+ -dM FLOPS 2024:   Dec 06, 2023 (Abstract due), Dec 13, 2023 (Papers due)
+ -dM DEON2023:   Jan 07, 2024 (Paper)
+
+
+
+Research Highlights
+CALL FOR NOMINATIONS -s SIGLOG MATTER
+* The Research Highlights section of the Communications of the ACM aims to provide readers with a collection of outstanding research articles, selected from the broad spectrum of computing-research conferences. 
+  Starting this year, SIGLOG is an approved nominating organization for the Research Highlights section. Accordingly, the Research Highlights Committee of ACM SIGLOG is looking for nominations of high-quality papers from the past year in the areas related to SIGLOG that can be appreciated by the broader public of the computer science research community. 
+  There are three key criteria for a good Research Highlights paper:
+  - The work must be a strong, novel research contribution.
+  - It should be of broad interest to the computing community. (This means the selection criterion is not necessarily the same as that for Best Papers and other awards, which can recognize papers that are quite narrow and focused on a very small community.)
+  - Papers should have that little extra “pop” that sets them apart even from other strong results in their field. A nomination should suggest that you think a paper should be one of the most widely read papers in computer science.
+  It should be noted that a Research Highlights paper is not the “journal version” of a conference paper. Instead, it is essentially a reprint of the paper and does not preclude a later journal version.
+   There is no deadline for submitting nominations, but since it is the first year SIGLOG is participating in the Research Highlights, we would like to review initial nominations as early as possible. 
+   Nominations can be made using this form: https://docs.google.com/forms/d/e/1FAIpQLSf_EzPU1yK8k3quGyHhiUpTt_OLqEiylgwJ12UaxUFuKqnMcw/viewform
+   We appreciate your cooperation and hope to see many SIGLOG papers published at the Research Highlights section of the Communications of the ACM!
+
+
+
+BEWARE-23: The 2nd international workshop on the emerging ethical aspects of AI, with a focus on Bias, Risk, Explainability and the role of Logic and Computational Logic
+  https://sites.google.com/view/beware2023 
+  BEWARE23 is co-located with the AIxIA 2023 conference.
+CALL FOR PAPERS
+* Aims and Scope
+  Current AI applications do not guarantee objectivity and are riddled with biases and legal difficulties. AI systems need to perform safely, but problems of opacity, bias and risk are pressing. Definitional and foundational issues about what kinds of bias and risks are involved in opaque AI technologies are still very much open. Moreover, AI is challenging Ethics and brings the need to rethink the basis of Ethics. In this context, it is natural to look for theories, tools and technologies to address the problem of automatically detecting biases and implementing ethical decision-making. Logic, Computational Logic and formal ontologies have great potential in this area of research, as logic rules are easily comprehensible by humans and favour the representation of causality, which is a crucial aspect of ethical decision-making. Nonetheless, their expressivity and transparency need to be integrated within conceptual taxonomies and socio-economic analyses that place AI technologies in their broader context of application and determine their overall impact. This workshop addresses issues of logical, ethical and epistemological nature in AI through the use of interdisciplinary approaches. We aim to bring together researchers in AI, philosophy, ethics, epistemology, social science, etc., to promote collaborations and enhance discussions towards the development of trustworthy AI methods and solutions that users and stakeholders consider technologically reliable and socially acceptable.
+   The workshop invites submissions from computer scientists, philosophers, economists and sociologists wanting to discuss contributions ranging from the formulation of epistemic and normative principles for AI, their conceptual representation in formal models, to their development in formal design procedures and translation into computational implementations.
+* Topics of interest include, but are not at all limited to:
+  - Conceptual and formal definitions of bias, risk and opacity in AI
+  - Epistemological and normative principles for fair and trustworthy AI
+  - Ethical AI and the challenges brought by AI to Ethics
+  - Explainable AI
+  - Uncertainty in AI
+  - Ontological modelling of trustworthy as opposed to biased AI systems
+  - Defining trust and its determinants for implementation in AI systems
+  - Methods for evaluating and comparing the performances of AI systems
+  - Approaches to verification of ethical behaviour
+  - Logic Programming Applications in Machine Ethics
+  - Integrating Logic Programing with methods for Machine Ethics and Explainable AI
+* Submission
+  See full call: https://sites.google.com/view/beware2023/call-for-papers?authuser=0
+* Important Dates
+  -dh Paper submission: 10 September 2023
+  -d Notification: 6 October 2023
+  -d Camera ready: 20 October 2023
+
+
+
+GandALF 23: Fourteenth International Symposium on Games, Automata, Logics, and Formal Verification
+  Udine, Italy, Sept 18-20, 2023
+  https://gandalf23.uniud.it/
+CALL FOR PARTICIPATION
+* Registration is finally open for the Fourteenth International Symposium on Games, Automata, Logics, and Formal Verification (GandALF 23), to be held in Udine (Italy) on September 18-20, 2023.
+* We invite you to attend GandALF 2023. We will offer a very exciting technical and social program, which includes 15 contributed talks, 4 invited talks by renowned international theoretical computer scientists:
+  - Weighted Automata At The Border Of Decidability by Laure Daviaud – University of East Anglia (UK),
+  - Complexity Aspects Of Logics In Team Semantics by Juha Kontinen – University of Helsinki (Finland),
+  - Strategic Reasoning Under Imperfect Information – The Case Of Synchronous Recall by Sophie Pinchinat IRISA/University of Rennes (France),
+  - The Church Synthesis Problem Over Continuous Time by Alexander Rabinovich – Tel Aviv University (Israel),
+  and an enchanting boat trip and dinner at a traditional Casone (check it out at https://gandalf23.uniud.it/excursion/).
+* To register to the conference, follow the instructions at https://gandalf23.uniud.it/registration/.
+   For more details about GandALF 2023 and about how to organize your visit to Udine, check our webpage (https://gandalf23.uniud.it/). The full program will be published soon.
+
+ 
+
+
+TIME 2023: 30th International Symposium on Temporal Representation and Reasoning
+  September 25-26, 2023 at NCSR 'Demokritos' in Athens, Greece
+  https://cer.iit.demokritos.gr/events/time23/
+CALL FOR PARTICIPATION
+* The TIME International Symposium brings together researchers from different disciplines of Computer Science working on temporal aspects of computational systems.
+  - We are glad to announce that TIME will be back to an in-person conference! We look forward to welcoming the TIME community to Athens after 3 years of online events.
+  - TIME 2023 features 12 regular papers, 9 extended abstracts, and 2 invited talks.
+* Registration is now open
+  - TIME 2023 has both physical registration as well as a remote-participation option
+  - The registration fee for physical participation is 300 Euros, the registration fee for remote participation is 50 Euros.
+  - Register at: https://cer.iit.demokritos.gr/events/time23/#registration
+* Invited Speakers
+  - Thomas Eiter, TU Vienna, Austria: Asynchronous Temporal Equilibrium Logic
+  - Laura Nenzi, University of Trieste, Italy: Learning Temporal Logic Formulas from Time-series Data
+* Program
+  - Please find the program at: https://cer.iit.demokritos.gr/events/time23/#program
+
+
+
+FSCD 2024: Ninth International Conference on Formal Structures for Computation and Deduction
+  July 10-13, 2024, Tallinn, Estonia
+  https://fscd-conference.org/2024
+CALL FOR PAPERS
+* IMPORTANT DATES (AoE) 
+  -dh Abstract:       February 5, 2024
+  -dh Paper submission:     February 12, 2024
+  -dv Rebuttal:       Apr 2-6, 2024
+  -d Notification:   April 22, 2024
+  -d Final version:  May 6, 2024
+* OVERVIEW
+  FSCD (https://fscd-conference.org/) covers all aspects of formal structures for computation and deduction from theoretical foundations to applications. Building on two communities, RTA (Rewriting Techniques and Applications) and TLCA (Typed Lambda Calculi and Applications), FSCD embraces their core topics and broadens their scope to closely related areas in logic, models of computation, semantics and verification in new challenging areas.
+* TOPICS
+  The suggested, but not exclusive, list of topics for submission is:
+  - Calculi: Rewriting systems (string, term, higher-order, graph, conditional, modulo, infinitary, etc.); Lambda calculus; Logics (first-order, higher-order, equational, modal, linear, classical, constructive, etc.); Proof theory (natural deduction, sequent calculus, proof nets, etc.); Type theory and logical frameworks; Homotopy type theory; Process algebras (synchronous, asynchronous, static and dynamic semantics with and without time, etc.); Quantum calculi.
+  - Methods in Computation and Deduction: Type systems (polymorphism, dependent, recursive, intersection, session, etc.); Induction, coinduction; Matching, unification, completion, orderings; Strategies (normalization, completeness, etc.); Tree automata; Model building and model checking; Proof search and theorem proving; Constraint solving and decision procedures.
+  - Semantics: Operational semantics and abstract machines; Game Semantics and applications; Domain theory and categorical models; Quantitative models (timing, probabilities, etc.); Quantum computation and emerging models in computation.
+  - Algorithmic Analysis and Transformations of Formal Systems: Type inference and type checking; Abstract Interpretation; Complexity analysis and implicit computational complexity; Checking termination, confluence, derivational complexity and related properties; Symbolic computation.
+  - Tools and Applications: Programming and proof environments; Verification tools; Proof assistants and interactive theorem provers; Applications in industry; Applications of formal systems in other sciences; Applications of formal systems in education.
+  - Formal Systems for Semantics and Verification in new challenging areas: Certification; Security; Blockchain protocols; Data bases; Deep learning and machine learning algorithms; Planning.
+* PUBLICATION and SUBMISSION
+  See the full call for information on submission, publication, special issue and prizes: https://cs.ioc.ee/fscd24/cfp.html
+
+
+
+
+
+
+
+
