@@ -1,0 +1,189 @@
+-dd October 01, 2023
+
+
+-dM FLOPS 2024:   Dec 06, 2023 (Abstract due), Dec 13, 2023 (Papers due)
+-dM DEON2023:   Jan 07, 2024 (Paper)
+-dM FSCD 2024:  Feb 05, 2024 (Abstract), Feb 12, 2024 (Paper)
+-dM iFM 2023:  Oct 15, 2023 (Early registration deadline)
+
+
+
+
+
+Joining SIGLOG
+  https://siglog.org
+SIGLOG MATTERS -s SIGLOG MATTER
+* The ACM Special Interest Group on Logic and Computation (SIGLOG) is a community organization dedicated to the advancement of logic and computation, and formal methods in Computer Science, broadly defined. 
+  One can join SIGLOG by visiting https://campus.acm.org/public/qj/gensigqj/siglist/gensigqj_siglist.cfm 
+  It is possible to join SIGLOG without joining ACM (the SIGLOG membership fee is $25 and $15 for students).
+
+
+
+
+
+
+LICS 2024: Thirty-Ninth Annual ACM/IEEE Symposium on LOGIC IN COMPUTER SCIENCE
+  Tallinn, July 2024
+  https://lics.siglog.org/lics24
+CALL FOR PAPERS -s SIGLOG MATTER
+* SCOPE
+  The LICS Symposium is an annual international forum on theoretical and practical topics in computer science that relate to logic, broadly construed. We invite submissions on topics that fit under that rubric. Suggested, but not exclusive, topics of interest include: automata theory, automated deduction, categorical models and logics, concurrency and distributed computation, constraint programming, constructive mathematics, database theory, decision procedures, description logics, domain theory, finite model theory, formal aspects of program analysis, formal methods, foundations of computability, foundations of probabilistic, real-time and hybrid systems, games and logic, higher-order logic, knowledge representation and reasoning, lambda and combinatory calculi, linear logic, logic programming, logical aspects of AI, logical aspects of bioinformatics, logical aspects of computational complexity, logical aspects of quantum computation, logical frameworks, logics of programs, modal and temporal logics, model checking, process calculi, programming language semantics, proof theory, reasoning about security and privacy, rewriting, type systems, type theory, and verification.
+* IMPORTANT DATES FOR PAPERS
+  Authors are required to submit a paper title and a short abstract of about 100 words in advance of submitting the extended abstract of the paper. The exact deadline time on these dates is anywhere on earth (AoE).
+  -dh Titles and Short Abstracts Due: 21 January 2024
+  -dh Full Papers Due: 26 January 2024
+  -dv Author Feedback/Rebuttal Period: Mar 18-23, 2024
+  -d Author Notification: 15 April 2024
+  -dv Conference: Jul 8-12, 2024
+   Submission deadlines are firm; late submissions will not be considered. All submissions will be electronic via easychair.
+* PAPER SUBMISSION INSTRUCTIONS
+  Submissions should use ACM SIGCONF Proceedings 2-column 10pt format and may be at most 12 pages, excluding references. Latex style files and further submission information is at https://lics.siglog.org/lics24/cfp.php. 
+  LICS 2024 will use a lightweight double-blind reviewing process. Please see the website for further details and requirements from the double-blind process.
+  The official publication date may differ from the first day of the conference. The official publication date may affect the deadline for any patent filings related to published work. We will clarify the official publication date in due course.
+
+
+FoSSaCS '24: 27th International Conference on Foundations of Software Science and Computation Structures
+  6-11 April 2024
+  https://etaps.org/2024/fossacs
+  Part of ETAPS 2024
+CALL FOR PAPERS
+* IMPORTANT DATES (AoE)
+  -dh Paper submission:   October 12, 2023
+  -d Rebuttal period:    Dec 5-7, 2023
+  -d Paper notification: December 21, 2023
+  As in the previous year, FoSSaCS welcomes voluntary submissions of artefacts such as formalized proofs for evaluation after paper acceptance; the outcome will not change the paper acceptance decision.
+  -dh Artefact submission: January 4, 2024  
+  -d Artefact notification:        February 8, 2024
+* TOPICS 
+  FoSSaCS seeks original papers on foundational research with a clear significance for software science. The conference invites submissions on theories and methods to support the analysis, integration, synthesis, transformation, and verification of programs and software systems. The specific topics covered by the conference include, but are not limited to, the following:
+  - categorical models and logics;
+  - language theory, automata, and games;
+  - modal, spatial, and temporal logics;
+  - type theory and proof theory;
+  - concurrency theory and process calculi;
+  - rewriting theory;
+  - semantics of programming languages;
+  - program analysis, correctness, transformation, verification, and synthesis;
+  - logics of programming;
+  - emerging models of computation;
+  - logical aspects of computational complexity;
+  - models of system security;
+  - logical foundations of databases
+* SUBMISSION:
+  See full call for further information:  https://etaps.org/2024/cfp/
+
+
+
+iFM 2023: 18th International Conference on integrated Formal Methods
+  13-16 November 2023, Leiden, the Netherlands
+  https://ifm23.liacs.nl
+CALL FOR PARTICIPATION
+* This year, iFM 2023 and its associated events will be held in Leiden, The Netherlands, on 13-16 November 2023. The four-day event consists of the main conference iFM 2023, the workshop on Formal Methods for Autonomous Systems (FMAS 2023), a PhD Symposium and an artifact session. The programme will include the following keynote and invited speakers:
+  - Erika Ábrahám (RWTH Aachen University, DE) - IFM 2023 and FMAS 2023
+  - Marieke Huisman (University of Twente, NL) – PhD Symposium
+  - Barbara Jobstmann (EPFL and Cadence Design Systems, CH) - IFM 2023
+  - Rustan Leino (Amazon Web Services, USA) – IFM 2023 and PhD Symposium
+  - Alice Miller (University of Glasgow, UK) - FMAS 2023
+  The list of accepted papers at iFM 2023 can be found at https://ifm23.liacs.nl/program.html
+* REGISTRATION
+  To register for the main conference and the affiliated events, go to https://ifm23.liacs.nl/registration.html
+  The early registration fees (until October 15th) for the iFM 2023 main conference, the PhD symposium, and the FMAS 2023 workshop are as follows:
+  - iFM 2023 main conference        EUR 500
+  - PhD symposium                   EUR 150
+  - FMAS 2023 workshop              EUR 200
+  - iFM 2023 + PhD symposium        EUR 600
+  - iFM 2023 + FMAS 2023 workshop   EUR 650
+  The registration fees include lunches and tea/coffee breaks during the registered event, as well as a social dinner. Additionally, the registration fees for the main conference iFM 2023 include a small reception on the first conference day. 
+
+
+
+
+SPIN 2024:30th International Symposium on Model Checking of Software
+  Luxembourg City, Luxembourg, April, 2024
+  co-located with ETAPS 2024 (6-11 April)
+  Conference website: https://spin-web.github.io/SPIN2024/
+  Celebration of the 30th SPIN symposium: special anniversary track
+CALL FOR PAPERS
+* The SPIN symposium aims at bringing together researchers and practitioners interested in automated tool-based techniques for the analysis of software as well as models of software, for the purpose of verification and validation. The symposium specifically focuses on concurrent software but does not exclude the analysis of sequential software. Submissions are solicited on theoretical results, novel algorithms, tool development, and empirical evaluation.
+  The SPIN symposium originated as a workshop focusing on explicit state model checking, specifically as related to the SPIN model checker. However, over the years it has evolved to a broadly-scoped symposium for software analysis using any automated techniques, including model checking, automated theorem proving, and symbolic execution. An overview of the previous SPIN symposia (and early workshops) can be found at: https://spinroot.com/spin/Workshops/. In celebration of the 30th edition of the symposium, SPIN 2024 features a special track for historical accounts and other broad discussions (see below).
+* Topics of interest include, but are not limited to:
+  - Insightful surveys or historical accounts on topics of relevance to the symposium, for the special anniversary track (see below)
+  - Formal verification techniques for automated analysis of (concurrent) software/hardware, including: Model checking; Deductive verification
+  - Automated theorem proving, including SAT and SMT
+  - Abstraction and symbolic execution techniques
+  - Static analysis and abstract interpretation
+  - Modular and compositional verification techniques
+  - Verification of timed and probabilistic systems
+  - Automated testing using advanced analysis techniques
+  - Program synthesis
+  - Derivation of specifications, test cases etc. via formal analysis
+  - Formal specification languages, temporal logic, design-by-contract
+  - Formal analysis of learned systems
+  - Any combination of the above
+  - Application and/or engineering of verification tools, including: Case studies of interesting systems or with interesting results
+  - Implementation of novel verification tools
+  - Benchmarks and comparative studies for verification tools
+  - Verification tools using modern hardware, e.g.: multi-core CPU, GPU, TPU, cloud, and quantum
+* IMPORTANT DATES (AoE)
+  -dh Submissions due: January 15, 2024 
+  -d Author notification: February 26, 2024
+  -d Camera ready: March 11, 2024
+  -dv Symposium: between April 6 and 11, 2024. Exact dates will be announced later.
+* SUBMISSION CATEGORIES AND GUIDELINES
+  See full call for paper types and submission guidance: https://spin-web.github.io/SPIN2024/cfp
+
+
+
+
+
+
+
+
+
+CAV Award
+ANNOUNCEMENT
+* The CAV award is given annually at the CAV conference for fundamental contributions to the field of Computer-Aided Verification
+  The Recipients for 2023 are:
+  - Shaz Qadeer, Madan Musuvathi, Jakob Rehof, Akash Lal, Thomas Reps
+  Citation: For the introduction of context-bounded analysis and its application to systematic testing of concurrent programs.
+  Related publications:
+  - 1. Shaz Qadeer and Jakob Rehof. Context-Bounded Model Checking of Concurrent Software. In Proc. of TACAS'05. LNCS 3440. Edinburgh, UK, 2005.
+  - 2. Madan Musuvathi and Shaz Qadeer. Iterative Context Bounding for Systematic Testing of Multithreaded Programs. In Proc. of PLDI'07. San Diego (Ca), USA, 2007.
+  - 3. Akash Lal and Thomas Reps. Reducing concurrent analysis under a context bound to sequential analysis. Formal Methods in System Design 35.1 (2009): 73-97.
+* The contributions of the nominated researchers constitute a breakthrough in testing and verifying concurrent programs. In 2005, Qadeer and Rehof introduced context-bounded analysis (CBA) that considers state reachability under a bound on the number of context switches between threads. CBA offered a mechanism to obtain decidability (if each thread is modeled as a pushdown system) when the general setting (without a context-switch bound) is undecidable. In 2007, Musuvathi and Qadeer designed a dynamic testing approach, called iterative context bounding, that enumerated program executions in the order of increasing context switches. They experimentally established a fundamental small-world hypothesis: that most concurrency bugs can be revealed via executions with a few context switches. In 2008, Lal and Reps provided a static-analysis counterpart to this result. They defined a source-to-source construction parameterized by a bound K, now commonly referred to as a sequentialization, that converts a concurrent program to a sequential one such that the verification of the latter is equivalent to the verification of the former under context-switch bound K. Lal and Reps further showed that for a popular benchmark set of concurrent programs, CBA could find all bugs that a full verifier could find in a small number of context switches and several times faster.
+* The nominated work had an essential impact on academia and industry, leading to numerous theoretical, methodological, and practical developments and efficient tools used in large-scale software development.
+
+
+
+
+
+
+-dM 4 Positions at Oxford: Dec 13, 2024 (Deadline)
+
+Four faculty positions at Oxford University
+JOB ANNOUNCEMENT
+* Oxford University’s Computer Science Department is hiring four new faculty. The positions are open to all areas of computer science and the closing date is 12 noon UK time on 13 December 2023. 
+  For more information, see here: https://www.cs.ox.ac.uk/aboutus/vacancies/vacancy-faculty-hiring.html
+* See here for our PL and verification groups:
+  - https://www.cs.ox.ac.uk/research/pl/people.html
+  - https://www.cs.ox.ac.uk/research/verification/people.html
+
+
+PostDocs at Logic Uncertainty Computation and Information
+JOB ANNOUNCEMENT
+* The Logic Uncertainty Computation and Information (LUCI) Lab at the University of Milan, Italy will shortly be advertising calls for up to six full-time postdoctoral researchers. We will be seeking applications with strong skills in 
+  - Nonmonotoniclogics
+  - Logics for AI 
+  - Statistical inference and decision-making under uncertainty
+  - Temporal Logics
+  - Markovian Semantics
+  - Computational Logics and Proof Theories for uncertainty 
+  Flexible working arrangementswill be possible.
+  Please see the LUCI website for further details about the Lab members and our research.
+  We are planning to post the call for applications for at least some of the positions before the end of 2023, but we encourage potential applicants to get in touch with us to express their interest.
+  - Marcello D’Agostino (marcello.d’agostino@unimi.it)
+  - Hykel Hosni (hykel.hosni@unimi.it)
+  - Giuseppe Primiero (giuseppe.primiero@unimi.it) 
+
+
+
