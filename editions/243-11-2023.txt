@@ -6,7 +6,7 @@
 -dM SPIN 2024:  Jan 15, 2024 (Submissions)
 -dM LICS 2024:  Jan 21, 2024 (Titles and Short Abstracts), Jan 26, 2024 (Full Papers Due)
 -dM FSCD 2024:  Feb 05, 2024 (Abstract), Feb 12, 2024 (Paper)
--dM 4 Positions at Oxford:  Dec 13, 2024 (Deadline)
+-dM 4 Positions at Oxford:  Dec 13, 2023 (Deadline)
 -dM CTLM 2023:  Nov 07, 2023 (Contributed talks)
 -dM ICALP 2024:   Feb 14, 2024 (Paper)
 
