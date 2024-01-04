@@ -1,0 +1,178 @@
+-dd January 04, 2024
+
+-dM DEON2023: 	Jan 07, 2024 (Paper)
+-dM SPIN 2024: 	Jan 15, 2024 (Submissions)
+-dM CAV 2024: 	Jan 19, 2024 (Paper), Mar 01, 2024 (CAV Award Nomination deadline)
+-dM LICS 2024: 	Jan 21, 2024 (Titles and Short Abstracts), Jan 26, 2024 (Full Papers Due)
+-dM IJCAR 2024: 	Jan 29, 2024 (Abstract, extended), Feb 05, 2024 (Paper, extended)
+-dM FSCD 2024: 	Feb 05, 2024 (Abstract), Feb 12, 2024 (Paper)
+-dM CiE 2024: 	Feb 10, 2024 (Article), May 15, 2024 (Informal presentations)
+-dM ICALP 2024: 	Feb 14, 2024 (Paper)
+-dM ICGT 2024: 	Feb 27, 2024 (Abstract), Mar 05, 2024 (Paper)
+-dM AiML 2024: 	Mar 08, 2024 (Abstract), Mar 15, 2024 (Full papers)
+
+
+
+
+
+LICS 2024: Thirty-Ninth Annual ACM/IEEE Symposium on
+LOGIC IN COMPUTER SCIENCE
+  Tallinn, July 2024
+  https://lics.siglog.org/lics24
+CALL FOR PAPERS -s SIGLOG MATTER
+* SCOPE
+  The LICS Symposium is an annual international forum on theoretical and practical topics in computer science that relate to logic, broadly construed. We invite submissions on topics that fit under that rubric. Suggested, but not exclusive, topics of interest include: automata theory, automated deduction, categorical models and logics, concurrency and distributed computation, constraint programming, constructive mathematics, database theory, decision procedures, description logics, domain theory, finite model theory, formal aspects of program analysis, formal methods, foundations of computability, foundations of probabilistic, real-time and hybrid systems, games and logic, higher-order logic, knowledge representation and reasoning, lambda and combinatory calculi, linear logic, logic programming, logical aspects of AI, logical aspects of bioinformatics, logical aspects of computational complexity, logical aspects of quantum computation, logical frameworks, logics of programs, modal and temporal logics, model checking, process calculi, programming language semantics, proof theory, reasoning about security and privacy, rewriting, type systems, type theory, and verification.
+* IMPORTANT DATES FOR PAPERS
+  Authors are required to submit a paper title and a short abstract of about 100 words in advance of submitting the extended abstract of the paper. The exact deadline time on these dates is anywhere on earth (AoE).
+  -d Titles and Short Abstracts Due: 21 January 2024
+  -d Full Papers Due: 26 January 2024
+  -dv Author Feedback/Rebuttal Period: Mar 18-23, 2024
+  -d Author Notification: 15 April 2024
+  -dv Conference:  Jul 8-12, 2024
+  Submission deadlines are firm; late submissions will not be considered. All submissions will be electronic via easychair.
+* PAPER SUBMISSION INSTRUCTIONS
+  Submissions should use ACM SIGCONF Proceedings 2-column 10pt format and may be at most 12 pages, excluding references. Latex style files and further submission information is at https://lics.siglog.org/lics24/cfp.php. 
+  LICS 2024 will use a lightweight double-blind reviewing process. Please see the website for further details and requirements from the double-blind process.
+  The official publication date may differ from the first day of the conference. The official publication date may affect the deadline for any patent filings related to published work. We will clarify the official publication date in due course.
+
+
+
+
+
+
+COORDINATION 2024: 26th International Conference on Coordination Models and Languages
+  June 18-20, 2024 University of Groningen, The Netherlands
+  https://www.discotec.org/2024/coordination
+CALL FOR PAPERS
+* SCOPE
+  Modern information systems rely increasingly on combining concurrent, distributed, mobile, adaptive, reconfigurable, and heterogeneous components. New models, architectures, languages, and verification techniques are necessary to cope with the complexity induced by the demands of today's software development. Coordination languages have emerged as a successful approach, in that they provide abstractions that cleanly separate behaviour from communication, therefore increasing modularity, simplifying reasoning, and ultimately enhancing software development. Building on the success of the previous editions, this conference provides a well-established forum for the growing community of researchers interested in models, languages, architectures, and implementation techniques for coordination.
+* TOPICS
+  - Theoretical models and foundations for coordination: component composition, concurrency, distribution, mobility; dynamic, spatial and probabilistic aspects of coordination; logic, types, semantics. 
+  - Coordination of multi-agent and collective systems: models, languages, infrastructures, self-adaptation, self-organisation, distributed solving, collective intelligence and emerging behaviour. 
+  - Coordination and modern distributed computing: web services, microservices, peer-to-peer networks, grid computing, context-awareness, ubiquitous computing, mobile computing, reversible computing. 
+  - Session-based programming: models, languages, behavioural types, and tools. 
+  - Models, languages, verification techniques, and tools for interacting smart contracts and (blockchain-based) decentralised applications. 
+  - Languages, methodologies, and tools for secure coordination. 
+  - Cybersecurity aspects of coordinated systems, coordinated approaches to cybersecurity. 
+  - Nature and bio-inspired approaches to coordination. 
+  - Specification, refinement, and analysis of architectures: patterns and styles, verification of functional and non-functional properties, including performance and security aspects. 
+  - Dynamic software architectures: distributed mobile code, configuration, reconfiguration, networked computing, parallel, high-performance and cloud computing. 
+  - Coordination platforms for infrastructures of emergent new application domains, like IoT, fog-, and edge-computing. 
+  - Programming methodologies, languages, middleware, tools, and environments for the development and verification of coordinated applications, including DevOps approaches. 
+  - Coordination in business process management: coordination models for business process management, process mining techniques and tools for coordination models. 
+  - Industrial relevance of coordination and software architectures: programming in the large, domain-specific software architectures and coordination models, industry-driven efforts in coordination and case studies. 
+  - Interdisciplinary aspects of coordination.
+* INVITED SPEAKER 
+  Marieke Huisman, University of Twente, The Netherlands
+* IMPORTANT DATES (AoE) 
+  -dh Abstract submission: February 02, 2024 
+  -dh Paper submission: February 09, 2024 
+  -d Paper notification: March 29, 2024 
+  -d Camera-ready: April 24, 2024
+* SUBMISSION
+  Please see full call for submission information: https://www.discotec.org/2024/coordination
+* ARTEFACTS
+  To improve and reward reproducibility and to give more visibility and credit to the effort of tool developers in the COORDINATION community, authors of submitted papers are invited to submit publicly available artefacts (using permanent repositories such as Software Heritage, Zenodo, etc.), which will be associated with their paper for evaluation. Based on the result of the artefact evaluation, one or more badges may be applied to a paper. Specifically, COORDINATION uses the EAPLS badging scheme [2], which in its own turn is based on and consistent with the ACM initiative.
+  Artefact submission is mandatory for tool papers and the result of the artefact evaluation will be considered in the tool paper's acceptance decision. Instead, artefact submission is optional for all the other paper categories and the result of the artefact evaluation will not affect the paper's acceptance decision but may affect the best paper selection.
+  -d Artefact submission: February 29, 2024 
+  -d Problem reports from reviewers: 8 March, 2024 
+  -d Authors' response to reviewers: 15 March, 2024 
+  -d Artefact notification: March 29, 2024
+* SPECIAL ISSUES
+  After the conference, accepted papers (except for tool papers) selected from COORDINATION and FORTE programmes will be invited to a special issue of the Logical Methods in Computer Science journal. The paper submission deadline is planned for October/November 2024, while the notifications for the first round of reviews around February 2025. Selected accepted tool papers, instead, will be invited to a special issue of a reputable journal with a track dedicated to software, like the Journal of Science of Computer Programming's Software Track.
+
+
+
+
+
+
+
+CiE 2024: Computability in Europe 2024
+  Twenty years of theoretical and practical synergies
+  July 08-12, 2024 Amsterdam, The Netherlands
+  https://events.illc.uva.nl/CiE/CiE2024/
+  Submission link: https://equinocs.springernature.com/service/CiE2024
+CALL FOR PAPERS
+* IMPORTANT DATES:  (AOE)
+  -dh Article submission: February 10, 2024
+  -d Notification of acceptance: April 20, 2024
+  -d Final versions due: May 1, 2024
+  -dv Deadline for informal presentations submission: May 15, 2024 
+  -d Early registration before: May 20, 2024
+  -dv Conference: Jul 08-12, 2024
+  The notifications of acceptance for informal presentations will be sent a few days after submission.
+* GENERAL INFORMATION
+  CiE 2024 will be an anniversary event. It is the 20th conference organized by CiE (Computability in Europe), in the same place as the first edition, Amsterdam.
+  CiE is a European association of mathematicians, logicians, computer scientists, philosophers, physicists and others interested in new developments in computability and their underlying significance for the real world.
+* TUTORIAL SPEAKERS
+  - Matthew Harrison-Trainor (University of Illinois Chicago)
+  - Sonja Smets (University of Amsterdam)
+* INVITED SPEAKERS
+  - Arnold Beckmann (Swansea University)
+  - Rod Downey (Victoria University of Wellington)
+  - Elvira Mayordomo (University of Zaragoza)
+  - Alexandre Miquel (Universidad de la República)
+  - Monika Seisenberger (Swansea University)
+  - Mariya Soskova (University of Wisconsin–Madison)
+* SPECIAL SESSIONS
+  There will be 6 special sessions:
+  - Computable aspects of symbolic dynamics and tilings (chairs: Benjamin Hellouin and Ilkka Torma)
+  - Algorithmic randomness and Kolmogorov complexity session (chairs: Rupert Hölzl abd Denis Hirschfeldt)
+  - Quantum Computation (chairs: Delaram Kahrobaei and Mehrnoosh Sadrzadeh)
+  - History and Philosophy of Computing (HaPoC) (chairs: Ekaterina Koubychkina and Marianna Girlando)
+  - Bio-inspired Computation (BiC) (chairs: Gianluca Della Vedova and Jasmijn Baaijens)
+  - Computable Structure Theory (chairs: Stefan Vatev and Ekaterina Fokina)
+* CONFERENCE TOPICS
+  The CiE conferences serve as an interdisciplinary forum for research in all aspects of computability, foundations of computer science, logic, and theoretical computer science, as well as the interplay of these areas with practical issues in computer science and with other disciplines such as biology, mathematics, philosophy, or physics.
+* PAPER SUBMISSION
+  THE PROGRAM COMMITTEE cordially invites all researchers, European and non-European, to submit their papers in all areas related to the above for presentation at the conference and inclusion in the proceedings of CiE 2024 at https://equinocs.springernature.com/service/CiE2024
+* CONFERENCE PROCEEDINGS
+  Papers to be considered in the conferences proceedings must be submitted in PDF format, using the LNCS style (available at https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and must have a maximum of 12 pages, including references but excluding a possible appendix in which one can include proofs and other additional material. Papers building bridges between different parts of the research community are particularly welcome.
+* INFORMAL PRESENTATIONS
+  Continuing the tradition of past CiE conferences, we invite researchers to present informal presentations of their recent work. A proposal for an informal presentation must be submitted via e-mail (e.pimentel@ucl.ac.uk), using the LNCS style file (available at https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines), and be 1 page long; a brief description of the results suffices and an abstract is not required. Informal presentations will not be published in the LNCS conference proceedings. Results presented as informal presentations at CiE 2024 may appear or may have appeared in other conferences with formal proceedings and/or in journals.
+
+ 
+
+
+ACT / MFPS 2024: 7th International Conference on Applied Category Theory and 40th Conference on Mathematical Foundations of Programming Semantics
+  Jun 17-21, 2024
+  Oxford, UK
+  https://oxford24.github.io/
+CALL FOR PAPERS
+* DEADLINES
+  -dh Conference submission: 29 March 2024
+* Programme chairs: 
+  - David Jaz Myers, Michael Johnson (ACT)
+  - Valeria de Paiva, Alex Simpson (MFPS)
+* Local organization:
+  - Sam Staton (Oxford) and others. 
+
+
+
+
+
+
+PHD POSITION IN MARSEILLE
+JOB ANNOUNCEMENT
+* ABOUT THE POSITION
+  - Fully funded 3-year PhD position in theoretical computer science (automata theory, logic, games)
+  - With Karoliina Lehtinen and Benjamin Monmege in MoVe team, LIS, Aix-Marseille Univ, Marseille, France
+  - Flexible starting date in 2024.
+  - For details and applications see https://lehtinenkaroliina.wordpress.com/open-phd-position/
+  -dh Application deadline: Feb 28 2024 
+
+
+
+PhD or Postdoc position at TU Wien, Project TAIGER: Training and Guiding AI Agents with Ethical Rules
+  TU Wien, Faculty of Informatics, Vienna
+JOB ANNOUNCEMENT
+ * The research group Trustworthy Cyber-Physical Systems of the Vienna University of Technology is seeking a candidate for a PhD research position (four years, 30hours/week) or a postdoctoral research position (two years, 40hours/week), starting as soon as possible.
+  The successful applicant will carry out his/her postdoc/PhD in the research area of formal methods applied to guide autonomous agents based on reinforcement learning. The position is in the context of the research project TAIGER: Training and Guiding AI Agents with Ethical Rules, aiming at designing autonomous agents sensitive to (ethical, legal and social) norms.
+  For information on the specific requirements for the PhD or Postdoc position as well as information on salary and how to apply, please visit below website:
+  https://www.vcla.at/2023/12/phd-postdoc-position-project-taiger/
+  https://taiger.logic.at/
+
+ 
+
+
+
