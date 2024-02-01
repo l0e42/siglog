@@ -8,7 +8,7 @@ try:
 	print(arg1)
 	import glob, os
 	file = [x for x in glob.glob("editions/" + arg1 + "*.txt")]
-	print(file[0])
+	#print(file[0])
 except:
 	print("No argument, or file not found")
 	exit()
@@ -102,7 +102,7 @@ def miniul(current,data):
 
 	else:
 		print("not a UL")
-		print(data)
+		#print(data)
 		exit()
 
 def extractDate(right):
@@ -180,7 +180,7 @@ def date(current,data):
 
 	else:
 		print("not a UL")
-		print(data)
+		#print(data)
 		exit()
 
 def isUL(current):
@@ -337,6 +337,6 @@ document['dates'] = ul
 
 
 
-pprint(document)
+#pprint(document)
 pickle.dump(document, open( "save.p", "wb" ) )
 

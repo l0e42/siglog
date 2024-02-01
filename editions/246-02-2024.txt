@@ -1,0 +1,192 @@
+-dd February 01, 2024
+
+ -dM COORDINATION 2024:	Feb 02, 2024 (Abstract), Feb 09, 2024 (Paper)
+ -dM FSCD 2024:	Feb 05, 2024 (Abstract), Feb 12, 2024 (Paper)
+ -dM ETAPS TEST OF TIME AWARD: Feb 05 2024 (Nominations)
+ -dM CiE 2024:	Feb 10, 2024 (Article), May 15, 2024 (Informal presentations)
+ -dM ICALP 2024:	Feb 14, 2024 (Paper)
+ -dM ICGT 2024:	Feb 20, 2024 (Abstract, Corrected), Feb 27, 2024 (Paper, Corrected)
+ -dM PHD POSITION IN MARSEILLE:	Feb 28, 2024 (Application deadline)
+ -dM AiML 2024:	Mar 08, 2024 (Abstract), Mar 15, 2024 (Full papers)
+ -dM ACT / MFPS 2024:	Mar 29, 2024 (Conference)
+ -dM PHD AND POSTDOC POSITIONS AT UNIVERSITY OF WARSAW: May 31, 2024 (Applications)
+
+
+LMW@CSL 2024: Logic Mentoring Workshop
+  Naples, Italy 23 February 2024 
+  https://logic-mentoring-workshop.github.io/csl24/
+  Co-located with Computer Science Logic (CSL) 2024
+  Registration at https://csl2024.github.io/Home/#registration
+CALL FOR PARTICIPATION -s SIGLOG MATTER
+* The Logic Mentoring Workshop introduces young researchers to the technical and practical aspects of a career in logic research. It is targeted at students, from senior undergraduates to doctoral students, and will include tutorials and plenary talks as well as a panel discussion, where experienced researchers from the field answer career-related questions from the audience.
+  The workshop will be an on-site event, co-located with the Computer Science Logic conference (CSL’24, https://csl2024.github.io/Home/). Attending CSL is not a prerequisite to attend LMW, but it is encouraged. 
+* SPEAKERS AND PANELLISTS
+  - Matteo Acclavio (University of Southern Denmark)
+  - Laura Fontanella (Paris-East Créteil University)
+  - Iris van der Giessen (University of Birmingham)
+  - Luisa Herrmann (TU Dresden)
+  - Antoine Mottet (Hamburg University of Technology)
+  - Isabel Oitavem (NOVA University Lisbon)
+  - Paolo Pistone (University of Bologna)
+  - Maaike Zwart (IT University of Copenhagen)
+* PROGRAM
+  The detailed program will be at https://logic-mentoring-workshop.github.io/csl24/ closer to the workshop.
+* CSL BUDDY
+  Is this the first conference you will attend in person? We have all been there. You might not feel comfortable if you don't know anyone. Join our Buddy Program, and we will help you to get in touch with another mentoring workshop attendee. Every newcomer will be assigned either a more experienced peer or another newcomer, so you are not alone. For those who are not attending a conference for the first time, being a buddy is a way for you to help the community to grow and introduce less experienced students to the field. If you are interested, write an email to steffen.van.bergerem@hu-berlin.de.
+* TRAVEL SUPPORT
+  Students (undergrad, master's, and PhD alike) can apply to have their costs (some or all) covered by our sponsors, the National Science Foundation (NSF) and SIGLOG. 
+  -dh Deadline: February 11th 2024 
+  applications are accepted after that date if funds allow. Apply at: https://forms.gle/uMQrcQndn3oXCpRu7
+
+
+ETAPS Test of Time Award
+CALL FOR NOMINATIONS
+* The ETAPS Test of Time Award, instituted 2017, recognizes outstanding papers published more than 10 years in the past in one of the constituent conferences of ETAPS. The Award recognises the impact of excellent research results that have been published at ETAPS. The Test of Time Award is selected by an Award Committee consisting of a representative of each of the constituent ETAPS conferences, the ETAPS Steering Committee Chair, the General Chair of the current ETAPS, and a Chair appointed by the ETAPS Steering Committee Chair.
+  The Award Committee is expected to select 1–2 papers each year. It may choose to select no paper in a given year. The winners of the ETAPS Test of Time Award receive a recognition plaque at ETAPS and a cash award of 1200€ which is shared among the authors. A paper can receive the ETAPS Test of Time Award only once.
+* Nominations 
+  Nominations for the 2024 ETAPS Test of Time Award are solicited from the ETAPS community. A nomination should include the title and publication details of the nominated paper, explain the influence it has had since publication, and why it merits the award. The nomination should phrase it in terms that are understandable by the members of the award committee and suitable for use in the award citation and should be endorsed by at least 2 people other than the person submitting nomination. Self-nominations are not allowed.
+  Nominations should be sent by Monday 5 February 2024 to the chair of the award committee, Don Sannella <dts@inf.ed.ac.uk>.
+* Award Committee
+  Luis Caires, Rance Cleaveland, Ugo Dal Lago, Marieke Huisman, Peter Ryan, Don Sannella (chair), and Gabriele Taentzer.
+
+
+
+DisCoTec 2024: 19th International Federated Conference on Distributed Computing Techniques
+  June 17-21, 2024 Groningen, The Netherlands
+  https://www.discotec.org/2024
+CALL FOR SATELLITE EVENTS (WORKSHOPS / TUTORIALS)
+* DisCoTec is one of the major events sponsored by the International Federation for Information Processing (IFIP) and the European Association for Programming Languages and Systems (EAPLS). DisCoTec 2024 will gather three main conferences (COORDINATION, DAIS, FORTE) that cover a broad spectrum of distributed computing subjects. Researchers and practitioners are invited to submit proposals for satellite events (workshops and tutorials) to be affiliated to DisCoTec 2024. We welcome proposals on topics related to distributed systems: from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches. In the past, DisCoTec has been accompanied by successful workshops and tutorials on a variety of emerging topics in distributed computing; please browse the pages of previous editions of DisCoTec to have an idea of past satellite events. The satellite events (tutorials and workshops) will be held on Monday, June 17, 2024 and on Friday, June 21, 2024. 
+* FORMAT FOR PROPOSALS
+  Proposals of satellite events should include:
+  - The name and the preferred date of the proposed satellite event (June 17 or 21, 2024);
+  - A short description of the satellite event (up to 300 words);
+  - If applicable, a description of past editions of the satellite event, including dates, organizers, submission and acceptance counts, and attendance; 
+  - For tutorials: the DisCoTec conference most related to the proposed tutorial (COORDINATION, DAIS, FORTE);
+  - The expected number of participants;
+  - The name and short CV of the organizer(s);
+  - For workshops: the publication plan (only invited speakers, no published proceedings, pre-/post-proceedings published with EPTCS/ENTCS/...).
+* The DisCoTec 2024 organization offers:
+ - a link from the DisCoTec 2024 web site;
+ - setup of meeting space and related equipment;
+ - coffee-breaks and lunch for the participants on the day of the satellite event;
+ - on-line registration for participants to the satellite event;
+ - one free registration to the satellite event (for one invited speaker or one organizer).
+* IMPORTANT DATES:
+ -dh Proposal submission: Monday, February 12, 2024 
+ -d Notification of accepted satellite events: Friday, March 1st, 2024.
+  but we would like to hear about prospective proposals as soon as possible. 
+* HOW TO APPLY:
+  Please send your proposals to the workshops and tutorials co-chairs:
+ - Dan Frumin (d.frumin@rug.nl)
+ - Claudio A. Mezzina (claudio.mezzina@uniurb.it)
+
+
+
+
+                            
+
+
+
+ETAPS 2024: 27th European Joint Conferences on Theory and Practice of Software
+  Early registration deadline is 6 March 2024.
+  Luxembourg City, Luxembourg, 6-11 April 2024
+  https://etaps.org/2024
+CALL FOR PARTICIPATION
+* ABOUT ETAPS 
+  ETAPS is the primary European forum for academic and industrial researchers working on topics relating to software science. ETAPS, established in 1998, is a confederation of four annual conferences accompanied by satellite workshops. ETAPS 2024 is the twenty-seventh event in the series. 
+* Why choose ETAPS?
+  - ETAPS is one of the world's leading fora for research on software science, with a history of more than 25 years.
+  - The proceedings of ETAPS appear in gold open access, with no article processing charge for the authors specifically.
+  - All constituent conferences provide artifact evaluation.
+  - In addition to the conference, ETAPS also unites the software science community with activities such as a blog on software science, a PhD workshop, and sessions on diversity and inclusion.
+* What is new in 2024? 
+  - New submission categories at ESOP - "Experience reports" and "Fresh perspectives"
+  - Alignment of the artifact evaluation process of the different conferences.
+* MAIN CONFERENCES (8-11 April 2024)
+   - ESOP: European Symposium on Programming (PC chair: Stephanie Weirich, University of Pennsylvania, USA)
+   - FASE: Fundamental Approaches to Software Engineering (PC chairs: Dirk Beyer, LMU Munich, Germany, Ana Cavalcanti, University of York, UK)
+   - FoSSaCS: Foundations of Software Science and Computation Structures (PC chairs: Naoki Kobayashi, The University of Tokyo, Japan James Worrell, University of Oxford, UK)
+   - TACAS: Tools and Algorithms for the Construction and Analysis of Systems (PC chairs: Bernd Finkbeiner, CISPA, Germany, Laura Kovacs, TU Wien, Austria)
+* DATES
+  -dh Early registration: 6 March 2024.
+* INVITED SPEAKERS 
+ Keynote speakers:
+   - Lars Birkedal, Aarhus University
+   - Sandrine Blazy, University of Rennes
+   - Jerome Leroux, Laboratoire Bordelais de Recherche en Informatique
+   - Ruzica Piskac, Yale University
+  Tutorial speakers:
+   - Tamar Sharon, Radboud University
+   - David Monniaux, Verimag
+* SATELLITE EVENTS (6-7 April 2024)
+  A number of satellite workshops and other events will take place during the weekend before the main conferences.
+
+
+HIGHLIGHTS 2024: Highlights of Logic, Games and Automata
+  Bordeaux, France, 16-20 September 2024 (in person when possible) 
+  Joint with AUTOMATHA’24 and HCRW
+CALL FOR PRESENTATIONS AND PARTICIPATION
+* HIGHLIGHTS’24 and AUTOMATHA’24 are jointly scheduled from September 16 to September 20, 2024 at the University of Bordeaux, France, in LaBRI. They will be followed by the Highlights Collaborative Research Week (HCRW), from September 21 to 27, 2024.
+* HIGHLIGHTS’24 is the twelfth in the series of international conferences “Highlights of Logic, Games and Automata”, aiming at integrating the community working in algorithmic model theory, automata theory, databases, games for logic and verification, logic and verification. Papers from these areas are dispersed across many conferences, which makes them difficult to follow. A visit to the HIGHLIGHTS conference should offer a wide picture of the latest research in the field and a chance to meet everybody in the community, not just those who happen to publish in one particular proceedings volume. There are no publications.
+  AUTOMATHA’24 will be the second AutoMathA conference, after the one organised in 2015, which was itself the continuation of a European research project that terminated in 2010. The conference AutoMathA 2024 will survey a wide picture of research in automata theory and related mathematical fields. It will consist of invited lectures which describe significant progress over the past years, and will be a meeting point for both young and senior researchers to learn and to discuss automata theory, its connections with mathematics and its applications.
+* HIGHLIGHTS’24 key features:
+  HIGHLIGHTS is a conference without publications, where speakers give short presentations of their best work. It is colocated with AUTOMATHA’24, a conference featuring invited talks on mathematical aspects of automata theory. A chat of the conference is available during the event, and throughout the year. There is an early round of submissions and notifications to help with travel planning. The Highlights’ Collaborative Research Week (HCRW) offers means for research collaborations/discussions between participants. HCRW is scheduled after the conference. The Highlights Extended Stay Support Scheme (HESSS) helps participants find collaborators and organise visits in the vicinity of HIGHLIGHTS. Highlights has now an environmental chair, Antoine Amarilli, in charge of assessing the carbon footprint of the event. We encourage you to attend and present your best work - be it already published or not - at HIGHLIGHTS’24. 
+* SCOPE
+  Representative areas include, but are not restricted to:
+  - Algebraic models of computation
+  - Algorithmic model theory
+  - Automata theory
+  - Databases
+  - Games for logic and verification
+  - Logic
+  - Verification
+* IMPORTANT DATES AND INFORMATION
+  Registration to the chat of the conference at https://highlights-conference.org/2024/zulip (no need if you did it last year)
+  HIGHLIGHTS’24 webpage: https://highlights-conference.org/2024/
+  HCRW page: https://highlights-conference.org/2024/hcrw
+  HESSS page: https://highlights-conference.org/2024/hesss
+  -dh Early submission: April 15, 2024
+  -d Early notification: April 26, 2024
+  -dh Regular submission: June 17, 2024
+  -d Regular notification: June 28, 2024
+  -dv Conference: Sep 16-20, 2024.
+  -dv Highlights’ Collaborative Research Weak (HCRW): Sep 21-27, 2024.
+* SUBMISSIONS AND GUIDELINES
+  Submission information can be found here: https://highlights-conference.org/2024/
+* HIGHLIGHTS’ COLLABORATIVE RESEARCH WEEK (HCRW)
+  HIGHLIGHTS’24 will be followed by the Highlights’ Collaborative Research Week (HCRW), from September 21 to 27 (including the weekend) at the University of Bordeaux. Participants to HCRW are free to organise any scientific activity they wish. It is up to you to decide what this week should be. Possibilities can be to meet someone in particular and work together, organise or attend a seminar/workshop/reading group, gather for solving open problems, solicit, offer and participate in a lecture. Working spaces will be provided on site for these activities to take place. We encourage participants to register and offer activities in advance.
+  HCRW webpage: https://highlights-conference.org/2024/hcrw If you intend to participate to HCRW, post it on the zulip stream. To offer suggest or solicit activities: post your proposals on the dedicated zulip stream. HIGHLIGHTS EXTENDED STAY SUPPORT SCHEME (HESSS) The HESSS is an incentive for collaborations between participants of the conference and researchers working in research groups reachable by train from the conference location. The objective is to foster interactions with low carbon footprint. The mechanism is as follows:
+  Research groups willing to participate in the scheme are/will be listed on the webpage: https://highlights-conference.org/2024/hcrw. These groups are offering to fund collaborations between HIGHLIGHTS participants and their members. The pair of a HIGHLIGHTS participant and a member of a listed research group submit a proposal, which takes the form of an email containing names, period of collaboration, and a sentence describing the planned activity. It has to be sent to the HESSS contact person of the research unit (better through zulip). The decision of acceptance is up to the research group. In particular, it may be subject to scientific scope, number of requests, or e.g., favouring distant participants. The only strict rule is that the visit should be around HIGHLIGHTS, and no airplane should be taken by the visitor to travel from HIGHLIGHTS to the visit location. Research groups interested in participating in the program should contact Thomas Colcombet (through Zulip).
+
+
+
+
+POSITIONS AT UNIVERSITY OF WARSAW
+JOB ANNOUNCEMENT
+* The Faculty of Mathematics, Informatics and Mechanics of the University of Warsaw (MIM UW) invites applications for the positions of Assistant Professor in Computer Science, starting on 1st October 2024 or 1st February 2025.
+  MIM UW is one of the leading computer science faculties in Europe. It is known for talented students (e.g., two wins and multiple top tens in the ACM International Collegiate Programming Contest) and strong research teams, especially in algorithms, logic and automata, and computational biology. There is also a growing number of successful smaller groups in diverse areas including cryptography, databases and knowledge representation, distributed systems, game theory, and machine learning. Seven ERC grants in computer science are running at MIM UW at the moment.
+  In the current call, 9 positions are offered (follow the links for more details):
+  - Samuel Eilenberg Assistant Professor (4 positions; reduced teaching load and increased salary),
+  - Assistant Professor (4 positions),
+  - Assistant Professor - Teaching (1 position).
+  -dh Application deadline: 12th February 2024.
+* For further information about the procedure, requirements, conditions, etc., please contact Lukasz Kowalik (kowalik@mimuw.edu.pl) or Filip Murlak (fmurlak@mimuw.edu.pl).
+
+
+
+
+
+PHD AND POSTDOC POSITIONS AT UNIVERSITY OF WARSAW
+JOB ANNOUNCEMENT
+*  The ERC Consolidator Grant BUKA (Limits of Structural Tractability) is offering 2 Postdoc and 2 PhD positions at the University of Warsaw. The goal of the project is to systematically explore the tractability limit of computational problems related to logic and structural graph theory. The project is led by Szymon Toruńczyk. The project website is https://sites.google.com/view/buka-project/ (see below for a description).
+  We are looking for highly motivated and creative candidates. The applicants should have a strong background in at least one of the following fields: structural graph theory, algorithms and complexity, finite model theory, or model theory.
+  The starting date of the grant is the 1st of October 2024, but applications will be considered until the positions are filled. For full consideration, we encourage applicants to express their interest by May 31st, 2024. 
+  The duration of the PhD positions will be 4 years, and the duration of the Postdoc position will be up to 2 years. The positions come with a very good salary and carry no teaching load; however, if desired participation in teaching might be arranged. There is a generous travel budget.
+* Description of BUKA 
+  The area of the project lies at the interface of algorithmic and finite model theory, structural graph theory, and model theory. The goal is systematically explore fixed-parameter tractability of the model checking problem for first-order logic for restricted classes of graphs. 
+  On the one hand, this topic is closely related to concepts studied in structural graph theory – such as classes of bounded treewidth, cliquewidth, twin-width, or nowhere dense classes – and in combinatorics – such as the Erdős-Hajnal property, χ-boundedness, VC-dimension, regularity. On the other hand, it is closely related to concepts studied in model theory – such as monadically stable and NIP theories – and in finite model theory – such as locality of first-order logic and query enumeration in database theory. Finally, it is closely related to parameterized complexity theory and algorithms.
+  The project will develop the structure theory for the considered graphs or structures, and will seek efficient algorithms leveraging this structure.
+  One of the main goals of the project is to characterize those hereditary graph classes, for which the model checking problem for first-order logic is fixed-parameter tractable. See https://sites.google.com/view/buka-project/ for more details. 
+
+
+

@@ -2,7 +2,7 @@ import dateparser
 import re
 import pickle
 document = pickle.load( open( "save.p", "rb" ) )
-print(document)
+#print(document)
 
 if 'error' in document:
 	exit()
