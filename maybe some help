@@ -1,0 +1,104 @@
+from:las-lics-owner 
+
+python3 process.py "edition number"
+
+
+remove line breaks 
+keep dates from previous call that are not passed :   -dM???
+
+Name 
+two spaces "meta data"
+
+Sections " * name of section in caps" 
+two spaces "content"
+
+
+space space dash space makes list  !!!! 
+
+dates: two spaces-d 
+with -dh isntead adds the info of deadline ot the summary head  MUST ADD COLON
+with dv keeps extra info verbatim, carefull for format (this is good for date ranges etc)
+
+submission: please see full call for submission information "link"
+
+many spaces make new item, no line spaces other wise, always leave line spaces at end
+
+anything directly siglog related goes first. we add -s SIGLOG MATTER (is special category in summary)
+
+
+
+ then calls for papers, then job anouncements, all shorted by deadline
+ there is also category call for nominations, call for participations, book anouncements (carefull category)
+ 
+ go to siglog newsletters, must change html index.html, add new issue, must change edditor. USE FTP, i need user name and passowrd (filexilla), go to newsletters folder, put new index.html there!!! CAREFULL. then add edition 245 etc in same folder. 
+
+python3 html something is the comand to generate. 
+
+python3  jdjjdjdjdj add parameter email to make the email. CHECK GITHUB https://github.com/davidjpurser/siglog maybe fork
+
+must manualy delete top stuff nonsence, must delete
+
+
+must edid script to be only me edditor
+
+FOR EMAIL (maybe thunderbird because it has ability to add HTML) 
+to las-lics etc 
+subject SIGLOG monthly 245
+
+must let email thorugh 
+
+password 
+
+comit to git, tex, html, and email
+script: python tex.py makes latex. Make pdf, put in git, dan will ask and give pdf. 
+
+mirlabs is possible scam
+
+
+carefull for the mail that oe sback to senders, must edit things. 
+
+
+FTP:
+
+Domain: ftp.siglog.hosting.acm.org
+
+Username "lics@lics.siglog.org" (without the quotes)
+
+Password "}eN%OMQ42_E;" (without the quotes)
+
+Try to configure it to automatically jump into the /newsletters directory to avoid mistakes
+
+ 
+
+Mail list administration:
+
+https://lists.tu-berlin.de/mailman/admin/las-lics/general
+
+Password: “azibnipice” (without quortes)
+
+ 
+
+Github: https://github.com/davidjpurser/siglog
+
+(See the readme)
+
+ 
+
+While making the thing I’m running
+
+python3 process.py 245; python3 html.py; open editions/245.html
+
+ 
+
+Then I’m running
+
+python3 html.py email                  
+
+and
+
+python3 tex.py                         
+
+ 
+
+(You need to run process.py again if you make any changes to the plain text file).
+

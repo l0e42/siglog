@@ -1,0 +1,152 @@
+-dd March 01, 2024
+
+ -dM AiML 2024:	Mar 08, 2024 (Abstract), Mar 15, 2024 (Full papers)
+ -dM CLIRAI 2024: Mar 15, 2024 (Paper submission)
+ -dM ACT / MFPS 2024: Mar 29, 2024 (Conference)
+ -dM GÖDEL PRIZE 2024: Apr 12, 2024
+ -dM FM 2024: Apr 15th, 2024 (Abstracts), Apr 19, 2024 (Full papers)
+ -dM WADT 2024: Apr 15, 2024 (Abstracts), Sep 16, 2024 (Full papers)
+ -dM SUMMER SCHOOL ON FORMAL TECHNIQUES 2024: Apr 30, 2024 (Application)
+ -dM CiE 2024:  May 15, 2024 (Informal presentations)
+ -dM PHD AND POSTDOC POSITIONS AT UNIVERSITY OF WARSAW: May 31, 2024 (Applications)
+ 
+ 
+  
+CLIRAI 2024: Computational Linguistics, Information, Reasoning, and AI
+  Special Session: Computational Linguistics, Information, Reasoning, and AI (CLIRAI) (previously: CompLingInfoReasAI) 
+  At 21st International Conference on Distributed Computing and Artificial  Intelligence (DCAI) 2024 University of Salamanca (Spain) 26th-28th June, 2024
+  https://www.dcai-conference.net/tracks/special-sessions/clirai
+CALL FOR PAPERS
+* SCOPE
+  Computational and technological developments that incorporate natural language and reasoning methods are proliferating. Adequate coverage encounters difficult problems related to the phenomena of partiality, underspecification, perspectives of agents, and context dependency. These phenomena are signature features of information in nature, natural languages, and reasoning. The session covers theoretical work, applications, approaches, and techniques for computational models of information, language (artificial, human, or natural in other ways), reasoning. The goal is to promote computational systems and related models of language, thought, reasoning, and other related processes.
+* TOPICS, SUBMISSION, AND PUBLICATION
+  For more information on topics and submission guidelines visit https://www.dcai-conference.net/tracks/special-sessions/clirai 
+* IMPORTANT DATES
+  -dh Submission deadline: 15th March, 2024
+  -d Notification of acceptance: 26th April, 2024
+  -d Camera-Ready papers: 17th May, 2024
+  -dv Conference:  June 26-28, 2024.
+ 
+ 
+ 
+FM 2024: International Symposium on Formal Methods
+  Politecnico di Milano, Milan, Italy
+  9-13 September 2024
+  https://www.fm24.polimi.it
+CALL FOR PAPERS
+* FM 2024 is the 26th international symposium on Formal Methods in a series organized by Formal Methods Europe (FME). FM 2024 features regular papers, tutorial papers, an industry day, an embedded systems track and more. The conference proceedings will be published OPEN ACCESS by Springer in the LNCS series, as part of the FM subline.
+* IMPORTANT LINKS
+  - Research track (including Embedded Systems track): https://www.fm24.polimi.it/?page_id=200
+  - Tutorial Papers track: https://www.fm24.polimi.it/?page_id=310
+  - Industry Day track: https://www.fm24.polimi.it/?page_id=402
+  - Submission site: https://easychair.org/conferences/?conf=fm24
+* KEYNOTE SPEAKERS
+  - David Basin, ETH Zurich
+  - Hadas Kress-Gazit, Cornell University
+  - Marta Kwiatkowska, University of Oxford
+* IMPORTANT DATES
+  -dh Abstract Submission: April 15th, 2024
+  -dh Full Paper Submission: April 19th, 2024
+  -d Paper Notification: June 10th, 2024
+  -d Final Version: July 1st, 2024
+  -dv Conference: Sep 9-13, 2024 
+  
+  
+  
+ 
+WADT 2024 - 27th International Workshop on Algebraic Development Techniques
+  Enschede, the Netherlands
+  https://conf.researchr.org/home/wadt-2024
+  Part of the STAF 2024 multi-conference
+  Mon 8 – Fri 12 July 2024
+CALL FOR PAPERS
+* AIMS AND SCOPE
+  The algebraic approach to system specification encompasses many aspects of the formal design of software systems. Originally born as a formal method for reasoning about abstract data types, it now covers new specification frameworks and programming paradigms (such as object-oriented, aspect-oriented, agent-oriented, logic and higher-order functional programming) as well as a wide range of application areas (including information systems, concurrent, distributed and mobile systems). The workshop will provide an opportunity to present recent and ongoing work, to meet colleagues, and to discuss new ideas and future trends.
+* TOPICS OF INTEREST 
+  Typical, but not exclusive topics of interest are: 
+  - Foundations of algebraic specification 
+  - Other approaches to formal specification, including process calculi and models of concurrent, distributed, and cyber-physical systems
+  - Specification languages, methods, and environments
+  - Semantics of conceptual modelling methods and techniques
+  - Model-driven development
+  - Graph transformations, term rewriting, and proof systems
+  - Integration of formal specification techniques
+  - Theorem-proving technologies and integration with specification languages
+  - Formal testing and quality assurance, validation, and verification
+  - Algebraic approaches to knowledge representation and cognitive sciences
+* WORKSHOP FORMAT AND LOCATION
+  The workshop will be part of the STAF 2024 multi-conference at Twente, the Netherlands. Presentations will be selected on the basis of submitted abstracts.
+* IMPORTANT DATES
+  -dh Abstract submission: 15 Apr 2024 
+  -d Abstract notification: 29 Apr 2024 
+  -dh Full-paper submission: 16 Sep 2024
+  -d Full-paper notification: 25 Nov 2024
+* SUBMISSIONS 
+  The scientific programme of the workshop will include presentations of recent results or ongoing research as well as invited talks. The presentations will be selected by the Programme Committee on the basis of submitted abstracts according to originality, significance and general interest. Abstracts must not exceed two pages, including references, in LNCS format. If a longer version of the contribution is available, it can be made accessible on the web and referenced in the abstract.
+  The abstracts will have to be submitted electronically via EasyChair at https://easychair.org/conferences/?conf=staf2024.
+* PROCEEDINGS
+  After the workshop, authors will be invited to submit full papers for the refereed proceedings. All submissions will be reviewed by the Programme Committee. The selection of papers will be based on originality, soundness, and significance of the presented ideas and results. The post-proceedings will then be published by Springer as a volume of Lecture Notes in Computer Science.
+* SPONSORSHIP 
+  The workshop takes place under the auspices of IFIP WG 1.3.
+  
+ 
+ 
+
+
+GÖDEL PRIZE 2024 
+  Deadline: April 12, 2024
+CALL FOR NOMINATIONS 
+* The Gödel Prize for outstanding papers in the area of theoretical computer science is sponsored jointly by the European Association for Theoretical Computer Science (EATCS) and the Association for Computing Machinery, Special Interest Group on Algorithms and Computation Theory (ACM SIGACT). The award is presented annually, with the presentation taking place alternately at the EATCS International Colloquium on Automata, Languages, and Programming (ICALP) and the ACM Symposium on Theory of Computing (STOC). The 32nd Gödel Prize will be awarded at the 51st International Colloquium on Automata, Languages and Programming (ICALP) in Tallinn, Estonia, July 8-12, 2024.
+* AWARD COMMITEE
+  The 2024 Award Committee consists of Mikołaj Bojańczyk (University of Warsaw), Irit Dinur (Weizmann Institute), Yuval Ishai (Technion), Anca Muscholl (University of Bordeaux, chair), Tim Roughgarden (Columbia University), and Luca Trevisan (Bocconi University).
+* ELIGIBILITY
+  The 2024 Prize rules are given below and they supersede any different interpretation of the generic rule to be found on websites of both SIGACT and EATCS. Any research paper or series of papers by a single author or by a team of authors is deemed eligible if:
+* The main results were not published (in either preliminary or final form) in a journal or conference proceedings before January 1st, 2011. - The paper was published in a recognized refereed journal no later than December 31, 2023.
+* The research work nominated for the award should be in the area of theoretical computer science. Nominations are encouraged from the broadest spectrum of the theoretical computer science community so as to ensure that potential award winning papers are not overlooked. The Award Committee shall have the ultimate authority to decide whether a particular paper is eligible for the Prize.
+* NOMINATION GUIDELINES
+  Applications should be submitted by email to the Award Committee Chair: anca.muscholl@u-bordeaux.fr. Please make sure that the Subject line of all nominations and related messages begin with “Goedel Prize 2024.”
+  -dh Deadline: April 12, 2024.
+* A nomination package should include: 1. A printable copy (or copies) of the journal paper(s) being nominated, together with a complete citation (or citations) thereof. 2. A statement of the date(s) and venue(s) of the first conference or workshop publication(s) of the nominated work(s) or a statement that no such publication has occurred. 3. A brief summary of the technical content of the paper(s) and a brief explanation of its significance. 4. A support letter or letters signed by at least two members of the scientific community. Additional support letters may also be received and are generally useful. The nominated paper(s) may be in any language. However, if a nominated publication is not in English, the nomination package must include an extended summary written in English. Those intending to submit a nomination should contact the Award Committee Chair by email well in advance. The Chair will answer questions about eligibility, encourage coordination among different nominators for the same paper(s), and also accept informal proposals of potential nominees or tentative offers to prepare formal nominations. The committee maintains a database of past nominations for eligible papers, but fresh nominations for the same papers (especially if they highlight new evidence of impact) are always welcome. Selection Process: The Award Committee is free to use any other sources of information in addition to the ones mentioned above. It may split the award among multiple papers, or declare no winner at all. All matters relating to the selection process left unspecified in this document are left to the discretion of the Award Committee.
+ 
+ 
+THIRTEENTH SUMMER SCHOOL ON FORMAL TECHNIQUES 2024 
+  Menlo College, Atherton, California
+  May 25 - June 3, 2024 
+  http://fm.csl.sri.com/SSFT24
+CALL FOR PARTICIPATION
+* Techniques based on formal logic, such as model checking, satisfiability, static analysis, and automated theorem proving, are finding a broad range of applications in modeling, analysis, verification, and synthesis. This school, the thirteenth in the series, focuses on the principles and practice of formal techniques, with a strong emphasis on the hands-on use and development of this technology. It primarily targets graduate students and young researchers who are interested in studying and using formal techniques in their research. A prior background in formal methods is helpful but not required. Participants at the school can expect to have a seriously fun time experimenting with the tools and techniques presented in the lectures during the laboratory sessions. The main lectures run from Monday May 27 to Fri May 31. They are preceded by a background course "Speaking Logic" taught by Natarajan Shankar and Stephane Graham-Lengrand (SRI CSL) on May 25/26. The summer school is immediately followed by a two-day Bootcamp to reinforce some of the skills acquired during the school. Participants in the Bootcamp work with formal tools and techniques (including those taught in this and prior summer school editions) under the supervision of the Bootcamp faculty to create verified artifacts.
+* The lecturers at the school include: Josef Urban (CIIRC): Combining Machine Learning and Theorem Proving; Marsha Chechik (U. Toronto): Elicitation and Formal Reasoning about Normative Requirements; Leonardo de Moura and David Thrane Christiansen: The Lean 4 programming language and theorem prover; Cesare Tinelli (U. Iowa): Modeling and analyzing reactive systems with logic-based symbolic model checkers; Armando Solar-Lezama (MIT): Neurosymbolic Programming for better learning. The program also includes invited talks from distinguished speakers (to be announced).
+* This year, the school/bootcamp will take place in a hybrid mode: the lectures and labs will be live-streamed and recorded. We strongly encourage in-person participation so that you can benefit from interactions outside the classroom. We have funding from NSF to cover transportation/food/lodging expenses for selected US-based students. Non-student and non-US in-person participants are expected to cover their own transportation and will be charged a fee (around $150/day) to cover the cost of food and lodging.
+* The registration link is at the URL: http://fm.csl.sri.com/SSFT24. Applications should be submitted together with names of two references (preferably advisors, professors, or senior colleagues). Applicants are urged to submit their applications as early as possible (no later than April 30, 2024), since there are only a limited number of spaces available. Those needing invitation letters for visa purposes are encouraged to complete their applications as early as possible. We strongly encourage the participation of women and under-represented minorities in the summer school.
+* DEADLINE
+  -dh Deadline: April 30, 2024
+  
+  
+  
+  
+  
+MASTERS IN PURE AND APPLIED LOGIC, BARCELONA 2004-2006
+  University of Barcelona, Spain
+CALL FOR PARTICIPATION
+* The 2024-2026 edition of the two-year Master in Pure and Applied Logic jointly organized by the University of Barcelona (UB) and the Polytechnical University of Catalunya (UPC) is now open for pre-registration. Most central aspects of advanced logic are covered, including Computability Theory, Model Theory, Non-Classical Logics, Proof Theory, and Set Theory.
+* Students who are confident that this is the best master for their interests and career are encouraged to apply directly. You can also express your interest informally by sending a message explaining your background, motivation, and CV to the email address masterlogic@ub.edu. The master coordination will help you evaluate your chances to get accepted and the adequacy of the master given your interests and plans.
+* MORE INFO 
+  - Information on the Masters program: http://www.ub.edu/masterlogic/ https://www.ub.edu/web/ub/en/estudis/oferta_formativa/master_universitari/fitxa/P/M0C0D/index.html?
+  - Past theses: http://diposit.ub.edu/dspace/handle/2445/133559
+  - Information for students: http://www.joostjjoosten.nl/events/Documents/MasterGuide.pdf
+  - For further questions please contact masterlogic@ub.edu
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
