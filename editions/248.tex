@@ -1,0 +1,342 @@
+
+% v2-acmsmall-sample.tex, dated March 6 2012
+% This is a sample file for ACM small trim journals
+%
+% Compilation using 'acmsmall.cls' - version 1.3 (March 2012), Aptara Inc.
+% (c) 2010 Association for Computing Machinery (ACM)
+%
+% Questions/Suggestions/Feedback should be addressed to => "acmtexsupport@aptaracorp.com".
+% Users can also go through the FAQs available on the journal's submission webpage.
+%
+% Steps to compile: latex, bibtex, latex latex
+%
+% For tracking purposes => this is v1.3 - March 2012
+\documentclass[prodmode,acmtecs]{acmsmall} % Aptara syntax
+\usepackage[spanish,polish]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{fancyvrb}
+\usepackage{graphicx,hyperref}
+\newcommand\cutout[1]{}
+
+
+\usepackage[table]{xcolor}
+\usepackage[utf8]{inputenc}
+\usepackage[parfill]{parskip}
+\usepackage{tabulary}
+\PassOptionsToPackage{hyphens}{url}
+\usepackage{hyperref}    
+\usepackage[capitalize]{cleveref}
+
+
+% Metadata Information
+% !!! TODO: SET THESE VALUES !!!
+\acmVolume{0}
+\acmNumber{0}
+\acmArticle{CFP}
+\acmYear{0}
+\acmMonth{0}
+
+\newcounter{colstart}
+\setcounter{page}{4}
+
+\RecustomVerbatimCommand{\VerbatimInput}{VerbatimInput}%
+{
+%fontsize=\footnotesize,
+fontfamily=\rmdefault
+}
+
+
+\newcommand{\UnderscoreCommands}{%\do\verbatiminput%
+\do\citeNP \do\citeA \do\citeANP \do\citeN \do\shortcite%
+\do\shortciteNP \do\shortciteA \do\shortciteANP \do\shortciteN%
+\do\citeyear \do\citeyearNP%
+}
+
+\usepackage[strings]{underscore}
+
+
+
+% Document starts
+\begin{document}
+
+
+\setcounter{colstart}{\thepage}
+
+\acmArticle{CFP}
+\title{{\huge\sc SIGLOG Monthly 248}
+
+ April 2024}
+\author{ELLI ANASTASIADI\affil{UPPSALA UNIVERSITY, SE}
+\vspace*{-2.6cm}\begin{flushright}\includegraphics[width=30mm]{ea}\end{flushright}
+}
+
+
+\begin{abstract}
+April 2024 edition of SIGLOG Monthly, featuring deadlines, calls and community announcements.
+\end{abstract}
+
+
+\maketitlee
+
+\href{https://lics.siglog.org/newsletters/}{Past Issues}
+ - 
+\href{https://lics.siglog.org/newsletters/inst.html}{How to submit an announcement}
+\section{Table of Content}\begin{itemize}\item DEADLINES (\cref{deadlines}) 
+ 
+\item CALLS 
+ 
+\begin{itemize}\item GandALF 2024 (CALL FOR PAPERS) (\cref{GandALF2024})
+\item SLSS 2024 (CALL FOR ABSTRACTS) (\cref{SLSS2024})
+\item LearnAut 2024 (CALL FOR PAPERS) (\cref{LearnAut2024})
+\item HYPER 2024 (CALL FOR PRESENTATIONS AND PARTICIPATION) (\cref{HYPER2024})
+\item SEFM'24 (CALL FOR PAPERS) (\cref{SEFM24})
+\item NLS 2024 (CALL FOR PARTICIPATION) (\cref{NLS2024})
+\item ILO 2024 (CALL FOR PARTICIPATION) (\cref{ILO2024})
+\end{itemize} 
+\item JOB ANNOUNCEMENTS 
+ 
+\begin{itemize}\item POSTDOC/RESEARCH ASSOCIATE position in modal type theory and secure compilation (\cref{POSTDOCRESEARCHASSOCIATEpositioninmodaltypetheoryandsecurecompilation})
+\end{itemize} 
+\end{itemize}\section{Deadlines}\label{deadlines}\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}GandALF 2024:  & Apr 07, 2024 (Abstract), Apr 10, 2024 (Paper) \\
+SLSS 2024:  & Apr 07, 2024 (Submission deadline) \\
+POSTDOC/RESEARCH ASSOCIATE position in modal type theory and secure compilation:  & Apr 07, 2024 (Application deadline) \\
+GÖDEL PRIZE 2024:  & Apr 12, 2024  (Nominations) \\
+HIGHLIGHTS 2024:  & Apr 15, 2024 (Early), Jun 17, 2024 (Regular) \\
+FM 2024:  & Apr 15, 2024 (Abstracts), Apr 19, 2024 (Full papers) \\
+WADT 2024:  & Apr 15, 2024 (Abstracts), Sep 16, 2024 (Full papers) \\
+ILO 2024:  & Apr 15, 2024 (Registration) \\
+LearnAut 2024:  & Apr 18, 2024 (Submission deadline), Jul 07, 2024 (Workshop) \\
+HYPER 2024:  & Apr 25, 2024 (Submission deadline) \\
+THIRTEENTH SUMMER SCHOOL ON FORMAL TECHNIQUES 2024:  & Apr 30, 2024 (Application deadline) \\
+CiE 2024:  & May 15, 2024 (Informal presentations) \\
+PHD AND POSTDOC POSITIONS AT UNIVERSITY OF WARSAW:  & May 31, 2024 (Applications) \\
+SEFM'24:  & Jun 07, 2024 (Abstract), Jun 14, 2024 (Paper) \\
+\end{tabulary}
+\section{GandALF 2024: Fifteenth International Symposium on Games, Automata, Logics, and Formal Verification}\label{GandALF2024}  Reykjavik University, Iceland\\ 
+  19–21 June 2024 \\ 
+  \href{https://scool24.github.io/GandALF/}{https://scool24.github.io/GandALF/}\\ 
+CALL FOR PAPERS 
+
+\begin{itemize}\item  The Fifteenth International Symposium on Games, Automata, Logics, and Formal Verification (GandALF 24) will be held in Reykjavik (Iceland) on June 19-21, 2024. This year, GandALF is part of the Reykjavik Summer of Cool Logic 2024 (SCooL 2024) and is co-located with the Twelfth Scandinavian Logic Symposium (SLSS 2024) and the Fifth Nordic Logic Summer School (NLS 2024). 
+ 
+\item  The aim of GandALF 2024 is to bring together researchers from academia and industry who are actively working in the fields of Games, Automata, Logics, and Formal Verification. The idea is to cover an ample spectrum of themes, ranging from theory to applications, and stimulate cross-fertilization. Papers focused on formal methods are especially welcome. Authors are invited to submit original research or tool papers on all relevant topics in these areas. Papers discussing new ideas that are at an early stage of development are also welcome. 
+ 
+\item  TOPICS: see \href{https://scool24.github.io/GandALF/}{https://scool24.github.io/GandALF/} and submission instructions see: \href{https://scool24.github.io/SLSS/}{https://scool24.github.io/SLSS/} 
+ 
+\item  The proceedings will be published by Electronic Proceedings in Theoretical Computer Science. Authors of selected papers will be invited to submit a revised version of their work to a special issue of Logical Methods in Computer Science. 
+ 
+\item  The previous editions of GandALF already led to special issues of the International Journal of Foundations of Computer Science (GandALF 2010), Theoretical Computer Science (GandALF 2011 and 2012), Information and Computation (GandALF 2013, 2014, 2016, 2017, 2018, 2019, and 2020), Acta Informatica (GandALF 2015) and Logical Methods in Computer Science (GandALF 2021, 2022, and 2023). 
+ 
+\item  SUBMISSION  
+ 
+  Submitted papers should not exceed 14 pages (excluding references and clearly marked appendices) typeset using EPTCS format (please use the LaTeX style provided at \href{https://style.eptcs.org/}{https://style.eptcs.org/}), be unpublished, and contain original research. For papers reporting experimental results, authors are encouraged to make their data available with their submission. Submissions must be in PDF format and will be handled via easychair at the following address: \href{https://easychair.org/conferences/?conf=gandalf23}{https://easychair.org/conferences/?conf=gandalf23}  
+ 
+\item  IMPORTANT DATES 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Abstract submission:  & Apr 07, 2024 \\
+Paper submission:  & Apr 10, 2024 \\
+Acceptance notification:  & May 10, 2024 \\
+Camera-ready deadline:  & Jun 10, 2024 \\
+Conference dates:  & 19-21 Jun 2024 \\
+\end{tabulary}
+ 
+\item  Co-chairs  
+ 
+\begin{itemize}\item  Antonis Achilleos (Reykjavik University)
+\item  Andrian Francalanza (University of Malta)
+\end{itemize} 
+\end{itemize}\section{SLSS 2024: Twelfth Scandinavian Logic Symposium}\label{SLSS2024}  Reykjavik University, Iceland\\ 
+  14-16 June 2024 \\ 
+  \href{https://scool24.github.io/SLSS/}{https://scool24.github.io/SLSS/}\\ 
+CALL FOR ABSTRACTS 
+
+\begin{itemize}\item  The twelfth Scandinavian Logic Symposium (SLSS 2024) will be held at Reykjavik University, Iceland, during 14-16 June, 2024, under the auspices of the Scandinavian Logic Society. The previous four meetings of the SLSS were held in Bergen in Norway (2022), Gothenburg in Sweden (2018), Tampere in Finland (2014), and Roskilde in Denmark (2012). 
+ 
+\item  The primary aim of the Symposium is to promote research in the field of logic (broadly conceived) carried out in research communities in Scandinavia. Moreover, it warmly invites the participation of logicians from all over the world. The meeting will include invited lectures and a forum for participants to present contributed talks.  
+ 
+\item  For topics and submission instructions see: \href{https://scool24.github.io/SLSS/}{https://scool24.github.io/SLSS/} 
+ 
+\item  Co-chairs 
+ 
+\begin{itemize}\item  Antonios Achilleos (Reykjavik University)
+\item  Dag Westerståhl (Stockholm University, Tsinghua University)
+\end{itemize} 
+\item  Invited Speakers 
+ 
+\begin{itemize}\item  Fausto Barbero (University of Helsinki)
+\item  Sara Negri (University of Genoa)
+\item  Aybüke Özgün (ILLC, University of Amsterdam)
+\end{itemize} 
+\item  IMPORTANT DATES 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Submission deadline:  & Apr 07, 2024 \\
+Notification:  & Apr 30, 2024 \\
+Final programme:  & TBA \\
+Conference:  & Jun 14-16 2024 \\
+\end{tabulary}
+ 
+\end{itemize}\section{LearnAut 2024: Learning and Automata}\label{LearnAut2024}  Tallinn University, Tallinn, Estonia, July 7th\\ 
+  ICALP 2024 workshop\\ 
+  Website: \href{https://learnaut24.github.io/}{https://learnaut24.github.io/}\\ 
+CALL FOR PAPERS 
+
+\begin{itemize}\item  ABOUT  
+ 
+  Learning models defining recursive computations, like automata and formal grammars, are the core of the field called Grammatical Inference (GI). The expressive power of these models and the complexity of the associated computational problems are major research topics within mathematical logic and computer science. Historically, there has been little interaction between the GI and ICALP communities, though recently some important results started to bridge the gap between both worlds, including applications of learning to formal verification and model checking, and (co-)algebraic formulations of automata and grammar learning algorithms. 
+ 
+\item  The aim of this workshop is to bring together experts on logic who could benefit from grammatical inference tools, and researchers in grammatical inference who could find in logic and verification new fruitful applications for their methods. 
+ 
+\item  We invite submissions of recent work, including preliminary research, related to the theme of the workshop. The Program Committee will select a subset of the abstracts for oral presentation. At least one author of each accepted abstract is expected to represent it at the workshop. 
+ 
+\item  SUBMISSION INSTRUCTIONS \& TOPICS 
+ 
+  For topics and submission instructions see: \href{https://learnaut24.github.io/calls.html}{https://learnaut24.github.io/calls.html} .  
+ 
+  Note that accepted papers will be made available on the workshop website but will not be part of formal proceedings (i.e., LearnAut is a non-archival workshop). We do accept submissions of work recently published, currently under review or work-in-progress. 
+ 
+\item  IMPORTANT DATES 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Submission deadline:  & Apr 18, 2024 \\
+Notification of acceptance:  & May 13, 2024 \\
+Early registration:  & May 17 (ICALP) \\
+Workshop:  & Jul 07, 2024 \\
+\end{tabulary}
+ 
+\item  ORGANIZERS 
+ 
+\begin{itemize}\item  Sophie Fortz (King's College London, UK)
+\item  Franz Mayr (Universidad ORT Uruguay, UY)
+\item  Joshua Moerman (Open Universiteit, Heerlen, NL)
+\item  Matteo Sammartino (Royal Holloway, University of London, UK)
+\end{itemize} 
+\end{itemize}\section{HYPER 2024: 3rd Workshop on Hyperproperties: Advances in Theory and Applications}\label{HYPER2024}  Montreal, Canada, co-located with CAV 2024\\ 
+  July 23, 2024 \\ 
+  \href{https://hyperworkshop24.cispa.io/}{https://hyperworkshop24.cispa.io/}\\ 
+  \href{https://easychair.org/my/conference?conf=hyper24}{https://easychair.org/my/conference?conf=hyper24}\\ 
+CALL FOR PRESENTATIONS AND PARTICIPATION 
+
+\begin{itemize}\item  The HYPER workshop aims to bring together researchers interested in the broad area of hyperproperties and working in the areas of formal methods and control, cybersecurity, and machine learning. Presentation proposals shall be submitted in the form of an extended abstract of up to three pages in LNCS format (not including references) via easychair. Submissions can overlap with previously published work and will be judged based on their relevance to the topic of the workshop. The workshop will have no formal proceedings. 
+ 
+\item  Submission link: \href{https://easychair.org/my/conference?conf=hyper24}{https://easychair.org/my/conference?conf=hyper24} 
+ 
+\item  IMPORTANT DATES  
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Submission deadline:  & Apr 25, 2024 \\
+Notification date:  & May 13, 2024 \\
+Workshop:  & Jul 23, 2024 \\
+\end{tabulary}
+ 
+\item  Invited Speakers:  
+ 
+\begin{itemize}\item  Fred Schneider (Cornell University)
+\item  Hagit Attiya (Technion)
+\item  Jana Hofmann (Azure Research)
+\item  Xiang Yin (Shanghai Jiao Tong University)
+\end{itemize} 
+\end{itemize}\section{SEFM'24: 22nd International Conference on Software Engineering and Formal Methods}\label{SEFM24}  University of Aveiro, Portugal\\ 
+  4-8 November 2024\\ 
+  \href{https://sefm-conference.github.io/2024/}{https://sefm-conference.github.io/2024/}\\ 
+CALL FOR PAPERS 
+
+\begin{itemize}\item  ABOUT  
+ 
+  The conference aims to bring together researchers and practitioners from academia, industry and government, to advance the state of the art in formal methods, to facilitate their uptake in the software industry, and to encourage their integration within practical software engineering methods and tools. 
+ 
+\item  SUBMISSION INSTRUCTIONS \& TOPICS   
+ 
+  For topics and submission instructions see: \href{https://sefm-conference.github.io/2024/callforpapers/}{https://sefm-conference.github.io/2024/callforpapers/} . 
+ 
+\item  IMPORTANT DATES  
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Abstract submission:  & 7 June 2024 (AoE) \\
+Paper submission:  & 14 June 2024 (AoE) \\
+Author notification:  & Aug 15, 2024 \\
+Workshops:  & Nov 4-5 2024 \\
+Conference:  & Nov 6-8 2024 \\
+\end{tabulary}
+ 
+\end{itemize}\section{NLS 2024: Fifth Nordic Logic Summer School }\label{NLS2024}  Reykjavik University, Iceland\\ 
+  10-13 June 2024\\ 
+  \href{https://scool24.github.io/NLS/}{https://scool24.github.io/NLS/}\\ 
+CALL FOR PARTICIPATION 
+
+\begin{itemize}\item  The fifth Nordic Logic Summer School is arranged under the auspices of the Scandinavian Logic Society. The four previous schools were organised in Bergen in Norway (2022), Stockholm in Sweden (2017), Helsinki in Finland (2015), and Nordfjordeid in Norway (2013). The intended audience is advanced master students, PhD-students, postdocs and experienced researchers wishing to learn the state of the art in a particular subject. 
+ 
+\item  Programme Committee Co-chairs: 
+ 
+\begin{itemize}\item  Nina Gierasimczuk (DTU Compute) 
+\item  Lauri Hella (Tampere University)
+\end{itemize} 
+\item  Members: 
+ 
+\begin{itemize}\item  Torben Braüner (Roskilde University) 
+\item  Fredrik Engström (University of Gothenburg) 
+\item  Åsa Hirvonen (University of Helsinki) 
+\item  Ana Ozaki (University of Bergen \& University of Oslo)
+\end{itemize} 
+\item  Invited Speakers:  
+ 
+\begin{itemize}\item  Miika Hannula (University of Helsinki)
+\item  Sandra Kiefer (University of Oxford) 
+\item  Greg Restall (University of St Andrews)
+\item  Jandson Ribeiro (Cardiff University)
+\item  Rineke Verbrugge (University of Groningen)
+\end{itemize} 
+\item  Registration info at: \href{https://scool24.github.io/fees/}{https://scool24.github.io/fees/} and \href{https://fienta.com/twelfth-scandinavian-logic-symposium-slss-2024}{https://fienta.com/twelfth-scandinavian-logic-symposium-slss-2024} 
+ 
+\end{itemize}\section{ILO 2024: INTERNATIONAL LOGIC OLYMPIAD}\label{ILO2024}   \href{https://www.logicolympiad.org/}{https://www.logicolympiad.org/}\\ 
+CALL FOR PARTICIPATION 
+
+\begin{itemize}\item  The International Logic Olympiad 2024 (ILO2024) – a world-wide contest on Logic for high school students. 
+ 
+\item  Key Benefits For Students: 
+ 
+\begin{itemize}\item  Academic Achievements: Win cash prize awards and certificates that enhance your academic portfolio
+\item  Cultural Exchange: Engage in global learning experiences and connect with peers worldwide.
+\item  Mentorship Opportunities: Receive guidance from experts in logic and related fields
+\item  Exclusive opportunities for Finalists: Contest finalists are invited to compete on the Stanford University campus. (Includes free tours and activities between final in-person rounds.)
+\end{itemize} 
+\item  Key Benefits For For schools: 
+ 
+\begin{itemize}\item  Global Recognition: Elevate your school’s reputation with international acclaim
+\item  Networking Opportunities: Connect with top educational institutions
+\item  Collaborative Projects: Get invited to cross-border collaborations and initiatives
+\end{itemize} 
+\item  IMPORTANT DATES  
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Registration:  & Apr 15, 2024 \\
+Final Round at Stanford:  & Jul 2024 \\
+\end{tabulary}
+ 
+\end{itemize}\section{POSTDOC/RESEARCH ASSOCIATE position in modal type theory and secure compilation}\label{POSTDOCRESEARCHASSOCIATEpositioninmodaltypetheoryandsecurecompilation}   University of Kent\\ 
+JOB ANNOUNCEMENT 
+
+\begin{itemize}\item  We seek a talented and motivated postdoc/Research associate to join the School of Computing at the University of Kent, Canterbury, UK. The Research Associate will participate in cutting edge research on type-based enforcement and compilation techniques for enforcement of security properties of higher-order programs. The position is on an EPSRC funded project titled ``TYPDSEC: Type-based information declassification and its secure compilation''. The post is based in Canterbury and will be directly supervised by Dr. Vineet Rajani (\href{https://vineetrajani.github.io/}{https://vineetrajani.github.io/}). 
+ 
+\item  The project will be in the intersection of modal type theory, information flow control and secure compilation. It will also involve mechanisation in the HOL4 theorem prover and implementation in the CakeML ecosystem. Applicants should have a strong background in formal methods evidenced by high-quality research publications or artifacts in top-tier venues of programming languages, formal verification or security research. The project will involve close collaboration with Prof. Magnus Myreen (Chalmers). 
+ 
+\item  As a Research Associate you will: 
+ 
+\begin{itemize}\item  build novel type theories, proof techniques and compilation methods to reason about hyperproperties relevant for security of higher-order programs.
+\item  work on mechanisation of the above in HOL4.
+\item  integrate them in the CakeML framework, a real world compiler for the ML like language.
+\end{itemize} 
+\item To be successful in this role you must: 
+ 
+\begin{itemize}\item  have a PhD or equivalent experience in Computing or in a related discipline.
+\item  have a track record of peer-reviewed publications at scientific workshops, conferences or journals.
+\item  have excellent mathematical skills relevant for analysis of computer programs.
+\end{itemize} 
+\item  The university of Kent is walking distance from the charming city of Canterbury. It has a high speed connection to London, and travel to Europe is convenient by rail or car. Please apply through any of the following URLs: 
+ 
+\begin{itemize}\item  \href{https://www.jobs.ac.uk/job/DGO984/research-associate}{https://www.jobs.ac.uk/job/DGO984/research-associate}
+\item  \href{https://jobs.kent.ac.uk/Vacancy.aspx?id=7355\&forced=2}{https://jobs.kent.ac.uk/Vacancy.aspx?id=7355\&forced=2}
+\end{itemize} 
+\item  We are looking to have the successful candidate start as soon as possible. For any queries formal or informal, please do not hesitate to get in touch Dr. Vineet Rajani (v.rajani@kent.ac.uk). 
+ 
+Application deadline: Apr 07, 2024 
+ 
+\end{itemize}
+
+
+\bigskip Links: \href{http://siglog.org/}{SIGLOG website}, \href{https://lics.siglog.org}{LICS website}, \href{https://lics.siglog.org/newsletters/}{SIGLOG Monthly}\end{document}
