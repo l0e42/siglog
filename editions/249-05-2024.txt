@@ -1,0 +1,234 @@
+-dd May 01, 2024
+
+
+ -dM CiE 2024:  May 15, 2024 (Informal presentations)
+ -dM PHD AND POSTDOC POSITIONS AT UNIVERSITY OF WARSAW: May 31, 2024 (Applications)
+ 
+ 
+ 
+ 
+FACS 24: 20th International Conference on Formal Aspects of Component Software
+  September 09-10, 2024, Milan, Italy
+  https://facs-conference.github.io/2024/
+  Co-located with the 26th international symposium on formal methods (FM 2024) https://www.fm24.polimi.it/
+CALL FOR PAPERS
+* OVERVIEW
+  FACS 2024 is concerned with how formal methods can be applied to component- based software and system development. Formal methods have provided foundations for component-based software through research on mathematical models for components, composition and adaptation, and rigorous approaches to verification, deployment, testing, and certification.
+* TOPICS
+  - Formal methods, models, and languages for software-intensive systems, components and services, including verification techniques (e.g., model checking, theorem proving, testing, constraint solving, runtime analysis), probabilistic techniques, (co-)simulation techniques, composition and deployment, component interaction, software variability, QoS and other nonfunctional properties (e.g., trust, compliance, security, privacy);
+  - Formal aspects of concrete software-intensive systems, including service- oriented architectures, business processes, cloud or edge computing, real- time/safety-critical systems, hybrid and cyber physical systems, quantum systems, components that use artificial intelligence;
+  - Tools supporting formal methods for components and services; - Case studies and experience reports over the above topics;
+  - **Special track: Formal Methods of Component Software in the context of emerging computational paradigms** (e.g. cyber physical human systems, quantum computations, AI systems, blockchain systems, etc) .
+* SUBMISSION AND PUBLICATION
+  We solicit high-quality submissions reporting on:
+  - A: full papers: original research, applications and experiences, or surveys (16 pages);
+  - B: short papers: tools and demonstrations (6 pages);
+  - C: Special track papers (16 pages);
+* The page limit excludes references and appendices. Papers should be prepared in LaTeX, adhering to the Springer LNCS format and Guidelines. Papers should be submitted through the easychair link: https://easychair.org/conferences/?conf=facs2024 All submitted papers should be in LNCS format and unpublished and not submitted for publication elsewhere. All accepted papers will have to be presented at the conference by one of their authors. Accepted papers in all categories will be published in the FACS proceedings and published as a volume in Springer LNCS series.
+* SPECIAL ISSUE 
+  The authors of a selected subset of accepted papers will be invited to submit an extended version of their papers to a special issue of the Science of Computer Programming journal.
+* BEST PAPER AWARD
+  FACS 2024 will recognize the most outstanding submissions with a best paper award.
+* IMPORTANT DATES
+ -dh Abstract submission: 8 May, 2024
+ -dh Full paper submission: 15 May, 2024
+ -d Notification: 26 June, 2024
+ -d Final version due: 17 July, 2024
+ -dv Conference: Sep 9-10 2024
+* INVITED SPEAKERS
+  - Ana Cavalcanti (University of York, UK)
+  - David Parker (University of Oxford, UK)
+  -Geguang Pu (ECNU, China)
+* PROGRAM CO-CHAIRS
+  - Diego Marmsoler (University of Exeter, United Kingdom)
+  - Meng Sun (Peking University, China)
+
+
+ADT 2024: 8th International Conference on Algorithmic Decision Theory 
+  Rutgers University, Piscataway, NJ, USA
+  https://preflib.github.io/adt2024/
+CALL FOR PAPERS
+* The 8th International Conference on Algorithmic Decision Theory - ADT 2024 will be held October 14-16, 2024, at the Center for Discrete Mathematics and Theoretical Computer Science (DIMACS) at Rutgers University.
+* ADT 2024 focuses on algorithmic decision theory broadly defined, seeking to bring together researchers and practitioners coming from diverse areas of Computer Science, Economics, and Operations Research in order to improve the theory and practice of modern decision support. The conference topics include research in: Algorithms, Argumentation Theory, Artificial Intelligence, Computational Social Choice, Database Systems, Decision Analysis, Discrete Mathematics, Game Theory, Machine Learning and Adversarial Machine Learning, Matching, Multi-agent Systems, Multiple Criteria Decision Aiding, Networks, Optimization, Preference Modeling, Risk Analysis and Adversarial Risk Analysis, and Utility Theory.
+* IMPORTANT DATES
+ -dh Title and Abstract: May 10, 2024
+ -dh Paper Submission: May 17, 2024
+ -d Notification: July 19, 2024
+ -d Final Version of Accepted Papers: August 9, 2024
+ -dv Conference Dates: Oct 14-16 2024
+* SUBMISSION INSTRUCTIONS
+  For submission instructions see https://preflib.github.io/adt2024/submission/
+
+
+
+
+
+WADT 2024: 27th International Workshop on Algebraic Development Techniques
+  Enschede, the Netherlands
+  https://conf.researchr.org/home/wadt-2024
+  Part of the STAF 2024 multi-conference
+  Mon 8 – Fri 12 July 2024
+CALL FOR PAPERS
+* AIMS AND SCOPE
+  The algebraic approach to system specification encompasses many aspects of the formal design of software systems. Originally born as a formal method for reasoning about abstract data types, it now covers new specification frameworks and programming paradigms (such as object-oriented, aspect-oriented, agent-oriented, logic and higher-order functional programming) as well as a wide range of application areas (including information systems, concurrent, distributed and mobile systems). The workshop will provide an opportunity to present recent and ongoing work, to meet colleagues, and to discuss new ideas and future trends.
+* TOPICS OF INTEREST 
+  Typical, but not exclusive topics of interest are: 
+  - Foundations of algebraic specification 
+  - Other approaches to formal specification, including process calculi and models of concurrent, distributed, and cyber-physical systems
+  - Specification languages, methods, and environments
+  - Semantics of conceptual modelling methods and techniques
+  - Model-driven development
+  - Graph transformations, term rewriting, and proof systems
+  - Integration of formal specification techniques
+  - Theorem-proving technologies and integration with specification languages
+  - Formal testing and quality assurance, validation, and verification
+  - Algebraic approaches to knowledge representation and cognitive sciences
+* WORKSHOP FORMAT AND LOCATION
+  The workshop will be part of the STAF 2024 multi-conference at Twente, the Netherlands. Presentations will be selected on the basis of submitted abstracts.
+* IMPORTANT DATES
+  -dh (Extended) Abstract submission: 10 May 2024
+  -d Abstract notification: 17 May 2024
+  -dh Full-paper submission: 16 Sep 2024
+  -d Full-paper notification: 25 Nov 2024
+* SUBMISSIONS 
+  The scientific programme of the workshop will include presentations of recent results or ongoing research as well as invited talks. The presentations will be selected by the Programme Committee on the basis of submitted abstracts according to originality, significance and general interest. Abstracts must not exceed two pages, including references, in LNCS format. If a longer version of the contribution is available, it can be made accessible on the web and referenced in the abstract.
+  The abstracts will have to be submitted electronically via EasyChair at https://easychair.org/conferences/?conf=staf2024.
+* PROCEEDINGS
+  After the workshop, authors will be invited to submit full papers for the refereed proceedings. All submissions will be reviewed by the Programme Committee. The selection of papers will be based on originality, soundness, and significance of the presented ideas and results. The post-proceedings will then be published by Springer as a volume of Lecture Notes in Computer Science.
+* SPONSORSHIP 
+  The workshop takes place under the auspices of IFIP WG 1.3.
+
+
+
+
+
+
+
+
+
+
+VCLA: International Student Awards
+CALL FOR NOMINATIONS
+* The Vienna Center for Logic and Algorithms of TU Wien calls for the nomination of authors of outstanding theses and scientific works in the field of Logic and Computer Science, in the following two categories:
+  - Outstanding Master Thesis Award*
+  - Outstanding Undergraduate Thesis Award (Bachelor thesis or equivalent, 1st cycle of the Bologna process)*
+* The degree must have been awarded between January 1st, 2023 and December 31st, 2023 (inclusive).
+* AWARDS
+  The Outstanding Master Thesis Award: 1200 EUR. The Outstanding Undergraduate Thesis Award: 800 EUR. The winners will be invited to present their work at an award ceremony in Vienna, if the situation allows.
+* ELIGIBILITY
+ - The degree must have been awarded between January 1st, 2023 and December 31st, 2023 (inclusive).
+ - Students who obtained their degree at TU Wien are not eligible.
+* IMPORTANT DATES (AoE)
+ -dh Submission deadline: May 31, 2024
+ -d Notification of decision: After August 31, 2024
+* CONTACT
+  Please send all inquiries to award@logic-cs.at. The full call with details is available at: https://www.vcla.at/2024/04/call-for-nominations-vcla-international-student-awards-2024/
+
+
+ 
+ACKERMANN AWARD 2024: EACSL OUTSTANDING DISSERTATION AWARD FOR LOGIC IN COMPUTER SCIENCE
+CALL FOR NOMINATIONS
+* Nominations are now invited for the 2024 Ackermann Award. PhD dissertations in topics specified by the CSL and LICS conferences, which were formally accepted as PhD theses at a university or equivalent institution between 1 January 2023 and 31 December 2023 are eligible for nomination for the award.
+ -dh Deadline for nominations: 1 July 2024
+* Nominations should be submitted by the candidate or the supervisor via Easychair: https://easychair.org/my/conference?conf=ackermann2024. Please submit a pdf file containing:
+  - a summary in English of the thesis (maximum 10 pages), providing a gentle introduction and overview of the thesis, highlighting the novel results and their impact and including a link to the thesis in the first page (please do not include the thesis itself);
+  - a supporting letter by the PhD advisor and two supporting letters by other senior researchers (in English);
+  - a copy of a document stating that the thesis was accepted as a PhD thesis at a recognised University (or equivalent institution) and that the candidate was awarded the PhD degree within the specified period; 
+  - a short CV of the candidate.
+* The 2024 Ackermann award will be presented to the recipient(s) at CSL 2025. The award consists of a certificate, an invitation to present the thesis at the CSL conference, the publication of the laudatio in the CSL proceedings, an invitation to the winner to publish the thesis in the FoLLI subseries of Springer LNCS, and financial support to attend the conference.
+* JURY 
+  The jury consists of:
+  - Albert Atserias (UPC Barcelona)
+  - Christel Baier (TU Dresden)
+  - Andrej Bauer (U Ljubljana)
+  - Javier Esparza (TU Munich)
+  - Maribel Fernandez (King’s College London), EACSL president
+  - Joost-Pieter Katoen (RWTH Aachen U), ACM SigLog rep.
+  - Delia Kesner (IRIF, U Paris Cite)
+  - Slawomir Lasota (U Warsaw)
+  - Florin Manea (U Goettingen), EACSL vice-president
+  - Prakash Panangaden (McGill U)
+* For more information please contact Maribel Fernandez: Maribel.Fernandez@kcl.ac.uk
+
+
+
+DisCoTec 2024: 19th International Federated Conference on Distributed Computing Techniques
+  Groningen, The Netherlands, June 17-21, 2024
+  https://www.discotec.org/2024/
+CALL FOR PARTICIPATION
+*  DisCoTec is one of the major events sponsored by the International Federation for Information Processing (IFIP) and the European Association for Programming Languages and Systems (EAPLS). DisCoTec 2024 will take place in Groningen, The Netherlands, between June 17-21, 2024, hosted by the University of Groningen. 
+* REGISTRATION  
+  Detailed information about registration can be found at https://www.discotec.org/2024/registration.
+* IMPORTANT DATES 
+  -dh Early registration: May 22, 2024.
+  -dh Late registration: June 12, 2024.
+  -dv Main Conferences: Jun 18-20 2024 *
+* KEYNOTE SPEAKERS
+  - Marieke Huisman (University of Twente, NL) - VerCors: Inclusive Software Verification
+  - Laura Kovács (Vienna University of Technology, AT) Automated Reasoning in BlockChain Security
+  - Paulo Veríssimo (KAUST, SA) - Platform Resilience? Beware of Threats from the “basement”
+* See https://www.discotec.org/2024/invited for further details.
+
+
+
+
+IJCAR 2024: 12th International Joint Conference on Automated Reasoning
+  Nancy, France, July 1-6, 2024
+  https://ijcar2024.loria.fr
+CALL FOR PARTICIPATION
+* IJCAR is the premier international joint conference on all topics in automated reasoning. The IJCAR technical programme will consist of presentations of high-quality regular research papers, short papers, and invited talks. IJCAR 2024 is a merger of leading events in automated reasoning:
+  - CADE     (Conference on Automated Deduction),
+  - FroCoS   (Workshop on Frontiers of Combining Systems), and
+  - TABLEAUX (Conference on Analytic Tableaux and Related Methods)
+* The 2024 edition of the SAT/SMT/AR summer school will take place in Nancy during the week preceding IJCAR 2024. For details, see https://sat-smt-ar-school.gitlab.io/www/2024/ 
+* IMPORTANT DATES 
+ -dh Early registration: June 4 2024
+ -dh Late registration:  June 24 2024
+*  Registration, accommodation, and travel/visa information for IJCAR 2024 and the associated events can be found on the web site.
+
+
+
+
+
+Lipari Summer School on Abstract interpretation
+  September 1-7, 2024, Lipari, Italy
+  https://absint24.liparischool.it/
+CALL FOR PARTICIPATION
+* The Lipari Summer School on Abstract Interpretation will be held on the beautiful island of Lipari, Italy. This immersive five-day journey, set in the stunning surroundings of Lipari Island, aims to provide MSc, Ph.D. students, postdocs, and young researchers with a rich learning environment dedicated to the exploration of abstract interpretation, its applications, and its recent advances both in industry and research academia.
+* TOPICS
+  - abstract interpretation
+  - static analysis,
+  - program analysis
+  - software verification
+  - formal methods for artificial intelligence
+  - static analysis in the industry
+* DATES
+ -dh Registration deadline: Jun 15, 2024
+ -dv School: Sep 1-7 2024
+ 
+
+ 
+ 
+POSTDOCTORAL POSITION @ King's College London
+JOB ANNOUNCEMENTS
+* A postdoctoral research position in theoretical computer science is available at King's College London. The successful candidate will be hosted by Hubie Chen and will be expected to work on topics related to the themes of complexity, database theory, structural decomposition methods, and logic. Research interest and experience in the following areas will be valued: logic in computer science, database theory, finite model theory, structural decomposition methods, term rewriting, and parameterized complexity theory.
+* Key dates: the application deadline is June 6, 2024; it is hoped that the successful applicant will start in or around October 2024, but there is some flexibility concerning the start date. If the position is started in October 2024, it can be held for 1.5+ years. The exact starting date and duration can be set in a way that takes into account the successful candidate's needs and schedule.
+* Informal enquiries and discussion are strongly encouraged prior to application (e-mail contact: hubie.chen@kcl.ac.uk; please send a CV when initiating correspondence). To apply, please see: https://www.kcl.ac.uk/jobs/088046-post-doctoral-research-associate
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
