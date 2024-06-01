@@ -1,6 +1,12 @@
 import dateparser
 import re
 import pickle
+
+import yaml
+
+with open("global_parameters.yaml", "r") as yaml_file:
+	 global_parameters = yaml.safe_load(yaml_file)
+
 document = pickle.load( open( "save.p", "rb" ) )
 #print(document)
 
@@ -168,7 +174,7 @@ def tag(item):
 
 def toc(items):
 	html = ""
-	html += "\\section{Table of Content}"
+	html += "\\section{Table of Contents}"
 
 
 	return html + process(document['toc'])
@@ -257,13 +263,11 @@ fontfamily=\\rmdefault
 \\acmArticle{CFP}
 """
 html += "\\title{{\\huge\\sc SIGLOG Monthly "  +  str(document['number']) + "}\n\n " + document['renderdate'].strftime("%B %Y") + "}"
-html += """
-\\author{DAVID PURSER\\affil{University of Liverpool, UK}
-\\vspace*{-2.6cm}\\begin{flushright}\\includegraphics[width=30mm]{dp}\\end{flushright}
-}
+html += "\\author{" + global_parameters["author"].upper()
+html += "\\affil{" + global_parameters["author_affiliation"] + ", " + global_parameters["author_country"] + "}"
+html += "\\vspace*{-2.6cm}\\begin{flushright}\\includegraphics[width=30mm]{" + global_parameters["author_picture"] + "}\\end{flushright}}"
 
-\\begin{abstract}
-"""
+html += "\\begin{abstract}"
 html += document['renderdate'].strftime("%B %Y")
 html += """ edition of SIGLOG Monthly, featuring deadlines, calls and community announcements.
 \\end{abstract}

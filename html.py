@@ -1,6 +1,11 @@
 import dateparser
 import re
 import pickle
+import yaml
+
+with open("global_parameters.yaml", "r") as yaml_file:
+	 global_parameters = yaml.safe_load(yaml_file)
+
 document = pickle.load( open( "save.p", "rb" ) )
 #print(document)
 
@@ -151,7 +156,7 @@ def toc(items):
 	html = ""
 	html += "<h2>"
 	html += "<a name=\"toc\" id=\"toc\"></a>"
-	html += "Table of Content"
+	html += "Table of Contents"
 	html += "</h2>"
 
 
@@ -254,11 +259,12 @@ for x in document['items']:
 html += "<br><br><br>Links: <a href=\"http://siglog.org/\">SIGLOG website</a>, <a href=\"https://lics.siglog.org\">LICS website</a>, <a href=\"https://lics.siglog.org/newsletters/\">SIGLOG Monthly</a>."
 html += "</div>"
 if email:
+	html += '<div class="main">'
 	html += "<br>\n" 
 	html += "<br>\n" 
 	html += "Kind regards, <br>\n"
-	html += "David Purser <br>\n"
-	html += "University of Liverpool <br>\n"
+	html += global_parameters["author"] + " <br>\n"
+	html += global_parameters["author_affiliation"] + " <br>\n"
 
 html +="</body></html>"
 
