@@ -1,6 +1,16 @@
+# syntax parameters
+announcement_header: "## "
+announcement_type:   "### "
+date_flag: "-d "
+deadline_flag: "-dh "
+verbatim_date_flag: "-dv "
+edition_date_flag: "-dd "
+previous_edition_date_flag: "-dM "
+date_format: "%b %d, %Y"
+siglog_matters_flag: "-s"
+
 # author parameters 
 author: Elli Anastasiadi
 author_affiliation: Uppsala University
 author_country: SE
 author_picture: elli_anastasiadi.png
-
