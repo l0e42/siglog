@@ -1,0 +1,148 @@
+
+% v2-acmsmall-sample.tex, dated March 6 2012
+% This is a sample file for ACM small trim journals
+%
+% Compilation using 'acmsmall.cls' - version 1.3 (March 2012), Aptara Inc.
+% (c) 2010 Association for Computing Machinery (ACM)
+%
+% Questions/Suggestions/Feedback should be addressed to => "acmtexsupport@aptaracorp.com".
+% Users can also go through the FAQs available on the journal's submission webpage.
+%
+% Steps to compile: latex, bibtex, latex latex
+%
+% For tracking purposes => this is v1.3 - March 2012
+\documentclass[prodmode,acmtecs]{acmsmall} % Aptara syntax
+\usepackage[spanish,polish]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{fancyvrb}
+\usepackage{graphicx,hyperref}
+\newcommand\cutout[1]{}
+
+
+\usepackage[table]{xcolor}
+\usepackage[utf8]{inputenc}
+\usepackage[parfill]{parskip}
+\usepackage{tabulary}
+\PassOptionsToPackage{hyphens}{url}
+\usepackage{hyperref}    
+\usepackage[capitalize]{cleveref}
+
+
+% Metadata Information
+% !!! TODO: SET THESE VALUES !!!
+\acmVolume{0}
+\acmNumber{0}
+\acmArticle{CFP}
+\acmYear{0}
+\acmMonth{0}
+
+\newcounter{colstart}
+\setcounter{page}{4}
+
+\RecustomVerbatimCommand{\VerbatimInput}{VerbatimInput}%
+{
+%fontsize=\footnotesize,
+fontfamily=\rmdefault
+}
+
+
+\newcommand{\UnderscoreCommands}{%\do\verbatiminput%
+\do\citeNP \do\citeA \do\citeANP \do\citeN \do\shortcite%
+\do\shortciteNP \do\shortciteA \do\shortciteANP \do\shortciteN%
+\do\citeyear \do\citeyearNP%
+}
+
+\usepackage[strings]{underscore}
+
+
+
+% Document starts
+\begin{document}
+
+
+\setcounter{colstart}{\thepage}
+
+\acmArticle{CFP}
+\title{{\huge\sc SIGLOG Monthly 251}
+
+ July 2024}\author{ELLI ANASTASIADI\affil{Uppsala University, SE}\vspace*{-2.6cm}\begin{flushright}\includegraphics[width=30mm]{elli_anastasiadi.png}\end{flushright}}\begin{abstract}July 2024 edition of SIGLOG Monthly, featuring deadlines, calls and community announcements.
+\end{abstract}
+
+
+\maketitlee
+
+\href{https://lics.siglog.org/newsletters/}{Past Issues}
+ - 
+\href{https://lics.siglog.org/newsletters/inst.html}{How to submit an announcement}
+\section{Table of Contents}\begin{itemize}\item DEADLINES (\cref{deadlines}) 
+ 
+\item SIGLOG MATTERS 
+ 
+\begin{itemize}\item CHURCH AWARD 2024 (\cref{CHURCHAWARD2024})
+\item CPP 2025 (\cref{CPP2025})
+\end{itemize} 
+\end{itemize}\section{Deadlines}\label{deadlines}\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}LAMAS\&SR 2024:  & Jul 17, 2024 (Paper deadline) \\
+FSEN 2025:  & Oct 07, 2024 (Abstract Submission), Oct 14, 2024 (Paper Submission) \\
+\end{tabulary}
+\section{CHURCH AWARD 2024}\label{CHURCHAWARD2024}AWARDS 
+
+\begin{itemize}\item  The 2024 Alonzo Church Award for Outstanding Contributions to Logic and Computation is presented jointly to Thomas Ehrhard and Laurent Regnier for giving a logical and computational account of differentiation, bringing Taylor expansion to the Curry-Howard correspondence, which had a major impact on programming language semantics. 
+ 
+\item  The awarded papers are:  
+ 
+\begin{itemize}\item  Thomas Ehrhard. “Finiteness spaces”. In: Mathematical Structures in Computer Science 15.4 (2005), pp. 615–646. doi: 10.1017/S0960129504004645
+\item  Thomas Ehrhard and Laurent Regnier. “The differential lambda-calculus”. In: Theoretical Computer Science 309.1-3 (2003), pp. 1–41. doi: 10.1016/S0304-3975(03)00392-X
+\item  Thomas Ehrhard and Laurent Regnier. “Uniformity and the Taylor expansion of ordinary lambda-terms”. In: Theoretical Computer Science 403.2-3 (2008), pp. 347–372. doi: 10.1016/j.tcs.2008.06.001
+\item  Thomas Ehrhard and Laurent Regnier. “B¨ohm Trees, Krivine’s Machine and the Taylor Expansion of Lambda-Terms”. In: Logical Approaches to Computational Barriers, Second Conference on Computability in Europe, CiE 2006, Swansea, UK, June 30-July 5, 2006, Proceedings. Ed. by Arnold Beckmann et al. Vol. 3988. Lecture Notes in Computer Science. Springer, 2006, pp. 186–197. doi: 10.1007/11780342\_20 
+\item  Thomas Ehrhard and Laurent Regnier. “Differential interaction nets”. In: Theoretical Computer Science 364.2 (2006), pp. 166–195. doi: 10.1016/j.tcs.2006.08.003
+\end{itemize} 
+\item  The nominated papers introduced differential lambda-calculus and differential linear logic, together with the Taylor expansion of terms and proofs. The extension of the lambda-calculus with a derivation operator gives a syntactic account of differentiation, which reconciles the computational, logical, and algebraic notions of linearity. This allowed recasting Taylor expansion as a transformation of programs into superpositions of multilinear approximants, each capturing a finite computational behavior. The Taylor expansion has provided new and simpler proof methods to characterize the denotational and operational properties of programs. Differential linear logic similarly extends linear logic with new rules reflecting the logical structure of differentiation, yielding a sharper understanding of logical interaction. Differential linear logic has directly inspired unexpectedly effective accounts of differentiation in category theory, and strongly influenced current advances in higher-dimensional models of logic and computation. Differentiation has been instrumental in the design of new models of non-deterministic, probabilistic, quantum, or concurrent computation. After 20 years of intensive use, the concepts introduced in the awarded papers are time-tested and precious additions to the standard toolbox of the working linear logicians and programming language semanticists. 
+ 
+\end{itemize}\section{CPP 2025: Certified Programs and Proofs}\label{CPP2025}  20-21 January 2025, co-located with POPL 2025, Denver, USA\\ 
+  \href{https://popl25.sigplan.org/home/CPP-2025}{https://popl25.sigplan.org/home/CPP-2025}\\ 
+CALL FOR PAPERS 
+
+\begin{itemize}\item  Certified Programs and Proofs (CPP) is an international conference on practical and theoretical topics in all areas that consider formal verification and certification as an essential paradigm for their work. CPP spans areas of computer science, mathematics, logic, and education. 
+ 
+\item  CPP 2025 (\href{https://popl25.sigplan.org/home/CPP-2025}{https://popl25.sigplan.org/home/CPP-2025}) will be held on 20-21 January 2025 and will be co-located with POPL 2025 in Denver, USA. CPP 2025 is sponsored by ACM SIGPLAN, in cooperation with ACM SIGLOG. CPP 2025 will welcome contributions from all members of the community. The CPP 2025 organizers will strive to enable both in-person and remote participation, in cooperation with the POPL 2025 organizers. 
+ 
+\item  IMPORTANT DATES  
+ 
+\begin{itemize}\item  Abstract Submission Deadline: 10 September 2024 at 23:59 AoE (UTC-12h)
+\item  Paper Submission Deadline: 17 September 2024 at 23:59 AoE (UTC-12h)
+\item  Notification (tentative): 19 November 2024
+\item  Camera Ready Deadline (tentative): Mid December 2024 (TBA)
+\item  Conference: 20-21 January 2025
+\end{itemize} 
+  Deadlines expire at the end of the day, anywhere on earth. Abstract and submission deadlines are strict and there will be no extensions. 
+ 
+\item  DISTINGUISHED PAPER AWARDS  
+ 
+  Around 10% of the accepted papers at CPP 2025 will be designated as Distinguished Papers. This award highlights papers that the CPP program committee thinks should be read by a broad audience due to their relevance, originality, significance and clarity. 
+ 
+\item  TOPICS OF INTEREST   
+ 
+  We welcome submissions in research areas related to formal certification of programs and proofs. Please see \href{https://popl25.sigplan.org/home/CPP-2025#Call-for-Papers}{https://popl25.sigplan.org/home/CPP-2025\#Call-for-Papers} for a (non-exhaustive) list of topics.  
+ 
+\item  SUBMISSION GUIDELINES 
+ 
+  Prior to the paper submission deadline, the authors should upload their anonymized paper in PDF format through the HotCRP system at \href{https://cpp2025.hotcrp.com}{https://cpp2025.hotcrp.com} . The submissions must be written in English and provide sufficient detail to allow the program committee to assess the merits of the contribution. They must be formatted following the ACM SIGPLAN Proceedings format using the acmart style with the sigplan option, which provides a two-column style, using 10 point font for the main text, and a header for double blind review submission, i.e., \textbackslash{}documentclass[sigplan,10pt,anonymous,review]\{acmart\}\textbackslash{}settopmatter\{printfolios=true,printccs=false,printacmref=false\} . The submitted papers should not exceed 12 pages, including tables and figures, but excluding bibliography and clearly marked appendices. The papers should be self-contained without the appendices. Shorter papers are welcome and will be given equal consideration. We strongly encourage authors to read carefully our call for papers at \href{https://popl25.sigplan.org/home/CPP-2025#Call-for-Papers}{https://popl25.sigplan.org/home/CPP-2025\#Call-for-Papers} for instuctions on suplementary materials, the reviewing process, and copyrights. The official CPP 2025 proceedings will also be available via SIGPLAN OpenTOC (\href{http://www.sigplan.org/OpenTOC/#cpp}{http://www.sigplan.org/OpenTOC/\#cpp}). 
+ 
+\item  CONTACT 
+ 
+  For any questions please contact the two PC chairs: 
+ 
+\begin{itemize}\item  Sandrine Blazy, University of Rennes (co-chair)
+\item  Nicolas Tabareau, Inria (co-chair)
+\end{itemize} 
+\item  ORGANIZERS 
+ 
+\begin{itemize}\item  Kathrin Stark, Heriot-Watt University (conference co-chair)
+\item  Amin Timany, Aarhus University (conference co-chair)
+\item  Sandrine Blazy, University of Rennes (PC co-chair)
+\item  Nicolas Tabareau, Inria (PC co-chair)
+\end{itemize} 
+\end{itemize}
+
+
+\bigskip Links: \href{http://siglog.org/}{SIGLOG website}, \href{https://lics.siglog.org}{LICS website}, \href{https://lics.siglog.org/newsletters/}{SIGLOG Monthly}\end{document}
