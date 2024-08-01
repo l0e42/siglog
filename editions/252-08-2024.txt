@@ -1,0 +1,243 @@
+-dd July 1, 2024
+
+ -dM FSEN 2025:	Oct 07, 2024 (Abstract Submission), Oct 14, 2024 (Paper Submission)
+ 
+ 
+
+
+
+
+ 
+CHURCH AWARD 2024
+AWARD -s SIGLOG MATTER
+* The 2024 Alonzo Church Award for Outstanding Contributions to Logic and Computation is presented jointly to Thomas Ehrhard and Laurent Regnier for giving a logical and computational account of differentiation, bringing Taylor expansion to the Curry-Howard correspondence, which had a major impact on programming language semantics.
+* The awarded papers are: 
+  - Thomas Ehrhard. “Finiteness spaces”. In: Mathematical Structures in Computer Science 15.4 (2005), pp. 615–646. doi: 10.1017/S0960129504004645
+  - Thomas Ehrhard and Laurent Regnier. “The differential lambda-calculus”. In: Theoretical Computer Science 309.1-3 (2003), pp. 1–41. doi: 10.1016/S0304-3975(03)00392-X
+  - Thomas Ehrhard and Laurent Regnier. “Uniformity and the Taylor expansion of ordinary lambda-terms”. In: Theoretical Computer Science 403.2-3 (2008), pp. 347–372. doi: 10.1016/j.tcs.2008.06.001
+  - Thomas Ehrhard and Laurent Regnier. “B¨ohm Trees, Krivine’s Machine and the Taylor Expansion of Lambda-Terms”. In: Logical Approaches to Computational Barriers, Second Conference on Computability in Europe, CiE 2006, Swansea, UK, June 30-July 5, 2006, Proceedings. Ed. by Arnold Beckmann et al. Vol. 3988. Lecture Notes in Computer Science. Springer, 2006, pp. 186–197. doi: 10.1007/11780342_20 
+  - Thomas Ehrhard and Laurent Regnier. “Differential interaction nets”. In: Theoretical Computer Science 364.2 (2006), pp. 166–195. doi: 10.1016/j.tcs.2006.08.003
+* The nominated papers introduced differential lambda-calculus and differential linear logic, together with the Taylor expansion of terms and proofs. The extension of the lambda-calculus with a derivation operator gives a syntactic account of differentiation, which reconciles the computational, logical, and algebraic notions of linearity. This allowed recasting Taylor expansion as a transformation of programs into superpositions of multilinear approximants, each capturing a finite computational behavior. The Taylor expansion has provided new and simpler proof methods to characterize the denotational and operational properties of programs. Differential linear logic similarly extends linear logic with new rules reflecting the logical structure of differentiation, yielding a sharper understanding of logical interaction. Differential linear logic has directly inspired unexpectedly effective accounts of differentiation in category theory, and strongly influenced current advances in higher-dimensional models of logic and computation. Differentiation has been instrumental in the design of new models of non-deterministic, probabilistic, quantum, or concurrent computation. After 20 years of intensive use, the concepts introduced in the awarded papers are time-tested and precious additions to the standard toolbox of the working linear logicians and programming language semanticists.
+
+
+
+
+
+
+
+
+
+
+CPP 2025: Certified Programs and Proofs
+  20-21 January 2025, co-located with POPL 2025, Denver, USA
+  https://popl25.sigplan.org/home/CPP-2025
+CALL FOR PAPERS -s SIGLOG MATTER
+* Certified Programs and Proofs (CPP) is an international conference on practical and theoretical topics in all areas that consider formal verification and certification as an essential paradigm for their work. CPP spans areas of computer science, mathematics, logic, and education.
+* CPP 2025 (https://popl25.sigplan.org/home/CPP-2025) will be held on 20-21 January 2025 and will be co-located with POPL 2025 in Denver, USA. CPP 2025 is sponsored by ACM SIGPLAN, in cooperation with ACM SIGLOG. CPP 2025 will welcome contributions from all members of the community. The CPP 2025 organizers will strive to enable both in-person and remote participation, in cooperation with the POPL 2025 organizers.
+* IMPORTANT DATES 
+  -dh Abstract Submission Deadline: 10 September 2024 
+  -dh Paper Submission Deadline: 17 September 2024 
+  -d Notification (tentative): 19 November 2024
+  -d Camera Ready Deadline (tentative): Mid December 2024 (TBA)
+  -dv Conference: Jan 20-21, 2025
+  Deadlines expire at the end of the day, anywhere on earth. Abstract and submission deadlines are strict and there will be no extensions.
+* DISTINGUISHED PAPER AWARDS 
+  Around 10% of the accepted papers at CPP 2025 will be designated as Distinguished Papers. This award highlights papers that the CPP program committee thinks should be read by a broad audience due to their relevance, originality, significance and clarity.
+* TOPICS OF INTEREST  
+  We welcome submissions in research areas related to formal certification of programs and proofs. Please see https://popl25.sigplan.org/home/CPP-2025#Call-for-Papers for a (non-exhaustive) list of topics. 
+* SUBMISSION GUIDELINES
+  Prior to the paper submission deadline, the authors should upload their anonymized paper in PDF format through the HotCRP system at https://cpp2025.hotcrp.com . The submissions must be written in English and provide sufficient detail to allow the program committee to assess the merits of the contribution. They must be formatted following the ACM SIGPLAN Proceedings format using the acmart style with the sigplan option, which provides a two-column style, using 10 point font for the main text, and a header for double blind review submission, i.e., \documentclass[sigplan,10pt,anonymous,review]{acmart}\settopmatter{printfolios=true,printccs=false,printacmref=false} . The submitted papers should not exceed 12 pages, including tables and figures, but excluding bibliography and clearly marked appendices. The papers should be self-contained without the appendices. Shorter papers are welcome and will be given equal consideration. We strongly encourage authors to read carefully our call for papers at https://popl25.sigplan.org/home/CPP-2025#Call-for-Papers for instuctions on suplementary materials, the reviewing process, and copyrights. The official CPP 2025 proceedings will also be available via SIGPLAN OpenTOC (http://www.sigplan.org/OpenTOC/#cpp).
+* CONTACT
+  For any questions please contact the two PC chairs:
+  - Sandrine Blazy, University of Rennes (co-chair)
+  - Nicolas Tabareau, Inria (co-chair)
+* ORGANIZERS
+  - Kathrin Stark, Heriot-Watt University (conference co-chair)
+  - Amin Timany, Aarhus University (conference co-chair)
+  - Sandrine Blazy, University of Rennes (PC co-chair)
+  - Nicolas Tabareau, Inria (PC co-chair)
+  
+  
+  
+
+ICLP/LPNMR-DC 2024: Doctoral Consortium
+  October 13, 2024, Dallas, Texas, US
+  co-located with International Conference on Logic Programming (ICLP 2024) and International Conference on Logic Programming and Non-monotonic Reasoning (LPNMR 2024)
+  https://sites.google.com/view/iclplpnmrdc2024
+CALL FOR PAPERS
+* The ICLP & LPNMR Doctoral Consortium (DC) will take place during the 40th International Conference on Logic Programming (ICLP 2024) and the 17th International Conference on Logic Programming and Non-monotonic Reasoning (LPNMR 2024) in Dallas, Texas, US, on October 13, 2024. The DC will provide students and early career researchers with the opportunity to present and discuss their research directions, obtain feedback from both peers and experts in the field, and participate in mentoring sessions on how to prepare for a research career. 
+  The DC is designed for students currently enrolled in a Ph.D. program, though we are also open to exceptions (e.g., students currently in a Master's program and interested in doctoral studies). Students at any stage in their doctoral studies are encouraged to apply for participation in the DC. Applicants are expected to conduct research in areas related to logic and constraint programming; topics of interest include (but are not limited to):
+  - LP Foundations
+  - LP Languages
+  - Declarative Programming
+  - LP Implementation
+  - Related Paradigms and Synergies (e.g., Neuro-symbolic AI and Logic Programming)
+  - LP Applications.
+  The full call for papers can be found on the official website: https://sites.google.com/view/iclplpnmrdc2024
+* APPLICATION PROCESS
+  Submissions must be written in English and consist of:
+  - a cover letter of the applicant, including a statement outlining the reasons for applying to the DC and how it will benefit the applicant;
+  - a research summary, prepared in EPTCS format (http://info.eptcs.org/), that meets the following criteria. The body of the research summary (no more than 10 pages, excluding references, but 5 pages is fine as well!) should provide a clear overview of your research, its potential impact, and its current status. You are encouraged to include sections covering the following points: 1. Your complete name, address, and affiliation, 2. Introduction and problem description, 3. Background and overview of the existing literature,  4.Goals of the research, 5. Current status of the research, 6. Preliminary results accomplished (if any), 7. Open issues and expected achievements, 8. Bibliographical references, 
+  The application is to be submitted electronically in PDF format on the Easychair system, selecting the “Doctoral Consortium” track: https://easychair.org/conferences/?conf=iclp2024
+* IMPORTANT DATES 
+  -dh Application submission: 2 August, 2024
+  -d Notification to authors: 26 August, 2024
+  -d Camera-ready copy due: 15 September, 2024
+  -dv DC event: Oct 13, 2024
+* CONTACTS 
+  - Francesco Fabiano: ffabiano@nmsu.edu
+  - Martin Gebser: martin.gebser@aau.at
+  
+
+
+
+ASPOCP 2024: 17th Workshop on Answer Set Programming and Other Computing Paradigms
+  https://sites.google.com/unical.it/aspocp2024/    
+  October 12-13, Dallas, Texas
+  Affiliated with ICLP 2024, 40th International Conference on Logic Programming
+CALL FOR PAPERS
+* AIMS AND SCOPE
+  Since its introduction in the late 1980s, Answer Set Programming (ASP) has been widely applied to various knowledge-intensive tasks and combinatorial search problems. ASP was found to be closely related to SAT, which led to a new method of computing answer sets using SAT solvers and techniques adapted from SAT. This has been a much studied relationship, and is currently extended towards satisfiability modulo theories (SMT). The relationship of ASP to other computing paradigms, such as constraint satisfaction, quantified Boolean formulas (QBF), Constraint Logic Programming (CLP), first-order logic (FOL), and FO(ID) is also the subject of active research. Consequently, new methods of computing answer sets are being developed based on relationships to these formalisms.
+   Furthermore, the practical applications of ASP also foster work on multi-paradigm problem-solving, and in particular language and solver integration. The most prominent examples in this area currently are the integration of ASP with description logics (in the realm of the Semantic Web) and constraint satisfaction (which recently led to the Constraint Answer Set Programming (CASP) research direction).
+  A large body of general results regarding ASP is available and several efficient ASP solvers have been implemented. However, there are still significant challenges in applying ASP to real life applications, and more interest in relating ASP to other computing paradigms is emerging. This  workshop will provide opportunities for researchers to identify these challenges and to exchange ideas for overcoming them.
+* TOPICS
+  For a full list of topics see https://sites.google.com/unical.it/aspocp2024/
+* SUBMISSIONS
+  The workshop invites two types of submissions:
+  - original papers describing original research.
+  - non-original paper already published on formal proceedings or journals.
+  Original papers must not exceed 13 pages (excluding references) and must be formatted using the 1-column CEURART style available here. A ready-to-clone overleaf project containing a 1-column CEURART style is available here. Authors are requested to clearly specify whether their submission is original or not with a footnote on the first page. Authors are invited to submit their manuscripts in PDF via the EasyChair system at the link: https://easychair.org/my/conference?conf=aspocp2024.
+* IMPORTANT DATES
+  -dh Abstract submission deadline: 08 August 2024
+  -dh Paper submission deadline: 15 August 2024
+  -d Notification: 10 September 2024
+* PROCEEDINGS
+   Authors of all accepted original contributions can opt to publish their work in formal proceedings. Accepted non-original contributions will be given visibility on the conference web site including a link to the original publication, if already published. A selection of extended and revised versions of accepted papers could appear in a special issue. Extended versions of accepted non-original contributions, if not published in a journal yet, might be included in the issue.
+* WORKSHOP CO-CHAIRS
+  - Francesco Pacenza, Department of Mathematics and Computer Science, University of Calabria, Italy
+  - Zeynep G. Saribatur, Institute of Logic and Computation, TU Wien, Austria  
+  
+  
+
+
+
+  
+LAMAS&SR 2024: International Workshop on Logical Aspects of Multi-Agent Systems and Strategic Reasoning
+  November 2 - 4, 2024, Hanoi, Vietnam
+  Co-located with KR 2024, International Conference on Principles of Knowledge Representation and Reasoning
+  https://conferences-website.github.io/lamassr24/
+CALL FOR PAPERS
+* OVERVIEW
+  Logic and strategic reasoning play a central role in multi-agent systems. Logic can be used, for instance, to express the agents' abilities, knowledge, and objectives. Strategic reasoning refers to algorithmic methods that allow for the development of good behavior for the agents of the system. At the intersection, we find logics that can express the existence of strategies or equilibria and can be used to reason about them. The LAMAS&SR workshop merges two international workshops: LAMAS (Logical Aspects of Multi-Agent Systems), which focuses on all kinds of logical aspects of multi-agent systems from the perspectives of artificial intelligence, computer science, and game theory, and SR (Strategic Reasoning), devoted to all aspects of strategic reasoning in formal methods and artificial intelligence. Over the years the communities and research themes of both workshops got closer and closer, with a significant overlap in the participants and organizers of both events. For this reason, the two events have been unified under the same flag, formally joining the two communities. As such, the LAMAS&SR workshop aims to bring together researchers working on different aspects of either logic or strategic reasoning in computer science, artificial intelligence, and multi-agent systems research, both from a theoretical and a practical viewpoint.
+* TOPICS OF INTEREST
+  For a full list of the relevant topics visit the LAMAS24 website. 
+* IMPORTANT DATES
+ -dh Paper submission deadline - EXTENDED: August 14, 2024 
+ -d Acceptance notification: August 21st, 2024
+ -d Camera-ready version deadline: September 7th, 2024
+ -dv LAMAS&SR 2024 workshop: Nov 2nd, 3rd, or 4ths 2024
+* SUBMISSION.
+  Authors are invited to submit extended abstracts of up to 4 pages plus 1 page for references only, in the format of the KR 2024 conference (KR24_authors_kit.zip). Both published and unpublished works are welcome. Submissions are subject to a single-blind review process (submissions should not be anonymous). Although there will be no formal proceedings, accepted extended abstracts will be available on the workshop website. Submissions must be in PDF and will be handled via CMT, using the following link: https://cmt3.research.microsoft.com/LAMASSR2024 . Submissions from PC members are also allowed. Since the workshop will have informal proceedings, extended versions of the accepted papers can also be submitted elsewhere.
+* PROCEEDINGS 
+  The informal proceedings will be available as a single PDF file from the workshop website. Extended and revised versions of the best papers presented at the workshop will be invited for a journal special issue.
+* COMMITTEES
+  Workshop Chairs: 
+  - Angelo Ferrando, University of Modena and Reggio Emilia
+  - Munyque Mittelmann, University of Naples Federico II
+  - Aniello Murano, University of Naples Federico II
+  
+  
+  
+  
+  
+  
+PhD Symposium iFM 2024: International Conference on integrated Formal Methods PhD Symposium
+  co-located with 19th iFM 2024
+  12 November 2024, Manchester, United Kingdom
+  https://ifm2024.cs.manchester.ac.uk/phd-symposium.html
+CALL FOR PAPERS
+* OBJECTIVE AND SCOPE
+  The iFM PhD symposium provides PhD students an opportunity to present and discuss their research in the fields of theory, implementation, integration or application of formal methods. 
+* WHO CAN SUBMIT?
+  PhD students and young researchers at an early career stage (up to 2 years after PhD completion).
+* WHY TO SUBMIT AND PARTICIPATE?
+  Participants will have the possibility to present their research projects. Moreover: The doctoral symposium offers an excellent opportunity to introduce your work to fellow researchers in an international setting, and to get feedback from senior researchers in the field. The doctoral symposium lets you exchange knowledge and experiences with fellow PhD-students in a related topic -- both regarding research and regarding working towards an PhD. 
+* WHAT TO SUBMIT?
+  There are several options for your submission:
+  - Thesis Proposal Abstracts: summarize your research questions and outline your planned approach without needing to report experimental results. They are ideal for early-stage PhD students to get feedback on their research project during the initial planing and orientation phase. Abstracts have 2-3 pages, co-authors are allowed, and results may have been published previously if appropriately referenced. Indicate if also submitted to iFM2024.
+  - Result Reports: are short papers summarizing preliminary results of early-stage research.  Result Reports are short papers summarizing preliminary results of early-stage research. They should objectively report the addressed question, applied methods, and obtained results. Papers on unexpected results or ineffective methods are particularly welcome. Result Reports have 3-6 pages, co-authors are allowed, the work must be previously unpublished.
+- Master summaries: are short papers summarizing the research question, method, and results of your impactful Master's thesis together with a discussion about possible next research steps. They are ideal for new and future PhD students to communicate their thesis results.  Master reports have 2-3 pages, an experienced supervisor should be a co-author, and results may have been published previously if appropriately referenced. Indicate if also submitted to iFM2024.
+  All submissions will be reviewed and accepted papers will be made publicly available in open-access online symposium proceedings.
+* SUBMISSION GUIDELINES
+  Multiple submissions by one author are not permitted. Submissions must be written in English and follow the CEUR-WS single-column formatting guidelines, available at: http://ceur-ws.org/Vol-XXX/CEURART.zip, or on overleaf https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw
+  Please submit your contribution electronically in PDF via the EasyChair page: https://easychair.org/conferences/?conf=ifm2024phd
+  All submissions will be peer reviewed, and will be evaluated based on their clarity and their potential to generate interesting discussions. Authors will get valuable feedback from more experienced reviewers. All types of contributions will benefit from feedback received during a dicussion at the workshop. Reviewing will be single blind, i.e, submissions need not be anonymized.
+* IMPORTANT DATES
+ -dh Paper submission deadline: 23 Aug 2024
+ -d Acceptance notification: 22 Sep 2024
+ -d Camera-ready version deadline: 7 Oct 2024 (AoE)
+ -d Symposium date: 12 Nov 2024
+* PROGRAMME COMMITTEE
+  - Erika Abraham, RWTH Aachen, Germany
+  - Ștefan Ciobâcă, UAIC Iași, Romania
+  - Mădălina Eraşcu, West University of Timisoara, Romania (co‑chair)
+  - Grigory Fedyukovich, Floria State University, USA
+  - Asmae Heydari Tabar, TU Darmstadt, Germany
+  - Eduard Kamburjan, University of Oslo, Norway
+  - Ondrej Lengal, Brno University of Technology, Czech Republic
+  - Philipp Rümmer, University of Regensburg, Germany
+  - Mattias Ulbrich, Karlsruhe Institute of Technology, Germany (co‑chair)
+  Further information available on the web page: https://ifm2024.cs.manchester.ac.uk/phd-symposium.html
+
+  
+  
+  
+  
+  
+  
+  
+University Assistant TU WIEN
+JOB ANNOUNCEMENT
+* Institute of Logic and Computation, Research Unit Formal Methods in Systems Engineering 30 hours/week, limited to four years, estimated starting date is September 2024. The vacancy is advertised in German, as German skills are required due to teaching responsibilities. Details: https://jobs.tuwien.ac.at/Job/236978
+  -dh Application deadline: August 8, 2024
+
+
+
+
+  
+  
+
+
+CAV AWARD 2024
+AWARD
+* We are pleased to announce that the Computer Aided Verification (CAV) 2024 Award is given to: Clark Barrett, David Dill, Kyle Julian, Guy Katz, and Mykel Kochenderfer for their CAV 2017 paper titled “Reluplex: An Efficient SMT Solver for Verifying Deep Neural Networks”. 
+  Deep neural networks are a state-of-the-art machine learning technology, which has become dominant in many areas within computer science. In a groundbreaking CAV 2017 paper, titled “Reluplex: An Efficient SMT Solver for Verifying Deep Neural Networks”, the authors, Clark Barrett, David Dill, Kyle Julian, Guy Katz, and Mykel Kochenderfer, developed a novel SMT-based algorithm, Reluplex, for verifying deep neural networks. The original algorithm was written to help verify the “Airborne Collision-Avoidance System for drone” system (ACAS-Xu).  Through Reluplex, the authors demonstrated, for the first time, that real-world neural networks could be verified. Reluplex could tackle neural networks that were over an order-of-magnitude larger as compared to previous verification techniques. 
+  The Reluplex work had an immense impact on formal methods research, by creating a  highly active sub-field within the verification community, which is now center-stage in every major verification conference and is also subject to an annual competition dedicated specifically to the verification of neural networks (VNN-COMP). The Reluplex algorithm has been extended and enhanced, by the authors and by others, and the original paper has already accumulated more than 2000 citations (as of May 2024) – making it one of the most well-cited CAV papers in the past decades. Following their initial work, the authors continue to play a key role in solidifying the field of neural network verification.
+  For more information please check: https://i-cav.org/2024/cav-award/
+  The CAV Award Committee:
+  - Corina Pasareanu (Chair), NASA
+  - Rupak Majumdar, MPI-SWS
+  - Ranjit Jhala, University of California, San Diego
+  - Alessandro Cimatti, Fondazione Bruno Kessler
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+
