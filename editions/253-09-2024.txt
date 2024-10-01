@@ -1,0 +1,65 @@
+-dd September 1, 2024
+
+
+ -dM CPP 2025:	Sep 10, 2024 (Abstract Submission Deadline), Sep 17, 2024 (Paper Submission Deadline)
+ -dM FSEN 2025:	Oct 07, 2024 (Abstract Submission), Oct 14, 2024 (Paper Submission)
+ 
+ 
+ 
+ 
+
+LPNMR 2024: 17th International Conference on Logic Programming and Non-monotonic Reasoning
+  October 11-14, 2024 Dallas, Texas, USA 
+  https://lpnmr2024.demacs.unical.it/
+CALL FOR PARTICIPATION
+* AIMS AND SCOPE
+  LPNMR 2024 is the seventeenth in the series of international meetings on logic programming and non-monotonic reasoning. LPNMR is a forum for exchanging ideas on declarative logic programming, non-monotonic reasoning, and knowledge representation. The aim of the conference is to facilitate interactions between researchers and practitioners interested in the design and implementation of logic-based programming languages and database systems, and those working in knowledge representation and non-monotonic reasoning. LPNMR strives to encompass theoretical and experimental studies that have led or will lead to advances in declarative programming and knowledge representation, as well as their use in practical applications. A Doctoral Consortium will also be a part of the program.
+* LPNMR 2024 aims to bring together researchers from LPNMR core areas and application areas of  the aforementioned kind in order to share research experiences, promote collaboration and identify directions for joint future research. LPNMR 2024 is co-located with ICLP 2024.
+* REGISTRATION
+  -dh Early registration: September 12th, 2024
+  Early registration deadline is September 12th, 2024. For more information, visit: https://www.iclp24.utdallas.edu/registration/ We remind that at least one author of each accepted paper must early register in order to have the paper included in the proceedings. A discounted fee is available for participants attending both LPNMR and ICLP.
+* Accepted papers are available at: https://lpnmr2024.demacs.unical.it/programme/accepted-papers A tentative schedule is available at: https://lpnmr2024.demacs.unical.it/programme/schedule
+* INVITED SPEAKERS
+  - October 12, Veronica Dahl
+  - October 13, Torsten Schaub
+  - October 14, Moshe Vardi
+* LPNMR 2024 will be held on the campus of the University of Texas at Dallas in October 2024. Dallas, part of the Dallas/Fort-Worth metroplex, is a dynamic city with great tourist attractions. Renowned for its unique blend of modernity and rich cultural heritage, Dallas offers an array of attractions for visitors: from diverse range of museums, such as the Dallas Museum of Art and the Perot Museum of Nature and Science, to the Fort Worth Stockyards that feature the Cattle Drive (twice daily). Dallas boasts a thriving culinary scene, from sizzling steakhouses to trendy food trucks, to authentic Tex-Mex cuisine. With a wealth of entertainment options, including shopping districts, live music venues, and sports events, a visit to Dallas is a memorable experience. The conference will be held as an in-person event.
+  - GENERAL CHAIR: Gopal Gupta, The University of Texas at Dallas
+  - PROGRAM CHAIRS: Carmine Dodaro, University of Calabria, Italy, and  M. Vanina Martinez, IIIA-CSIC, Spain
+  - PUBLICITY CHAIR: Giuseppe Mazzotta, University of Calabria, Italy
+  - WORKSHOPS CHAIR: Gerardo Simari, Universidad Nacional del Sur, Argentina
+  - DOCTORAL CONSORTIUM CHAIRS: Francesco Fabiano, New Mexico State University, and Martin Gebser, University of Klagenfurt, Austria   
+
+
+
+
+ADT 2024: The 8th International Conference on Algorithmic Decision Theory
+  October 14 - 16, Rutgers University, Piscataway, NJ
+  https://preflib.github.io/adt2024/
+CALL FOR PARTICIPATION
+* The 8th International Conference on Algorithmic Decision Theory (ADT 2024; https://preflib.github.io/adt2024/) will take place October 14 - 16, at the Center for Discrete Mathematics and Theoretical Computer Science (DIMACS) at Rutgers University, Piscataway, NJ.
+* Registration: A link to the registration portal is available at the conference website: https://preflib.github.io/adt2024/attending/. The early registration deadline is September 13, after which fees will increase.
+ -dh Early registration: 13 September, 2024
+* Aims and Scope: The 8th International Conference on Algorithmic Decision Theory (ADT 2024) focuses on algorithmic decision theory broadly defined, seeking to bring together researchers and practitioners coming from diverse areas of Computer Science, Economics, and Operations Research in order to improve the theory and practice of modern decision support. The conference topics include research in: preference modeling and elicitation, voting, preference aggregation, fair division and resource allocation, coalition formation, game theory, and matching.
+* Invited Talks: We have three great invited speakers lined up - Tracy Liu, Jenn Wortman Vaughan, and Hervé Moulin.
+* Program: A schedule overview is available at the conference website: https://preflib.github.io/adt2024/program/. A detailed program will be available soon.
+* Call for Posters: ADT 2024 will hold a poster session on the evening of October 14th, along with the welcome reception for the conference. To submit a poster, please complete the following short form by September 13th: https://forms.gle/3aq7E5VS4oPKHzXD7.
+
+
+
+ 
+PhD position: TU Wien, Faculty of Informatics, Vienna
+JOB ANNOUNCEMENT
+* Institute of Logic and Computation, Research Unit Theory and Logic project AXAIS (“Acquiring and explaining norms for AI systems”) 30 hours/week, limited to four years, project starting date is December 2024. Details: https://www.vcla.at/2024/08/phd-position-at-tu-wien-axais-project/
+ -dh Application deadline: October 1, 2024
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+

@@ -1,0 +1,102 @@
+-dd September 1, 2024
+
+ -dM FSEN 2025:	Oct 07, 2024 (Abstract Submission), Oct 14, 2024 (Paper Submission)
+ 
+ 
+ 
+ 
+
+
+LICS 2025: LOGIC IN COMPUTER SCIENCE  
+  Singapore, June 2025
+  https://lics.siglog.org/lics25
+  https://lics.siglog.org/lics25/cfp.php
+  https://lics.siglog.org/lics25/cfw.php
+  Conference: 23-26 June 2025.
+  Workshops: 27 and 28 June 2025.
+CALL FOR PAPERS -s SIGLOG MATTER
+* SCOPE
+  The LICS Symposium is an annual international forum on theoretical and practical topics in computer science that relate to logic, broadly constructed. We invite submissions on topics that fit under that rubric. Suggested, but not exclusive, topics of interest include: automata theory, automated deduction, categorical models and logics, concurrency and distributed computation, constraint programming, constructive mathematics, database theory, decision procedures, description logics, domain theory, finite model theory, formal aspects of program analysis, formal methods, foundations of computability, foundations of probabilistic, real-time and hybrid systems, games and logic, higher-order logic, knowledge representation and reasoning, lambda and combinatory calculi, linear logic, logic programming, logical aspects of AI, logical aspects of bioinformatics, logical aspects of computational complexity, logical aspects of quantum computation, logical frameworks, logics of programs, modal and temporal logics, model checking, process calculi, programming language semantics, proof theory, reasoning about security and privacy, rewriting, type systems, type theory, and verification. 
+* IMPORTANT DATES
+  Authors are required to submit a paper title and a short abstract of about 100 words in advance of submitting the full paper. The exact deadline time on these dates is anywhere on earth (AoE).
+ -dh Abstract submission: 16 January 2025
+ -dh Full Papers: 23 January 2025
+ -dv Author Feedback/Rebuttal Period: Mar 17-20 2025
+ -d Author Notification: 8 April 2025
+ -dv Conference: June 23-26, 2025.
+ -dv Workshops: June 27-28, 2025.
+  All dates are AoE. Submission deadlines are firm; late submissions will not be considered. All submissions will be electronic via easychair.
+* PAPER SUBMISSION INSTRUCTIONS
+  Submissions should use IEEE Proceedings 2-column 10pt format and may be at most 12 pages, excluding references. Formatting instructions, latex style files and further submission information is at https://lics.siglog.org/lics25/cfp.php. LICS 2025 will use a lightweight double-blind reviewing process. Please see the website for further details and requirements from the double-blind process.
+  The official publication date may differ from the first day of the conference. The official publication date may affect the deadline for any patent filings related to published work. We will clarify the official publication date in due course.
+* Programme chairs: Lars Birkedal and Barbara König.
+
+
+
+
+LICS 2025 WORKSHOPS  
+  Singapore, June 2025
+  https://lics.siglog.org/lics25
+  https://lics.siglog.org/lics25/cfp.php
+  https://lics.siglog.org/lics25/cfw.php
+  Conference: 23-26 June 2025.
+  Workshops: 27 and 28 June 2025.
+CALL FOR wORKSHOPS -s SIGLOG MATTER
+* We invite proposals for workshops on topics of interest to the LICS conference. Typically, LICS workshops feature a number of invited speakers and a number of contributed presentations. LICS workshops do not usually produce formal proceedings. However, in the past there have been special issues of journals based in part on certain LICS workshops. The conference will provide a room, internet connection and help with some local organization. The workshops selection committee consists of the LICS Workshops Chair (Valentin Blot), the LICS General Chair, the LICS PC Chairs and the LICS Conference Chairs.
+* IMPORTANT DATES FOR WORKSHOPS:
+ -dh Submission of workshop proposals:       November 30, 2024
+ -d Notification of the accepted workshops: December, 2024
+ -d Program of the workshops ready:         May 26, 2025
+ -dv Conference: June 23-26, 2025.
+ -dv Workshops: June 27-28, 2025.
+* Proposals must be limited to three pages, should be submitted to lics25-workshops at valentinblot.org and should include:
+ - Workshop's name and URL if already available or from previous years
+ - A short scientific summary and justification of the proposed topic; this should include a discussion of the particular benefits of the topic to the LICS community
+ - A list of workshop organizers with contact information
+ - Potential invited speakers (how many you would expect and, if possible, tentative names)
+ - Procedures for selecting presentations (if you plan a call for contributed talks or papers followed by a selection procedure, the submission date should be scheduled after the conference's notification date - Apr 8, 2025 - and the notification should take place before the early registration deadline - late April / early May)
+ - Plans for dissemination, if any (e.g. proceeding, journal special issue, etc.)
+ - Proposed format and agenda (e.g. paper presentations, tutorials, demo sessions)
+ - The proposed duration (e.g. 1/2, 1, 2 day(s))
+ - Expected number of participants, providing some data on previous years, if the workshop has already been organised in the past.
+
+
+
+
+ADT 2024: 8th International Conference on Algorithmic Decision Theory
+  October 14 - 16, Rutgers University, Piscataway, NJ
+  https://preflib.github.io/adt2024/
+CALL FOR PARTICIPATION
+* The 8th International Conference on Algorithmic Decision Theory (ADT 2024; https://preflib.github.io/adt2024/) will take place October 14 - 16, at the Center for Discrete Mathematics and Theoretical Computer Science (DIMACS) at Rutgers University, Piscataway, NJ.
+* Registration: A link to the registration portal is available at the conference website: https://preflib.github.io/adt2024/attending/. The early registration deadline is September 13, after which fees will increase.
+ -dh Late registration: 14 October, 2024
+* Aims and Scope: The 8th International Conference on Algorithmic Decision Theory (ADT 2024) focuses on algorithmic decision theory broadly defined, seeking to bring together researchers and practitioners coming from diverse areas of Computer Science, Economics, and Operations Research in order to improve the theory and practice of modern decision support. The conference topics include research in: preference modeling and elicitation, voting, preference aggregation, fair division and resource allocation, coalition formation, game theory, and matching.
+* Invited Talks: We have three great invited speakers lined up - Tracy Liu, Jenn Wortman Vaughan, and Hervé Moulin.
+* Program: A schedule overview is available at the conference website: https://preflib.github.io/adt2024/program/. A detailed program will be available soon.
+* Call for Posters: ADT 2024 will hold a poster session on the evening of October 14th, along with the welcome reception for the conference. To submit a poster, please complete the following short form by September 13th: https://forms.gle/3aq7E5VS4oPKHzXD7.
+
+
+
+PHD & POSTDOC positions: Cluster of Excellence "Bilateral AI"
+  Austrian Science Fund (FWF)
+JOB ANNOUNCEMENT
+* The recently established Cluster of Excellence CoE Bilateral Artificial Intelligence (BILAI), funded by the Austrian Science Fund (FWF), is are looking for more than 50 PhD students and 10 Post-Doc researchers (m/f/d) to join their team at one of the six leading research institutions across Austria (see below).
+* In BILAI, major Austrian players in Artificial Intelligence (AI) are teaming up to work towards Broad AI. As opposed to Narrow AI, which is characterized by task-specific skills, Broad AI seeks to address a wide array of problems, rather than being limited to a single task or domain. To develop its foundations, BILAI employs a Bilateral AI approach, effectively combining sub-symbolic AI (neural networks and machine learning) with symbolic AI (logic, knowledge representation, and reasoning) in various ways. Harnessing the full potential of both symbolic and sub-symbolic approaches can open new avenues for AI, enhancing its ability to solve novel problems, adapt to diverse environments, improve reasoning skills, and increase efficiency in computation and data use. These key features enable a broad range of applications for Broad AI, from drug development and medicine to planning and scheduling, autonomous traffic management, and recommendation systems. Prioritizing fairness, transparency, and explainability, the development of Broad AI is crucial for addressing ethical concerns and ensuring a positive impact on society.
+* The research team is committed to cross-disciplinary work in order to provide theory and models for future AI and deployment to applications.
+* CoE Research Institutions:
+  - Johannes Kepler Universität Linz (JKU Linz)
+  - Technische Universität Wien (TU Wien)
+  - Alpen-Adria-Universität Klagenfurt (AAU)
+  - Institute of Science and Technology Austria (ISTA)
+  - Technische Universität Graz (TU Graz)
+  - Wirtschaftsuniversität Wien (WU Wien)
+* The call for applications is available at https://www.bilateral-ai.net/jobs/.
+
+
+
+
+
+
+
+
+
