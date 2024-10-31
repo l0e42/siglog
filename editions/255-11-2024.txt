@@ -1,0 +1,169 @@
+-dd November 1, 2024
+
+ -dM LICS 2025 WORKSHOPS:	Nov 30, 2024 (Submission of workshop proposals)
+ -dM LICS 2025:	Jan 16, 2025 (Abstract), Jan 23, 2025 (Full Papers)
+
+
+CiE 2025: Computability in Europe 2025 
+  Crossroads of Computability and Logic: Insights, Inspirations, and Innovations
+  Lisbon, Portugal, July 14-18, 2025
+  https://bit.ly/CIE2025
+CALL FOR PAPERS
+* IMPORTANT DATES (AOE):
+ -dh Abstract submission:  Jan 26, 2025
+ -dh Full paper submission: Feb 2, 2025
+ -d Notification of acceptance: Apr 6, 2025
+ -d Final versions due: Apr 13, 2025
+ -d Informal presentations submission: Apr 22, 2025
+ -d Early registration before: May 6, 2025
+ -dv Conference: July 14-18, 2025
+  The notifications of acceptance for informal presentations will be sent a few days after submission.
+* GENERAL INFORMATION
+  CiE 2025 will be the 21st conference organized by CiE (Computability in Europe). CiE is a European association of mathematicians, logicians, computer scientists, philosophers, physicists and others interested in new developments in computability and their underlying significance for the real world.
+* TUTORIAL SPEAKERS
+ - Maria Paola Bonacina (University of Verona)
+ - Igor Carboni Oliveira (University of Warwick)
+* INVITED SPEAKERS
+ - Ugo Dal Lago (University of Bologna)
+ - Daniel Graça (University of Algarve)
+ - Ekaterina Komendantskaya (University of Southampton)
+ - Ng Keng Meng (Nanyang Technological University)
+ - Paulo Oliva (Queen Mary University of London)
+ - Ana Sokolova (University of Salzburg)
+* SPECIAL SESSIONS
+  There will be 6 special sessions, details will be announced soon.
+* CONFERENCE TOPICS
+  The CiE conferences serve as an interdisciplinary forum for research in all aspects of computability, foundations of computer science, logic, and theoretical computer science, as well as the interplay of these areas with practical issues in computer science and with other disciplines such as biology, mathematics, philosophy, or physics.
+* PAPER SUBMISSION
+ The Program Committee cordially invites all researchers, European and non-European, to submit their papers in all areas related to the above for presentation at the conference and inclusion in the proceedings of CiE 2025 at https://easychair.org/my/conference?conf=cie2025.
+* CONFERENCE PROCEEDINGS
+  Papers submitted to the conference proceedings should represent original work, not simultaneously submitted to another journal or conference with formal proceedings. The Program Committee will rigorously review and select submitted papers. Accepted papers will be published as a proceedings volume in the Lecture Notes in Computer Science (LNCS) series from Springer-Verlag. Papers to be considered in the conferences proceedings must be submitted in PDF format, using the LNCS style (available at https://www.springer.com/gp/) and must have a maximum of 15 pages, including references but excluding a possible appendix in which one can include proofs and other additional material. Papers building bridges between different parts of the research community are particularly welcome.
+* INFORMAL PRESENTATIONS
+  Continuing the tradition of past CiE conferences, we invite researchers to present informal presentations of their recent work. A proposal for an informal presentation must be submitted via our submission link: https://easychair.org/my/, using the LNCS style file (available at https://www.springer.com/gp/), and be 1 page long; a brief description of the results suffices and an abstract is not required. Informal presentations will not be published in the LNCS conference proceedings. Results presented as informal presentations at CiE 2025 may appear or may have appeared in other conferences with formal proceedings and/or in journals.
+* WOMEN IN COMPUTABILITY
+  We intend to run the Women in Computability program as in previous CiEs, details will be announced in due course.
+* HOSTED BY
+  The event will be held in the Faculdade de Ciências buildings located at University of Lisbon.
+
+
+
+
+
+CAV 2025: 37th International Conference on Computer-Aided Verification
+  July 21-25, 2025, Zagreb, Croatia
+  https://conferences.i-cav.org/2025/cfp/
+CALL FOR PAPERS
+* CONFERENCE
+  CAV 2025 is the 37th in a series dedicated to the advancement of the theory and practice of computer-aided formal analysis methods for hardware and software systems. The conference covers the spectrum from theoretical results to concrete applications, with an emphasis on practical verification tools and the algorithms and techniques that are needed for their implementation. CAV considers it vital to continue spurring advances in hardware and software verification while expanding to new domains such as machine learning, autonomous systems, and computer security. The proceedings of the conference will be published in the Springer-Verlag Lecture Notes in Computer Science series. A selection of papers is expected to be invited to a special issue of Formal Methods in System Design and the Journal of the ACM.
+* IMPORTANT DATES (AoE)
+ -dh Full paper submission: January 31, 2025
+ -dv Author Response Period: March 11 - 14, 2025
+ -d Author notification: April 2, 2025
+ -dv Main Conference: July 21-25, 2025
+* TOPICS & SUBMISSION
+  For a full list of topic and submission instructions please check https://conferences.i-cav.org/2025/cfp/
+* CAV AWARD
+  The CAV award is given annually at the CAV conference for fundamental contributions to the field of Computer-Aided Verification. 
+ -d CAV Award Nomination deadline: TBA
+  Nominations should include a proposed citation (up to 25 words), a succinct (100-250 words) description of the contribution(s), and a detailed statement to justify the nomination. The cited contribution(s) must have been made not more recently than five years ago and not over twenty five years ago. In addition, the contribution(s) should not yet have received recognition via a major award, such as the ACM Turing or Kanellakis Awards. The nominee may have received such an award for other contributions. For previous winners of the award, please see the main CAV award page: https://i-cav.org/cav-award/.  Nominations should be submitted by e-mail to a member of the committee. For details, please see https://conferences.i-cav.org/2025/award/.
+* CONTACT (CONFERENCE CO-CHAIRS)
+  For any questions please contact the PC chairs:
+  - Ruzica Piskac (ruzica.piskac at yale.edu)    
+  - Zvonimir Rakamaric (zrakamar at gmail.com)
+
+
+
+
+
+
+FSCD 2025:  Tenth International Conference on Formal Structures for Computation and Deduction
+  14-20 July 2025, Birmingham, UK
+  https://fscd-conference.org/2025/
+CALL FOR PAPERS
+* FSCD (https://fscd-conference.org/) covers all aspects of formal structures for computation and deduction, from theoretical foundations to applications. Building on two communities, RTA (Rewriting Techniques and Applications) and TLCA (Typed Lambda Calculi and Applications), FSCD embraces their core topics and broadens their scope to closely related areas in logic, models of computation, semantics and verification in new challenging areas.                   
+* IMPORTANT DATES
+  All deadlines are midnight anywhere-on-earth (AoE); late submissions will not be considered.
+ -dh Abstract submission: 10 February 2025
+ -dh Full paper submission: 17 February 2025
+ -dv Rebuttal: April 7-11, 2025
+ -d Notification: 30 April 2025
+ -d Final version: 14 May 2025
+  For a full list of topics please check https://fscd2025.github.io/cfp.htm
+* PUBLICATION
+  The proceedings will be published as an electronic volume in the Leibniz International Proceedings in Informatics (LIPIcs) of Schloss Dagstuhl. All LIPIcs proceedings are open access.
+* SPECIAL ISSUE
+  There will be a special issue of Logical Methods in Computer Science of selected papers. More details will be provided later.
+* SUBMISSION GUIDELINES
+  The submission site is: https://easychair.org/conferences/?conf=fscd2025 . Submissions must be formatted using the LIPIcs style files (https://submission.dagstuhl.de/series/details/5#author) and submitted via EasyChair.
+* Submissions can be made in two categories: regular research papers and system descriptions. Please indicate in the submission page in Easychair and in the first page of the paper in which category you are submitting. Regular research papers are limited to 15 pages, excluding references and appendices. They must present original research which is unpublished and not submitted elsewhere. System descriptions are limited to 15 pages, excluding references. Shorter papers are welcome and will be given equal consideration. A system description must present new software tools, or significantly new versions of such tools, in which FSCD topics play an important role. An archive of the code with instructions on how to install and run the tool must be submitted. In addition, a webpage where the system can be experimented with should be provided.
+* One author of each accepted paper is expected to register and present the work in person at the conference. In case that this is not possible for some unforeseen reason, online presentation will be arranged, but in person registration will still be required.
+* BEST PAPER AWARD BY JUNIOR RESEARCHERS
+  The programme committee will select a paper in which at least one author is a junior researcher, i.e. either a student or whose PhD award date is less than three years from the first day of the meeting. When submitting the paper, other authors should declare to the PC Chair that at least 50% of contribution is made by the junior researcher(s).
+* PROGRAMME COMMITTEE CHAIR
+  -Maribel Fernandez, King's College London, UK Email: fscd2025@easychair.org
+* CONFERENCE AND LOCAL WORKSHOPS CHAIRS
+  - Paul Blain Levy, University of Birmingham, UK
+  - Anupam Das, University of Birmingham, UK
+
+
+
+DEON 2025: 17th International Conference on Deontic Logic and Normative Systems
+  30 June – 3 July 2025
+  TU Wien, Vienna, Austria
+CALL FOR PAPERS
+* The biennial International Conference on Deontic Logic and Normative Systems (DEON) conference series aims at bringing together researchers interested in the formal study of normative concepts, normative reasoning, and normative systems using methods from computer science, artificial intelligence, philosophy, linguistics, mathematics, and law.
+* IMPORTANT DATES
+  -dh Abstract submission deadline:  March 01, 2025
+  -dh Paper submission deadline:    March 08, 2025 
+  Please submit electronically using the EasyChair submission page. For more information, please visit https://sites.google.com/view/deon-2025/home
+
+
+
+FSCD 2025 WORKSHOPS
+  14-20 July 2025, Birmingham, UK
+  https://fscd-conference.org/2025/                       
+CALL FOR WORKSHOPS
+* IMPORTANT DATES
+  All deadlines are midnight anywhere-on-earth (AoE).
+ -dh Workshop proposal:    12 December 2024
+ -d Notification:         Late January 2025
+ -d Workshop programmes:  31 May 2025
+ -dv FSCD 2025 Workshops:  July 14 and 19-20, 2025
+* OVERVIEW
+  FSCD 2025 will take place in Birmingham from 14th to 20th July. We invite proposals for workshops on topics of interest to the FSCD community.
+* Proposals should include:
+ - Workshop's name and URL if already available or from previous years.
+ - A short scientific summary and justification of the proposed topic; this should include a discussion of the particular benefits of any topic related to FSCD.
+ - A list of workshop organisers with contact information. 
+ - Potential invited speakers (please specify expected number and, if possible, tentative names)
+ - Procedures for selecting presentations (if you plan a call for contributed talks or papers followed by a selection procedure, the submission date should be scheduled after the FSCD notification date, while the notification should take place before the early registration deadline).
+ - Plans for publication, if any (e.g. proceeding, journal special issue, etc.)
+ - Proposed format and agenda (e.g. paper presentations, tutorials, demo sessions).
+ - The proposed duration (1 day or 2 days).
+ - Expected number of participants, providing some data on previous years, if the workshop has already been organised in the past.
+ - Any other relevant information and special wishes regarding the schedule (e.g. specific dates, workshops that should (not) be planned on the same day).
+* LOCAL SUPPORT
+  The conference organisers will provide a room, internet connection, coffee breaks, lunches and help with some local organisation.
+* SUBMISSION
+  Proposals must be submitted as a PDF of *at most three pages*, not including references by email to: fscd2025@gmail.com . The workshop committee will determine the final list of accepted workshops based on thematic pertinence and time/space availability.
+* WORKSHOP COMMITTEE
+ - Paul Blain Levy (University of Birmingham, UK)
+ - Anupam Das (University of Birmingham, UK)
+ - Cynthia Kop (Radboud University Nijmegen, Netherlands)
+
+
+
+
+University Assistant (Prae-Doc): TU Wien, Faculty of Informatics, Vienna
+JOB ANNOUNCEMENT
+* At the Institute of Logic and Computation, Research Unit Theory and Logic, Cluster of Excellence “Bilateral AI” . Project “AI Alignment and Dialogues” under the supervision of Kees van Berkel. 40 hours/week, limited to four years, estimated starting date is December 2024 / January 2025 . Details: https://jobs.tuwien.ac.at/Job/241947
+ -dh Application deadline: November 28, 2024
+
+
+
+
+
+
+
+
+
