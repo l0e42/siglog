@@ -1,0 +1,195 @@
+-dd December 1, 2024
+
+
+
+ -dM SCD 2025 WORKSHOPS: Dec 12, 2024 (Workshop proposal)
+ -dM LICS 2025:	Jan 16, 2025 (Abstract), Jan 23, 2025 (Full Papers)
+ -dM CiE 2025:	Jan 26, 2025 (Abstract), Feb 02, 2025 (Full paper)
+ -dM CAV 2025:	Jan 31, 2025 (Full paper)
+ -dM FSCD 2025:	Feb 10, 2025 (Abstract), Feb 17, 2025 (Full paper)
+ -dM DEON 2025:	Mar 01, 2025 (Abstract deadline), Mar 08, 2025 (Paper deadline)
+
+
+
+ANNOUNCEMENT
+Appeal to support SIGLOG, the LICS sponsor -s SIGLOG MATTER
+* Dear LICS colleagues,
+* This message addresses an important and timely subject concerning the sustainability of SIGLOG within ACM.
+* As some of you may already know, in 2022, ACM made the decision to increase the management fee (overhead) for its Special Interest Groups (SIGs), a fee that had remained steady for years. For smaller SIGs like ours, the minimum overhead increased from USD 10,000 to USD 25,000 annually. This change has significantly impacted SIGLOG's finances, and if we cannot find a way to pay the fee, we will be obliged to either merge SIGLOG with another SIG (the best choice, probably, would be SIGPLAN) or de-charter it altogether. 
+* We requested additional time from ACM to explore ways of securing the financial foundation necessary to keep SIGLOG independent. We explained that our plan includes to seek increased industry sponsorship, grow our membership, and conduct fundraising activities at LICS and other events. ACM responded positively, SIGLOG now has until July 31, 2025, to develop a concrete, viable financial plan.
+* As a first step, we would like to ask you for support. This is not only a financial matter: to ensure our strength as a committed SIG, we need to increase our membership numbers. While the LICS community comprises around 2,600 people, SIGLOG currently has only about 200 members. We strongly encourage all LICS members to join SIGLOG. The membership fee is very affordable -- just 25 USD, a rate that has remained unchanged since the start of SIGLOG. We plan to maintain this rate, at least for students and early-career researchers, to support inclusivity.
+* Another goal is to promote industry sponsorship. Many in our community have strong connections with industry partners, and securing initial sponsorship would provide vital support as we work toward more stable, long-term financial solutions. If you have connections who might be interested in supporting SIGLOG, now is the time to reach out and explore potential sponsorship opportunities.
+* Finally, we invite your engagement, ideas, and shared experiences to help us build a sustainable future for SIGLOG. Your support is essential in ensuring that SIGLOG continues to exist as an independent entity dedicated to Logic.
+* Thank you very much for your time and consideration. 
+* P.s. The SIGLOG web page is here: https://siglog.org/, and the instructions to join SIGLOG are here:  https://siglog.org/membership/. Note that you don't need to have a separate ACM membership in order to subscribe to SIGLOG.
+* Best regards, Catuscia Palamidessi SIGLOG's chair, Also on behalf of the SIGLOG EC. 
+
+
+
+
+DisCoTec 2025: 20th International Federated Conference on Distributed Computing Techniques
+  Lille, France, 16-20 June 2025
+  https://www.discotec.org/2025
+CALL FOR PAPERS
+* DisCoTec 2025 is one of the major events sponsored by the International Federation for Information Processing (IFIP) and the European Association for Programming Languages and Systems (EAPLS). It gathers conferences and satellite events that cover a broad spectrum of distributed computing subjects — from theoretical foundations and formal description techniques, testing and verification methods, to language design and system implementation approaches.
+* MAIN CONFERENCES 
+  - COORDINATION (https://www.discotec.org/2025/coordination): 27rd International Conference on Coordination Models and Languages.  PC Chairs: Cinzia Di Giusto (Université Côte d’Azur, FR) and António Ravara (NOVA School of Science and Technology, PT)
+  - DAIS (https://www.discotec.org/2025/dais): 25st International Conference on Distributed Applications and Interoperable Systems. PC Chairs: Daniel Balouek (INRIA, FR) and Ibéria Medeiros (University of Lisbon, PT)
+ - FORTE (https://www.discotec.org/2025/forte): 45st International Conference on Formal Techniques for Distributed Objects, Components and Systems. PC Chairs: Carla Ferreira (NOVA University of Lisbon, PT) and Claudio A. Mezzina (University of Urbino, IT)
+* DisCoTec 2025 is organised by Inria Lille and the University of Lille. It will be hosted by Polytech Lille.
+* NEW: ACCOMODATIONS FOR PARENTS OF YOUNG CHILDREN
+  Subject to budget availability, we are planning to make special logistical arrangements for conference participants travelling with young children (and potentially accompanying persons). We invite interested persons to contact the General Chair (simon.bliudze@inria.fr), as soon as possible to discuss the arrangements that might be applicable.
+* KEYNOTE SPEAKERS 
+  - Alysson Bessani (Universidade de Lisboa, Portugal)
+  - Hélène Coullon (IMT Atlantique, France)
+  - Omar Inverso (GSSI, Italy)
+  - Burcu Ozkan (TU Delft, The Netherlands)
+* IMPORTANT DATES (for all main conferences). 
+ -dh Abstract submission: 31 January 2025
+ -dh Paper submission: 7 February 2025
+ -d Paper notification: 28 March 2025
+ -d Camera-ready: 23 April 2025 (TBC)
+ -dv DisCoTec conference: June 16-20, 2025
+ All deadlines expire at 23:59 anywhere on earth.
+*   See each conference site for topics of interest, paper categories, and submission instructions.
+* PROCEEDINGS 
+  Main conference proceedings will be published as volumes in the Springer LNCS-IFIP series. The volumes will be open access from the IFIP digital library after a 3-year embargo.
+* Journal Special Issues *
+  Selected papers accepted at the main conferences will be invited for submission to special issues in high-quality journals, such as:
+  - Logical Methods in Computer Science
+  - Science of Computer Programming (Software Track).
+
+
+
+
+SPIN 2015: 31st International Symposium on Model Checking Software
+  https://spin-web.github.io/SPIN2025/
+  7 - 8 May 2025
+  co-located with ETAPS 2025, Hamilton, Canada
+CALL FOR PAPERS
+* OVERVIEW
+  The SPIN symposium aims at bringing together researchers and practitioners interested in automated tool-based techniques for the analysis of software as well as models of software, for the purpose of verification and validation. The symposium specifically focuses on concurrent software but does not exclude the analysis of sequential software. Submissions are solicited on theoretical results, novel algorithms, tool development, and empirical evaluation. 
+* The SPIN symposium originated as a workshop focusing on explicit state model checking, specifically as related to the SPIN model checker. However, over the years it has evolved to a broadly-scoped symposium for software analysis using any automated techniques, including model checking, automated theorem proving, and symbolic execution. An overview of the previous SPIN symposia (and early workshops) can be found at: https://spinroot.com/spin/Workshops/.
+* A full list of the topics of interest can be found at https://spin-web.github.io/SPIN2025/cfp together with submission instructions and details. 
+* IMPORTANT DATES: 
+ -dh Paper Submission:                     13 Feb 2025
+ -dh Artifact Submission (Tool Papers):    27 Feb 2025
+ -d Paper/Artifact Notifications:         24 Mar 2025
+ -d Artifact Submission (Other Papers):   12 Mar 2025
+ -d Non-tool Paper Artifact Notification: 1 May 2025
+ -dv Symposium:   May 7-8, 2025
+* ARTIFACT EVALUATION:
+  SPIN 2025 will feature artifact evaluation, performed by an Artifact Evaluation Committee (AEC). The AEC evaluates artifacts based on documentation, availability, reproducibility of results, and tool reusability (if applicable). Artifact submission is mandatory for Full Tool Papers. While artifact submission is optional for papers in other categories, we highly encourage authors of papers involving tool development and empirical evaluation to submit an artifact for evaluation. Papers with an accompanying artifact may be awarded one or more badges from the EAPLS artifact badging scheme (https://eapls.org/pages/artifact_badges/). More details can be found at: https://spin-web.github.io/SPIN2025/artifacts .
+* KEYNOTE SPEAKERS:  
+  - Alexandre Duret-Lutz (EPITA Research Laboratory (LRE))
+  - Orna Grumberg (Technion, Israel)
+* PC CHAIRS:
+  - Gidon Ernst (Ludwig-Maximilians-Universität München)
+  - Kristin Yvonne Rozier (Iowa State University) 
+* This edition of SPIN will include artifact evaluation, cf. https://spin-web.github.io/SPIN2025/artifacts. We are now forming an Artifact Evaluation Committee headed by our artifact evaluation chairs:
+  - Julie Cailler (University of Lorraine & Inria, France)
+  - Nian-Ze Lee (LMU Munich / National Taiwan University)
+* If you have experience in artifact creation and evaluation or a passion for tools and empirical experiments, you are welcome to nominate yourself via an email to the AEC chairs.
+
+
+
+
+
+ACT 2025: APPLIED CATEGORY THEORY  
+  University of Florida on June 2-6, 2025
+  https://gataslab.org/act2025/act2025cfp
+CALL FOR PAPERS
+* The Eighth International Conference on Applied Category Theory (https://easychair.org/cfp/ACT2025) will take place at the University of Florida on June 2-6, 2025. The conference will be preceded by the Adjoint School on May 26-30, 2025. This conference follows previous events at Oxford (2024, 2019), University of Maryland (2023), Strathclyde (2022), Cambridge (2021), MIT (2020), and Leiden (2019). 
+  Applied category theory is important to a growing community of researchers who study computer science, logic, engineering, physics, biology, chemistry, social science, systems, linguistics and other subjects using category-theoretic tools. The background and experience of our members is as varied as the systems being studied. The goal of the Applied Category Theory conference series is to bring researchers together, strengthen the applied category theory community, disseminate the latest results, and facilitate further development of the field.
+*IMPORTANT DATES 
+  All deadlines are AoE (Anywhere on Earth).
+ -dh Abstract submission: February 26, 2025
+ -dh Paper submission: March 3, 2025
+ -d Notifiaction:  April 7, 2025
+ -d Final versions: May 19, 2025
+ -dv Conference: June 2-6, 2025
+* SUBMISSIONS
+  The submission URL is: https://easychair.org/conferences/?conf=act2025 . We accept submissions in English of original research papers, talks about work accepted/submitted/published elsewhere, and demonstrations of relevant software. Accepted original research papers will be published in a proceedings volume. The conference will include an industry showcase event and community meeting. We particularly encourage people from underrepresented groups to submit their work and the organizers are committed to non-discrimination, equity, and inclusion.
+  Conference Papers should present original, high-quality work in the style of a computer science conference paper (up to 12 pages, not counting the bibliography; more detailed parts of proofs may be included in an appendix for the convenience of the reviewers). Such submissions should not be an abridged version of an existing journal article although pre-submission arXiv preprints are permitted. These submissions will be adjudicated for both a talk and publication in the conference proceedings.
+  Talk proposals not to be published in the proceedings, e.g. about work accepted/submitted/published elsewhere, should be submitted as abstracts, one or two pages long. Authors are encouraged to include links to any full versions of their papers, preprints or manuscripts. The purpose of the abstract is to provide a basis for determining the topics and quality of the anticipated presentation.
+  Software demonstration proposals should also be submitted as abstracts, one or two pages. The purpose of the abstract is to provide the program committee with enough information to assess the content of the demonstration.
+* The selected conference papers will be published in a volume of Proceedings. Authors are advised to use EPTCS style; files are available at style.eptcs.org. Reviewing will be single-blind, and we are not making public the reviews, reviewer names, the discussions nor the list of under-review submissions. This is the same as previous instances of ACT. In order to give our reviewers enough time to bid on submissions, we ask for a title and brief abstract of your submission by February 26. The full two-page pdf extended abstract submissions and up to 12 page proceedings submissions are both due by the submissions deadline of March 3 11:59pm AoE (Anywhere on Earth).
+* Please contact the Programme Committee Chairs for more information: Amar Hadzihasanovic (amar.hadzihasanovic@taltech.ee) and JS Lemay (js.lemay@mq.edu.au).
+  Programme Committee: See conference website for full list: https://gataslab.org/act2025/act2025cfp
+
+
+
+
+
+
+ECOOP 2025 WORKSHOPS
+  Mon 30 June - Fri 4 July 2025 Bergen, Norway
+  https://2025.ecoop.org/track/ecoop-2025-workshops#Call-for-Workshops
+CALL FOR WORKSHOPS
+* Overview
+  ECOOP (the European Conference on Object-Oriented Programming) hosts a diverse offering of workshops bringing together academics, industrial researchers, and practitioners to exchange new ideas, problems, and experiences. Topics for workshops may include, but are not limited to, the theory, design, implementation, optimization, testing, and analysis of programs and programming languages. Workshops will run after the program of the main conference (Thu. 3 - Fri. 4 July 2025). The organizers will investigate the possibility of organizing the publication of a single-volume peer-reviewed post-proceedings if there is enough interest. Submission link: https://framaforms.org/proposal-for-ecoop25-workshop-1729617158 Please contact ECOOP'25 workshops chair, Clément Aubert (caubert@augusta.edu or clement.aubert@math.cnrs.fr), if you have any questions.
+* Timeline:
+  Workshop proposals will be reviewed on a rolling basis, with the last submission date being on January 24, 2025.
+ -dh Workshop proposals: January 24, 2025
+  Workshops must send notifications for accepted papers by June 21, 2025, which will be about one week before the early registration deadline.
+  The workshop’s website must be live within two weeks of notification of the workshop’s acceptance and include relevant information about the organizers and any call for contributions.
+* To submit a proposal for an ECOOP'25 workshop, please complete the online form linked above. After submitting, you will receive an automated email confirmation of your submission and, within at most four weeks (or shortly after the final submission deadline), a formal response notifying you if the workshop has been accepted for ECOOP'25.
+
+
+
+
+DisCoTec 2025: 20th International Federated Conference on Distributed Computing Techniques
+  Lille, France, 16-20 June 2025
+  https://www.discotec.org/2025
+CALL FOR WORKSHOPS/TUTORIALS 
+* SATELITE EVENTS
+* The DisCoTec 2025 organising committee invites proposals for satellite events to complement the three main conferences. The aim is to provide a vivid and open forum for discussions, presentations of preliminary research results and ongoing work, as well as presentations of research work to a focussed audience. The satellite events will be held in conjunction with the main events. Prospective satellite event chairs should contact the organisers and provide the following information:
+  - the name and the preferred date of the proposed satellite event (June 16 or 20, 2025);
+  - a short description of the satellite event (up to 300 words);
+  - if applicable, a description of past editions of the satellite event, including dates, organizers, submission and acceptance counts, and attendance;
+  - the name and short CV of the organizer(s);
+  - the expected number of participants;
+  - for tutorials: the DisCoTec conference most related to the proposed tutorial (COORDINATION, DAIS, FORTE);
+  - for workshops: the publication plan (only invited speakers, no published proceedings, pre-/post-proceedings published with EPTCS/ENTCS/...).
+* IMPORTANT DATES: 
+ -dh Workshop proposals submission: February 10, 2025
+ -d  Notification of accepted satellite events: March 1, 2025
+ -d Paper submission deadline: Mid April, 2025
+ -dv Notification of accepted papers: Mid May, 2025
+ -dv Satellite events: June 16 or 20, 2025
+* The submission and notification deadlines of the satellite events are at the discretion of the individual event chairs. However, the notification must be no later than the early registration deadline for DisCoTec 2025 (to be announced).
+* DisCoTec 2025 Satellite Events Chair
+ - Larisa Safina (INRIA, FR), discotec-satellite@inria.fr
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SALOMA PRIZE 
+CALL FOR NOMINATIONS
+* The Salomaa Prize in Automata Theory, Formal Languages, and Related Topics is awarded annually at the conference DLT (Developments in Language Theory). It consists of the diploma and the prize of 2000 Euros donated by the University of Turku. The award is given to a distinguished researcher for their fundamental achievements in automata theory and related topics. The achievement might be a single article, a series of articles, or broader impact on the theory. The main criterion is the scientific excellence of the work. The Salomaa Prize 2025 will be awarded at DLT 2025 in Seoul, Korea. The deadline for nomination is February 28 2025. Nominations, which consist of a description of the nominee's work and rationale for the award, signed by at least two recognized researchers, should be sent by electronic mail to the chair of the selection committee: Jeffrey Shallit, University of Waterloo, shallit@uwaterloo.ca
+* For all further information, see the guidelines on the Salomaa Prize website: https://math.utu.fi/salomaaprize/
+ -dh Nomination deadline: February 28, 2025.
+ 
+ 
+ 
+
+
+Senior Computer Science Professorship: Oxford University
+JOB ANNOUNCEMENT
+* Oxford University’s Computer Science Department (together with St John's College at Oxford) is hiring a senior Professor in Computer Science. We are looking for somebody with a world-leading research reputation with broad academic leadership. For more information, see: https://my.corehr.com/pls/uoxrecruit/erq_jobspec_details_form.jobspec?p_id=173846
+ -dh Application deadline:  March 10, 2025
+ 
