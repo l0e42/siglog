@@ -37,7 +37,7 @@ CALL FOR PAPERS
   - DAIS (https://www.discotec.org/2025/dais): 25st International Conference on Distributed Applications and Interoperable Systems. PC Chairs: Daniel Balouek (INRIA, FR) and Ibéria Medeiros (University of Lisbon, PT)
  - FORTE (https://www.discotec.org/2025/forte): 45st International Conference on Formal Techniques for Distributed Objects, Components and Systems. PC Chairs: Carla Ferreira (NOVA University of Lisbon, PT) and Claudio A. Mezzina (University of Urbino, IT)
 * DisCoTec 2025 is organised by Inria Lille and the University of Lille. It will be hosted by Polytech Lille.
-* NEW: ACCOMODATIONS FOR PARENTS OF YOUNG CHILDREN
+* NEW: ACCOMMODATIONS FOR PARENTS OF YOUNG CHILDREN
   Subject to budget availability, we are planning to make special logistical arrangements for conference participants travelling with young children (and potentially accompanying persons). We invite interested persons to contact the General Chair (simon.bliudze@inria.fr), as soon as possible to discuss the arrangements that might be applicable.
 * KEYNOTE SPEAKERS 
   - Alysson Bessani (Universidade de Lisboa, Portugal)
@@ -105,7 +105,7 @@ CALL FOR PAPERS
   All deadlines are AoE (Anywhere on Earth).
  -dh Abstract submission: February 26, 2025
  -dh Paper submission: March 3, 2025
- -d Notifiaction:  April 7, 2025
+ -d Notification:  April 7, 2025
  -d Final versions: May 19, 2025
  -dv Conference: June 2-6, 2025
 * SUBMISSIONS
@@ -142,8 +142,8 @@ DisCoTec 2025: 20th International Federated Conference on Distributed Computing 
   Lille, France, 16-20 June 2025
   https://www.discotec.org/2025
 CALL FOR WORKSHOPS/TUTORIALS 
-* SATELITE EVENTS
-* The DisCoTec 2025 organising committee invites proposals for satellite events to complement the three main conferences. The aim is to provide a vivid and open forum for discussions, presentations of preliminary research results and ongoing work, as well as presentations of research work to a focussed audience. The satellite events will be held in conjunction with the main events. Prospective satellite event chairs should contact the organisers and provide the following information:
+* SATELLITE EVENTS
+  The DisCoTec 2025 organising committee invites proposals for satellite events to complement the three main conferences. The aim is to provide a vivid and open forum for discussions, presentations of preliminary research results and ongoing work, as well as presentations of research work to a focussed audience. The satellite events will be held in conjunction with the main events. Prospective satellite event chairs should contact the organisers and provide the following information:
   - the name and the preferred date of the proposed satellite event (June 16 or 20, 2025);
   - a short description of the satellite event (up to 300 words);
   - if applicable, a description of past editions of the satellite event, including dates, organizers, submission and acceptance counts, and attendance;

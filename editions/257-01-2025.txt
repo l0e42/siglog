@@ -1,0 +1,180 @@
+-dd January 1, 2025
+
+
+ -dM LICS 2025:	Jan 16, 2025 (Abstract), Jan 23, 2025 (Full Papers)
+ -dM CiE 2025:	Jan 26, 2025 (Abstract), Feb 02, 2025 (Full paper)
+ -dM CAV 2025:	Jan 31, 2025 (Full paper)
+ -dM FSCD 2025:	Feb 10, 2025 (Abstract), Feb 17, 2025 (Full paper)
+ -dM DEON 2025:	Mar 01, 2025 (Abstract deadline), Mar 08, 2025 (Paper deadline)
+
+
+
+LMW@CSL 2025: Logic Mentoring Workshop co-located with CSL 2025
+  Amsterdam, Netherlands
+  Monday 10th February 2025
+  https://logic-mentoring-workshop.github.io/csl25/
+  Co-located with CSL 2025
+CALL FOR PARTICIPATION - s SIGLOG MATTER
+  The 12th Logic Mentoring Workshop (LMW@CSL) invites participation from students (undergraduate, master's and PhD), in all areas of logic for scholarships to attend the CSL (Computer Science Logic) conference and the LMW (Logic Mentoring Workshop) this year. Attending a conference such as CSL can be a transformative experience. It exposes participants to cutting-edge research and can open up new research avenues and collaboration opportunities. Some scholarships will be generously funded by our sponsors (see below) and cover registration to the workshop, and possibly travel and accommodation. Thanks to generous funding of the NSF, we will additionally be able to fund several US-based students to attend the entire conference. Women and members of minority groups are especially encouraged to apply.
+  The LMW will focus on the technical and practical aspects of a career in logic research, including talks and a panel session from leaders in the subject. LMW'25 builds on a long tradition of LMW workshops held at LICS and CSL every year.
+* WORKSHOP REGISTRATION
+  Registration costs €50 and is done via the CSL main conference webpage: https://csl2025.github.io/index#registration. Registration to the CSL2025 main conference includes registration for the workshop, if you do so please indicate that you are attending the LMW workshop as well. 
+ -dh Early bird registration: Jan 10 2025.
+* SPEAKERS : TBA
+  Following the tradition, the Logic Mentoring Workshop will invite senior and junior researchers to share their experience on soft skills and career management after a PhD in Logic, as well as to give scientific talks.
+* ORGANISING COMMITTEE
+ - Silvia Butti - University of Oxford
+ - Femke van Raamsdonk - VU Amsterdam
+ - Niels Voorneveld - Cybernetica
+* SPONSORS
+ - ACM Special Interest Group on Logic and Computation (SIGLOG)
+ - National Science Foundation (NSF)
+ - Jane Street
+ 
+ 
+ 
+ 
+ 
+ICGT 2025: International Conference on Graph Transformations 2025
+  https://conf.researchr.org/home/icgt-2025
+CALL FOR PAPERS 
+* Important dates: 
+ -dh Abstracts deadline: 28 Jan 2025 (AoE)
+ -dh Submission deadline: 4 Feb 2025 (AoE)
+ -dh Journal-First Submission:  22 Apr 2025 (AoE)
+ -dv Conference: June 10-13, 2025
+* The 18th International Conference on Graph Transformation (ICGT 2025) will be held in Koblenz, Germany, as part of STAF 2025 (Software Technologies: Applications and Foundations). The conference takes place under the auspices of EASST, EATCS, and IFIP WG 1.3. 
+* Aims and Scope
+  The use of graphs and graph-like structures as a formalism for specification and modelling is widespread in all areas of computer science as well as in many fields of computational research and engineering. Relevant examples include software architectures, pointer structures, state space and control/data flow graphs, UML and other domain-specific models, network layouts, topologies of cyber-physical environments, quantum computing and molecular structures. Often, these graphs undergo dynamic change, ranging from reconfiguration and evolution to various kinds of behaviour, all of which may be captured by rule-based graph manipulation. Thus, graphs and graph transformation form a fundamental universal modelling paradigm that serves as a means for formal reasoning and analysis, ranging from the verification of certain properties of interest to the discovery of fundamentally new insights.
+  ICGT aims at fostering exchange and collaboration of researchers from different backgrounds working with graphs and graph transformation, either in contributing to their theoretical foundations or by applying established formalisms to classical or novel areas. The conference not only serves as a well-established scientific publication outlet, but also as a platform to boost inter- and intra-disciplinary research and to leeway for new ideas.
+* Research Papers
+  In order to foster a lively exchange of perspectives on the subject of the conference, the programme committee of ICGT 2025 encourages all kinds of contributions related to graphs and graph transformation, either from a theoretical point of view or a practical one. For details on submission types, instructions, proceedings, and special issue, please visit the conference website. 
+
+
+
+
+
+ 
+FMBC25: 6th International Workshop on Formal Methods for Blockchains
+  https://fmbc.gitlab.io/2025
+  May 04, 2025, Hamilton, ON, Canada
+  Co-located with the European joint conferences on theory and practice of software (ETAPS 2025)
+  https://www.etaps.org/2025/
+CALL FOR PAPERS 
+* IMPORTANT DATES
+ -dh Abstract submission: February 3rd, 2025
+ -dh Full paper submission: February 10th, 2025
+ -d Notification: March 14th, 2025
+ -d Camera-ready: March 31st, 2025
+ -d Workshop: May 4th, 2025
+  Deadlines are Anywhere on Earth:
+* TOPICS OF INTEREST
+  Blockchain is a novel technology to store data in a decentralized way. Although the technology was originally invented to enable cryptocurrencies, it quickly found applications in several other domains. Blockchains may also provide support for Smart Contracts. Smart Contracts are scripts of an ad-hoc programming language that are stored in the blockchain and that run on the network. They can interact with the ledger’s data and update its state. These scripts can express the logic of possibly complex contracts between users of the blockchain. Thus, Smart Contracts can facilitate the economic activity of blockchain participants.
+  Since blockchains are often used to store financial transactions, bugs may result in huge economic losses and thus it is now of utmost importance to have strong guarantees of the behaviour of blockchain software. These guarantees can be brought by using Formal Methods. Indeed, Blockchain software encompasses many topics of computer science where using Formal Methods techniques and tools is relevant: consensus algorithms to ensure the liveness and the security of the data on the chain, programming languages specifically designed to write smart contracts, cryptographic protocols, such as zero-knowledge proofs, used to ensure privacy, etc. This workshop is a forum to identify theoretical and practical approaches of formal methods for Blockchain technology.
+  Topics include, but are not limited to:
+ - Formal models of Blockchain applications or concepts
+ - Formal methods for consensus protocols
+ - Formal methods for Blockchain-specific cryptographic primitives or protocols
+ - Design and implementation of Smart Contract languages
+ - Verification of Smart Contracts
+ - Zero-knowledge proof and its applications in a blockchain setting
+* SUBMISSION
+  Submit original manuscripts (not published or considered elsewhere) with a page limit of 12 pages for full papers and 6 pages for short and tool papers (excluding bibliography and short appendix of up to 5 additional pages). Alternatively you may also submit an extended abstract of up to 3 pages (including bibliography) summarizing your ongoing work in the area of formal methods and blockchain. Authors of selected extended-abstracts are invited to give a short lightning talk. Extended abstracts will not occur in the workshop proceedings. Submission link: https://easychair.org/conferences/?conf=fmbc2025 . Authors are encouraged to use LaTeX and prepare their submissions according to the instructions and styling guides for OASIcs provided by Dagstuhl.
+  Instructions for authors: https://submission.dagstuhl.de/documentation/authors#oasics . At least one author of an accepted paper is expected to present the paper at the workshop as a registered participant.
+* PROCEEDINGS 
+  All submissions will be peer-reviewed by at least three members of the program committee for quality and relevance. Accepted regular papers (full, short, and tool papers) will be included in the workshop proceeding, which will be published as a volume of the OpenAccess Series in Informatics (OASIcs) by Dagstuhl.
+* PC CO-CHAIRS
+ - Diego Marmsoler (University of Exeter, UK) (D.Marmsoler@exeter.ac.uk)
+ - Meng Xu (University of Waterloo, Canada) (meng.xu.cs@uwaterloo.ca)
+ 
+ 
+ 
+CONCUR 2025: 36th International Conference on Concurrency Theory
+  https://conferences.au.dk/confest2025/concur
+  August 25-30, 2025
+  University of Aarhus, Denmark
+CALL FOR PAPERS
+* CONCUR 2025 is the 36th International Conference on Concurrency Theory. CONCUR will be co-located with QEST+FORMATS, FMICS, and a number of workshops, under the joint name CONFEST 2025, which will take place August 25-30, 2025 at the University of Aarhus, Denmark. The CONCUR 2025 proceedings will be published by LIPIcs.
+* Important dates (anywhere on Earth)
+ -dh Abstract submission deadline: April 1, 2025
+ -dh Submission deadline: April 7, 2025 (AoE)
+ -d Rebuttal Response: May 8-12, 2025 (AoE)
+ -d Notification: May 27, 2025 (AoE)
+ -d Camera Ready: June 10, 2025 (AoE)
+ -dv Conference(s): August 26-29, 2025
+ -dv Workshops: August 25 and 30, 2025
+* Paper submission
+  Papers must be submitted electronically as PDF files via EasyChair (https://easychair.org/conferences/?conf=concur2025). Papers must not exceed 15 pages (excluding references and clearly marked appendices) using the LIPIcs style (https://drops.dagstuhl.de/entities/series/LIPIcs#author). Submissions will be thoroughly reviewed. We follow a single blind review process.
+* Topics
+- Models of Concurrency
+- Logics for Concurrency
+- Distributed and Parallel Algorithms and Concurrent Data Structures
+- Verification and Analysis of Concurrent Systems
+* Invited Speakers
+- Christel Baier, TU Dresden, Germany
+- Chris Heunen, University of Edinburgh, UK
+- Andreas Pavlogiannis, Aarhus University, Denmark
+- Jiri Srba, Aalborg University, Denmark
+* PC Chairs
+- Patricia Bouyer, CNRS, France (http://www.lsv.fr/~bouyer/)
+- Jaco van de Pol, Aarhus University, Denmark (https://cs.au.dk/~jaco/)
+
+
+
+ 
+ 
+CPP25: Certified Programs and Proofs 2025
+  20-21 January 2025
+  co-located with POPL 2025
+  Denver, Colorado, United States
+CALL FOR PARTICIPATION
+* Registration: https://popl25.sigplan.org/attending/registration
+ -dh Early registration deadline: 20 December 2024
+* Certified Programs and Proofs (CPP) is an international conference on practical and theoretical topics in all areas that consider formal verification and certification as an essential paradigm for their work. CPP spans areas of computer science, mathematics, logic, and education. 
+* CPP 2025 (https://popl25.sigplan.org/home/CPP-2025) will be held on 20-21 January 2025 and will be co-located with POPL 2025. CPP 2025 is sponsored by ACM SIGPLAN, in cooperation with ACM SIGLOG, and supported by a diverse set of industrial sponsors.
+* Similarly to other events collocated with POPL 2025, CPP will take place as an in-person event at Denver, USA. Virtual participation will also be available; look for updated information about that option on the POPL web site. 
+* For more information about this edition and the CPP series, please visit https://popl25.sigplan.org/home/CPP-2025
+* INITED SPEAKERS
+ - Chung-Kil Hur (Seoul National University) "The Power of Imagination in Software Verification"
+ - Emily Riehl (John Hopkins University) "Prospects for Computer Formalization of Infinite-Dimensional Category Theory"
+* Accepted papers
+  The list of accepted papers is available at https://popl25.sigplan.org/home/CPP-2025#event-overview
+* Subsidized student registration
+  To facilitate in-person participation, CPP 2025 offers the opportunity to waive the registration fees for a limited number of authors that are in need of financial support to attend the conference. This support is particularly aimed at undergraduate and graduate students, postdocs, and authors from marginalized groups who are presenting papers at CPP. For more information, please reach out to the CPP conference co-chairs (Kathrin Stark and Amin Timany, see below for their email addresses), with a brief description of your situation.  
+  CPP's student support is made possible by our generous industrial supporters: https://popl25.sigplan.org/home/CPP-2025#About
+* Contact
+  For any questions please contact the chairs:
+ - Sandrine Blazy sandrine.blazy@irisa.fr (PC co-chair)
+ - Nicolas Tabareau Nicolas.tabareau@inria.fr (PC co-chair)
+ - Kathrin Stark K.Stark@hw.ac.uk (conference co-chair)
+ - Amin Timany timany@cs.au.dk (conference co-chair)
+ 
+ 
+ 
+ 
+PhD position on model checking of functional programs
+JOB ANNOUNCEMENT
+* We are pleased to announce that a PhD project is open with Dr. Charles Grellois (primary supervisor) and Dr. Harsh Beohar at the University of Sheffield. The title is the following: “Model-Checking of Functional Programs: from Theory to a Theorem Prover Implementation” (3.5 years). For more details on the project and how to apply, please visit: https://www.findaphd.com/phds/project/model-checking-of-functional-programs-from-theory-to-a-theorem-prover-implementation-s3-5-com-grellois/?p178032
+* Candidates are encouraged to get in touch by email. The application deadline for applicants is 5pm Wednesday 29th January 2025.
+
+ 
+
+
+
+ 
+2025 ACM/SIGAI Autonomous Agents Research Award
+CALL FOR NOMINATIONS
+* Nominations are solicited for the 2025 ACM SIGAI Autonomous Agents Research Award. This award is made for excellence in research in the area of autonomous agents. It is intended to recognize researchers in autonomous agents whose current work is an important influence on the field. The award is an official ACM award, funded by an endowment created by ACM SIGAI from the proceeds of previous Autonomous Agents conferences. The recipient of the award will receive a monetary prize and a certificate, and will be invited to present a plenary talk at the AAMAS 2025 conference.
+* How to Nominate
+  Anyone can make a nomination. Nominations should be made by filling out the below google form, and should consist of a short (< 1 page) statement that emphasizes not only the research contributions that the individual has made that merit the award but also how the individual’s current work is an important influence on the field.
+* NOTE: a candidate can only be considered for the award if they are explicitly nominated. If you believe that someone deserves the award, then NOMINATE THEM — don’t assume that somebody else will!  For any questions please contact Edith Elkind (Award Chair, edith.elkind@northwestern.edu) or Nicholas Mattei (SIGAI Vice Chair, nsmattei@gmail.com). Nomination Link: https://forms.gle/jud5hniSWtkrENqZ7
+* Important Dates
+ -dh Nominations deadline: 15 January 2025
+ -d Winner announcement: 15 February 2025
+
+ 
+ 
+ 
+ 
+ 
+ 
