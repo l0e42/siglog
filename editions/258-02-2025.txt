@@ -1,0 +1,164 @@
+-dd February 1, 2025
+
+ -dM FMBC 1025          : Feb 03, 2025 (Abstracts), Feb 10, 2025 (Full papers)
+ -dM FSCD 2025:	Feb 10, 2025 (Abstracts), Feb 17, 2025 (Full papers)
+ -dM LMW@CSL 2025      : Feb 10, 2025 (On-site registration)
+ -dM DEON 2025:	Mar 01, 2025 (Abstract deadline), Mar 08, 2025 (Paper deadline)
+ -dM CONCUR 2025: Apr 01, 2025 (Abstract deadline), Apr 07, 2025 (Paper deadline)
+ 
+ 
+ 
+ 
+ICALP 2025: 52nd EATCS International Colloquium on Automata, Languages, and Programming
+  Aarhus, Denmark, July 8-11, 2025
+  https://conferences.au.dk/icalp2025
+CALL FOR PAPERS
+* ICALP is the main conference and annual meeting of the European Association for Theoretical Computer Science (EATCS). As usual, ICALP will be preceded by a series of workshops, which will take place on July 7. The 2025 edition has the following features:
+ - Submissions are anonymous and there is a rebuttal phase.
+ - The conference is planned as a physical, in-person event.
+* IMPORTANT DATES (AoE)
+ -dh Paper deadline: February 8, 2025
+ -d Rebuttal: March 21-24, 2025
+ -d Author notification: April 14, 2025
+ -d Camera-ready version: April 28, 2025
+ -d Early registration: TBA
+ -d Workshops July 7, 2025
+ -dv Conference: Jul 8-11, 2025
+  Deadlines are firm; late submissions will not be considered.
+* INVITED SPEAKERS  
+ - Anupam Gupta - NYU, USA
+ - Mary Wootters - Stanford University, USA
+ - Hongseok Yang - KAIST, Korea
+ - One or two more speakers TBC
+* WORKSHOPS 
+  On Monday 7 July, the following workshops will take place:
+ - Fair Allocations
+ - Loop Invariants and Algebraic Reasoning
+ - Theory and Applications of Algorithms with Predictions
+ - Algorithmic Aspects of Temporal Graphs
+ - Graph Width Parameters
+* AWARDS 
+  During the conference, the following awards will be delivered:
+ - the EATCS award,
+ - the Presburger award,
+ - the EATCS distinguished dissertation award,
+ - the best papers for Track A and Track B,
+ - the best student papers for Track A and Track B.
+* GUIDELINES
+  Submissions to ICALP 2025 use HotCRP system: Submission server Track A: https://icalp25-a.hotcrp.com . Submission server Track B: https://icalp25-b.hotcrp.com
+ -  Papers must present original research on the theory of computer science. No prior publication and no simultaneous submission to other publication outlets (either a conference or a journal) is allowed. Authors are encouraged to also make full versions of their submissions freely accessible in an on-line repository such as ArXiv, HAL, ECCC.
+ - Submissions take the form of an extended abstract of no more than 15 pages, excluding references and a clearly labelled appendix. The appendix may consist either of omitted proofs or of a full version of the submission, and it will be read at the discretion of program committee members. The use of the LIPIcs document class is an option, but not required. The extended abstract has to present the merits of the paper and its main contributions clearly, and describe the key concepts and technical ideas used to obtain the results. Submissions must provide the proofs which can enable the main mathematical claims of the paper to be verified.
+ -  Submissions are anonymous. The conference will employ a lightweight double-blind reviewing process. Submissions should not reveal the identity of the authors in any way. Authors should ensure that any references to their own related work are in the third person (e.g., not “We build on our previous work …” but rather “We build on the work of …”). The purpose of this double-blind process is to help PC members and external reviewers come to an initial judgment about the paper without bias, and not to make it impossible for them to discover who the authors are if they were to try. Nothing should be done in the name of anonymity that weakens the submission or makes the job of reviewing the paper more difficult. In particular, important references should not be omitted. In addition, authors should feel free to disseminate their ideas or draft versions of their paper as they normally would. For example, authors may post drafts of their papers on the web, submit them to arXiv, and give talks on their research ideas.
+ - Submissions authored or co-authored by members of the program committee are allowed.
+ - The submissions are done via HotCRP to the appropriate track of the conference. The use of pdflatex or similar pdf generating tools is mandatory and the page limit is strict (see point 2.) Papers that deviate significantly from these requirements risk rejection without consideration of merit.
+ - During the rebuttal phase, authors will have from March 21-24, 2025 the opportunity to view and respond to initial reviews. Further instructions will be sent to authors of submitted papers before that time.
+ - At least one author of each accepted paper is expected to register for the conference, and all talks are in-person. In exceptional cases, there may be support for remotely presenting a talk.
+ - Papers authored only by students should be marked as such upon submission in order to be eligible for the best student paper awards of the track.
+* PROCEEDINGS 
+  ICALP proceedings are published in the Leibniz International Proceedings in Informatics (LIPIcs) series. This is a series of high-quality conference proceedings across all fields in informatics established in cooperation with Schloss Dagstuhl – Leibniz Center for Informatics. LIPIcs volumes are published according to the principle of Open Access, i.e., they are available online and free of charge. The accepted papers will need to comply with the LIPIcs style.
+
+
+
+
+
+
+
+
+ICLP 2025: 41st International Conference on Logic Programming 
+  University of Calabria, Rende, Italy | September 12-19, 2025
+  https://iclp25.demacs.unical.it/
+CALL FOR PAPERS 
+* SCOPE
+  Since the first conference In Marseille in 1982, ICLP has been the premier international event for presenting research in logic programming. Contributions are sought in all areas of logic programming, including but not restricted to: 
+ - Theoretical Foundations: Formal and operational semantics, Non-monotonic reasoning, Reasoning under uncertainty, Knowledge representation, Semantic issues of combining logic and neural models, Complexity results.
+ - Language Design and Programming Methodologies: Concurrency and parallelism, Mobility, Interacting with ML, Logic-based domain-specific languages, Hybrid logical and imperative/functional languages, Programming techniques, Answer Set Programming, Inductive Logic Programming, Coinductive Logic Programming
+ - Program Analysis and Optimization: Analysis, Transformation, Verification, Debugging, Profiling, Visualization, Logic-based validation of generated programs.
+ - Implementation Methodologies: Compilation, Parallel/distributed execution, Constraint implementation, Tabling, Logic-based prompt engineering, User interfaces.
+* IMPORTANT DATES (TENTATIVE):
+ -dh Paper registration (regular papers): April 13, 2025
+ -dh Paper submission (regular papers): April 18, 2025
+ -d Notification to authors (regular papers): May 25, 2025
+ -dh Paper submission (short papers): June 15, 2025
+ -d Revision submission (regular papers): June 15, 2025
+ -d Final notification to authors: July 6, 2025
+ -dv Main conference: Sep 15-19, 2025
+  Paper submission will be through EasyChair, following the link https://easychair.org/conferences/?conf=iclp25.  
+  Accepted regular papers will appear in the journal Theory and Practice of Logic Programming (TPLP). Accepted short papers will be published by Electronic Proceedings in Theoretical Computer Science (EPTCS). The respective paper formats are described at:
+ - https://www.cambridge.org/core/journals/theory-and-practice-of-logic-programming/information/instructions-contributors
+ - http://style.eptcs.org/
+* AFFILIATED EVENTS:
+ - Workshops: September 12-14, 2025
+ - Doctoral Consortium: September 12-14, 2025
+ - Autumn School in Computational Logic: September 12-14, 2025
+ - Thematic Tracks (to be announced)
+ - International Symposium on Principles and Practice of Declarative Programming (PPDP 2025)
+ - Logic-based Program Synthesis and Transformation (LOPSTR 2025)
+* VENUE:
+  ICLP’25 will be held on the campus of the University of Calabria in Rende, Italy, in September 2025. The University of Calabria is one of Italy's leading academic institutions, renowned for its innovative research and vibrant campus life. Located in the scenic city of Rende, it offers a modern learning environment surrounded by natural beauty and cultural richness. Calabria is a region rich in culture, offering a blend of historical heritage and stunning natural beauty. From its breathtaking coastal spots to its easily accessible mountains, the region provides an unforgettable cultural and culinary experience, savoring authentic dishes made from fresh, local ingredients, such as spicy 'nduja, pasta, potatoes and exquisite desserts.
+* ORGANIZATION:
+ - General Chair: Francesco Ricca
+ - Program Co-chairs: Daniela Inclezan and Martin Gebser
+ - Publicity Chairs: Manuel Borroto and Francesco Calimeri
+ - Local Chairs: Antonio Ielo and Giuseppe Mazzotta
+
+
+
+
+
+
+CSL 2025: 33rd EACSL Annual Conference on Computer Science Logic 
+  10-14 February 2025, Amsterdam, the Netherlands
+  https://csl2025.github.io/index
+CALL FOR PARTICIPATION 
+* ABOUT 
+  CSL is the annual conference of the European Association for Computer Science Logic (EACSL). It is an interdisciplinary conference, spanning across both basic and application oriented research in mathematical logic and computer science. CSL 2025 will be held on the 10th–14th of February 2025 and is organised jointly by the Theoretical Computer Science group at the Vrije Universiteit Amsterdam and ILLC at the University of Amsterdam.
+* CO-LOCATED WORKSHOPS 
+  Two workshops are co-located with CSL, and will take place on Monday, February 10:
+ - 12th Logic Mentoring Workshop (LMW@CSL 2025)
+ - Workshop on Learning and Logic (LeaLog@CSL 2025)
+* REGISTRATION 
+  Late registration, from January 11 up to and including February 5 is: regular fee 820 euro, student fee 505 euro, only workshop 75 euro. After February 5, only onsite registration is possible: regular fee 970 euro, student fee 605 euro, only workshop 75 euro. The registration form can be found at: https://fd20.formdesk.com/vu-onlinepayment/Beta_Registration_form_CSL_2025 . The registration fee includes the welcome reception, lunches, and the conference excursion and dinner. The student fee for CSL 2025includes LMW and LeaLog and an annual 5 euro EACSL membership fee.
+  Please indicate (in the allergies field) if you intend to attend a workshop, and if so, which one (or both). If you want to register for one of the (or both) workshops, please select the LMW option of 50 euro, and indicate (in the allergies field) which workshop(s) you will attend. This registration fee includes free attendance of the CSL 2025 welcome reception on Monday afternoon.
+ - dh Early Registration: Feb 10, 2025
+
+
+
+
+
+SSFT 2025: Fourteenth Summer School on Formal Techniques
+  Atherton, California, May 24-30, 2025
+  https://SSFT-SRI.github.io
+  Menlo College, Atherton, California
+CALL FOR PARTICIPATION
+* Techniques based on formal logic, such as model checking, satisfiability, static analysis, and automated theorem proving, are finding a broad range of applications in modeling, analysis, verification, and synthesis. This school, the fourteenth in the series, focuses on the principles and practice of formal techniques, with a strong emphasis on the hands-on use and development of this technology. It primarily targets graduate students and young researchers who are interested in studying and using formal techniques in their research. A prior background in formal methods is helpful but not required. Participants at the school can expect to have a seriously fun time experimenting with the tools and techniques presented in the lectures during the laboratory sessions. The main lectures run from Monday May 26 to Fri May 30. They are preceded by a background course "Speaking Logic" on May 24/25.
+* The lecturers at  the school include:
+ - Joost-Pieter Katoen (RWTH Aachen): Deductive Verification of Probabilistic Programs with Caesar
+ - Erika Abraham (RWTH Aachen): Understanding and using SAT and SMT solvers
+ - Kristin Yvonne Rozier (Iowa State): Runtime Verification with R2U2
+ - Philippa Gardner (Imperial): Compositional Verification using the Gillian Platform
+ - Nate Foster (Cornell University): Programming and Reasoning with Kleene Algebra with Tests
+  The program also features invited talks from distinguished speakers (to be announced) and the background "Speaking Logic" course taught by Natarajan Shankar (SRI) and Stephane Graham-Lengrand (SRI).
+* The 2025 Summer School on Formal Techniques will take place in a hybrid mode: the lectures and labs will be live-streamed and recorded. We strongly encourage in-person participation so that you can benefit from interactions outside the classroom. We have funding from NSF to cover transportation/food/lodging expenses for selected US-based students. Non-student and non-US in-person participants are expected to cover their own transportation and will be charged a fee (around $150/day) to cover the cost of food and lodging. The registration link is at the URL: https://SSFT-SRI.github.io.
+  Applicants are urged to submit their applications as early as possible (no later than March 31, 2025), since there are only a limited number of spaces available. Those needing invitation letters for visa purposes should complete their applications as early as possible.  We strongly encourage the participation of women and under-represented minorities in the summer school.
+ -dh Registration of applications: March 31, 2025
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
