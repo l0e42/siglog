@@ -1,0 +1,305 @@
+
+% v2-acmsmall-sample.tex, dated March 6 2012
+% This is a sample file for ACM small trim journals
+%
+% Compilation using 'acmsmall.cls' - version 1.3 (March 2012), Aptara Inc.
+% (c) 2010 Association for Computing Machinery (ACM)
+%
+% Questions/Suggestions/Feedback should be addressed to => "acmtexsupport@aptaracorp.com".
+% Users can also go through the FAQs available on the journal's submission webpage.
+%
+% Steps to compile: latex, bibtex, latex latex
+%
+% For tracking purposes => this is v1.3 - March 2012
+\documentclass[prodmode,acmtecs]{acmsmall} % Aptara syntax
+\usepackage[spanish,polish]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{fancyvrb}
+\usepackage{graphicx,hyperref}
+\newcommand\cutout[1]{}
+
+
+\usepackage[table]{xcolor}
+\usepackage[utf8]{inputenc}
+\usepackage[parfill]{parskip}
+\usepackage{tabulary}
+\PassOptionsToPackage{hyphens}{url}
+\usepackage{hyperref}    
+\usepackage[capitalize]{cleveref}
+
+
+% Metadata Information
+% !!! TODO: SET THESE VALUES !!!
+\acmVolume{0}
+\acmNumber{0}
+\acmArticle{CFP}
+\acmYear{0}
+\acmMonth{0}
+
+\newcounter{colstart}
+\setcounter{page}{4}
+
+\RecustomVerbatimCommand{\VerbatimInput}{VerbatimInput}%
+{
+%fontsize=\footnotesize,
+fontfamily=\rmdefault
+}
+
+
+\newcommand{\UnderscoreCommands}{%\do\verbatiminput%
+\do\citeNP \do\citeA \do\citeANP \do\citeN \do\shortcite%
+\do\shortciteNP \do\shortciteA \do\shortciteANP \do\shortciteN%
+\do\citeyear \do\citeyearNP%
+}
+
+\usepackage[strings]{underscore}
+
+
+
+% Document starts
+\begin{document}
+
+
+\setcounter{colstart}{\thepage}
+
+\acmArticle{CFP}
+\title{{\huge\sc SIGLOG Monthly 260}
+
+ April 2025}\author{ELLI ANASTASIADI\affil{Aalborg University, SE}\vspace*{-2.6cm}\begin{flushright}\includegraphics[width=30mm]{elli_anastasiadi.png}\end{flushright}}\begin{abstract}April 2025 edition of SIGLOG Monthly, featuring deadlines, calls and community announcements.
+\end{abstract}
+
+
+\maketitlee
+
+\href{https://lics.siglog.org/newsletters/}{Past Issues}
+ - 
+\href{https://lics.siglog.org/newsletters/inst.html}{How to submit an announcement}
+\section{Table of Contents}\begin{itemize}\item DEADLINES (\cref{deadlines}) 
+ 
+\item CALLS 
+ 
+\begin{itemize}\item LFMTP 2025 (CALL FOR PAPERS) (\cref{LFMTP2025})
+\item LSFA 2025 (CALL FOR PAPERS) (\cref{LSFA2025})
+\item iFM 2025 (CALL FOR PAPERS ) (\cref{iFM2025})
+\item DC 2025 (CALL FOR PAPERS) (\cref{DC2025})
+\item EuroProofNet Symposium 2025 (CALL FOR TALK PROPOSALS) (\cref{EuroProofNetSymposium2025})
+\end{itemize} 
+\item JOB ANNOUNCEMENTS 
+ 
+\begin{itemize}\item Assistant professor at Stockholm University (\cref{AssistantprofessoratStockholmUniversity})
+\end{itemize} 
+\end{itemize}\section{Deadlines}\label{deadlines}\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}CONCUR 2025:  & Apr 03, 2025 (Abstract deadline - Extended), Apr 09, 2025 (Paper deadline - Extended) \\
+ICLP 2025:  & Apr 13, 2025 (Paper registration (regular papers)), Apr 18, 2025 (Paper (regular papers)), Jun 15, 2025 (TC papers, IJCAI Fast Track papers) \\
+Assistant professor at Stockholm University:  & Apr 15, 2025 (Application deadline) \\
+Commemorating Frege:  & Apr 30, 2025 (Abstract) \\
+LFMTP 2025:  & May 02, 2025 (Abstract  deadline), May 09, 2025 (Paper  deadline) \\
+LSFA 2025:  & May 05, 2025 (Abstract), May 12, 2025 (Paper) \\
+LOPSTR 2025:  & May 09, 2025 (Abstract), May 16, 2025 (Paper) \\
+EuroProofNet Symposium 2025:  & May 25, 2025 (deadline for talk proposals and funding requests) \\
+iFM 2025:  & May 30, 2025 (Abstract Submission), Jun 06, 2025 (Paper Submission), Aug 15, 2025 (Artifact Registration), Aug 01, 2025 (Artifact Submission 22) \\
+DaLi 2025:  & Jun 01, 2025 (Abstract deadline), Jun 05, 2025 (Full paper deadline) \\
+DC 2025:  & Jun 01, 2025 (Paper) \\
+\end{tabulary}
+\section{LFMTP 2025: Logical Frameworks and Meta-Languages - Theory and Practice}\label{LFMTP2025}  July 19th, 2025, Birmingham, UK\\ 
+  Affiliated with FSCD 2025\\ 
+  \href{https://lfmtp.github.io/lfmtp-page/workshops/2025/}{https://lfmtp.github.io/lfmtp-page/workshops/2025/}\\ 
+CALL FOR PAPERS 
+
+\begin{itemize}\item  Logical frameworks and meta-languages form a common substrate for representing, implementing, and reasoning about a wide variety of deductive systems of interest in logic and computer science. Their design and implementation, and their use in reasoning tasks ranging from the correctness of software to the properties of formal computational systems, have been the focus of considerable research over the past three decades. 
+ 
+\item  The annual LFMTP workshop brings together designers, implementors, and practitioners to discuss various aspects of the structure and utility of logical frameworks, including the treatment of variable binding, inductive and co-inductive reasoning techniques, and qualitative aspects of reasoning including expressivity and lucidity. 
+ 
+\item  LFMTP 2025 will provide researchers a forum to present state-of-the-art techniques and discuss progress in areas such as the following: 
+ 
+\begin{itemize}\item  Encoding and reasoning about the meta-theory of programming languages, logical systems and related formally specified systems.
+\item  Theoretical and practical issues concerning the treatment of variable binding, especially the representation of, and reasoning about, datatypes defined from binding signatures.
+\item  Logical treatments of inductive and co-inductive definitions and associated reasoning techniques, including inductive types of higher dimension in homotopy type theory
+\item  Graphical languages for building proofs, applications in geometry, equational reasoning and category theory.
+\item  New theory contributions: canonical and substructural frameworks, contextual frameworks, proof-theoretic foundations supporting binders, functional programming over logical frameworks, homotopy and cubical type theory.
+\item  Applications of logical frameworks: proof-carrying architectures, proof exchange and transformation, program refactoring, etc.
+\item  Techniques for programming with binders in functional programming languages such as Haskell, OCaml or Agda, and logic programming languages such as lambda Prolog or Alpha-Prolog.
+\end{itemize} 
+\item  The workshop's program will include contributed and invited talks. 
+ 
+\item  IMPORTANT DATES 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Abstract submission deadline:  & May 2, 2025 (AoE) \\
+Paper submission deadline:  & May 9, 2025 (AoE) \\
+Notification to authors:  & June 6, 2025 (AoE) \\
+\end{tabulary}
+ 
+\item  SUBMISSION 
+ 
+  Submit on EasyChair: \href{https://easychair.org/conferences?conf=lfmtp2025}{https://easychair.org/conferences?conf=lfmtp2025} In addition to regular papers, we welcome/encourage the submission of ``work in progress'' reports, in a broad sense. Those do not need to report fully polished research results, but should be of interest for the community at large. 
+ 
+  Submitted papers should be in PDF, formatted using the EPTCS style guidelines. The length is restricted to 15 pages for regular papers and 8 pages for ``Work in Progress'' papers.  
+ 
+\item  PROCEEDINGS 
+ 
+  A selection of the presented papers will be published online in the Electronic Proceedings in Theoretical Computer Science (EPTCS). 
+ 
+\end{itemize}\section{LSFA 2025: 20th INTERNATIONAL SYMPOSIUM ON LOGICAL AND SEMANTIC FRAMEWORKS WITH APPLICATIONS}\label{LSFA2025}  October 6-8, 2025, Brasília, Brazil\\ 
+  co-located with CICM 2025\\ 
+  \href{https://lsfa-workshop.github.io/2025/}{https://lsfa-workshop.github.io/2025/}\\ 
+CALL FOR PAPERS 
+
+\begin{itemize}\item  LSFA is an annual International Symposium on Logical and Semantic Frameworks with Applications (see \href{https://lsfa-workshop.github.io/}{https://lsfa-workshop.github.io/}) launched in 2006. Logical and semantic frameworks are formal languages that represent logics and languages, as well as computational, AI and deductive systems. These frameworks provide mathematical foundations for the formal specification of systems and programming languages, supporting tool development and reasoning. 
+ 
+\item  A non-exhaustive list of topics of interest includes: automated deduction; applications of logical and/or semantic frameworks; computational and logical properties of semantic frameworks; formal semantics of languages and systems; implementation of logical and/or semantic frameworks; lambda and combinatory calculi; logical aspects of computational complexity; logical frameworks; process calculi; proof theory; semantic frameworks; specification languages and meta-languages; type theory. 
+ 
+\item  IMPORTANT DATES: 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Abstract submission:  & May 05, 2025 \\
+Paper submission:  & May 12, 2025 \\
+Notification:  & Jun 27, 2025 \\
+Camera-ready:  & Jul 18, 2025 \\
+\end{tabulary}
+ 
+\item  INVITED SPEAKERS: 
+ 
+\begin{itemize}\item  Temur Kutsia, RISC, Johannes Kepler University (joint with CICM 2025)
+\item  Bruno Lopes, Instituto de Computação, Universidade Federal Fluminense
+\item  Yoni Zohar, Department of Computer Science, Bar Ilan University
+\end{itemize} 
+\item  Detailed information can be found on the webpage. 
+ 
+\end{itemize}\section{iFM 2025: 20th International Conference on Integrated Formal Methods}\label{iFM2025}  Paris, France, November 19-21, 2025.\\ 
+  \href{https://ifm2025.ens.psl.eu/}{https://ifm2025.ens.psl.eu/}\\ 
+CALL FOR PAPERS  
+
+\begin{itemize}\item  Objectives and scope 
+ 
+  In the last decades, we have witnessed a proliferation of approaches that integrate several modelling, verification and simulation techniques, facilitating more versatile and efficient analysis of software-intensive systems. These approaches provide powerful support for the analysis of different functional and non-functional properties of the systems, complex interaction of components of different nature as well as validation of diverse aspects of system behaviour. The iFM conference series is a forum for discussing recent research advances in the development of integrated approaches to formal modelling and analysis. The conference covers all aspects of the design of integrated techniques, including language design, verification and validation, automated tool support and the use of such techniques in software engineering practice. To credit the effort of tool developers, we use EAPLS artifact badging. 
+ 
+  For a full list of areas of interest please visit the website 
+ 
+\item  IMPORTANT DATES (AoE) 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Abstract Submission:  & May 30, 2025 \\
+Paper Submission:  & Jun 06, 2025 \\
+Author Notification:  & Aug 08, 2025 \\
+Artifact Registration:  & Aug 15, 2025 \\
+Artifact Submission 22:  & Aug 01, 2025 \\
+Artifact Notification 19:  & Sep 01, 2025 \\
+Camera-Ready Papers:  & Sep 26, 2025 \\
+iFM 2025 main conference:  & Nov 19-21, 2025 \\
+\end{tabulary}
+ 
+\item  PAPER CATEGORIES  
+ 
+  iFM 2025 solicits high-quality papers reporting research results and/or experience reports related to the overall theme of formal methods integration. We solicit papers in the following categories: 
+ 
+\begin{itemize}\item  1 Regular papers (limit 16 pages) presenting original scientific research results, tools, their foundation and evaluations, applications of formal methods, including rigorous evaluations and case studies.
+\item  2 Short papers (limit 6 pages) describing any work in the area of formal methods, including work-in-progress and preliminary results that are sufficiently interesting for the iFM community.
+\end{itemize} 
+  All page limits exclude the references. Appendices may be included, but they will only be read by a reviewer at their discretion. Regular and short papers must be original, unpublished, and not submitted for publication elsewhere. Papers will undergo a thorough review process. Submissions will be judged on the basis of significance, relevance, correctness, originality, and clarity. The review process is single blind. Submissions for all categories should be made using the iFM 2025 EasyChair site: \href{https://easychair.org/conferences/?conf=ifm2025}{https://easychair.org/conferences/?conf=ifm2025} .  
+ 
+  Submissions must be in PDF format, using the Springer LNCS style files. Springer requires that authors should consult Springer’s authors’ guidelines and use their proceedings templates, either for LaTeX or for Word, for the preparation of their papers. Springer encourages authors to include their ORCIDs in their papers. After a paper is accepted, the corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a Consent-to-Publish form. The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made. 
+ 
+  The conference proceedings will be published in Springer’s Lecture Notes in Computer Science series. A special issue of the Formal Aspects of Computing journal is planned for extended versions of selected papers from iFM 2025. All accepted papers must be presented at the conference. At least one author of each accepted paper must register to the conference by the early registration date. 
+ 
+\item  EAPLS ARTIFACT BADGING 
+ 
+  Reproducibility of experiments is crucial to foster an atmosphere of open, reusable and trustworthy research. To improve and reward reproducibility and to give more visibility and credit to the effort of tool developers in our community, authors of accepted papers will be invited to submit possible artifacts associated with their paper for evaluation, and based on the level of reproducibility they will be awarded one or more badges. See \href{https://eapls.org/pages/artifact_badges/}{https://eapls.org/pages/artifact\_badges/}. Artifact submission is optional and the result of the artifact evaluation will not alter the paper’s acceptance decision. 
+ 
+\item  BEST PAPER   
+ 
+  iFM 2025 will honor the best paper selected with respect to reviews, program committee discussions and conference presentations with an award. 
+ 
+\item  CONTACT  
+ 
+  In case of questions, please contact ifm2025@easychair.org. 
+ 
+\item  Co-Located Events 
+ 
+  The 7th International Workshop on Formal Methods for Autonomous Systems (\href{https://fmasworkshop.github.io/}{https://fmasworkshop.github.io/}) and the iFM PhD Symposium will be co-located with iFM 2025. 
+ 
+\end{itemize}\section{DC 2025: 21st Doctoral Consortium (DC) on Logic Programming}\label{DC2025}CALL FOR PAPERS 
+
+\begin{itemize}\item  The 21st Doctoral Consortium (DC) on Logic Programming provides students with the opportunity to present and discuss their research directions, and to obtain feedback from both peers and experts in the field. The preliminary website of the DC can be found at: \href{https://iclp25.demacs.unical.it/affiliated-events/doctoral-consortium}{https://iclp25.demacs.unical.it/affiliated-events/doctoral-consortium} 
+ 
+\item  The DC will take place during the 41st International Conference on Logic Programming (ICLP) \href{https://iclp25.demacs.unical.it/}{https://iclp25.demacs.unical.it/} (September 12-19, 2025), hosted by the University of Calabria, Italy. The best paper from the DC will be given the opportunity to make a presentation in a session of the main ICLP conference. We aim to find sponsoring to cover the registration cost of students participating in the DC, but this still has to be confirmed. 
+ 
+\item  IMPORTANT DATES 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Paper submission:  & Jun 01, 2025 \\
+Notification:  & Jul 06, 2025 \\
+Camera-ready copy:  & Aug 06, 2025 \\
+Presentations:  & Sep 12-13, 2025 \\
+\end{tabulary}
+ 
+\item  DC students are highly recommended to attend the Autumn School on Logic Programming and Constraint Programming on: Friday and Saturday, September 12-13, 2025: \href{https://iclp25.demacs.unical.it/affiliated-events/autumn-school-on-logic-programming}{https://iclp25.demacs.unical.it/affiliated-events/autumn-school-on-logic-programming} 
+ 
+\item  AUDIENCE The DC is designed for students currently enrolled in a Ph.D. program, though we are also open to exceptions (e.g., students currently in a Master's program and interested in doctoral studies). Students at any stage in their doctoral studies are encouraged to apply for participation in the DC. Applicants are expected to conduct research in areas related to logic and constraint programming; topics of interest include (but are not limited to): 
+ 
+\begin{itemize}\item  Theoretical Foundations of Logic and Constraint Logic Programming
+\item  Sequential and Parallel Implementation Technology
+\item  Static and Dynamic Analysis, Abstract Interpretation, Compilation Technology, Verification
+\item  Logic-based Paradigms (e.g., Answer Set Programming, Concurrent Logic Programming, Inductive Logic Programming)
+\item  Innovative Applications of Logic Programming
+\item  Neuro-symbolic Approaches
+\end{itemize} 
+\item  Submissions by students who have presented their work at previous ICLP DC editions are allowed, but should occur only if there are substantial changes or improvements to the student's work. The DC offers participants a convenient, more informal way to interact with established researchers and fellow students, through presentations, question-answer sessions, panel discussions, and invited presentations. The Doctoral Consortium will also provide the possibility to reflect - through short activities, information sessions, and discussions - on the process and lessons of research and life in academia. Each participant will give a short, critiqued, research presentation. 
+ 
+\item  SUBMISSIONS 
+ 
+  Submissions of the research summary must be made in EPTCS format (\href{http://info.eptcs.org/}{http://info.eptcs.org/}) and submitted via EasyChair. All papers must be written in English and should be between 5 and 10 pages. For all accepted DC papers, the student is required to attend the DC program and give a presentation during the DC. A program committee consisting of experts in various areas related to logic and constraint programming reviews the submissions. Papers are reviewed by at least two, and usually three, referees. 
+ 
+  The submission package should consist of the research summary in the format mentioned above, a short vita or cover letter of the applicant, a letter of recommendation from applicant's faculty advisor, and one paragraph statement outlining how the school will benefit the applicant. All material is to be submitted electronically, in PDF format on the Easychair system. 
+ 
+  Easychair link: \href{https://easychair.org/conferences/?conf=iclp25}{https://easychair.org/conferences/?conf=iclp25} (Doctoral Consortium track) 
+ 
+  Research summary (make sure to include your complete name, address, and affiliation): The body of your research summary (no more than 6 pages) should provide a clear overview of your research, its potential impact, and its current status. You are encouraged to include the following sections: 
+ 
+\begin{itemize}\item  Introduction and problem description
+\item  Background and overview of the existing literature
+\item  Goal of the research
+\item  Current status of the research
+\item  Preliminary results accomplished (if any)
+\item  Open issues and expected achievements
+\item  Bibliographical references
+\end{itemize} 
+\item  REGISTRATION 
+ 
+  Registration is part of the ICLP 2025 registration. We aim to find sponsoring to cover the registration cost of students participating in the DC, but this still has to be confirmed. 
+ 
+\item  PROGRAM CO-CHAIRS 
+ 
+\begin{itemize}\item  Alice Tarzariol, University of Klagenfurt, Austria
+\item  Markus Hecher, University of Artois, CNRS, Computer Science Research Center of Lens (CRIL), France
+\end{itemize} 
+\end{itemize}\section{EuroProofNet Symposium 2025}\label{EuroProofNetSymposium2025}  8-19 September 2025\\ 
+  Institut Pascal, 530 Rue André Rivière, 91400 Orsay, France\\ 
+  \href{https://europroofnet.github.io/Symposium/}{https://europroofnet.github.io/Symposium/}\\ 
+CALL FOR TALK PROPOSALS 
+
+\begin{itemize}\item  The COST action EuroProofNet organizes in September a symposium at the Institut Pascal, Orsay, France, with various great events: 
+ 
+\begin{itemize}\item  8-11 September 2025: 1st International School on Logical Frameworks and Proof Systems Interoperability
+\item  11-14 September 2025: Workshop on automated reasoning and proof logging/WG2 meeting/WHOOPS
+\item  15-16 September 2025: Workshop on proof libraries/WG4 meeting
+\item  15-18 September 2025: Conference on mathematical and computational linguistics for proofs
+\item  17-19 September 2025: Workshop on program verification/WG3 meeting
+\end{itemize} 
+\item IMPORTANT DATES: 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}deadline for talk proposals and funding requests:  & May 25, 2025 \\
+notification:  & Jun 01, 2025 \\
+\end{tabulary}
+ 
+\end{itemize}\section{Assistant professor at Stockholm University: Mathematical Logic }\label{AssistantprofessoratStockholmUniversity}JOB ANNOUNCEMENT 
+
+\begin{itemize}\item  We are hiring an Assistant Professor in Mathematics with focus on Mathematical Logic (a tenure-track position), at the Stockholm University Department of Mathematics. Applicants from all areas of logic are welcome, and we especially welcome applications from women and other underrepresented groups. 
+ 
+\item  The Logic group in Stockholm currently consists of professor emeritus Per Martin-Löf and associate professors Peter LeFanu Lumsdaine and Anders Mörtberg, besides several PhD students and postdocs. The department is a vibrant place for logic, with a regular seminar (\href{https://logic.math.su.se/seminar/}{https://logic.math.su.se/seminar/}), advanced courses in logic, and close collaborations with other research groups in Sweden and internationally. 
+ 
+\item  More details and application link are at the official listing, \href{https://su.varbi.com/en/what:job/jobID:796743/where:4/}{https://su.varbi.com/en/what:job/jobID:796743/where:4/} 
+ 
+Application deadline: Apr 11, 2025 
+ 
+\item  Feel free to contact Anders Mörtberg (anders.mortberg@math.su.se) and Peter LeFanu Lumsdaine (p.l.lumsdaine@math.su.se) if you have any questions about the position or the logic group, besides the departmental/administrative contacts named in the listing. 
+ 
+\end{itemize}
+
+
+\bigskip Links: \href{http://siglog.org/}{SIGLOG website}, \href{https://lics.siglog.org}{LICS website}, \href{https://lics.siglog.org/newsletters/}{SIGLOG Monthly}\end{document}

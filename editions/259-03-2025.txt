@@ -41,7 +41,7 @@ CALL FOR ABSTRACTS
  
  
 
-ICLP25: 41st International Conference on Logic Programming ()
+ICLP25: 41st International Conference on Logic Programming
   University of Calabria, Rende, Italy 
   September 12-19, 2025
   https://iclp25.demacs.unical.it/

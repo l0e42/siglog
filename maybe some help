@@ -32,18 +32,13 @@ anything directly siglog related goes first. we add -s SIGLOG MATTER (is special
  
  go to siglog newsletters, must change html index.html, add new issue, must change edditor. USE FTP, i need user name and passowrd (filexilla), go to newsletters folder, put new index.html there!!! CAREFULL. then add edition 245 etc in same folder. 
 
-python3 html something is the comand to generate. 
-
-python3  jdjjdjdjdj add parameter email to make the email. CHECK GITHUB https://github.com/davidjpurser/siglog maybe fork
-
-must manualy delete top stuff nonsence, must delete
-
+./siglog_run.sh 259
 
 must edid script to be only me edditor
 
 FOR EMAIL (maybe thunderbird because it has ability to add HTML) 
 to las-lics etc 
-subject SIGLOG monthly 245
+subject SSIGLOG Monthly ####: Month Year - deadlines, calls and announcements
 
 must let email thorugh 
 
