@@ -1,0 +1,332 @@
+
+% v2-acmsmall-sample.tex, dated March 6 2012
+% This is a sample file for ACM small trim journals
+%
+% Compilation using 'acmsmall.cls' - version 1.3 (March 2012), Aptara Inc.
+% (c) 2010 Association for Computing Machinery (ACM)
+%
+% Questions/Suggestions/Feedback should be addressed to => "acmtexsupport@aptaracorp.com".
+% Users can also go through the FAQs available on the journal's submission webpage.
+%
+% Steps to compile: latex, bibtex, latex latex
+%
+% For tracking purposes => this is v1.3 - March 2012
+\documentclass[prodmode,acmtecs]{acmsmall} % Aptara syntax
+\usepackage[spanish,polish]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{fancyvrb}
+\usepackage{graphicx,hyperref}
+\newcommand\cutout[1]{}
+
+
+\usepackage[table]{xcolor}
+\usepackage[utf8]{inputenc}
+\usepackage[parfill]{parskip}
+\usepackage{tabulary}
+\PassOptionsToPackage{hyphens}{url}
+\usepackage{hyperref}    
+\usepackage[capitalize]{cleveref}
+
+
+% Metadata Information
+% !!! TODO: SET THESE VALUES !!!
+\acmVolume{0}
+\acmNumber{0}
+\acmArticle{CFP}
+\acmYear{0}
+\acmMonth{0}
+
+\newcounter{colstart}
+\setcounter{page}{4}
+
+\RecustomVerbatimCommand{\VerbatimInput}{VerbatimInput}%
+{
+%fontsize=\footnotesize,
+fontfamily=\rmdefault
+}
+
+
+\newcommand{\UnderscoreCommands}{%\do\verbatiminput%
+\do\citeNP \do\citeA \do\citeANP \do\citeN \do\shortcite%
+\do\shortciteNP \do\shortciteA \do\shortciteANP \do\shortciteN%
+\do\citeyear \do\citeyearNP%
+}
+
+\usepackage[strings]{underscore}
+
+
+
+% Document starts
+\begin{document}
+
+
+\setcounter{colstart}{\thepage}
+
+\acmArticle{CFP}
+\title{{\huge\sc SIGLOG Monthly 262}
+
+ June 2025}\author{ELLI ANASTASIADI\affil{Aalborg University, SE}\vspace*{-2.6cm}\begin{flushright}\includegraphics[width=30mm]{elli_anastasiadi.png}\end{flushright}}\begin{abstract}June 2025 edition of SIGLOG Monthly, featuring deadlines, calls and community announcements.
+\end{abstract}
+
+
+\maketitlee
+
+\href{https://lics.siglog.org/newsletters/}{Past Issues}
+ - 
+\href{https://lics.siglog.org/newsletters/inst.html}{How to submit an announcement}
+\section{Table of Contents}\begin{itemize}\item DEADLINES (\cref{deadlines}) 
+ 
+\item CALLS 
+ 
+\begin{itemize}\item C.A.R.L.A. 2025 (CALL FOR PAPERS ) (\cref{CARLA2025})
+\item CSL 2026 (CALL FOR PAPERS, The page limit is 15  pages (without references and appendices). Submission via easychair. Please see full submission instructions at the website. ) (\cref{CSL2026})
+\item DEON 2025 (CALL FOR PARTICIPATION) (\cref{DEON2025})
+\item WoLLIC 2025 (CALL FOR PARTICIPATION) (\cref{WoLLIC2025})
+\item FSCD 2025 (CALL FOR PARTICIPATION) (\cref{FSCD2025})
+\item ECOOP 2025 (CALL FOR PARTICIPATION) (\cref{ECOOP2025})
+\item FCSD 2025 (CALL FOR NOMINATION) (\cref{FCSD2025})
+\end{itemize} 
+\end{itemize}\section{Deadlines}\label{deadlines}\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}DEON 2025:  & Jun 02, 2025 (Early registration) \\
+Express/SOS 2025:  & Jun 03, 2025 (Paper) \\
+PODS 2026:  & Jun 03, 2025 (Abstracts), Jun 10, 2025 (Full papers) \\
+GandALF 2025:  & June 6th, 2025 (Extended deadline) \\
+BMQL 2025:  & Jun 10, 2025 (Submission) \\
+iFM 2025:  & Jun 13, 2025 (Extended Abstract Submission), Jun 20, 2025 (Extended Paper Submission), Aug 15, 2025 (Artifact Registration), Aug 01, 2025 (Artifact Submission 22) \\
+DaLi 2025:  & Jun 15, 2025 (Extended Abstract deadline), Jun 20, 2025 (Extended Full paper deadline) \\
+FAST TRACK ICLP 2025:  & Jun 15, 2025 (IJCAI FAST TRACK Papers) \\
+FSCD 2025:  & Jun 15, 2025 (Early registration) \\
+FCSD 2025:  & Jun 20, 2025 (Election statement deadline) \\
+ECOOP 2025:  & Jun 22, 2025 (Late registration (CEST)) \\
+ACKERMANN AWARD 2025:  & Jul 01, 2025 (nominee s) \\
+CSL 2026:  & Jul 15, 2025 (Abstract), Jul 21, 2025 (Paper) \\
+FM 2026:  & Nov 25, 2025 (Abstract Submission), Dec 02, 2025 (Full Paper Submission) \\
+\end{tabulary}
+\section{C.A.R.L.A. 2025: 1st Workshop on Cognitive Architectures for Robotics: LLMs and Logic in Action}\label{CARLA2025}  University of Calabria, Rende, Italy\\ 
+  September 12-13, 2025\\ 
+  \href{https://carla-ws.github.io/web/}{https://carla-ws.github.io/web/}\\ 
+  Part of ICLP 2025 \href{https://iclp25.demacs.unical.it}{https://iclp25.demacs.unical.it}\\ 
+CALL FOR PAPERS  
+
+\begin{itemize}\item  IMPORTANT DATES (AoE) 
+ 
+\begin{itemize}\item  Paper Submission Deadline: June 15, 2025 (EXTENDED)
+\item  Notification: July 13, 2025
+\item  Camera-Ready Deadline: July 27, 2025
+\end{itemize} 
+  Accepted papers will be presented as posters, with a subset selected for oral presentations. The workshop will take place in person at ICLP 2025, with virtual participation options to be confirmed. 
+ 
+\item  GENERAL INFORMATION 
+ 
+  The 1st Workshop on Cognitive Architectures for Robotics: LLMs and Logic in Action (CARLA) seeks to transform the landscape of intelligent robotics by pioneering the integration of large language models (LLMs), symbolic reasoning, and logic solvers into robotic systems. As robotics moves towards real-world applications requiring adaptability, safety, and complex decision-making, this workshop focuses on harnessing the synergy between data-driven learning models and symbolic logic-based systems to advance automation. For instructions on submission and topics please visit the website.  
+ 
+\item  ORGANIZATION 
+ 
+\begin{itemize}\item  Fabrizio Lo Scudo · University of Calabria, Italy
+\item  Sotirios Batsakis · Hellenic Mediterranean University, Greece
+\item  Manuel Borroto · University of Calabria, Italy
+\end{itemize} 
+\end{itemize}\section{CSL 2026: Computer Science Logic}\label{CSL2026}  \href{https://csl2026.github.io/}{https://csl2026.github.io/}\\ 
+  Paris, France\\ 
+  23-28 February 2026\\ 
+CALL FOR PAPERS 
+
+\begin{itemize}\item  Computer Science Logic (CSL) is the annual conference of the European Association for Computer Science Logic (EACSL), see \href{https://www.eacsl.org/}{https://www.eacsl.org/}. 
+ 
+  It is an interdisciplinary conference, spanning across both basic and application oriented research in mathematical logic and computer science. 
+ 
+\item  CSL 2026 is the 34th edition of the conference and will be held in Paris on the 23-28 February 2026 and is organised by the Logic and Computation team of the LIPN of Sorbonne Paris Nord University. For a detailed list of topics please visit the website.    
+ 
+\item  Submission: 
+ 
+\end{itemize}The page limit is 15  pages (without references and appendices). Submission via easychair. Please see full submission instructions at the website.  
+
+\begin{itemize}\item  IMPORTANT DATES 
+ 
+  All deadlines are midnight anywhere-on-earth (AoE); late submissions will not be considered. 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Abstract submission:  & Jul 15, 2025 \\
+Paper submission:  & Jul 21, 2025 \\
+Notification:  & Oct 20, 2025 \\
+Final Version:  & Nov 30, 2025 \\
+Conference:  & Feb 23-28, 2025 \\
+\end{tabulary}
+ 
+\item  Committee Chairs 
+ 
+\begin{itemize}\item  Stefano Guerrini - Sorbonne Paris Nord University, France
+\item  Barbara König - University of Duisburg-Essen, Germany
+\end{itemize} 
+\item  Organisation committee: 
+ 
+\begin{itemize}\item  Stefano Guerrini - Sorbonne Paris Nord University, France
+\end{itemize} 
+\end{itemize}\section{DEON 2025: 17th International Conference on Deontic Logic and Normative Systems}\label{DEON2025}  1 – 3 July 2025, TU Wien, Vienna, Austria\\ 
+CALL FOR PARTICIPATION 
+
+\begin{itemize}\item  The biennial International Conference on Deontic Logic and Normative Systems (DEON) conference series aims at bringing together researchers interested in the formal study of normative concepts, normative reasoning, and normative systems using methods from computer science, artificial intelligence, philosophy, linguistics, mathematics, and law. The conference will be preceded by a day of tutorials on June 30. 
+ 
+\item  Keynotes 
+ 
+\begin{itemize}\item  Natasha Alechina (Utrecht University, The Netherlands)
+\item  Henry Prakken (Utrecht University, The Netherlands)
+\item  Christian Straßer (Ruhr University Bochum, Germany)
+\end{itemize} 
+\item  Early registration with reduced rates is available until June 2nd! 
+ 
+Early registration: Jun 02, 2025 
+ 
+  For registration, please visit: \href{https://sites.google.com/view/deon-2025/registration?authuser=0}{https://sites.google.com/view/deon-2025/registration?authuser=0} 
+ 
+\end{itemize}\section{WoLLIC 2025: 31st Workshop on Logic, Language, Information and Computation}\label{WoLLIC2025}  14-17 July 2025\\ 
+  Porto, Portugal\\ 
+  \href{https://wollic2025.github.io/}{https://wollic2025.github.io/}\\ 
+CALL FOR PARTICIPATION 
+
+\begin{itemize}\item  REGISTRATION 
+ 
+  Registration is open in: \href{https://forms.gle/GKzvG4vTCEcxhgpS6}{https://forms.gle/GKzvG4vTCEcxhgpS6} 
+ 
+\begin{itemize}\item  Early registration (deadline is June 20):
+\item  Regular: 300 euros
+\item  Student: 250 euros
+\item   Late registration:
+\item  Regular: 360 euros
+\item  Student: 310 euros
+\end{itemize} 
+\item  INVITED SPEAKERS 
+ 
+\begin{itemize}\item  Tobias Kappé (Leiden University): On propositional program equivalence.
+\item  Daniela Petrişan (IRIF, Université de Paris): Functorial Mealy machines.
+\end{itemize} 
+\item  ACCEPTED PAPERS 
+ 
+  A list of accepted papers can be found at \href{https://wollic2025.github.io/accepted/}{https://wollic2025.github.io/accepted/} 
+ 
+\item  WoLLIC is an annual international forum on interdisciplinary research involving formal logic, computing and programming theory, and natural language and reasoning. Each meeting includes invited talks and tutorials as well as contributed papers. The thirty-first WoLLIC will be held at the University of Porto, Portugal, 14-17 July 2025.  
+ 
+\item  SCIENTIFIC SPONSORSHIP 
+ 
+\begin{itemize}\item  Interest Group in Pure and Applied Logics (IGPL)
+\item  The Association for Logic, Language and Information (FoLLI)
+\item  Association for Symbolic Logic (ASL)
+\item  European Association for Theoretical Computer Science (EATCS)
+\item  European Association for Computer Science Logic (EACSL)
+\item  Sociedade Brasileira de Lógica (SBL)
+\item  Sociedade Portuguesa de Lógica (SPL)
+\end{itemize} 
+\item  ABOUT WoLLIC 
+ 
+  WoLLIC is a series of workshops which started in 1994 with the aim of fostering interdisciplinary research in pure and applied logic. The idea is to have a forum which is large enough in the number of possible interactions between logic and the sciences related to information and computation, and yet is small enough to allow for concrete and useful interaction among participants. 
+ 
+\end{itemize}\section{FSCD 2025: Tenth International Conference on Formal Structures for Computation and Deduction}\label{FSCD2025}  14-20 July 2025, Birmingham, UK\\ 
+  \href{https://fscd-conference.org/2025/}{https://fscd-conference.org/2025/}\\ 
+  In-cooperation with ACM SIGLOG\\ 
+CALL FOR PARTICIPATION 
+
+\begin{itemize}\item  IMPORTANT DATES 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Early registration:  & Jun 15, 2025 \\
+Workshops:  & Jul 14, and Jul 19-20, 2025 \\
+Conference:  & Jul 15-18, 2025 \\
+\end{tabulary}
+ 
+\item  OVERVIEW 
+ 
+  FSCD (\href{https://fscd-conference.org/}{https://fscd-conference.org/}) covers all aspects of formal structures for computation and deduction, from theoretical foundations to applications. Building on two communities, RTA (Rewriting Techniques and Applications) and TLCA (Typed Lambda Calculi and Applications), FSCD embraces their core topics and broadens their scope to closely related areas in logic, models of computation, semantics and verification in new challenging areas. 
+ 
+\item  REGISTRATION 
+ 
+  Registration is now open, with the early deadline 15 June 2025 \href{https://shop.bham.ac.uk/conferences-and-events/college-of-engineering-physical-sciences/school-of-computer-science/computer-science-courses-events/10th-international-conference-on-formal-structures-for-computation-and-deduction}{https://shop.bham.ac.uk/conferences-and-events/college-of-engineering-physical-sciences/school-of-computer-science/computer-science-courses-events/10th-international-conference-on-formal-structures-for-computation-and-deduction} 
+ 
+\item  INVITED SPEAKERS 
+ 
+\begin{itemize}\item  Liron Cohen, Ben-Gurion University
+\item  Mariangiola Dezani, University of Torino
+\item  Ekaterina Komendantskaya, University of Southampton
+\item  Jose Meseguer, University of Illinois Urbana-Champaign
+\end{itemize} 
+\item  ACCEPTED PAPERS 
+ 
+  The list of accepted papers can be found here: \href{https://fscd2025.github.io/accepted.html}{https://fscd2025.github.io/accepted.html} 
+ 
+\item  WORKSHOPS 
+ 
+\begin{itemize}\item  UNIF 2025: 39th International Workshop on Unification - 14 July 2025
+\item  HOR 2025: 12th International Workshop on Higher-Order Rewriting - 14 July 2025
+\item  WiL 2025: Women in Logic 2025 - 14 July 2025
+\item  LFMTP 2025: International Workshop on Logical Frameworks and Met Languages: Theory and Practice - 19 July 2025
+\item  IFIP-WG1.6 2025: Annual Meeting of the IFIP Working Group 1.6 on Term Rewriting - 19 July 2025
+\item  TLLA 2025: 9th International Workshop on Trends in Linear Logic and Applications - 19 and 20 July 2025
+\item  GALOP 2025: 17th Workshop on Games for Logic and Programming Languages 19 and 20 July 2025
+\item  WPTE 2025: 11th International Workshop on Rewriting Techniques for Program Transformations and Evaluation - 20 July 2025
+\end{itemize} 
+\item  PROGRAMME COMMITTEE CHAIR  
+ 
+\begin{itemize}\item  Maribel Fernandez, King's College London, UK Email: fscd2025@easychair.org
+\end{itemize} 
+\item  CONFERENCE CHAIRS 
+ 
+\begin{itemize}\item  Paul Blain Levy, University of Birmingham, UK
+\item  Anupam Das, University of Birmingham, UK
+\end{itemize} 
+\item  SPONSORSHIP 
+ 
+  FSCD 2025 is proud to receive support from: 
+ 
+\begin{itemize}\item  University of Birmingham
+\item  UK Research and Innovation
+\item  The Research Institute on Verified Trustworthy Software Systems
+\end{itemize} 
+\item  ANTI-HARASSMENT POLICY 
+ 
+  The open exchange of ideas and the freedom of thought and expression are central to the values and goals of SIGLOG. They require an environment that recognizes the inherent worth of every person and group. They flourish in communities that foster mutual understanding and embrace diversity. For these reasons, SIGLOG is committed to providing a harassment-free conference experience. As an event held in cooperation with SIGLOG, FSCD implements the ACM policy against harassment: \href{https://www.acm.org/about-acm/policy-against-harassment}{https://www.acm.org/about-acm/policy-against-harassment}  
+ 
+\end{itemize}\section{ECOOP 2025: 39th European Conference on Object-Oriented Programming  }\label{ECOOP2025}  Bergen, Norway,  30th Jun - 4th July, 2025\\ 
+  \href{https://2025.ecoop.org}{https://2025.ecoop.org}\\ 
+CALL FOR PARTICIPATION 
+
+\begin{itemize}\item  ABOUT 
+ 
+  ECOOP is Europe’s longest-standing annual Programming Languages conference, bringing together researchers, practitioners, and students to share their ideas and experiences in all topics related to programming languages, software development, systems and applications. ECOOP welcomes high quality research papers relating to these fields in a broad sense. 
+ 
+  ECOOP is committed to affordable open access publishing. Recent year’s publications have been published by Dagstuhl’s LIPIcs series under a Creative Commons CC-BY license where the authors retain their copyright. ECOOP articles have been published without open access publishing fee and can be accessed via a DOI. LIPIcs is indexed in DBLP, Google Scholar, Scopus and others. 
+ 
+  ECOOP 2025 will take place in Bergen, Norway, hosted by the Software Engineering research group at Western Norway University of Applied Sciences. 
+ 
+\item  PRIZES 
+ 
+\begin{itemize}\item  Senior Prize: Mira Mezini, TU Darmstadt, Germany
+\item  Junior Prize: Amir Shaikhha, University of Edinburgh, United Kingdom
+\end{itemize} 
+  Both prize winners will give a keynote at ECOOP. Please visit \href{https://2025.ecoop.org/track/ecoop-2025-awards}{https://2025.ecoop.org/track/ecoop-2025-awards} to know more about them. 
+ 
+\begin{itemize}\item  Test-of-Time Award: Towards type inference for JavaScript, by Christopher Anderson, Paola Giannini, and Sophia Drossopoulou
+\end{itemize} 
+\item  Registration 
+ 
+  Detailed information about registration can be found at \href{https://www.discotec.org/2025/registration}{https://www.discotec.org/2025/registration} . 
+ 
+\item  IMPORTANT DATES 
+ 
+Late registration (CEST): Jun 22, 2025 
+ 
+\item  The week of ECOOP is high season in Bergen.  We recommend you to book your accommodation as soon as possible. 
+ 
+\item  Student Sponsorship 
+ 
+  The ECOOP'25 organizers and AITO are happy to announce the student support program for ECOOP'25.  Please visit \href{https://2025.ecoop.org/attending/student-scholarships}{https://2025.ecoop.org/attending/student-scholarships} for more details. 
+ 
+\end{itemize}\section{FCSD 2025: Formal Structures for Computation and Deduction Steering Committee Membership Election 2025}\label{FCSD2025}CALL FOR NOMINATION 
+
+\begin{itemize}\item  The FSCD SC consists of the SC Chair, 6 elected members, PC Chairs of the last 3 years, the Publicity Chair, Workshop Chair and former SC Chair. Every year the outgoing elected SC members are replaced by new members elected by a secret ballot. Each SC member normally serves for 3 years, unless exceptions apply (see the FSCD Rules of Business  \href{http://fscd-conference.org/organization/rules-of-business/}{http://fscd-conference.org/organization/rules-of-business/} for details). Note that past SC members are allowed to run for SC membership again. The current steering committee composition, together with the serving time for each member, is available here: \href{https://fscd-conference.org/organization/steering-committee/}{https://fscd-conference.org/organization/steering-committee/} 
+ 
+  Candidates for SC membership are requested to email the FSCD SC Chair an election statement (including a brief bio) on one a4 page, preferably in PDF, no later than (AoE) 
+ 
+Election statement deadline: Jun 20, 2025 
+ 
+  The election statements will be posted on the FSCD webpage before the start of FSCD 2025. The election will take place at the General Meeting of FSCD 2025, 15-18 July 2025.  
+ 
+\end{itemize}
+
+
+\bigskip Links: \href{http://siglog.org/}{SIGLOG website}, \href{https://lics.siglog.org}{LICS website}, \href{https://lics.siglog.org/newsletters/}{SIGLOG Monthly}\end{document}
