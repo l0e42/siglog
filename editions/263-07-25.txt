@@ -1,0 +1,279 @@
+-dd July 1, 2025  
+
+ -dM CSL 2026:	Jul 15, 2025 (Abstract), Jul 21, 2025 (Paper)
+ -dM FM 2026:	Nov 25, 2025 (Abstract Submission), Dec 02, 2025 (Full Paper Submission)
+ 
+ 
+
+
+
+SIR@IWCS2025: First Workshop on Semantics for Interdisciplinary Research
+  Dusseldorf, Germany
+  September 24 2025
+  https://team.inria.fr/semagramme/first-workshop-on-semantics-for-interdisciplinary-research/
+  https://openreview.net/group?id=inria.fr/INRIA/S%C3%A9magramme/2025/SIR01
+CALL FOR PAPERS
+* In recent years, Natural Language Processing (NLP) has increasingly intersected with the humanities and social sciences, offering new methodologies for analyzing textual data, interpreting meaning, and modelling language-based phenomena. The potential for multi-disciplinary research using NLP methods is particularly great in computational semantics (CS), as its ability to process and represent meaning opens up innovative pathways for researchers in history, philosophy, literary studies, political science, etc.  This workshop aims to explore how semantic models and tools can be leveraged to tackle traditional and emerging questions in the Humanities in a broader sense (Social Sciences, Law, Economics, Management, Literature, Languages, Art, …). A major theme of  SIR is the role of semantics in NLP applied to the humanities (both statistical and symbolic approaches).
+* IMPORTANT DATES
+ -dh Paper deadline : July 14th (anywhere on earth)
+ -d Notification : August 25th (anywhere on earth)
+ -d Camera Ready : September 10th (anywhere on earth)
+ -d Workshop : September 24th (anywhere on earth)
+* Submission Information
+  Papers should describe original research and must not exceed 4 pages (with an extra page in the camera ready version for accepted papers). Papers should be submitted no later than 14 July 2025 (anywhere on earth). Accepted papers will be published in the conference proceedings in the ACL Anthology. For inclusion in the proceedings, at least one author must register to the conference and present the paper in person. Submissions should be fully anonymous to ensure double-blind reviewing. Submission via : https://openreview.net/group?id=inria.fr/INRIA/S%C3%A9magramme/2025/SIR01 . The workshop follow the IWCS 2025 template see the workshop web page.
+* ORGANISERS
+ - Maxime Amblard, Université de Lorraine
+ - Ellen Breitholtz, Gothenburg University
+* CONTACT 
+  maxime.amblard@univ-lorraine.fr and ellen.breitholtz@ling.gu.se
+
+
+
+
+
+ 
+ 
+PETER ACZEL MEMORIAL CONFERENCE & BRITISH LOGIC COLLOQUIUM 2025 
+  10-12 September 2025, Manchester, UK
+  https://sites.google.com/view/blc2025/home
+CALL FOR PAPERS
+* The Peter Aczel Memorial Conference and the British Logic Colloquium 2025 meeting will be held at the University of Manchester (UK) on 10, 11, 12 September 2025. 
+* Registration is open at: https://estore.manchester.ac.uk/conferences-and-events/faculty-of-science-engineering/department-of-mathematics/departments-of-mathematics/british-logic-colloquium-2025-and-peter-aczel-memorial-conference
+* The programme committee invites abstracts for Contributed Talks. Students and early-career researchers are especially encouraged to present their work. 
+* IMPORTANT DATES
+ -dh Abstracts deadline: 31 July 2025
+* Invited speakers for the Peter Aczel memorial conference (10 September):
+ - Steve Awodey (Carnegie Mellon University),
+ - Jouko Vaananen (University of Helsinki),
+ - Rosalie Iemhoff (Utrecht University),
+ - Andrew Swan (University of Ljubljana),
+* Invited speakers for the BLC meeting (11-12 September) are:
+ - Mirna Dzamonja (Paris),
+ - Fairouz Kamareddine (Heriot-Watt),
+ - Fraser MacBride (Manchester),
+ - Paul-André Melliès (Paris),
+ - Paula Quinon (Lund/Warsaw),
+ - Katrin Tent (Münster),
+ - Frank Wolter (Liverpool)
+* Additional information is available from: https://sites.google.com/view/blc2025/home
+
+
+
+
+
+
+
+REACTS'25: International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications
+  https://reacts-workshop.github.io/2025/
+  Tuesday, 10-11 November 2025
+  Toledo, Spain
+  Satellite event of SEFM 2025 (https://sefm-conference.github.io/sefm2025)
+CALL FOR PAPERS
+* OVERVIEW
+  Reconfigurable Transition Systems (RTS) are dynamic relational structures (graphs) that evolve along its execution, in the sense that their accessibility relation, their set of nodes or their labelling change when their edges are crossed. These structures have proven to be suitable to compactly represent complex reactive and reconfigurable behaviours. Namely, the ability of reacting or readapting under the influence of certain events is a very distinctive feature of many diverse situations and objects. An autonomous vehicle that changes its route due to a new strike occurring, the behaviour of a software component after a memory disposal, or a DNA mutation as the result of a viral infection, are different examples that witness the importance of modelling about changes in a determined situation. Practical user cases have aroused the interest of the logic community in the study of variants of RTS, by developing formal methods to properly reason about such situations.
+  This workshop aims to bring together the whole community of researchers working on different ways to model reconfigurable and reactive systems from a formal perspective. This includes theoretical approaches (like hybrid logics, reactive frames, model-update logics, and topological and algebraic semantics), or formalisms designed for specific purposes (like separation logic in software verification, dynamic epistemic logic in AI planning, and others). Also, our goal is to devise novel approaches and potential applications, and share a common perspective on the discipline.
+* SUBMISSION GUIDELINES
+  Authors are invited to submit, via CMT, research contributions or experience reports (https://cmt3.research.microsoft.com/reacts2025). All papers should be written in English and prepared using the specific LNCS templates available at http://www.springer.de/comp/lncs/authors.html. There are two categories of submissions:
+ - FULL PAPERS up to 12 pages (excluding references) – to present original research and the analysis, interpretation and validation of the research findings.
+ - SHORT PRESENTATIONS up to 4 pages (excluding references) – to present work in progress and preliminary results.
+  Both kinds of submissions allow system descriptions,  to present a new tool, a new tool component or novel extensions to an existing tool aiming at supporting open community approaches, or the use/customisation of an existing tool in the context of RTS. Accepted full papers will be included in the workshop programme and will appear in the workshop LNCS proceedings. Accepted short presentations will be included in the pre-proceeding (available online before the Workshop) but not published in the LNCS proceedings.
+* PROGRAM CO-CHAIRS
+- José Proença, University of Porto (Portugal)
+- Umberto Rivieccio, Universidad Nacional de Educación a Distancia (Spain)
+* PUBLICATION
+  Accepted full papers will be published by Springer in a volume of Lecture Notes in Computer Science (http://www.springer.com/lncs), which will collect contributions to some workshops co-located with SEFM 2025. Condition for inclusion in proceedings is that at least one of the co-authors has presented the paper at the Workshop. Similarly to the last edition of ReacTS, we plan to invite authors of selected contributions to submit extended versions to a special issue, e.g. to the Journal of Applied Logics.
+* IMPORTANT DATES
+ -dh Abstract submission: August 13, 2025
+ -dh Paper submission: August 20, 2025
+ -d Author notification: September 22, 2025
+ -dv Workshop: Nov 10-11, 2025
+* CONTACT
+  If you have any problems or questions, please contact us via e-mail at: jose.proenca@fc.up.pt / umberto@fsof.uned.es
+
+
+
+
+
+
+CPP 2026: Certified Programs and Proofs
+  https://popl26.sigplan.org/home/CPP-2026
+  Rennes, France
+  12-13 January 2025
+CALL FOR PAPERS
+* Certified Programs and Proofs (CPP) is an international conference on practical and theoretical topics in all areas that consider formal verification and certification as an essential paradigm for their work. CPP spans areas of computer science, mathematics, logic, and education. CPP 2026 (https://popl26.sigplan.org/home/CPP-2026) will be held on 12-13 January 2025 and will be co-located with POPL 2026 in Rennes, France. CPP 2026 is sponsored by ACM SIGPLAN, in cooperation with ACM SIGLOG. CPP 2026 will welcome contributions from all members of the community. The CPP 2026 organizers will strive to enable both in-person and remote participation, in cooperation with the POPL 2026 organizers.
+* IMPORTANT DATES
+ -dh Abstract Submission Deadline: 5 September 2025
+ -dh Paper Submission Deadline: 12 September 2025
+ -d Notification (tentative): 13 November 2025
+ -d Camera Ready Deadline (tentative): 1 December 2025
+ -dv Conference: Jan 12-13, 2026
+  Deadlines expire at the end of the day, anywhere on earth. Abstract and submission deadlines are strict and there will be no extensions.
+* DISTINGUISHED PAPER AWARDS
+  Around 10% of the accepted papers at CPP 2026 will be designated as Distinguished Papers. This award highlights papers that the CPP program committee thinks should be read by a broad audience due to their relevance, originality, significance and clarity.
+* For a complete list of topics of interest, and detailed submission instructions, please visit the conference website. 
+* ORGANIZERS
+ - Kathrin Stark, Heriot-Watt University (conference co-chair)
+ - Yannick Zakowski, ENS Lyon (conference co-chair)
+ - Nikhil Swamy, Microsoft Research (PC co-chair)
+ - Nicolas Tabareau, Inria (PC co-chair)
+  For any questions please contact the two PC chairs:
+ - Nikhil Swamy nswamy@microsoft.com
+ - Nicolas Tabareau nicolas.tabareau@inria.fr
+
+
+FoSSaCS 2026: 29TH INTERNATIONAL CONFERENCE ON FOUNDATIONS OF SOFTWARE SCIENCE AND COMPUTATION STRUCTURES (FoSSaCS 2026)
+  Part of the International Joint Conferences On Theory and Practice of  Software (ETAPS 2026)
+  https://etaps.org/2026/conferences/fossacs/
+  April 11-16, 2026
+  Turin, Italy
+CALL FOR PAPERS
+* GENERAL
+  FoSSaCS seeks original papers on foundational research with a clear significance for software science. The conference invites submissions on theories and methods to support the analysis, integration, synthesis, transformation, and verification of programs and software systems.
+* PROCEEDINGS
+  The FoSSaCS 2026 proceedings will be published in Springer LNCS as gold open access.
+* SUBMISSIONS
+  FoSSaCS solicits just a single paper category: research papers. The page limit is 18 pp excluding references, respecting Springer’s LNCS format at the submission time. Additional material (no page limit) can be placed in a clearly marked appendix, at the end of the paper.  The papers can be submitted at https://easychair.org/conferences/?conf=fossacs2026 . FoSSaCS 2026 will adopt a double-blind reviewing process, in line with the other ETAPS conferences. PC members will be allowed to submit up to one paper. These submissions will be held to a higher standard - for example, PC submissions will not be part of the final vote.
+* ARTIFACT EVALUATION
+  FoSSaCS 2026 will have a post-paper-acceptance voluntary artifact evaluation. Authors will be encouraged to submit artifacts for evaluation after paper notification. The outcome will not alter the paper’s acceptance decision. Guillermo Alberto Perez (University of Antwerp) will act as the FoSSaCS artifact  evaluation chair. Detailed information will shortly appear at https://etaps.org/2026/conferences/ae-esop-fase-fossacs
+* IMPORTANT DATES
+ -dh Submission deadline: October 16, 2025 
+ -d Rebuttal: December 8–10, 2025
+ -d Paper notification: December 22, 2025
+ -d Voluntary artifact submission deadline: January 8, 2026
+ -d Paper final version: January 22, 2026
+ -d Artifact notification: February 12, 2026
+ -dv Main Conference: Apr 13–16, 2026
+* PC CHAIRS
+ - Nathalie Bertrand (Inria Rennes, France)
+ - Stefan Milius (Friedrich-Alexander Universität Erlangen-Nürnberg, Germany)
+
+
+
+
+
+ICLP 2025: 41st International Conference on Logic Programming 
+  University of Calabria, Rende, Italy
+  September 12-19, 2025
+CALL FOR PARTICIPATION
+* We are pleased to announce the availability of student grants to support participation in ICLP 2025, generously provided by the Artificial Intelligence Journal (AIJ), the Italian Association for Artificial Intelligence (AIxIA), and the Gruppo Ricercatori e Utenti Logic Programming (GULP). We encourage all eligible students to apply!
+* IMPORTANT DATES
+ -dh Submission deadline: 6th July 2025
+ -d Notification of acceptance: 13th July 2025
+* Who can apply?
+  Grants are available to Master’s and PhD students and are conditional upon:
+ - A certificate of student status
+ - A statement confirming the lack of sufficient funds to attend ICLP 2025
+* What is covered?
+  The grants will partially cover registration fees and/or shared accommodation in university residences or nearby lodging facilities. The applicant can indicate the type of support he needs. AIJ offers multiple grants, which will be provided as direct discounts on conference services. AixIA offers two grants, up to 400 EUR each, which will be provided via reimbursement handled by the association after the conference.  GULP offers two grants, up to 260 EUR each, which will be provided via reimbursement handled by the association after the conference. For US-based students, an NSF-sponsored grant may become available later. Applicants should indicate their preference for a specific grant type in the application form.
+* Evaluation Criteria
+  Applications will be evaluated based on:
+ - Whether the student is an author of a paper accepted at any ICLP-related event
+ - The submission timestamp
+ - Whether the applicant is a member of AIxIA or GULP Associations
+ - The personal preference for a specific grant
+  Under no circumstances can a grant be awarded to an applicant who is not enrolled in a recognized study program (Master’s level – ISCED Level 7 or PhD level – ISCED Level 8 or equivalent), or who is unable to provide valid proof of student status. The committee will maximise student participation given the available funds. If the NSF-sponsored grant becomes available, it will be allocated to eligible students based in the United States.
+  To apply, please complete the application form by July 6th by filling in the following form: https://forms.gle/8w39MENkZ9nYbjo38
+
+
+
+
+
+WoLLIC 2025: 31st Workshop on Logic, Language, Information and Computation
+  14-17 July 2025
+  Porto, Portugal
+  https://wollic2025.github.io/
+CALL FOR PARTICIPATION
+* REGISTRATION
+  Registration is open in: https://forms.gle/GKzvG4vTCEcxhgpS6
+ - Late registration:
+  	-Regular: 360 euros
+        -Student: 310 euros
+* INVITED SPEAKERS
+ - Tobias Kappé (Leiden University): On propositional program equivalence.
+ - Daniela Petrişan (IRIF, Université de Paris): Functorial Mealy machines.
+* ACCEPTED PAPERS
+  The list of accepted papers can be found at https://wollic2025.github.io/accepted/
+* WoLLIC is an annual international forum on interdisciplinary research involving formal logic, computing and programming theory, and natural language and reasoning. Each meeting includes invited talks and tutorials as well as contributed papers. The thirty-first WoLLIC will be held at the University of Porto, Portugal, 14-17 July 2025. WoLLIC is a series of workshops which started in 1994 with the aim of fostering interdisciplinary research in pure and applied logic. The idea is to have a forum which is large enough in the number of possible interactions between logic and the sciences related to information and computation, and yet is small enough to allow for concrete and useful interaction among participants.
+* SCIENTIFIC SPONSORSHIP
+ - Interest Group in Pure and Applied Logics (IGPL)
+ - The Association for Logic, Language and Information (FoLLI)
+ - Association for Symbolic Logic (ASL)
+ - European Association for Theoretical Computer Science (EATCS)
+ - European Association for Computer Science Logic (EACSL)
+ - Sociedade Brasileira de Lógica (SBL)
+ - Sociedade Portuguesa de Lógica (SPL)
+
+
+
+CONFEST 2025: CONCUR, FMICS, QEST_FORMATS
+  https://conferences.au.dk/confest2025
+  CONCUR, FMICS, QEST+FORMATS, and six co-located workshops
+  August 25-30, 2025
+  Aarhus, Denmark
+CALL FOR PARTICIPATION
+* OVERVIEW
+ - 8 invited talks
+ - 75 conference paper presentations
+ - 6 co-located workshops
+  The early registration deadline is July 26, 2025.
+  We are excited to invite you to register for CONFEST 2025, which will host three major international conferences:
+ - CONCUR 2025: 36th International Conference on Concurrency Theory
+ - FMICS 2025: 30th International Conference on Formal Methods for Industrial Critical Systems
+ - QEST+FORMATS 2025: Joint International Conference on Quantitative Evaluation of Systems and Formal Modeling and Analysis of Timed Systems
+  These events will take place in Aarhus, Denmark, from August 25 to August 30, offering a fantastic opportunity to follow the latest advancements, and network with researchers and practitioners in these fields. For more information about the conferences and the venue, please visit: https://conferences.au.dk/confest2025
+* Registration
+  The Early Registration deadline is 
+ -dh Early registration: July 26, 2025.
+  via: https://conferences.au.dk/confest2025/registration
+  Some hotel booking codes are available here: https://conferences.au.dk/confest2025/hotel-accommodations . Other accommodation options are available here: https://www.visitaarhus.com/aarhus/where-sleep/hotels
+* Invited Speakers
+ - Alessandro Abate, U of Oxford, UK. Title: Neural synthesis for verification and control of stochastic systems - certificates and abstractions
+ - Christel Baier, TU Dresden, Germany. Title: Linear Temporal Logic with Standpoint Modalities
+ - Lu Feng, University of Virginia, USA. Title: Runtime Safety for Learning-Enabled Cyber-Physical Systems: From Predictive Monitoring to Adaptive Shielding
+ - Arnd Hartmanns, U of Twente, NL. Title: Sound and Modest Approaches to Quantitative Model Checking from Sea to Space
+ - Chris Heunen, U of Edinburgh, UK. Title: Towards categorical quantum concurrency theory
+ - Christoph Matheja, U of Oldenburg, Germany and DTU Denmark. Title: Automating Proof Rules for Probabilistic Programs
+ - Ina Schieferdecker, Independent Researcher, Germany. Title: Empowering Testing with AI - Navigating the growing field of research on AI for software testing
+ - Jiri Srba, Aalborg University, Denmark. Title: On-the-Fly Verification: Advancements in Dependency Graphs
+* Workshops
+ - BMQL 2025 - 1st IW on Behavioural Metrics and Quantitative Logics
+ - Express/SOS 2025 - combined IW on Expressiveness in Concurrency and Structural Operational Semantics
+ - FMQC 2025 - IW on Formal Methods in Quantum Computing
+ - PFQA 2025 - Colloquium on Principles of Formal Quantitative Analysis
+ - Radical 2025 -  4th IW on Recent Advances in Concurrency and Logic
+ - SynCoP 2025 - 10th IW on Synthesis of Complex Parameters
+  We hope to meet you in Aarhus this summer!
+
+ 
+
+
+
+Professor position: Roskilde University, Denmark
+JOB ANNOUNCEMENT
+* Roskilde University, Denmark, invites applications for a Professor of Computer Science or Associate Professor on the promotion programme of Computer Science.
+* We are seeking applicants with a background in Computer Science and a strong research profile in Data Science, preferably within the domain of Machine Learning. We are particularly interested in applicants with research in one or more of the following subject areas: (1) explainable AI, (2) the combination machine learning and symbolic reasoning, (3) language models or Natural Language Processing, and (4) cybersecurity.
+* Application deadline: September 7th, 2025.
+* For more information, see: https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1310&ProjectId=147722
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
