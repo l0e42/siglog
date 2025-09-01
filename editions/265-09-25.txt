@@ -1,0 +1,89 @@
+ -dd September 1, 2025
+ 
+ -dM CPP 2026:	Sep 05, 2025 (Abstract Submission Deadline), Sep 12, 2025 (Paper Submission Deadline)
+ -dM FM 2026:	Nov 25, 2025 (Abstract Submission), Dec 02, 2025 (Full Paper Submission)
+ 
+ 
+ 
+
+
+
+
+FLOPS 2026: 18th International Symposium on Functional and Logic Programming
+  May 26-28, 2026, Akita, Japan
+  https://functional-logic.org/events/flops/2026/
+CALL FOR PAPERS
+* FLOPS aims to bring together practitioners, researchers and implementers of declarative programming, to discuss mutually interesting results and common problems: theoretical advances, their implementations in language systems and tools, and applications of these systems in practice. The scope includes all aspects of the design, semantics, theory, applications, implementations, and teaching of declarative programming. FLOPS specifically aims to promote cross-fertilization between theory and practice and among different styles of declarative programming.
+* The call is now open. 
+* Important dates:
+  -dh Abstracts due: Dec 8, 2025
+  -dh Submission deadline:   Dec 15, 2025
+
+
+
+
+ 
+ 
+AiML 2026: Advances in Modal Logic
+  29 June - 3 July 2026
+  Amsterdam, Netherlands
+  https://events.illc.uva.nl/aiml2026/
+CALL FOR PAPERS
+* ABOUT 
+  Host: AiML 2026 is organized by the Institute of Logic, Language and Computation (ILLC) of the University of Amsterdam (UvA). The conference will take place on 29 June - 3 July 2026. 
+  Advances in Modal Logic is an initiative aimed at presenting the state of the art in modal logic and its various applications. The initiative consists of a conference series together with volumes based on the conferences. Information about the AiML series can be obtained at http://www.aiml.net.
+* Tentative deadlines:
+  The list below presents the tentative deadlines for the conference. It includes deadlines for long papers and short presentations as is a tradition for AiML. The first Call for Papers for AiML 2026 will follow soon.
+ -dh Abstract submission for long papers: 20 February, 2025
+ -dh Full papers submission: 27 February, 2025
+ -d Full papers notification: 24 April, 2025
+ -dh Short presentations submission: 5 May, 2025
+ -d Camera-ready version full papers: 15 May, 2025
+ -d Short presentations notification: 20 May, 2025
+ -d Camera-ready version short presentations: 29 May, 2025
+ dv Conference: Jun 29 - Jul 03, 2025
+* Co-chairs organizing committee:
+ - Iris van der Giessen (University of Amsterdam)
+ - Marianna Girlando (University of Amsterdam)
+* Co-chairs program committee:
+ - Marta Bílková (The Czech Academy for Sciences)
+ - Yanjing Wang (Peking University)
+ * Contact:
+  To get in touch with the organizers please write to aiml2026-illc@uva.nl.
+  
+
+
+
+Theorietag: 88th Workshop on Algorithms, Complexity, and Logic 
+  9th-10th October 2025
+  University of Augsburg, Germany
+  https://uni-a.de/to/fai-theorietag2025/
+CALL FOR PARTICIPATION
+* ABOUT 
+  The 88th Workshop in Algorithms, Complexity, and Logic, commonly known as "Theorietag", is a joint workshop of the three working groups on Algorithms, Complexity, and Logic of the German Society for Computer Science (GI). 
+  It aims at bringing together researchers from these three core research areas of theoretical computer science and to foster a broad scientific exchange. Moreover, the workshop is a great opportunity for younger researchers to present their work and to connect. There are no formal proceedings, so both published and unpublished work can be presented, without interfering with any past or future publication. A declared goal of the workshop is to enable contact between young and senior scientists.
+* INVITED SPEAKERS
+ - Thomas Bläsius (Karlsruhe Institute of Technology)
+ - Javier Esparza (Technical University Munich)
+ - Daniel Neuen (Max Planck Institute for Computer Science, Saarbrücken)
+* CONTRIBUTED TALKS:
+  We are looking for contributed talks in all areas of research on Algorithms, Complexity and Logic. These can be on recently published research, work in progress, or thesis projects.
+  If you are interested in giving a contributed talk, then please send your title+abstract to theorietag2025@informatik.uni-augsburg.de by 
+  - dh abstract submission: 26 September 2025
+* REGISTRATION:
+ The registration is open at least until 26th September 2025. Attending the workshop will be free of charge. Coffee/tea+fingerfood will be provided. Lunch and social dinner is self-paid. If you want to attend the workshop (with or without talk), then please register by sending an email to: theorietag2025@informatik.uni-augsburg.de
+* CONTACT
+  The workshop is organized by the Theoretical Computer Science Group at University of Augsburg. Contact: theorietag2025@informatik.uni-augsburg.de
+
+
+
+
+
+
+
+
+
+
+
+
+

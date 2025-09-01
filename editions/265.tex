@@ -1,0 +1,180 @@
+
+% v2-acmsmall-sample.tex, dated March 6 2012
+% This is a sample file for ACM small trim journals
+%
+% Compilation using 'acmsmall.cls' - version 1.3 (March 2012), Aptara Inc.
+% (c) 2010 Association for Computing Machinery (ACM)
+%
+% Questions/Suggestions/Feedback should be addressed to => "acmtexsupport@aptaracorp.com".
+% Users can also go through the FAQs available on the journal's submission webpage.
+%
+% Steps to compile: latex, bibtex, latex latex
+%
+% For tracking purposes => this is v1.3 - March 2012
+\documentclass[prodmode,acmtecs]{acmsmall} % Aptara syntax
+\usepackage[spanish,polish]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{fancyvrb}
+\usepackage{graphicx,hyperref}
+\newcommand\cutout[1]{}
+
+
+\usepackage[table]{xcolor}
+\usepackage[utf8]{inputenc}
+\usepackage[parfill]{parskip}
+\usepackage{tabulary}
+\PassOptionsToPackage{hyphens}{url}
+\usepackage{hyperref}    
+\usepackage[capitalize]{cleveref}
+
+
+% Metadata Information
+% !!! TODO: SET THESE VALUES !!!
+\acmVolume{0}
+\acmNumber{0}
+\acmArticle{CFP}
+\acmYear{0}
+\acmMonth{0}
+
+\newcounter{colstart}
+\setcounter{page}{4}
+
+\RecustomVerbatimCommand{\VerbatimInput}{VerbatimInput}%
+{
+%fontsize=\footnotesize,
+fontfamily=\rmdefault
+}
+
+
+\newcommand{\UnderscoreCommands}{%\do\verbatiminput%
+\do\citeNP \do\citeA \do\citeANP \do\citeN \do\shortcite%
+\do\shortciteNP \do\shortciteA \do\shortciteANP \do\shortciteN%
+\do\citeyear \do\citeyearNP%
+}
+
+\usepackage[strings]{underscore}
+
+
+
+% Document starts
+\begin{document}
+
+
+\setcounter{colstart}{\thepage}
+
+\acmArticle{CFP}
+\title{{\huge\sc SIGLOG Monthly 265}
+
+ September 2025}\author{ELLI ANASTASIADI\affil{Aalborg University, SE}\vspace*{-2.6cm}\begin{flushright}\includegraphics[width=30mm]{elli_anastasiadi.png}\end{flushright}}\begin{abstract}September 2025 edition of SIGLOG Monthly, featuring deadlines, calls and community announcements.
+\end{abstract}
+
+
+\maketitlee
+
+\href{https://lics.siglog.org/newsletters/}{Past Issues}
+ - 
+\href{https://lics.siglog.org/newsletters/inst.html}{How to submit an announcement}
+\section{Table of Contents}\begin{itemize}\item DEADLINES (\cref{deadlines}) 
+ 
+\item CALLS 
+ 
+\begin{itemize}\item FLOPS 2026 (CALL FOR PAPERS) (\cref{FLOPS2026})
+\item AiML 2026 (CALL FOR PAPERS) (\cref{AiML2026})
+\item Theorietag (CALL FOR PARTICIPATION) (\cref{Theorietag})
+\end{itemize} 
+\end{itemize}\section{Deadlines}\label{deadlines}\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}AiML 2026:  & Feb 20, 2025 (Abstract  for long papers), Feb 27, 2025 (Full papers), May 05, 2025 (Short presentations) \\
+CPP 2026:  & Sep 05, 2025 (Abstract Submission Deadline), Sep 12, 2025 (Paper Submission Deadline) \\
+FM 2026:  & Nov 25, 2025 (Abstract Submission), Dec 02, 2025 (Full Paper Submission) \\
+FLOPS 2026:  & Dec 08, 2025 (Abstracts due), Dec 15, 2025 (Submission deadline) \\
+\end{tabulary}
+\section{FLOPS 2026: 18th International Symposium on Functional and Logic Programming}\label{FLOPS2026}  May 26-28, 2026, Akita, Japan\\ 
+  \href{https://functional-logic.org/events/flops/2026/}{https://functional-logic.org/events/flops/2026/}\\ 
+CALL FOR PAPERS 
+
+\begin{itemize}\item  FLOPS aims to bring together practitioners, researchers and implementers of declarative programming, to discuss mutually interesting results and common problems: theoretical advances, their implementations in language systems and tools, and applications of these systems in practice. The scope includes all aspects of the design, semantics, theory, applications, implementations, and teaching of declarative programming. FLOPS specifically aims to promote cross-fertilization between theory and practice and among different styles of declarative programming. 
+ 
+\item  The call is now open.  
+ 
+\item  Important dates: 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Abstracts due:  & Dec 08, 2025 \\
+Submission deadline:  & Dec 15, 2025 \\
+\end{tabulary}
+ 
+\end{itemize}\section{AiML 2026: Advances in Modal Logic}\label{AiML2026}  29 June - 3 July 2026\\ 
+  Amsterdam, Netherlands\\ 
+  \href{https://events.illc.uva.nl/aiml2026/}{https://events.illc.uva.nl/aiml2026/}\\ 
+CALL FOR PAPERS 
+
+\begin{itemize}\item  ABOUT  
+ 
+  Host: AiML 2026 is organized by the Institute of Logic, Language and Computation (ILLC) of the University of Amsterdam (UvA). The conference will take place on 29 June - 3 July 2026.  
+ 
+  Advances in Modal Logic is an initiative aimed at presenting the state of the art in modal logic and its various applications. The initiative consists of a conference series together with volumes based on the conferences. Information about the AiML series can be obtained at \href{http://www.aiml.net}{http://www.aiml.net}. 
+ 
+\item  Tentative deadlines: 
+ 
+  The list below presents the tentative deadlines for the conference. It includes deadlines for long papers and short presentations as is a tradition for AiML. The first Call for Papers for AiML 2026 will follow soon. 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Abstract submission for long papers:  & Feb 20, 2025 \\
+Full papers submission:  & Feb 27, 2025 \\
+Full papers notification:  & Apr 24, 2025 \\
+Short presentations submission:  & May 05, 2025 \\
+Camera-ready version full papers:  & May 15, 2025 \\
+Short presentations notification:  & May 20, 2025 \\
+Camera-ready version short presentations:  & May 29, 2025 \\
+\end{tabulary}
+ 
+ dv Conference: Jun 29 - Jul 03, 2025 
+ 
+\item  Co-chairs organizing committee: 
+ 
+\begin{itemize}\item  Iris van der Giessen (University of Amsterdam)
+\item  Marianna Girlando (University of Amsterdam)
+\end{itemize} 
+\item  Co-chairs program committee: 
+ 
+\begin{itemize}\item  Marta Bílková (The Czech Academy for Sciences)
+\item  Yanjing Wang (Peking University)
+\end{itemize} 
+\item  Contact: 
+ 
+  To get in touch with the organizers please write to aiml2026-illc@uva.nl. 
+ 
+\end{itemize}\section{Theorietag: 88th Workshop on Algorithms, Complexity, and Logic }\label{Theorietag}  9th-10th October 2025\\ 
+  University of Augsburg, Germany\\ 
+  \href{https://uni-a.de/to/fai-theorietag2025/}{https://uni-a.de/to/fai-theorietag2025/}\\ 
+CALL FOR PARTICIPATION 
+
+\begin{itemize}\item  ABOUT  
+ 
+  The 88th Workshop in Algorithms, Complexity, and Logic, commonly known as ``Theorietag'', is a joint workshop of the three working groups on Algorithms, Complexity, and Logic of the German Society for Computer Science (GI).  
+ 
+  It aims at bringing together researchers from these three core research areas of theoretical computer science and to foster a broad scientific exchange. Moreover, the workshop is a great opportunity for younger researchers to present their work and to connect. There are no formal proceedings, so both published and unpublished work can be presented, without interfering with any past or future publication. A declared goal of the workshop is to enable contact between young and senior scientists. 
+ 
+\item  INVITED SPEAKERS 
+ 
+\begin{itemize}\item  Thomas Bläsius (Karlsruhe Institute of Technology)
+\item  Javier Esparza (Technical University Munich)
+\item  Daniel Neuen (Max Planck Institute for Computer Science, Saarbrücken)
+\end{itemize} 
+\item  CONTRIBUTED TALKS: 
+ 
+  We are looking for contributed talks in all areas of research on Algorithms, Complexity and Logic. These can be on recently published research, work in progress, or thesis projects. 
+ 
+  If you are interested in giving a contributed talk, then please send your title+abstract to theorietag2025@informatik.uni-augsburg.de by  
+ 
+\begin{itemize}\item  dh abstract submission: 26 September 2025
+\end{itemize} 
+\item  REGISTRATION: 
+ 
+ The registration is open at least until 26th September 2025. Attending the workshop will be free of charge. Coffee/tea+fingerfood will be provided. Lunch and social dinner is self-paid. If you want to attend the workshop (with or without talk), then please register by sending an email to: theorietag2025@informatik.uni-augsburg.de 
+ 
+\item  CONTACT 
+ 
+  The workshop is organized by the Theoretical Computer Science Group at University of Augsburg. Contact: theorietag2025@informatik.uni-augsburg.de 
+ 
+\end{itemize}
+
+
+\bigskip Links: \href{http://siglog.org/}{SIGLOG website}, \href{https://lics.siglog.org}{LICS website}, \href{https://lics.siglog.org/newsletters/}{SIGLOG Monthly}\end{document}
