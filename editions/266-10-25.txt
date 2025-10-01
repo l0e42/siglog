@@ -1,0 +1,74 @@
+ -dd October 1, 2025
+ 
+ -dM FM 2026:		Nov 25, 2025 (Abstract Submission), Dec 02, 2025 (Full Paper Submission)
+ -dM FLOPS 2026:	Dec 08, 2025 (Abstracts due), Dec 15, 2025 (Submission deadline)
+ 
+ 
+ 
+ 
+FoSSaCS 2026: 29TH INTERNATIONAL CONFERENCE ON FOUNDATIONS OF SOFTWARE SCIENCE AND COMPUTATION STRUCTURES
+  Part of the ETAPS International Joint Conferences On Theory and Practice of Software
+  https://etaps.org/2026/conferences/fossacs/
+  April 11-16, 2026
+  Torino, Italy
+CALL FOR PAPERS
+* GENERAL
+  FoSSaCS seeks original papers on foundational research with a clear significance for software science. The conference invites submissions on theories and methods to support the analysis, integration, synthesis, transformation, and verification of programs and software systems.
+* TOPICS
+  For a complete list of topics please visit the website. 
+* PROCEEDINGS
+  The FoSSaCS 2026 proceedings will be published in Springer LNCS as gold open access. In addition, there will be a special issue of the diamond open-access journal Logical Methods in Computer Science with extended version of selected papers from the conference.
+* SUBMISSIONS
+  FoSSaCS solicits just a single paper category: research papers. The page limit is 18 pages excluding references, respecting Springer’s LNCS format at the submission time. Additional material (no page limit) can be placed in a clearly marked appendix, at the end of the paper. The papers can be submitted at https://easychair.org/conferences/?conf=fossacs2026
+  FoSSaCS 2026 will adopt a double-blind reviewing process, in line with the other ETAPS conferences. PC members will be allowed to submit up to one paper. These submissions will be held to a higher standard -- for example, PC submissions will not be part of the final vote.
+* ARTIFACT EVALUATION
+  FoSSaCS 2026 will have a post-paper-acceptance voluntary artifact evaluation. Authors will be encouraged to submit artifacts for evaluation after paper notification. The outcome will not alter the paper’s acceptance decision. Guillermo Alberto Perez (University of Antwerp) will act as the FoSSaCS artifact evaluation chair. Detailed information will appear at https://etaps.org/2026/conferences/ae-esop-fase-fossacs
+* IMPORTANT DATES
+ -dh Submission deadline: October 16, 2025
+ -d Rebuttal: December 8–10, 2025
+ -d Paper notification: December 22, 2025
+ -d Voluntary artifact submission deadline: January 8, 2026
+ -d Paper final version: January 22, 2026
+ -d Artifact notification: February 12, 2026 
+ -dv Main Conference: Apr 13–16, 2026
+* PC CHAIRS
+ - Nathalie Bertrand (Inria Rennes, France)
+ - Stefan Milius (Friedrich-Alexander Universität Erlangen-Nürnberg, Germany)
+
+
+
+
+WoLLIC 2026: 32nd Workshop on Logic, Language, Information and Computation
+  3-6 August 2026, Lima, Peru
+  Universidad de Ingenieria y Tecnologia, Lima, Peru
+  Center of Informatics, Federal University of Pernambuco, Brazil
+  https://wollic.org/wollic2026 [wollic.org]
+CALL FOR PAPERS
+* WoLLIC is an annual international forum on interdisciplinary research involving formal logic, computing and programming theory, and natural language and reasoning. Each meeting includes invited talks and tutorials as well as contributed papers. The thirty-second WoLLIC will be held at Universidad de Ingenieria y Tecnologia, Lima, Peru, August 3 to 6 2026.
+* SCOPE
+  Contributions are invited on all pertinent subjects, with particular interest in cross-disciplinary topics. Typical but not exclusive areas of interest are: non-classical logics; foundations of computing, programming and Artificial Intelligence (AI); novel computation models and paradigms; broad notions of proof and belief; proof mining, type theory, effective learnability and explainable AI; formal methods in software and hardware development; logical approach to natural language and reasoning; logics of programs, actions and resources; foundational aspects of information organization, search, flow, sharing and protection; foundations of mathematics; philosophical logic; philosophy of language.
+* PAPER SUBMISSION
+  Proposed contributions should be in English, and consist of a scholarly exposition accessible to the non-specialist, including motivation, background, and comparison with related works. Articles should be written in the LaTeX  format of LNCS by Springer (see author's instructions at https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines They must not exceed 12 pages, with up to 5 additional pages for references and technical appendices. The paper's main results must not be published or submitted for publication in refereed venues, including journals and other scientific meetings. It is expected that each accepted paper be presented at the meeting by one of its authors in person. (At least one author is required to pay a full, on-site registration fee before granting that the paper will be published in the proceedings.) Papers must be submitted electronically at the WoLLIC 2026 EasyChair website https://easychair.org/conferences/?conf=wollic2026 [easychair.org].
+* PROCEEDINGS
+  The proceedings of WoLLIC 2026, including both invited and contributed papers, will be published in advance of the meeting as a volume in Springer's LNCS series. In addition, abstracts will be published in the Conference Report section of the Logic Journal of the IGPL, and selected contributions will be published (after a new round of reviewing) as a special post-conference WoLLIC 2026 issue of a scientific journal (tba).
+* INVITED SPEAKERS
+  TBA
+* IMPORTANT DATES
+ -dh Abstracts deadline: 16 February 2026
+ -dh Full papers deadline: 22 February 2026
+ -d Author notification: 5 May 2026
+ -d Camera-ready version: 20 May 2026
+ -dv Workshop dates: Aug 3-6, 2026
+* ORGANISING COMMITTEE
+  Ernesto Cuadro-Vargas (local chair), Anjolina de Oliveira (UFPE), Ruy de Queiroz (UFPE)
+
+
+
+
+
+
+
+
+
+
+
