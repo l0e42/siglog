@@ -1,0 +1,108 @@
+
+% v2-acmsmall-sample.tex, dated March 6 2012
+% This is a sample file for ACM small trim journals
+%
+% Compilation using 'acmsmall.cls' - version 1.3 (March 2012), Aptara Inc.
+% (c) 2010 Association for Computing Machinery (ACM)
+%
+% Questions/Suggestions/Feedback should be addressed to => "acmtexsupport@aptaracorp.com".
+% Users can also go through the FAQs available on the journal's submission webpage.
+%
+% Steps to compile: latex, bibtex, latex latex
+%
+% For tracking purposes => this is v1.3 - March 2012
+\documentclass[prodmode,acmtecs]{acmsmall} % Aptara syntax
+\usepackage[spanish,polish]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{fancyvrb}
+\usepackage{graphicx,hyperref}
+\newcommand\cutout[1]{}
+
+
+\usepackage[table]{xcolor}
+\usepackage[utf8]{inputenc}
+\usepackage[parfill]{parskip}
+\usepackage{tabulary}
+\PassOptionsToPackage{hyphens}{url}
+\usepackage{hyperref}    
+\usepackage[capitalize]{cleveref}
+
+
+% Metadata Information
+% !!! TODO: SET THESE VALUES !!!
+\acmVolume{0}
+\acmNumber{0}
+\acmArticle{CFP}
+\acmYear{0}
+\acmMonth{0}
+
+\newcounter{colstart}
+\setcounter{page}{4}
+
+\RecustomVerbatimCommand{\VerbatimInput}{VerbatimInput}%
+{
+%fontsize=\footnotesize,
+fontfamily=\rmdefault
+}
+
+
+\newcommand{\UnderscoreCommands}{%\do\verbatiminput%
+\do\citeNP \do\citeA \do\citeANP \do\citeN \do\shortcite%
+\do\shortciteNP \do\shortciteA \do\shortciteANP \do\shortciteN%
+\do\citeyear \do\citeyearNP%
+}
+
+\usepackage[strings]{underscore}
+
+
+
+% Document starts
+\begin{document}
+
+
+\setcounter{colstart}{\thepage}
+
+\acmArticle{CFP}
+\title{{\huge\sc SIGLOG Monthly 267}
+
+ November 2025}\author{ELLI ANASTASIADI\affil{Aalborg University, SE}\vspace*{-2.6cm}\begin{flushright}\includegraphics[width=30mm]{elli_anastasiadi.png}\end{flushright}}\begin{abstract}November 2025 edition of SIGLOG Monthly, featuring deadlines, calls and community announcements.
+\end{abstract}
+
+
+\maketitlee
+
+\href{https://lics.siglog.org/newsletters/}{Past Issues}
+ - 
+\href{https://lics.siglog.org/newsletters/inst.html}{How to submit an announcement}
+\section{Table of Contents}\begin{itemize}\item DEADLINES (\cref{deadlines}) 
+ 
+\item CALLS 
+ 
+\begin{itemize}\item SCML (CALL FOR PAPERS) (\cref{SCML})
+\end{itemize} 
+\end{itemize}\section{Deadlines}\label{deadlines}\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}FM 2026:  & Nov 25, 2025 (Abstract Submission), Dec 02, 2025 (Full Paper Submission) \\
+FLOPS 2026:  & Dec 08, 2025 (Abstracts due), Dec 15, 2025 (Submission deadline) \\
+WoLLIC 2026:  & Feb 16, 2026 (Abstracts deadline), Feb 22, 2026 (Full papers deadline) \\
+\end{tabulary}
+\section{SCML: A PUBLICATION FORUM FOR SYMBOLIC COMPUTATION AND MACHINE LEARNING}\label{SCML}  An Initiative of the Research Institute for Symbolic Computation (RISC)\\ 
+  \href{https://scml.risc.jku.at}{https://scml.risc.jku.at}\\ 
+CALL FOR PAPERS 
+
+\begin{itemize}\item  The SCML publishing forum is dedicated to all research that   strives to combine Symbolic Computation (SC) and Machine Learning (ML) as two major approaches to ``Artificial Intelligence'', in particular the application of ML to SC, the application of SC to ML, and the hybrid combination of SC and ML to solving problems. We consider submissions that explore the interaction between the two fields - not standalone works on either SC or ML. 
+ 
+\item  SCML papers can be continuously submitted and enter the reviewing process immediately after their submission. The final versions of accepted papers are published in the electronic ``RISC Proceedings on Symbolic Computation and Machine Learning''.  
+ 
+\item  Authors of accepted papers are expected to present them at a subsequent SCML workshop. These workshops take place in semi-regular intervals in purely online form (via Zoom), typically in half a day. 
+ 
+\item  Authors of accepted SCML papers that present original research may be invited to submit extended versions of their papers to the SCML Track of the Journal of Symbolic Computation.  
+ 
+\item  Web Page \& Submission: \href{https://scml.risc.jku.at}{https://scml.risc.jku.at} 
+ 
+\item  Deadline 
+ 
+ The call for papers is continuous.  
+ 
+\end{itemize}
+
+
+\bigskip Links: \href{http://siglog.org/}{SIGLOG website}, \href{https://lics.siglog.org}{LICS website}, \href{https://lics.siglog.org/newsletters/}{SIGLOG Monthly}\end{document}

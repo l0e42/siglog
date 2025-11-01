@@ -1,0 +1,20 @@
+ -dd November 1, 2025
+
+ -dM FM 2026:	Nov 25, 2025 (Abstract Submission), Dec 02, 2025 (Full Paper Submission)
+ -dM FLOPS 2026:	Dec 08, 2025 (Abstracts due), Dec 15, 2025 (Submission deadline)
+ -dM WoLLIC 2026:	Feb 16, 2026 (Abstracts deadline), Feb 22, 2026 (Full papers deadline)
+
+ 
+ 
+SCML: A PUBLICATION FORUM FOR SYMBOLIC COMPUTATION AND MACHINE LEARNING
+  An Initiative of the Research Institute for Symbolic Computation (RISC)
+  https://scml.risc.jku.at
+CALL FOR PAPERS
+* The SCML publishing forum is dedicated to all research that   strives to combine Symbolic Computation (SC) and Machine Learning (ML) as two major approaches to "Artificial Intelligence", in particular the application of ML to SC, the application of SC to ML, and the hybrid combination of SC and ML to solving problems. We consider submissions that explore the interaction between the two fields - not standalone works on either SC or ML.
+* SCML papers can be continuously submitted and enter the reviewing process immediately after their submission. The final versions of accepted papers are published in the electronic "RISC Proceedings on Symbolic Computation and Machine Learning". 
+* Authors of accepted papers are expected to present them at a subsequent SCML workshop. These workshops take place in semi-regular intervals in purely online form (via Zoom), typically in half a day.
+* Authors of accepted SCML papers that present original research may be invited to submit extended versions of their papers to the SCML Track of the Journal of Symbolic Computation. 
+* Web Page & Submission: https://scml.risc.jku.at
+* Deadline
+ The call for papers is continuous. 
+
