@@ -1,0 +1,437 @@
+
+% v2-acmsmall-sample.tex, dated March 6 2012
+% This is a sample file for ACM small trim journals
+%
+% Compilation using 'acmsmall.cls' - version 1.3 (March 2012), Aptara Inc.
+% (c) 2010 Association for Computing Machinery (ACM)
+%
+% Questions/Suggestions/Feedback should be addressed to => "acmtexsupport@aptaracorp.com".
+% Users can also go through the FAQs available on the journal's submission webpage.
+%
+% Steps to compile: latex, bibtex, latex latex
+%
+% For tracking purposes => this is v1.3 - March 2012
+\documentclass[prodmode,acmtecs]{acmsmall} % Aptara syntax
+\usepackage[spanish,polish]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{fancyvrb}
+\usepackage{graphicx,hyperref}
+\newcommand\cutout[1]{}
+
+
+\usepackage[table]{xcolor}
+\usepackage[utf8]{inputenc}
+\usepackage[parfill]{parskip}
+\usepackage{tabulary}
+\PassOptionsToPackage{hyphens}{url}
+\usepackage{hyperref}    
+\usepackage[capitalize]{cleveref}
+
+
+% Metadata Information
+% !!! TODO: SET THESE VALUES !!!
+\acmVolume{0}
+\acmNumber{0}
+\acmArticle{CFP}
+\acmYear{0}
+\acmMonth{0}
+
+\newcounter{colstart}
+\setcounter{page}{4}
+
+\RecustomVerbatimCommand{\VerbatimInput}{VerbatimInput}%
+{
+%fontsize=\footnotesize,
+fontfamily=\rmdefault
+}
+
+
+\newcommand{\UnderscoreCommands}{%\do\verbatiminput%
+\do\citeNP \do\citeA \do\citeANP \do\citeN \do\shortcite%
+\do\shortciteNP \do\shortciteA \do\shortciteANP \do\shortciteN%
+\do\citeyear \do\citeyearNP%
+}
+
+\usepackage[strings]{underscore}
+
+
+
+% Document starts
+\begin{document}
+
+
+\setcounter{colstart}{\thepage}
+
+\acmArticle{CFP}
+\title{{\huge\sc SIGLOG Monthly 268}
+
+ November 2025}\author{ELLI ANASTASIADI\affil{Aalborg University, SE}\vspace*{-2.6cm}\begin{flushright}\includegraphics[width=30mm]{elli_anastasiadi.png}\end{flushright}}\begin{abstract}November 2025 edition of SIGLOG Monthly, featuring deadlines, calls and community announcements.
+\end{abstract}
+
+
+\maketitlee
+
+\href{https://lics.siglog.org/newsletters/}{Past Issues}
+ - 
+\href{https://lics.siglog.org/newsletters/inst.html}{How to submit an announcement}
+\section{Table of Contents}\begin{itemize}\item DEADLINES (\cref{deadlines}) 
+ 
+\item SIGLOG MATTERS 
+ 
+\begin{itemize}\item LMW@CSL'26 (\cref{LMWCSL26})
+\end{itemize} 
+\item CALLS 
+ 
+\begin{itemize}\item FMBC 2026 (CALL FOR PAPERS) (\cref{FMBC2026})
+\item SPIN 2026 (CALL FOR PAPERS) (\cref{SPIN2026})
+\item FSCD 2026 (CALL FOR PAPERS) (\cref{FSCD2026})
+\item CAV 2026 (CALL FOR PAPERS) (\cref{CAV2026})
+\item CiE 2026 (CALL FOR PAPERS) (\cref{CiE2026})
+\item ICALP 2026 (CALL FOR PAPERS) (\cref{ICALP2026})
+\item AiML 2026 (CALL FOR PAPERS) (\cref{AiML2026})
+\item 25 years of CEGAR (CALL FOR PAPERS  ) (\cref{25yearsofCEGAR})
+\item SALOMAA PRICE (CALL FOR NOMINATIONS) (\cref{SALOMAAPRICE})
+\item DEON 2027 (CALL FOR BIDS) (\cref{DEON2027})
+\end{itemize} 
+\end{itemize}\section{Deadlines}\label{deadlines}\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}LMW@CSL'26:  & Dec 05, 2025 (Travel support for students), Dec 15, 2025 (ACM-W Travel Grant for women) \\
+FLOPS 2026:  & Dec 08, 2025 (Abstracts due), Dec 15, 2025 (Submission deadline) \\
+FMBC 2026:  & Jan 08, 2026 (Abstract), Jan 15, 2026 (Full paper) \\
+SPIN 2026:  & Jan 15, 2026 (Abstract  deadline), Jan 22, 2026 (Paper  deadline) \\
+FSCD 2026:  & Jan 23, 2026 (Abstract), Jan 30, 2026 (Paper Submission) \\
+CAV 2026:  & Jan 28, 2026 (Paper) \\
+CiE 2026:  & Jan 29, 2026 (Abstract deadline), Feb 03, 2026 (Full Paper deadline) \\
+SALOMAA PRICE:  & Jan 31, 2026 (Nominations) \\
+ICALP 2026:  & Feb 03, 2026 (Abstract Registration Deadline), Feb 06, 2026 (Submission Deadline) \\
+WoLLIC 2026:  & Feb 16, 2026 (Abstracts deadline), Feb 22, 2026 (Full papers deadline) \\
+AiML 2026:  & Feb 20, 2026 (Abstract long papers), Feb 27, 2026 (Full papers), May 05, 2026 (Short presentation) \\
+25 years of CEGAR:  & Feb 28, 2026 (Papers deadline) \\
+\end{tabulary}
+\section{LMW@CSL'26: Logic Mentoring Workshop}\label{LMWCSL26}   23 February, Paris\\ 
+   \href{https://logic-mentoring-workshop.github.io/csl26}{https://logic-mentoring-workshop.github.io/csl26}\\ 
+   Co-Located with CSL (\href{https://csl2026.github.io/}{https://csl2026.github.io/})\\ 
+CALL FOR PARTICIPATION 
+
+\begin{itemize}\item  The Logic Mentoring Workshop is a twice-annual workshop for introducing young researchers to the technical and practical aspects of a career in logic research. It is targeted as students, from senior undergraduates to doctoral students, and will include tutorials and plenary talks as well as panel discussions. 
+ 
+\item  Registration will open with the CSL registration at a later date. 
+ 
+\item  Important Dates: 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Travel support for students:  & Dec 05, 2025 \\
+ACM-W Travel Grant for women:  & Dec 15, 2025 \\
+\end{tabulary}
+ 
+  For the LMW student support apply at: Apply at \href{https://forms.gle/KvsQCcYswyfTZCPE9}{https://forms.gle/KvsQCcYswyfTZCPE9} For the ACM-W Travel Grant for women information at \href{https://women.acm.org/}{https://women.acm.org/} 
+ 
+\end{itemize}\section{FMBC 2026: 7th International Workshop on Formal Methods for Blockchains}\label{FMBC2026}  \href{https://fmbc.gitlab.io/2026}{https://fmbc.gitlab.io/2026}\\ 
+  April 11, 2026, Turin, Italy\\ 
+  Co-located with the european joint conferences on theory and practice of software (ETAPS 2026) \href{https://www.etaps.org/2026/}{https://www.etaps.org/2026/}\\ 
+CALL FOR PAPERS 
+
+\begin{itemize}\item  IMPORTANT DATES 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Abstract submission:  & Jan 08, 2026 \\
+Full paper submission:  & Jan 15, 2026 \\
+Notification:  & Feb 28, 2026 \\
+Camera-ready:  & Mar 15, 2026 \\
+Workshop:  & Apr 11, 2026 \\
+\end{tabulary}
+ 
+  Deadlines are Anywhere on Earth  
+ 
+\item  TOPICS OF INTEREST 
+ 
+  This workshop is a forum to identify theoretical and practical approaches of formal methods for Blockchain technology. Topics include, but are not limited to: 
+ 
+\begin{itemize}\item  Formal models of Blockchain applications or concepts
+\item  Formal methods for consensus protocols
+\item  Formal methods for Blockchain-specific cryptographic primitives or protocols
+\item  Design and implementation of Smart Contract languages
+\item  Verification of Smart Contracts
+\item  Zero-knowledge proof and its applications in a blockchain setting
+\end{itemize} 
+\item  SUBMISSION 
+ 
+  Submit original manuscripts (not published or considered elsewhere) with a page limit of 12 pages for full papers and 6 pages for short and tool papers (excluding bibliography and short appendix of up to 5 additional pages). Alternatively you may also submit an extended abstract of up to 2 pages (excluding bibliography) summarizing your ongoing work in the area of formal methods and blockchain. Extended abstracts will not be included in the workshop proceedings but authors of selected extended-abstracts are invited to give a lightning talk. Submission link: \href{https://easychair.org/conferences/?conf=fmbc2026}{https://easychair.org/conferences/?conf=fmbc2026}  Authors are encouraged to use LaTeX and prepare their submissions according to the instructions and styling guides for OASIcs provided by Dagstuhl. 
+ 
+  At least one author of an accepted paper is expected to present the paper at the workshop as a registered participant. 
+ 
+\item  PROCEEDINGS 
+ 
+  All submissions will be peer-reviewed by at least three members of the program committee for quality and relevance. Accepted regular papers (full and short papers) will be included in the workshop proceedings, which will be published as a volume of the OpenAccess Series in Informatics (OASIcs) by Dagstuhl. 
+ 
+\item  PC CO-CHAIRS 
+ 
+\begin{itemize}\item  Massimo Bartoletti (University of Cagliari, Italy) (bart@unica.it)
+\item  Diego Marmsoler (University of Exeter, UK) (d.marmsoler@exeter.ac.uk)
+\end{itemize} 
+\end{itemize}\section{SPIN 2026: The 32nd International Symposium on Model Checking Software}\label{SPIN2026}  April 15–16, 2026\\ 
+  co-located with ETAPS 2026\\ 
+  Torino, Italy\\ 
+  \href{https://spin-web.github.io/SPIN2026/cfp}{https://spin-web.github.io/SPIN2026/cfp}\\ 
+CALL FOR PAPERS 
+
+\begin{itemize}\item  The SPIN symposium aims at bringing together researchers and practitioners interested in automated tool-based techniques for the analysis of software as well as models of software, for the purpose of verification and validation. SPIN is a broadly-scoped symposium for software analysis using any automated techniques, including model checking, automated theorem proving, and symbolic execution. Submissions are solicited on theoretical results, novel algorithms, tool development, and empirical evaluation. 
+ 
+\item  IMPORTANT DATES 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Abstract submission deadline:  & Jan 15, 2026 \\
+Paper submission deadline:  & Jan 22, 2026 \\
+Artifact submission deadline for tool-related papers (mandatory):  & Jan 29, 2026 \\
+Notification of acceptance:  & Mar 05, 2026 \\
+Artifact submission deadline for accepted non-tool papers (voluntary):  & Mar 16, 2026 \\
+Notification of acceptance for additional artifacts:  & Apr 09, 2026 \\
+\end{tabulary}
+ 
+  Papers should be submitted via the EasyChair SPIN 2026 submission website at \href{https://easychair.org/conferences/?conf=spin2026}{https://easychair.org/conferences/?conf=spin2026} Submissions should adhere to Springer's LNCS format. With the exception of survey and history papers, the papers should contain original work that has not been submitted or accepted for publication elsewhere. We are soliciting three categories of papers: 
+ 
+\begin{itemize}\item   Full Research Papers (16 pages, excluding bibliography and appendices);
+\item  Full Tool Papers (16 pages, excluding bibliography and appendices), accompanied by a mandatory artifact, with acceptance conditional on the accompanying artifact receiving at least the ``Functional'' badge in the artifact evaluation; and
+\item  Short Papers (6 pages, excluding bibliography and appendices).
+\end{itemize} 
+  At least one author of each accepted paper must attend the symposium and present the paper. A Best Paper award will be announced and handed out at the conference. 
+ 
+  For more details, see the SPIN 2026 website at \href{https://spin-web.github.io/SPIN2026/}{https://spin-web.github.io/SPIN2026/}  or contact the SPIN 2026 PC chairs: 
+ 
+\begin{itemize}\item  Vincenzo Ciancia <vincenzo.ciancia@isti.cnr.it>
+\item  Arnd Hartmanns <a.hartmanns@utwente.nl>
+\end{itemize} 
+\end{itemize}\section{FSCD 2026: Eleventh International Conference on Formal Structures for Computation and Deduction}\label{FSCD2026}  July 20-23, Lisbon, Portugal\\ 
+  \href{https://fscd-conference.org/2026}{https://fscd-conference.org/2026}\\ 
+  Part of FLoC 2026\\ 
+CALL FOR PAPERS 
+
+\begin{itemize}\item  IMPORTANT DATES 
+ 
+  All deadlines are midnight anywhere-on-earth (AoE); late submissions will not be considered. 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Abstract submission:  & Jan 23, 2026 \\
+Paper Submission:  & Jan 30, 2026 \\
+Author Response:  & Mar 23, 2026 \\
+Notification:  & Apr 16, 2026 \\
+Final version:  & Apr 30, 2026 \\
+\end{tabulary}
+ 
+\item  OVERVIEW 
+ 
+  FSCD (\href{https://fscd-conference.org/}{https://fscd-conference.org/}) covers all aspects of formal structures for computation and deduction, from theoretical foundations to applications. Building on two communities, RTA (Rewriting Techniques and Applications) and TLCA (Typed Lambda Calculi and Applications), FSCD embraces their core topics and broadens their scope to closely related areas in logic, models of computation, semantics and verification in new challenging areas. 
+ 
+  For a detailed list of relevant topics please visit the online CFP at \href{https://fscd2026.github.io/CFP/}{https://fscd2026.github.io/CFP/}  
+ 
+\item  PUBLICATION 
+ 
+  The proceedings will be published as an electronic volume in the Leibniz International Proceedings in Informatics (LIPIcs) of Schloss Dagstuhl. All LIPIcs proceedings are open access. 
+ 
+\item  SPECIAL ISSUE 
+ 
+  There will be a special issue of Logical Methods in Computer Science of selected papers. More details will be provided later. 
+ 
+\item  SUBMISSION GUIDELINES 
+ 
+  The submission site is: \href{https://submissions.floc26.org/fscd/}{https://submissions.floc26.org/fscd/} 
+ 
+  Submissions must be formatted using the LIPIcs style files (\href{https://submission.dagstuhl.de/series/details/5#author}{https://submission.dagstuhl.de/series/details/5\#author}) and submitted via EasyChair. 
+ 
+  Submissions can be made in two categories: regular research papers and system descriptions. Please indicate in the submission page in HotCRP and in the first page of the paper in which category you are submitting.  
+ 
+  Regular research papers are limited to 15 pages, excluding references and appendices. They must present original research which is unpublished and not submitted elsewhere. System descriptions are limited to 15 pages, excluding references. Shorter papers are welcome and will be given equal consideration. A system description must present new software tools, or significantly new versions of such tools, in which FSCD topics play an important role. An archive of the code with instructions on how to install and run the tool must be submitted. In addition, a webpage where the system can be experimented with should be provided. 
+ 
+  One author of each accepted paper is expected to register and present the work in person at the conference. In case that this is not possible, online presentation will be arranged, but in person registration will still be required. 
+ 
+\item  BEST PAPER AWARD BY JUNIOR RESEARCHERS 
+ 
+  The programme committee will select a paper in which at least one author is a junior researcher, i.e., either a student or someone whose PhD award date is less than three years from the first day of the meeting. When submitting the paper, other authors should declare to the PC Chair that at least 50% of contribution is made by the junior researcher(s). 
+ 
+\item  CODE OF CONDUCT 
+ 
+  FSCD 2026 stands by the FLoC 2026 Code of conduct (\href{https://www.floc26.org/policies}{https://www.floc26.org/policies}). 
+ 
+\item  PROGRAM COMMITTEE CHAIR 
+ 
+  Frank Pfenning, Carnegie Mellon University 
+ 
+\end{itemize}\section{CAV 2026: 38th INTERNATIONAL CONFERENCE ON COMPUTER AIDED VERIFICATION}\label{CAV2026}  July 26-29, 2026, Lisbon, Portugal\\ 
+  \href{https://conferences.i-cav.org/2026/}{https://conferences.i-cav.org/2026/}\\ 
+CALL FOR PAPERS 
+
+\begin{itemize}\item  CAV is a leading forum on theory and practice of formal-analysis methods for hardware and software systems, from foundational algorithms to practical tools. CAV 2026 will be part of FLoC 2026. 
+ 
+  Submissions are sought in four categories: Regular Papers, Short Tool Papers, Short Application Papers, Industrial Experience Reports \& Case Studies. 
+ 
+\item  IMPORTANT DATES 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Paper submission:  & January 28, 2026 (AoE)  ￼ \\
+Author Response (Rebuttal) Period:  & March 30-April 1, 2026  ￼ \\
+Notification:  & Apr 17, 2026 \\
+\end{tabulary}
+ 
+\end{itemize}\section{CiE 2026: Computability in Europe }\label{CiE2026}  July 27-31\\ 
+CALL FOR PAPERS 
+
+\begin{itemize}\item  Computability in Europe (CiE) is an interdisciplinary series of international conferences organized by the Association Computability in Europe (ACiE). CiE brings together both basic and application-oriented research in computability-related areas of science. The conference welcomes research contributions on computability-related fields of science, including mathematics, theoretical computer science, logic, quantum computability, cryptography, information theory, computational biology, computational linguistics, history and philosophy of computability, and many other related subjects. 
+ 
+  After having taken place in Amsterdam (NL) and Lisbon (P) in 2024 and 2025, CiE will move to Trier (D) in 2026 with its 21st edition. Special features include:  
+ 
+\begin{itemize}\item  Colocation with MCU and CCA.
+\item  Accepted contributed papers will be published in an LNCS volume in the ARCoSS subline.
+\item  Six Special Sessions dedicated to certain aspects of computability.
+\item  Six invited speakers, two tutorial speakers
+\end{itemize} 
+  So, get your papers ready for submission. What to put into your calendar: 
+ 
+\item  IMPORTANT DATES  
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Abstract deadline:  & Jan 29, 2026 \\
+Full Paper deadline:  & Feb 03, 2026 \\
+Notification:  & Apr 27, 2026 \\
+Deadline for final papers:  & May 04, 2026 \\
+\end{tabulary}
+ 
+\end{itemize}\section{ICALP 2026: 53rd EATCS International Colloquium on Automata, Languages, and Programming}\label{ICALP2026}  7–10 July, 2026\\ 
+  Royal Holloway, University of London, UK\\ 
+  \href{https://icalppodcspaa2026.cs.rhul.ac.uk/icalp/}{https://icalppodcspaa2026.cs.rhul.ac.uk/icalp/}\\ 
+  Co-located with PODC and SPAA\\ 
+CALL FOR PAPERS 
+
+\begin{itemize}\item  ICALP is the main conference and annual meeting of the European Association for Theoretical Computer Science (EATCS). As usual, the conference will be preceded by a series of workshops, which will take place on 6 July 2026. Papers presenting original research on all aspects of theoretical computer science are sought. The conference is divited into two tracks:  
+ 
+\begin{itemize}\item  Track A: Algorithms Complexity and Games
+\item  Track B: Automata, Logic, Semantics, and Theory of Programming
+\end{itemize} 
+  For a full list of topics, details and instructions of submission for track A and track B, please visit the official call for papers at \href{https://icalppodcspaa2026.cs.rhul.ac.uk/icalp/}{https://icalppodcspaa2026.cs.rhul.ac.uk/icalp/} 
+ 
+\item  IMPORTANT DATES  
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Abstract Registration Deadline:  & 3 February 2026 (AoE) \\
+Submission Deadline:  & 6 February 2026 (AoE) \\
+Track B rebuttal period:  & Mar 21, 2026 \\
+Author notification:  & Apr 20, 2026 \\
+Conference:  & Jul 7–10, 2026 \\
+Workshops:  & Jul 06, 2026 \\
+\end{tabulary}
+ 
+  For Track A: Authors will be contacted only if there are correctness issues. Submissions to ICALP 2026 use HotCRP system: 
+ 
+\begin{itemize}\item  Submission server Track A: \href{https://icalp26-a.hotcrp.com}{https://icalp26-a.hotcrp.com}
+\item  Submission server Track B: \href{https://icalp26-b.hotcrp.com}{https://icalp26-b.hotcrp.com}
+\end{itemize} 
+\item  PROCEEDINGS  
+ 
+  ICALP proceedings are published in the Leibniz International Proceedings in Informatics (LIPIcs) series. This is a series of high-quality conference proceedings across all fields in informatics established in cooperation with Schloss Dagstuhl – Leibniz Center for Informatics. LIPIcs volumes are published according to the principle of Open Access, i.e., they are available online and free of charge. The accepted papers will need to comply with the LIPIcs style. 
+ 
+\item  AWARDS 
+ 
+  During the conference, the following awards will be delivered: 
+ 
+\begin{itemize}\item  EATCS award
+\item  Presburger award
+\item  EATCS distinguished dissertation award
+\item  Best papers for Track A and Track B
+\item  Best student papers for Track A and Track B
+\end{itemize} 
+\end{itemize}\section{AiML 2026: 16th International Conference on Advances in Modal Logic }\label{AiML2026}  29 June – 3 July 2026\\ 
+  Amsterdam, The Netherlands \\ 
+  \href{https://events.illc.uva.nl/aiml2026/}{https://events.illc.uva.nl/aiml2026/}\\ 
+CALL FOR PAPERS 
+
+\begin{itemize}\item  ABOUT 
+ 
+  Advances in Modal Logic is an initiative aimed at presenting the state of the art in modal logic and its various applications. The initiative consists of a conference series together with volumes based on the conferences. AiML 2026 is organized by the Institute of Logic, Language and Computation (ILLC) of the University of Amsterdam (UvA). The conference will take place on 29 June - 3 July 2026. 
+ 
+\item  TOPICS 
+ 
+  We invite submissions on all aspects of modal and related logic, including (but not limited to): 
+ 
+\begin{itemize}\item  Semantics and model theory
+\item  Proof theory, also including automated deduction
+\item  Applications of modal logic 
+\item  Co-algebraic aspects 
+\item  History of modal logic
+\item  Philosophy of modal logic
+\item  Computational or theoretical aspects
+\item  Specific instances and variations of modal logic (e.g., description logics, dynamic logics, epistemic and deontic logics, modal logics for agent-based systems, provability and interpretability logics, spatial and temporal logics, hybrid logic, intuitionistic logic, substructural logics)
+\end{itemize} 
+\item  Paper submissions 
+ 
+  There will be two types of submissions for AiML 2026: 
+ 
+\begin{itemize}\item  Full papers for publication in the proceedings and presentation at the conference. The proceedings will be published open access via Electronic Proceedings in Theoretical Computer Science (EPTCS). 
+\item  Short presentations intended for presentation at the conference but not for the published proceedings.
+\end{itemize} 
+  Both types of papers should be submitted electronically using the EasyChair submission page:  \href{https://easychair.org/conferences/?conf=aiml2026}{https://easychair.org/conferences/?conf=aiml2026} 
+ 
+  For more information on submissions and instructions please visit the online call for papers at: \href{https://events.illc.uva.nl/aiml2026/Call-for-Papers/}{https://events.illc.uva.nl/aiml2026/Call-for-Papers/} 
+ 
+\item  IMPORTANT DATES 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Abstract long papers submission:  & Feb 20, 2026 \\
+Full papers submission:  & Feb 27, 2026 \\
+Full papers acceptance notification:  & Apr 24, 2026 \\
+Short presentation submission:  & May 05, 2026 \\
+Camera-ready version full papers:  & May 15, 2026 \\
+Short presentations acceptance notification:  & May 20, 2026 \\
+Registration deadline:  & t.b.a. \\
+Camera-ready version short presentations:  & May 29, 2026 \\
+Conference:  & Jun 29 – Jul 3, 2026 \\
+\end{tabulary}
+ 
+\item  Program committee chairs 
+ 
+\begin{itemize}\item  Marta Bílková (The Czech Academy of Sciences)
+\item  Yanjing Wang (Peking University)
+\end{itemize} 
+\end{itemize}\section{25 years of CEGAR: Special Issue on the Theoretical Foundations and Applications of Counterexample Guided Abstraction Refinement}\label{25yearsofCEGAR}CALL FOR PAPERS   
+
+\begin{itemize}\item  Guest editors 
+ 
+\begin{itemize}\item  Orna Grumberg, Technion, Israel (email: orna@cs.technion.ac.il)
+\item  Samarjit Chakraborty, UNC Chapel Hill, USA (email: samarjit@cs.unc.edu)
+\item  Somesh Jha, UW-Madison, USA (email: jha@cs.wisc.edu)
+\end{itemize} 
+\item  SUBMISSION 
+ 
+  Please submit your manuscript to Formal Methods in System Design (FMSD) as a regular submission. Once you enter the details of the manuscript, you will have the option of choosing a collection. There, choose “Special issue on 25 years of CEGAR”.  
+ 
+\item  IMPORTANT DATES (Tentative) 
+ 
+Papers deadline: Feb 28, 2026 
+ 
+  Reviews will be provided in approximately 3 months after the deadline. Revisions will be due approximately one month after the reviews are sent. 
+ 
+\item  Further information can be found at: \href{https://sites.google.com/wisc.edu/cegar25/home}{https://sites.google.com/wisc.edu/cegar25/home} 
+ 
+\end{itemize}\section{SALOMAA PRICE}\label{SALOMAAPRICE}CALL FOR NOMINATIONS 
+
+\begin{itemize}\item  The Salomaa Prize in Automata Theory, Formal Languages, and Related topics is awarded annually at the conference DLT (Developments in Language Theory). It consists of the diploma and the prize of    2000 Euros donated by the University of Turku. 
+ 
+\item  The award is given to a distinguished researcher for her/his fundamental achievements in automata theory and related topics. The achievement might be a single article, a series of articles, or broader impact on the theory. The main criterion is the scientific excellence of the work. 
+ 
+\item  The Salomaa Prize 2026 will be awarded at DLT 2026 in Rouen, France. 
+ 
+\item  The deadline for nomination is  
+ 
+Nominations: Jan 31, 2026 
+ 
+  Nominations, which consist of a description of the nominee's work and rationale for the award, signed by at least two recognized researchers, should be sent by electronic mail to the chair of the selection committee: 
+ 
+\begin{itemize}\item  Jürgen Dassow, University of Magdeburg, dassow@iws.cs.uni-magdeburg.de
+\end{itemize} 
+\item  For all further information, see the guidelines on the Salomaa Prize website: \href{https://math.utu.fi/salomaaprize/}{https://math.utu.fi/salomaaprize/} 
+ 
+\end{itemize}\section{DEON 2027}\label{DEON2027}CALL FOR BIDS 
+
+\begin{itemize}\item  The DEON steering committee is currently soliciting bids to host the 2027 edition of DEON, the International Conference on Deontic Logic and Normative Systems. The DEON conference series has been held biannually since 1991. While its initiators were mostly from computer science, the series now brings together researchers from various fields, including computer science, philosophy, legal theory, and linguistics. The host of the 2027 edition will work together with the program committee to organize both the scientific and the practical aspects of the event. Proposals should be emailed to olivier.roy@uni-bayreuth.de by January 15th, 2026 and should include the following: 
+ 
+\begin{itemize}\item  A proposal for a DEON-related theme for the 2027 edition;
+\item  The names of the members of the organizing committee;
+\item  Possible or intended dates of the conference;
+\item  The intended venue, with a description of available rooms and facilities and a plan to make the conference hybrid (in-person and virtual), including recordings;
+\item  Plans for additional or co-located events, if any;
+\item  An initial rough budget, including the intended registration fees and funding sources.
+\end{itemize} 
+  Information on previous editions can be found on this website or by contacting Agata Ciabattoni (agata@logic.at) and Olivier Roy (olivier.roy@uni-bayreuth.de). 
+ 
+\end{itemize}
+
+
+\bigskip Links: \href{http://siglog.org/}{SIGLOG website}, \href{https://lics.siglog.org}{LICS website}, \href{https://lics.siglog.org/newsletters/}{SIGLOG Monthly}\end{document}
