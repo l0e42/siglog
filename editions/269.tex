@@ -1,0 +1,619 @@
+
+% v2-acmsmall-sample.tex, dated March 6 2012
+% This is a sample file for ACM small trim journals
+%
+% Compilation using 'acmsmall.cls' - version 1.3 (March 2012), Aptara Inc.
+% (c) 2010 Association for Computing Machinery (ACM)
+%
+% Questions/Suggestions/Feedback should be addressed to => "acmtexsupport@aptaracorp.com".
+% Users can also go through the FAQs available on the journal's submission webpage.
+%
+% Steps to compile: latex, bibtex, latex latex
+%
+% For tracking purposes => this is v1.3 - March 2012
+\documentclass[prodmode,acmtecs]{acmsmall} % Aptara syntax
+\usepackage[spanish,polish]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{fancyvrb}
+\usepackage{graphicx,hyperref}
+\newcommand\cutout[1]{}
+
+
+\usepackage[table]{xcolor}
+\usepackage[utf8]{inputenc}
+\usepackage[parfill]{parskip}
+\usepackage{tabulary}
+\PassOptionsToPackage{hyphens}{url}
+\usepackage{hyperref}    
+\usepackage[capitalize]{cleveref}
+
+
+% Metadata Information
+% !!! TODO: SET THESE VALUES !!!
+\acmVolume{0}
+\acmNumber{0}
+\acmArticle{CFP}
+\acmYear{0}
+\acmMonth{0}
+
+\newcounter{colstart}
+\setcounter{page}{4}
+
+\RecustomVerbatimCommand{\VerbatimInput}{VerbatimInput}%
+{
+%fontsize=\footnotesize,
+fontfamily=\rmdefault
+}
+
+
+\newcommand{\UnderscoreCommands}{%\do\verbatiminput%
+\do\citeNP \do\citeA \do\citeANP \do\citeN \do\shortcite%
+\do\shortciteNP \do\shortciteA \do\shortciteANP \do\shortciteN%
+\do\citeyear \do\citeyearNP%
+}
+
+\usepackage[strings]{underscore}
+
+
+
+% Document starts
+\begin{document}
+
+
+\setcounter{colstart}{\thepage}
+
+\acmArticle{CFP}
+\title{{\huge\sc SIGLOG Monthly 269}
+
+ January 2026}\author{ELLI ANASTASIADI\affil{Aalborg University, SE}\vspace*{-2.6cm}\begin{flushright}\includegraphics[width=30mm]{elli_anastasiadi.png}\end{flushright}}\begin{abstract}January 2026 edition of SIGLOG Monthly, featuring deadlines, calls and community announcements.
+\end{abstract}
+
+
+\maketitlee
+
+\href{https://lics.siglog.org/newsletters/}{Past Issues}
+ - 
+\href{https://lics.siglog.org/newsletters/inst.html}{How to submit an announcement}
+\section{Table of Contents}\begin{itemize}\item DEADLINES (\cref{deadlines}) 
+ 
+\item CALLS 
+ 
+\begin{itemize}\item FMBC 2026 (CALL FOR PAPERS) (\cref{FMBC2026})
+\item Petri Nets 2026 (https://conf-2026.petrinet.net, CALL FOR PAPERS, and there are no scheduled talks.) (\cref{PetriNets2026})
+\item FLoC 2026 (CALL FOR PAPERS) (\cref{FLoC2026})
+\item CiE 2026 (CALL FOR PAPERS) (\cref{CiE2026})
+\item CONFEST 2026 (CALL FOR WORKSHOPS) (\cref{CONFEST2026})
+\item SCML 2026 (CALL FOR PAPERS) (\cref{SCML2026})
+\item PLS15 (CALL FOR PAPERS) (\cref{PLS15})
+\item NMR 2026 (CALL FOR PAPERS) (\cref{NMR2026})
+\item CONCUR 2026 (CALL FOR PAPERS) (\cref{CONCUR2026})
+\end{itemize} 
+\item JOB ANNOUNCEMENT S 
+ 
+\begin{itemize}\item POSTDOC AND PHD POSITION (\cref{POSTDOCANDPHDPOSITION})
+\end{itemize} 
+\end{itemize}\section{Deadlines}\label{deadlines}\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}FMBC 2026:  & Jan 08, 2026 (Abstract), Jan 15, 2026 (Full paper) \\
+Petri Nets 2026:  & Jan 14, 2026 (Abstract) \\
+CiE 2026:  & Jan 29, 2026 (Abstract  deadline), Feb 03, 2026 (Full paper  deadline) \\
+CONFEST 2026:  & Jan 30, 2026 (Workshop proposal deadline) \\
+POSTDOC AND PHD POSITION:  & Feb 01, 2026 (Application deadline) \\
+WoLLIC 2026:  & Feb 16, 2026 (Abstracts deadline), Feb 22, 2026 (Full papers deadline) \\
+PLS15:  & Mar 30, 2026 (Deadline for), May 29, 2026 (Poster abstracts  deadline) \\
+NMR 2026:  & Apr 03, 2026 (Paper registration), Apr 10, 2026 (Paper) \\
+CONCUR 2026:  & Apr 20, 2026 (Abstracts), Apr 27, 2026 (Submissions) \\
+SCML 2026:  & Apr 27, 2026 (Deadline for  of extended abstracts) \\
+\end{tabulary}
+\section{FMBC 2026: 7th International Workshop on Formal Methods for Blockchains}\label{FMBC2026}  April 11, 2026\\ 
+  Turin, Italy\\ 
+  \href{https://fmbc.gitlab.io/2026}{https://fmbc.gitlab.io/2026}\\ 
+  Co-located with the European Joint Conferences on Theory and Practice of Software (ETAPS 2026) \href{https://www.etaps.org/2026/}{https://www.etaps.org/2026/}\\ 
+CALL FOR PAPERS 
+
+\begin{itemize}\item  IMPORTANT DATES 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Abstract submission:  & Jan 08, 2026 \\
+Full paper submission:  & Jan 15, 2026 \\
+Notification:  & Feb 28, 2026 \\
+Camera-ready:  & Mar 15, 2026 \\
+Workshop:  & Apr 11, 2026 \\
+\end{tabulary}
+ 
+  Deadlines are Anywhere on Earth (AoE): \href{https://en.wikipedia.org/wiki/Anywhere_on_Earth}{https://en.wikipedia.org/wiki/Anywhere\_on\_Earth} 
+ 
+\item  TOPICS OF INTEREST 
+ 
+  Blockchain is a novel technology to store data in a decentralized way. Although originally invented to enable cryptocurrencies, it quickly found applications in several other domains. Blockchains may also provide support for Smart Contracts. Smart Contracts are scripts written in ad-hoc programming languages, stored on the blockchain and executed by the network. They can interact with the ledger’s data and update its state, expressing the logic of possibly complex contracts between users of the blockchain and facilitating economic activity. 
+ 
+  Since blockchains are often used to store financial transactions, bugs may result in huge economic losses. It is therefore of utmost importance to obtain strong guarantees of the behaviour of blockchain software. Such guarantees can be achieved using Formal Methods. Blockchain software encompasses many areas where Formal Methods are relevant, including consensus algorithms ensuring liveness and security, smart contract programming languages, and cryptographic protocols such as zero-knowledge proofs. 
+ 
+  This workshop is a forum to identify theoretical and practical approaches of formal methods for Blockchain technology. Topics include, but are not limited to: 
+ 
+\begin{itemize}\item  Formal models of Blockchain applications or concepts
+\item  Formal methods for consensus protocols
+\item  Formal methods for Blockchain-specific cryptographic primitives or protocols
+\item  Design and implementation of Smart Contract languages
+\item  Verification of Smart Contracts
+\item  Zero-knowledge proofs and their applications in a blockchain setting
+\end{itemize} 
+\item  SUBMISSION 
+ 
+  Submit original manuscripts not published or under consideration elsewhere. Page limits are 12 pages for full papers and 6 pages for short and tool papers, excluding bibliography and a short appendix of up to 5 additional pages. Alternatively, authors may submit an extended abstract of up to 2 pages excluding bibliography, summarizing ongoing work in the area of formal methods and blockchains. Extended abstracts will not be included in the proceedings, but authors of selected submissions will be invited to give a lightning talk. Submission link: \href{https://easychair.org/conferences/?conf=fmbc2026}{https://easychair.org/conferences/?conf=fmbc2026} 
+ 
+  Authors are encouraged to use LaTeX and prepare submissions according to the OASIcs instructions and style guides provided by Dagstuhl: \href{https://submission.dagstuhl.de/documentation/authors#oasics}{https://submission.dagstuhl.de/documentation/authors\#oasics} At least one author of an accepted paper is expected to present the paper at the workshop as a registered participant. 
+ 
+\item  PROCEEDINGS 
+ 
+  All submissions will be peer-reviewed by at least three members of the program committee for quality and relevance. Accepted regular papers, including full and short papers, will be included in the workshop proceedings, published as a volume of the Open Access Series in Informatics (OASIcs) by Dagstuhl.  
+ 
+\item  SPECIAL ISSUE 
+ 
+  Revised selected papers will be considered for publication in the upcoming special issue on Formal Methods for Blockchains in the Journal of Logical and Algebraic Methods in Programming (JLAMP): \href{https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming}{https://www.sciencedirect.com/journal/journal-of-logical-and-algebraic-methods-in-programming} 
+ 
+\item  INVITED SPEAKER 
+ 
+\begin{itemize}\item  Pamina Georgiou, Team Leader for Formal Verification at Certora \href{https://www.certora.com/author/pamina}{https://www.certora.com/author/pamina}
+\end{itemize} 
+\item  PROGRAM COMMITTEE 
+ 
+  PC Co-Chairs 
+ 
+\begin{itemize}\item  Massimo Bartoletti, University of Cagliari, Italy (bart@unica.it)
+\item  Diego Marmsoler, University of Exeter, UK (d.marmsoler@exeter.ac.uk)
+\end{itemize} 
+\end{itemize}\section{Petri Nets 2026: 47th International Conference on Applications and Theory of Petri Nets and Concurrency}\label{PetriNets2026}  22–26 June, 2026\\ 
+  Hamburg, Germany\\ 
+https://conf-2026.petrinet.net 
+
+CALL FOR PAPERS 
+
+\begin{itemize}\item  Petri Nets 2026 is the 47th edition of the International Conference on Applications and Theory of Petri Nets and Concurrency. The conference will be held in Hamburg, Germany, at the university where Carl Adam Petri held an honorary professorship. On the occasion of the 100th birthday of Carl Adam Petri, contributions including a historical perspective are particularly welcome. 
+ 
+  Papers presenting original research on the theory and applications of Petri nets are sought, as well as contributions addressing concurrent systems more broadly and applications of concurrency to system design. 
+ 
+\item  IMPORTANT DATES 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Abstract submission:  & Jan 14, 2026 \\
+Paper submission:  & Jan 21, 2026 \\
+Notification:  & Mar 08, 2026 \\
+Final version due:  & Mar 22, 2026 \\
+Workshops and Tutorials:  & Jun 22–23, 2026 \\
+Main Conference:  & Jun 24–26, 2026 \\
+\end{tabulary}
+ 
+\item  PAPER SUBMISSION 
+ 
+  Two kinds of papers can be submitted: 
+ 
+\begin{itemize}\item  Regular papers (max. 20 pages excluding references) describing original theoretical results, extensions of applicability, case studies, applications, and experience reports related to Petri nets and concurrent systems.
+\item  Tool papers (max. 10 pages excluding references) describing a computer tool based on Petri nets. The tool must be available to reviewers free of charge and will be demonstrated at the Tool Exhibition.
+\end{itemize} 
+  Submissions must use the Springer LNCS format and include line numbers (using the lineno LaTeX package): \href{https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines}{https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines}  
+ 
+  Submit via EasyChair: \href{https://easychair.org/conferences/?conf=petrinets2026}{https://easychair.org/conferences/?conf=petrinets2026} 
+ 
+\item  WORKSHOPS, COURSES, TUTORIALS AND TOOLS 
+ 
+  The main conference takes place from Wednesday, 24 June to Friday, 26 June 2026. Workshops, tutorials, and the Petri Net Course take place on Monday, 22 June and Tuesday, 23 June 2026. The Petri Net Course offers half-day and full-day modules providing a thorough introduction to Petri nets. A Tool Exhibition with informal demonstrations will be held on Thursday, 25 June 2026. It consists of informal demonstrations for small groups/individuals, 
+ 
+\end{itemize}and there are no scheduled talks. 
+
+\begin{itemize}\item  ORGANISATION  
+ 
+  Organisation Committee Chairs: 
+ 
+\begin{itemize}\item  Michael Köhler-Bußmeier, Hamburg University of Applied Sciences, Germany
+\item  Daniel Moldt, University of Hamburg, Germany
+\end{itemize} 
+\item  INFORMATION \& CONTACT 
+ 
+\begin{itemize}\item  \href{https://conf-2026.petrinet.net}{https://conf-2026.petrinet.net}
+\item  pn2026@petrinet.net 
+\end{itemize} 
+\end{itemize}\section{FLoC 2026: Federated Logic Conference}\label{FLoC2026}  Lisbon, Portugal\\ 
+  Institut Universitaire de Lisbonne (ISCTE)\\ 
+  Conferences: 20–23 July 2026 and 26–29 July 2026\\ 
+  Workshops: 18–19 July 2026 and 24–25 July 2026\\ 
+  FoPSS Summer School: 13–17 July 2026\\ 
+CALL FOR PAPERS 
+
+\begin{itemize}\item  ABOUT 
+ 
+  The Federated Logic Conference (FLoC) unites ten leading international conferences focused on mathematical logic and its applications in computer science. Since 1996, FLoC has been organized every four years and attracts over 2,000 attendees. FLoC 2026 welcomes original, high-quality contributions on all aspects of logic in computer science. 
+ 
+\item  IMPORTANT DATES (AoE) 
+ 
+  CAV – 38th International Conference on Computer Aided Verification \href{https://conferences.i-cav.org/2026/}{https://conferences.i-cav.org/2026/} 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Paper Submission:  & Jan 28, 2026 \\
+Author Response Period:  & March 30 – April 1, 2026 \\
+Author Notification:  & Apr 17, 2026 \\
+Conference Dates:  & Jul 26–29, 2026 \\
+\end{tabulary}
+ 
+  CP – 32nd International Conference on Principles and Practice of Constraint Programming \href{https://cp2026.a4cp.org}{https://cp2026.a4cp.org} 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Abstract Submission:  & Feb 28, 2026 \\
+Paper Submission:  & Mar 07, 2026 \\
+Author Response Period:  & Mar 09, 2026 \\
+Author Notification:  & Apr 30, 2026 \\
+Conference Dates:  & Jul 20–23, 2026 \\
+\end{tabulary}
+ 
+  CSF – 39th IEEE Computer Security Foundations Symposium \href{https://csf2026.ieee-security.org}{https://csf2026.ieee-security.org} 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Paper Submission:  & Jan 29, 2026 \\
+Author Notification:  & Apr 01, 2026 \\
+Conference Dates:  & July 26–29, 2026 \\
+\end{tabulary}
+ 
+  FSCD – 11th International Conference on Formal Structures for Computation and Deduction \href{https://fscd2026.github.io}{https://fscd2026.github.io} 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Abstract Submission:  & Jan 23, 2026 \\
+Paper Submission:  & Jan 30, 2026 \\
+Author Response Period:  & Mar 23, 2026 \\
+Author Notification:  & Apr 16, 2026 \\
+Conference Dates:  & July 20–23, 2026 \\
+\end{tabulary}
+ 
+  ICLP – 42nd International Conference on Logic Programming \href{https://www.semsys.aau.at/events/iclp2026/}{https://www.semsys.aau.at/events/iclp2026/} 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Abstract Submission (Regular Papers):  & Jan 24, 2026 \\
+Paper Submission (Regular Papers):  & Jan 31, 2026 \\
+Author Notification (Regular Papers):  & Mar 05, 2026 \\
+Paper Submission (Short Papers):  & Mar 27, 2026 \\
+Revision Submission (Regular Papers):  & Mar 27, 2026 \\
+Final Author Notification:  & Apr 17, 2026 \\
+Conference Dates:  & Jul 20–23, 2026 \\
+\end{tabulary}
+ 
+  IJCAR – 13th International Joint Conference on Automated Reasoning \href{https://www.floc26.org/ijcar}{https://www.floc26.org/ijcar} 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Abstract Submission:  & Feb 06, 2026 \\
+Paper Submission:  & Feb 13, 2026 \\
+Author Response Period:  & Mar 30, 2026 \\
+Author Notification:  & Apr 14, 2026 \\
+Conference Dates:  & July 26–29, 2026 \\
+\end{tabulary}
+ 
+  ITP – 17th International Conference on Interactive Theorem Proving \href{https://itp-conference-2026.github.io}{https://itp-conference-2026.github.io} 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Abstract Submission:  & Feb 12, 2026 \\
+Paper Submission:  & Feb 19, 2026 \\
+Author Notification:  & Apr 26, 2026 \\
+Conference Dates:  & July 26–29, 2026 \\
+\end{tabulary}
+ 
+  KR – 23rd International Conference on Principles of Knowledge Representation and Reasoning \href{https://kr.org/KR2026/}{https://kr.org/KR2026/} 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Abstract Submission (Main Track):  & Feb 08, 2026 \\
+Paper Submission (Main Track):  & Feb 13, 2026 \\
+Author Response Period (Main Track):  & Mar 24, 2026 \\
+Author Notification (Main Track):  & Apr 13, 2026 \\
+Conference Dates:  & July 20–23, 2026 \\
+\end{tabulary}
+ 
+  LICS – 41st Annual ACM/IEEE Symposium on Logic in Computer Science \href{https://lics.siglog.org/lics26/}{https://lics.siglog.org/lics26/} 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Abstract Submission:  & Jan 15, 2026 \\
+Paper Submission:  & Jan 22, 2026 \\
+Author Response Period:  & Mar 26, 2026 \\
+Author Notification:  & Apr 16, 2026 \\
+Conference Dates:  & July 20–23, 2026 \\
+\end{tabulary}
+ 
+  SAT – 29th International Conference on Theory and Applications of Satisfiability Testing \href{https://satisfiability.org/SAT26/}{https://satisfiability.org/SAT26/} 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Abstract Submission:  & Feb 20, 2026 \\
+Paper Submission:  & Feb 27, 2026 \\
+Author Response Period:  & Apr 13, 2026 \\
+Author Notification:  & Apr 30, 2026 \\
+Conference Dates:  & July 20–23, 2026 \\
+\end{tabulary}
+ 
+\item  ADDITIONAL EVENTS 
+ 
+  In addition to the conferences, FLoC 2026 will host 86 workshops, including mentoring workshops, Olympic Games, tutorials, and doctoral consortia. More information and submission details: \href{https://www.floc26.org/}{https://www.floc26.org/}    #FLoC2026 #LogicInCS #Lisbon 
+ 
+\end{itemize}\section{CiE 2026: 21st Computability in Europe}\label{CiE2026}  July 27–31, 2026\\ 
+  Trier University, Germany\\ 
+CALL FOR PAPERS 
+
+\begin{itemize}\item  ABOUT 
+ 
+  Computability in Europe (CiE) is a conference series interfacing informatics and mathematics. CiE 2026 will be chaired by Henning Fernau and Vasco Brattka (Munich). The conference will be co-located with MCU 2026 (Machines, Computability, Universality), CCA 2026 (Computability and Complexity in Analysis), and GSW 2026 (Grammar Systems Workshop). 
+ 
+\item  IMPORTANT DATES 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Abstract submission deadline:  & January 29, 2026 (via EasyChair) \\
+Full paper submission deadline:  & February 3, 2026 (up to 15 pages in LNCS format or link to ArXiv version) \\
+Notification:  & Apr 27, 2026 \\
+Deadline for final papers:  & May 04, 2026 \\
+Deadline for informal presentation submissions (not in proceedings):  & May 15, 2026 \\
+Notification on informal presentations:  & Jun 01, 2026 \\
+\end{tabulary}
+ 
+\item  SPECIAL SESSIONS 
+ 
+\begin{itemize}\item  Learning Theory Meets Computability Theory (Cameron Freer \& Sandra Zilles)
+\item  Groups and Computability (Laura Ciobanu \& André Nies)
+\item  At the Borderline of Universality (Erzsebet Csuhaj-Várju \& Serghei Verlan)
+\item  Natural Computation and Bioinformatics (Karel Brinda \& Giuditta Franco)
+\item  Quantum Computing and Information (Mika Hirvensalo)
+\item  HaPoC: History and Philosophy of Computation (Hajo Greif)
+\end{itemize} 
+\item  INVITED SPEAKERS 
+ 
+\begin{itemize}\item  Olivier Bournez, Paris, France [Tutorial Speaker]
+\item  Georg Zetzsche, Kaiserslautern, Germany [Tutorial Speaker]
+\item  Albert Atserias, Barcelona, Spain
+\item  Johanna Franklin, Hempstead, NY, USA
+\item  Mathieu Hoyrup, Nancy, France
+\item  Luca San Mauro, Bari, Italy
+\item  Francesca Zaffora Blando, Pittsburgh, USA
+\end{itemize} 
+\end{itemize}\section{CONFEST 2026}\label{CONFEST2026}  University of Liverpool, UK\\ 
+  1–5 September 2026\\ 
+CALL FOR WORKSHOPS 
+
+\begin{itemize}\item  ABOUT 
+ 
+  CONFEST 2026 is an umbrella event consisting of the three main conferences CONCUR, FMICS, and QEST+FORMATS, together with affiliated workshops. The organizers of CONFEST 2026 invite proposals for satellite workshops to be co-located with CONFEST 2026 at the University of Liverpool. All accepted workshops will be held on 5 September 2026. 
+ 
+\item  IMPORTANT DATES 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Workshop proposal deadline:  & Jan 30, 2026 \\
+Notification:  & Feb 06, 2026 \\
+\end{tabulary}
+ 
+\item  WHAT CONFEST 2026 PROVIDES 
+ 
+ For workshops accepted to CONFEST 2026, the organizers will provide: 
+ 
+\begin{itemize}\item  Meeting room on campus
+\item  Coffee breaks
+\item  Centralized registration through the main conference registration system
+\item  A webpage within the CONFEST 2026 website with edit access or a link to an external workshop webpage
+\item  Support for local information
+\end{itemize} 
+\item  PROPOSAL GUIDELINES 
+ 
+  If you wish to organize a workshop at CONFEST 2026, please submit a proposal including the following information: 
+ 
+\begin{itemize}\item  Name and acronym of the proposed workshop
+\item  Short description of the topic and goals
+\item  Names of the organizers or contact person, including a link to their website
+\item  Link to workshop website or history of the workshop, if available
+\item  Expected number of participants
+\item  Envisaged length of the workshop (half day or full day)
+\item  Publication plan, if any, including formal or informal proceedings and publisher
+\item  Tentative schedule for submission and notification
+\end{itemize} 
+  Organizers of accepted workshops will be responsible for maintaining the workshop webpage, publicising the Call for Participation, handling submissions if applicable, selecting participants, preparing the workshop program, and organizing any materials or special arrangements. 
+ 
+\item  SUBMISSION 
+ 
+  Workshop proposals must be submitted as a PDF to the Workshop Chair of CONFEST 2026. Use the subject line: “CONFEST 2026 Workshop Proposal – WorkshopName”. Informal questions may also be directed to the Workshop Chair. 
+ 
+\item  WORKSHOP CHAIR 
+ 
+  Shufang Zhu, University of Liverpool, shufang.zhu@liverpool.ac.uk 
+ 
+\end{itemize}\section{SCML 2026: International Conference on Symbolic Computation and Machine Learning}\label{SCML2026}  6–8 July, 2026\\ 
+  Hagenberg, Austria\\ 
+  \href{https://scml.risc.jku.at/conference-2026/}{https://scml.risc.jku.at/conference-2026/}\\ 
+CALL FOR PAPERS 
+
+\begin{itemize}\item  ABOUT 
+ 
+  SCML-2026 is dedicated to all research that strives to combine Symbolic Computation (SC) and Machine Learning (ML) as two major approaches to Artificial Intelligence, in particular to the application of ML to SC, the application of SC to ML, and the hybrid combination of SC and ML to solving problems. 
+ 
+  SCML-2026 is a presentation-oriented conference that solicits submissions in the form of extended abstracts (1–2 pages), which are briefly reviewed with respect to their relevance to the topics of the conference. Furthermore, authors are explicitly encouraged to also submit full papers related to their presentations to the SCML Publishing Forum (\href{https://scml.risc.jku.at}{https://scml.risc.jku.at}), where they are refereed according to the rules of the forum and, if accepted, published there. 
+ 
+\item  IMPORTANT DATES 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Opening of submissions:  & Dec 15, 2025 \\
+Opening of registrations:  & Mar 02, 2025 \\
+Deadline for submission of extended abstracts:  & Apr 27, 2026 \\
+\end{tabulary}
+ 
+  After the submission of an extended abstract, the notification of acceptance is sent out within two weeks. 
+ 
+\end{itemize}\section{PLS15: THE FIFTEENTH PANHELLENIC LOGIC SYMPOSIUM}\label{PLS15}  6–10 July, 2025\\ 
+  Athens, Greece\\ 
+  Organized by the National and Kapodistrian University of Athens\\ 
+  \href{http://panhellenic-logic-symposium.org/}{http://panhellenic-logic-symposium.org/}\\ 
+CALL FOR PAPERS 
+
+\begin{itemize}\item  ABOUT 
+ 
+ The Panhellenic Logic Symposium (PLS) is a biennial scientific event established in 1997, aiming to promote interaction and cross-fertilization among different areas of logic. Originally conceived as a way of bringing together the many logicians of Hellenic descent throughout the world, it has evolved into an international forum for the communication of state-of-the-art advances in logic. The symposium is open to researchers worldwide who work in logic broadly conceived. 
+ 
+\item  LIST OF TOPICS 
+ 
+  Areas of interest include (but are not limited to): 
+ 
+\begin{itemize}\item  Categorical logic
+\item  Computability theory
+\item  History of Logic
+\item  Logic in Computer Science
+\item  Logic in Human Reasoning
+\item  Model theory
+\item  Nonclassical and modal logics
+\item  Philosophical logic
+\item  Proof theory
+\item  Reasoning in AI
+\item  Set theory
+\end{itemize} 
+\item  IMPORTANT DATES 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Deadline for submission:  & Mar 30, 2026 \\
+Notification:  & Apr 30, 2026 \\
+Final version due:  & May 29, 2026 \\
+\end{tabulary}
+ 
+  Paper submission link: \href{https://easychair.org/conferences/?conf=pls15}{https://easychair.org/conferences/?conf=pls15} 
+ 
+\item  INVITED SPEAKERS 
+ 
+\begin{itemize}\item  Alex Kruckman, Wesleyan University
+\item  Christina Vasilakopoulou, NTUA
+\item  Stefan Vatev, University of Sofia
+\item  Stevo Todorcevic, University of Toronto
+\item  Su Gao, Nankai University
+\end{itemize} 
+\item  TUTORIALS 
+ 
+\begin{itemize}\item  Alexander Kechris, California Institute of Technology (to be confirmed)
+\item  Maryanthe Malliaris, University of Chicago
+\end{itemize} 
+\item  SPECIAL SESSIONS 
+ 
+  On the Axiom of Choice 
+ 
+\begin{itemize}\item  Assaf Shani, Concordia University
+\item  Azul Lihuen Fatalini, University of Leeds
+\item  Zoltán Vidnyánszky, Eötvös University
+\end{itemize} 
+  Logics for Formal Verification 
+ 
+\begin{itemize}\item  Elli Anastasiadi, Aalborg University
+\item  Juha Kontinen, University of Helsinki
+\item  Martin Zimmermann, Aalborg University
+\end{itemize} 
+  Philosophy Session: Modal Logic 
+ 
+\begin{itemize}\item  Aybüke Özgün, ILLC, University of Amsterdam
+\item  Johannes Stern, University of Bristol
+\item  Øystein Linnebo, University of Oslo
+\end{itemize} 
+  The Aristotelian Syllogistic: Computational and Foundational Aspects 
+ 
+\begin{itemize}\item  Marko Malink, New York University
+\item  Zoe McConaughey, University of Lille
+\end{itemize} 
+\item  SUBMISSION GUIDELINES 
+ 
+  The Scientific Committee invites researchers in all areas of logic to submit their papers for presentation at PLS15. All submitted papers will be reviewed by the Scientific Committee of the symposium, who will make final decisions on acceptance. Accepted papers will appear in an informal, electronic proceedings volume, which will be posted on the event’s webpage. During the actual event, each accepted paper should be presented by at least one of its authors. Papers should be written in English, a maximum of 5 pages long, and prepared in PDF format using the EasyChair class style (easychair.org/publications/for\_authors). Submissions will happen through EasyChair. Paper submission link: \href{https://easychair.org/conferences/?conf=pls15}{https://easychair.org/conferences/?conf=pls15} 
+ 
+\item  POSTER SESSION 
+ 
+  Graduate students and early-career researchers are invited to submit a short, 1-page abstract on preliminary work that may not be ready for a full talk yet. Those accepted will be able to present their work in poster form in a special poster session. The session will also feature a mentoring component in which senior researchers will discuss the posters and provide feedback to the authors. 
+ 
+Poster abstracts submission deadline: May 29, 2026 
+ 
+  Submissions will be accepted by email at: pls15@softlab.ntua.gr Email subject: [PLS15 poster session] 
+ 
+\end{itemize}\section{NMR 2026: 24th International Workshop on Nonmonotonic Reasoning, NMR 2026}\label{NMR2026}  July 17–19, 2026, Lisbon, Portugal\\ 
+  Website: \href{https://nmr.krportal.org/2026/}{https://nmr.krportal.org/2026/}\\ 
+CALL FOR PAPERS 
+
+\begin{itemize}\item  GENERAL INFORMATION 
+ 
+ NMR is the premier forum for results in the area of Nonmonotonic Reasoning. Its aim is to bring together active researchers in this broad field within knowledge representation and reasoning (KR), including belief revision, uncertain reasoning, reasoning about actions, planning, logic programming, preferences, argumentation, causality, and many other related topics including systems and applications. Visit also the general NMR webpage: \href{https://nmr.krportal.org/}{https://nmr.krportal.org/} . 
+ 
+  NMR has a long history - it started in 1984 and, up until 2020, was held every two years. Recent previous NMR workshops were held in Melbourne (2025), Vietnam (2024), Greece (2023), Haifa (2022), Hanoi (virtually) (2021), Rhodes (virtually) (2020), Tempe (2018), Cape Town (2016), Vienna (2014), Rome (2012), Toronto (2010), and Sydney (2008). 
+ 
+  NMR 2026 is co-located with the 23rd International Conference on Principles of Knowledge Representation and Reasoning (\href{https://kr.org/KR2026/}{https://kr.org/KR2026/}) at the Federated Logic Conference (\href{https://www.floc26.org/}{https://www.floc26.org/}). 
+ 
+\item  AIMS AND SCOPE 
+ 
+ NMR 2026 aims to foster connections between the different subareas of nonmonotonic reasoning and provide a forum for emerging topics. We especially invite papers on systems and applications, as well as position papers addressing benchmark issues. The workshop will be structured by topical sessions fitting to the scopes of accepted papers. Workshop activities will include invited talks and presentations of technical papers. 
+ 
+\item  IMPORTANT DATES  
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Paper registration:  & Apr 03, 2026 \\
+Paper submission:  & Apr 10, 2026 \\
+Notification of acceptance:  & May 18, 2026 \\
+Camera-ready version due:  & Jun 17, 2026 \\
+Workshop:  & Jul 17–19, 2026 \\
+\end{tabulary}
+ 
+  It is planned to hold NMR 2026 as an in-person event, that is, at least one author of every accepted paper has to physically attend the workshop. 
+ 
+\item  SUBMISSION DETAILS 
+ 
+  We invite two types of submissions: 
+ 
+\begin{itemize}\item  Full papers. Full papers should be at most 14 pages including references, figures and appendices. Papers already published or accepted for publication at other conferences are also welcome, provided that the original publication is mentioned in a footnote on the first page and the submission at NMR falls within the authors' rights. In the same vein, papers under review for other conferences can be submitted with a similar indication on their front page.
+\item  Extended Abstracts. Extended abstracts should be at most 3 pages (excluding references and acknowledgements). They should introduce work that has recently been published or is under review, or ongoing research at an advanced stage. We highly encourage to attach to the submission a preprint/postprint or a technical report. Such extra material will be read at the discretion of the reviewers. Submitting already published material may require a permission by the copyright holder.
+\end{itemize} 
+  All submissions should be formatted in CEUR style (1-column). Author kit: \href{http://ceur-ws.org/Vol-XXX/CEURART.zip}{http://ceur-ws.org/Vol-XXX/CEURART.zip} . Papers must be submitted in PDF only. 
+ 
+  Please submit your contribution through the NMR 2026 Submission Portal: \href{https://submissions.floc26.org/nmr/}{https://submissions.floc26.org/nmr/} . 
+ 
+\item  ORGANIZATION 
+ 
+  General Co-Chairs: 
+ 
+\begin{itemize}\item  Ana Ozaki · University of Oslo and University of Bergen, Norway
+\item  Nico Potyka · Cardiff University, UK
+\item  Publicity Chair: Jacek Wegrzynowski · University of Oslo, Norway
+\end{itemize} 
+\item  WORKSHOP PROCEEDINGS 
+ 
+  The accepted papers will be made available electronically in the CEUR Workshop Proceedings series as informal proceedings (\href{http://ceur-ws.org/}{http://ceur-ws.org/}). The copyright of papers remain with the authors. Full papers will be indexed by dblp.org; but extended abstracts published on CEUR proceedings will not be indexed by dblp.org anymore. 
+ 
+\end{itemize}\section{CONCUR 2026: 37th International Conference on Concurrency Theory}\label{CONCUR2026}  1–4 September, 2026\\ 
+  Liverpool, UK\\ 
+  \href{https://confest-2026.github.io/concur}{https://confest-2026.github.io/concur}\\ 
+CALL FOR PAPERS 
+
+\begin{itemize}\item  OVERVIEW 
+ 
+  The International Conference on Concurrency Theory (CONCUR) brings together researchers, developers, and students in order to advance the theory of concurrency and promote its applications. CONCUR solicits high quality papers reporting research results and/or experience related to semantics, logics, verification and analysis of concurrent systems. The 2026 edition of CONCUR will be co-located with QEST+FORMATS, FMICS and a number of workshops under the joint name CONFEST 2026, which will take place September 1–5, 2026 at the University of Liverpool, UK. 
+ 
+\item  IMPORTANT DATES 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Abstracts:  & Apr 20, 2026 \\
+Submissions:  & Apr 27, 2026 \\
+Rebuttal:  & Jun 01, 2026 \\
+Notification:  & Jun 15, 2026 \\
+Camera Ready:  & Jun 29, 2026 \\
+Conference:  & Sep 1–4, 2026 \\
+Workshops:  & Sep 05, 2026 \\
+\end{tabulary}
+ 
+\item  TOPICS 
+ 
+  Submissions are solicited in the theory and practice of concurrent systems. The principal topics include (but are not limited to): 
+ 
+\begin{itemize}\item Basic models of concurrency such as abstract machines, domain-theoretic models, categorical and coalgebraic models, game-theoretic models, parametric models, process algebras, graph transformation systems, Petri nets, hybrid systems, mobile and collaborative systems, probabilistic systems, real-time systems, quantum systems, biology-inspired systems, and synchronous systems.
+\item  Logics for concurrency such as modal logics, program logics, probabilistic and stochastic logics, temporal logics, multi-agent logics, and resource logics.
+\item  Verification and analysis techniques for concurrent systems such as abstract interpretation, atomicity checking, model checking, race detection, pre-order and equivalence checking, run-time verification, state-space exploration, static analysis, synthesis, testing, theorem proving, type systems, and security analysis.
+\item  Distributed and parallel algorithms and concurrent data structures, including design, analysis, complexity, correctness, fault tolerance, reliability, availability, consistency, self-organization, self-stabilization, commitment schemes, and communication protocols.
+\item  Theoretical foundations, tools, and empirical evaluations of architectures, execution environments, and software development for concurrent systems such as geo-replicated systems, distributed ledgers, communication networks, multiprocessor and multi-core architectures, quantum computing, quantum communication, shared and transactional memory, resource management and awareness, compilers and tools for concurrent programming, and programming models including component-based, object- and service-oriented approaches.
+\end{itemize} 
+\item  PAPER SUBMISSION 
+ 
+  All papers must be original, unpublished, and not submitted for publication elsewhere. Each paper will undergo a thorough review process. Papers must be submitted electronically as PDF files via EasyChair: \href{https://easychair.org/conferences?conf=concur2026}{https://easychair.org/conferences?conf=concur2026} Proceedings will be published by LIPIcs. Authors must use the LIPIcs style files when preparing their submission: \href{https://drops.dagstuhl.de/entities/series/LIPIcs#author}{https://drops.dagstuhl.de/entities/series/LIPIcs\#author} 
+ 
+  Submissions follow a single-blind review process. Papers must not exceed 15 pages (excluding references and appendices, LIPIcs style). An appendix may provide additional material and proofs, but cannot be expected to be scrutinized by the reviewers and will not be published in the proceedings. 
+ 
+\item  PROGRAM COMMITTEE CHAIRS 
+ 
+\begin{itemize}\item  Ana Sokolova, University of Salzburg, Austria
+\item  Patrick Totzke, University of Liverpool, UK 
+\end{itemize} 
+\end{itemize}\section{POSTDOC AND PHD POSITION: Quantum Software, Aarhus, Denmark}\label{POSTDOCANDPHDPOSITION}JOB ANNOUNCEMENT  
+
+\begin{itemize}\item  Fully funded PhD and Postdoc in Quantum Software, Aarhus, Denmark . We offer several fully funded PhD and Postdoc positions in Quantum Software (verification, compilation, optimization). Interested applicants with strong analytical skills and a desire to work on algorithmic and modeling challenges in Quantum Software are encouraged to contact us. 
+ 
+  You will work in the Quantum Software Team (\href{https://cs.au.dk/qs}{https://cs.au.dk/qs}) of the Department of Computer Science, Aarhus University, within the section of Programming Languages, Logic and Software Security (ranked top-5 worldwide in programming languages, \href{https://csrankings.org/#/index?plan\&world}{https://csrankings.org/\#/index?plan\&world}). We collaborate with external partners such as the company Kvantify. 
+ 
+  Interested candidates should contact us as soon as possible by e-mail with a CV and a short description of interests.  
+ 
+\item  IMPORTANT DATE 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Application deadline:  & Feb 01, 2026 \\
+Expected starting date:  & May 01, 2026 \\
+\end{tabulary}
+ 
+  More details: see \href{https://cs.au.dk/research/centers/quantum-software/positions}{https://cs.au.dk/research/centers/quantum-software/positions}. Details on our PhD school: \href{https://phd.nat.au.dk/for-applicants}{https://phd.nat.au.dk/for-applicants} 
+ 
+\begin{itemize}\item  Jaco van de Pol, Bas Spitters, Andreas Pavlogiannis
+\item  Aarhus University, Department of Computer Science
+\end{itemize} 
+\end{itemize}
+
+
+\bigskip Links: \href{http://siglog.org/}{SIGLOG website}, \href{https://lics.siglog.org}{LICS website}, \href{https://lics.siglog.org/newsletters/}{SIGLOG Monthly}\end{document}
