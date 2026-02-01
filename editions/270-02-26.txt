@@ -1,0 +1,247 @@
+-dd February 1, 2026
+
+ -dM WoLLIC 2026:	Feb 16, 2026 (Abstracts deadline), Feb 22, 2026 (Full papers deadline)
+ -dM PLS15:	Mar 30, 2026 (Abstracts deadline), May 29, 2026 (Poster abstracts deadline)
+ -dM NMR 2026:	Apr 03, 2026 (Paper registration), Apr 10, 2026 (Paper)
+ -dM CONCUR 2026:	Apr 20, 2026 (Abstracts), Apr 27, 2026 (Submissions)
+ -dM SCML 2026:	Apr 27, 2026 (Deadline for extended abstracts)
+
+
+
+GAIW 2026: The 8th Games, Agents, and Incentives Workshop
+  Paphos, Cyprus, May 26, 2026
+  Webpage: https://gtep-workshops.github.io/gaiw2026/
+  co-located with AAMAS 2026
+CALL FOR PAPERS
+* IMPORTANT DATES
+ -dh Submission Deadline: February 4, 2026 (AoE)
+ -d Acceptance Notification: March 20, 2026
+ -d Camera Ready: TBD (AoE)
+ -d Workshop: May 26, 2026
+* ABOUT 
+  We invite submissions to the 8th iteration of the Games, Agents and Incentives Workshop, co-located with AAMAS 2026 in Paphos, Cyprus, https://cyprusconferences.org/aamas2026/. Games, Agents and Incentives is a confederated workshop which focuses on agents and incentives in AI.  In particular, it promotes approaches that deal with game theory (cooperative and non-cooperative), social choice, and agent-mediated e-commerce aspects of AI systems. The confederated workshop merges multiple workshops that have been associated with AAMAS in the past, which considered different aspects of the general interplay between AI and economics including CoopMAS, AMEC, and EXPLORE.
+  Over the past two decades, the focus of agent incentives in decentralised and centralised AI systems has increased dramatically. These issues come up when designing preference aggregation mechanisms and markets; computing equilibria and bidding strategies; facilitating cooperation among agents; and fairly dividing resources.
+* SUBMISSION GUIDELINES 
+  Authors should submit full papers electronically in PDF format at: https://openreview.net/group?id=ifaamas.org/AAMAS/2026/Workshop/GAIW Formatting Guidelines: Please format papers according to the AAMAS 2026 format (https://cyprusconferences.org/aamas2026/submission-instructions/). Paper Length: Papers can be at most 8 pages long in AAMAS format. Additional pages may be used for references. Supplemental material can be appended at the end of the paper. However, reviewers are instructed to make their evaluations based on the main submission, and are not obligated to consult the supplemental material.
+  Multiple Submissions: To widen participation and encourage discussion, there will be no formal publication of workshop proceedings. We will, however, post the accepted papers online to the benefit of the participants to the workshop. Therefore, submission of preliminary work and papers to be submitted or in preparation for submission to other major venues in the field are encouraged.
+  Past Submissions: In order to strike a balance between new work and work that may have been presented, but not widely seen, we ask that if authors want to submit published work they do so non-anonymously and clearly indicate when and where the work was published. We will only accept work which has been published in the last calendar year (e.g., IJCAI 2025, NeurIPS 2025, AAAI 2025, AAAI 2026 and any conference held strictly after Jan 1, 2025).
+  We invite papers on topics of game theory, mechanism design, fair allocation, computational social choice, and their applications to multi-agent systems. 
+* Best Presentation Award: The organizing committee of GAIW will be giving two awards (first-place and runner up) for best paper presentations. The award criteria include the clarity of presentation, the level of engagement, the content, and discussion handling.
+  Inquiries: If you have any questions, direct them to alan.tsang@carleton.ca.
+
+
+
+
+
+
+
+
+ICGT 2026: International Conference on Graph Transformation
+  Rennes, France, June 29th - July 3rd
+  https://conf.researchr.org/track/icgt-2026/icgt-2026-icgt-research-papers
+CALL FOR PAPERS
+* We invite submissions to the 19th International Conference on Graph Transformation (ICGT 2026), to be held in Rennes, France, as part of STAF 2026 (Software Technologies: Applications and Foundations) between 29th June and 3rd July. ICGT is the leading venue for research on graphs and graph transformation, encompassing theoretical foundations, tools, and applications. Graph-based formalisms are central to diverse domains including: software architectures, model driven engineering, network topologies, cyber-physical systems, quantum computing, exploring molecular structures, and graph databases.
+* ICGT aims to broaden participation
+  ICGT is not only a theory conference, and we also welcome applications, tools, and case studies. If your work uses graph rewriting technologies (e.g., graph databases, quantum compilers, AI/ML), ICGT is for you.
+* TOPICS 
+ - Theory: e.g. Models, verification, concurrency, logical aspects
+ - Applications: e.g. Software engineering, quantum computing, AI/GNNs, graph databases, business processes
+ - Tools: e.g. Languages, environments, tool support
+* IMPORTANT DATES (AoE)
+ -dh Abstracts: 16 Feb 2026
+ -dh Papers: 23 Feb 2026
+ -d Notification: 6 Apr 2026
+ -d Camera-ready: 27 Apr 2026
+* SUBMISSION INFO
+  Accepted papers will appear in LNCS proceedings. The submission categories are: 
+ - Regular Research Papers (16 pp LNCS)
+ - Tool Presentations (8 pp LNCS)
+ - Vision Papers / Open Challenges (8 pp LNCS)
+ - Journal-First Extended Abstracts (2 pp LNCS)
+  Full call details: https://conf.researchr.org/track/icgt-2026/icgt-2026-icgt-research-papers
+* CHAIRS 
+ Blair Archibald and Oszkar Semerath
+
+
+
+
+
+AiML 2026: 16th International Conference on Advances in Modal Logic 
+  29 June – 3 July 2026
+  Amsterdam, The Netherlands 
+  https://events.illc.uva.nl/aiml2026/ 
+CALL FOR PAPERS
+* ABOUT 
+  Advances in Modal Logic is an initiative aimed at presenting the state of the art in modal logic and its various applications. The initiative consists of a conference series together with volumes based on the conferences. AiML 2026 is organized by the Institute of Logic, Language and Computation (ILLC) of the University of Amsterdam (UvA). The conference will take place on 29 June - 3 July 2026.  
+* TOPICS
+  We invite submissions on all aspects of modal and related logic, including (but not limited to):
+ - Semantics and model theory
+ - Proof theory, also including automated deduction
+ - Applications of modal logic
+ - Co-algebraic aspects
+ - History of modal logic
+ - Philosophy of modal logic
+ - Computational or theoretical aspects
+ - Specific instances and variations of modal logic (e.g., description logics, dynamic logics, epistemic and deontic logics, modal logics for agent-based systems, provability and interpretability logics, spatial and temporal logics, hybrid logic, intuitionistic logic, substructural logics)
+* SUBMISSIONS 
+  There will be two types of submissions for AiML 2026:
+ - Full papers for publication in the proceedings and presentation at the conference. The proceedings will be published open access via Electronic Proceedings in Theoretical Computer Science (EPTCS). 
+ - Short presentations intended for presentation at the conference but not for the published proceedings.
+  Both types of papers should be submitted electronically using the EasyChair submission page: https://easychair.org/conferences/?conf=aiml2026 For more instructions on submission types please visit the website. 
+* IMPORTANT DATES
+ -dh Full papers abstracts: 20 February 2026
+ -dh Full papers submission: 27 February 2026
+ -d Full papers acceptance notification: 24 April 2026
+ -dv Short presentations submission: 5 May 2026
+ -d Camera-ready version full papers: 15 May 2026
+ -d Short presentations acceptance notification: 20 May 2026
+ -d Registration deadline: t.b.a.
+ -d Camera-ready version short presentations: 29 May 2026
+ -dv Conference: Jun 29 – Jul 3, 2026
+* INVITED SPEAKERS 
+ - Kit Fine (New York University)
+ - David Gabelaia (Razmadze Mathematical Institute)
+ - Mojtaba Mojtahedi (Ghent University)
+ - Aybüke Özgün (University of Amsterdam)
+ - Sara Uckelman (Durham University)
+* CONTACT 
+  To get in touch with the organizers please write to: aiml2026-illc@uva.nl
+  
+  
+
+
+
+
+LSFA 2026: 21st International Symposium on Logical and Semantic Frameworks with Applications
+  18 - 19 July 2026
+  Lisbon, Portugal
+  https://lsfa-workshop.github.io/2026/
+CALL FOR PAPERS 
+* ABOUT
+  Logical and semantic frameworks are formal languages used to represent logics, languages and systems. These frameworks provide foundations for the formal specification of systems and programming languages, supporting tool development and reasoning.
+  We are inviting formal submissions on the following topics, but not limited to:
+ - Automated deduction
+ - Applications of logical and/or semantic frameworks
+ - Computational and logical properties of semantic frameworks
+ - Formal semantics of languages and systems
+ - Implementation of logical and/or semantic frameworks
+ - Lambda and combinatory calculi
+ - Logical aspects of computational complexity
+ - Logical frameworks
+ - Process calculi
+ - Proof theory
+ - Semantic frameworks
+ - Specification languages and meta-languages
+ - Type theory
+  The program committee is chaired by Valeria de Paiva, Topos Institute, Berkeley and Thaynara de Lima, Federal University of Goiás, Goiânia.
+* SUBMISSIONS
+  Contributions should be written in English and submitted in the form of:
+ - full papers (with a maximum of 16 pages excluding references) or ; 
+ - short papers (with a maximum of 6 pages excluding references). 
+  They must be unpublished and not submitted simultaneously for publication elsewhere. The papers should be prepared in latex using EPTCS style. https://style.eptcs.org/ The submission should be in the form of a PDF file uploaded to HotCRP. https://submissions.floc26.org/lsfa/ If software or data is relevant to a paper, a link that provides access to the software/data must be provided to enable reproduction of results.
+  Following LSFA traditions, besides Proceedings, we are considering publishing a Special Issue LSFA 25+26 (more details regarding past publications at https://lsfa-workshop.github.io/). 
+* IMPORTANT DATES 
+ -dh Abstract deadline: March 30, 2026 
+ -dh Full paper deadline: April 4, 2026 
+ -d Notification of acceptance: May 4, 2026
+ -dv Conference: Jul 18-19, 2026
+
+
+
+MFCS 2026: 51th conference on Mathematical Foundations of Computer Science
+  Paris, France August 24th-28th, 2026
+  https://mfcs2026.irif.fr/
+CALL FOR PAPERS
+* MFCS is among the conferences with the longest history in the field — the first conference in the series was held already in 1972. Traditionally, the conference moved between the Czech Republic, Poland, and Slovakia; since 2013, the conference has traveled around Europe.
+* The conference will be preceded, on August 23, by the Young Research Forum Workshop intended for students and postdocs.
+* NEW: Up to 10 papers will be accepted by the program committee, for which no presence onsite is required.
+* Important dates
+ -dh Submissions: April 24th, 2026
+ -d Author notification: June 19th, 2026
+ -d Camera-ready version: June 26th, 2026
+ -d YRF Workshop: August 23rd (afternoon)
+ -dv Conference: Aug 24-28, 2026
+* Deadlines are firm; late submissions will not be considered. All dates are AoE.
+* Detailed information can be found on the webpage
+
+
+
+
+
+  
+  
+  
+  
+C.A.R.L.A. 2026: 2nd Workshop on Cognitive Architectures for Robotics: LLMs and Logic in Action
+  Lisbon, Portugal
+  July 18, 2026
+  https://ws-carla.github.io/web/
+  Part of FLoC 2026, https://www.floc26.org/
+CALL FOR PAPERS
+* IMPORTANT DATES 
+  All dates are AoE 
+ -dh Paper registration: 2 May
+ -dh Paper submission deadline: 8 May
+ -d Paper notification: 22 May
+ -d Camera-Ready deadline: 19 June
+  Accepted papers will be presented as posters, with a subset selected for oral presentations. The workshop will take place in person at FLoC 2026, with virtual participation options not guaranteed at the moment.
+* GENERAL INFORMATION
+  The Workshop on Cognitive Architectures for Robotics: LLMs and Logic in Action (CARLA) seeks to transform the landscape of intelligent behaviors by pioneering the integration of large language models (LLMs), symbolic reasoning, and logic solvers into autonomous systems. As robotics advances toward real-world applications requiring adaptability, safety, and complex decision-making, this workshop focuses on harnessing the synergy between data-driven learning models and symbolic, logic-based systems to advance automation. This year, the workshop further expands its scope to explicitly include simulated environments as first-class experimental and methodological tools. In particular, CARLA emphasizes the use of videogames and digital twins as scalable, controllable, and safe testbeds for cognitive robotics research. These environments enable systematic investigation of embodied reasoning, LLM-driven planning, and logic-based decision-making under diverse and dynamic conditions that would be difficult or costly to reproduce in physical settings. By bridging cognitive architectures with the structured management of virtual applications, CARLA aims to foster principled approaches to transferring knowledge and behaviors learned in simulation to real-world systems, while supporting reproducibility and benchmarking across research efforts.
+* SCOPE AND SUBMISSIONS
+  For a detailed description of topics of interest and submission guidelines please visit the website. Submissions will be managed via the FLoC submission system. Papers will remain private during the review process. All authors must maintain up-to-date profiles to ensure proper conflict-of-interest management and paper matching. Incomplete profiles may result in desk rejection.  Submit papers through the dedicated C.A.R.L.A. submission system: https://submissions.floc26.org/carla/ 
+  The workshop follows a single-blind review process. Submissions must not be anonymized by removing author names, affiliations, and acknowledgments. 
+* ORGANIZATION
+ - Fabrizio Lo Scudo, University of Calabria, Italy
+ - Denise Angilica, University of Calabria, Italy
+ - Sotirios Batsakis, Hellenic Mediterranean University, Greece
+ - Manuel Alejandro Borroto Santana, University of Calabria, Italy
+
+
+  
+  
+ITRS 2026: 12th Workshop on Intersection Types and Related Systems
+  18th July 2026, Lisbon, Portugal
+  https://itrs2026.tu-dortmund.de/
+CALL FOR PAPERS
+* IMPORTANT DATES
+  All deadlines are midnight anywhere-on-earth (AoE).
+ -dh Paper submission: May, 15th
+ -d Author notification: June, 1st
+ -d Final version: June, 28th
+ -d Workshop: July, 18th
+* OVERVIEW
+  ITRS 2026 is affiliated with the 11th International Conference on Formal Structures for Computation and Deduction (FSCD 2026) and is part of the 9th Federated Logic Conference (FLoC 2026).
+  The ITRS workshop aims to bring together researchers working on both the theory and practical applications of systems based on intersection types and related systems. We welcome original results or surveys about ongoing research, short versions of recently published articles or papers submitted elsewhere, and surveys of ongoing work.
+  Possible topics for submitted papers include, but are not limited to:
+ - Formal properties of systems with intersection types.
+ - Results for related systems, such as union types, refinement types, or singleton types.
+ - Applications to lambda calculus and similar systems. 
+ - Applications to pi-calculus and similar systems.
+ - Applications to programming languages and program verification.
+ - Applications to other areas, such as database query languages and program extraction from proofs.
+ - Related approaches using behavioral/intensional types to characterize computational properties.
+ - Quantitative refinements of intersection types.
+* SUBMISSION AND PUBLICATION
+  Authors are invited to submit an extended abstract (between 3 and 5 pages, excluding bibliography) in PDF format through FLoC26 submissions: https://submissions.floc26.org/itrs/ Extended abstracts should be written in English using LaTeX. Accepted papers will be presented at the workshop and will appear on the workshop website as workshop proceedings.
+
+
+
+POSTDOC AND PHD POSITIONS: School of Computer Science, University of Sydney, Australia
+JOB ANNOUNCEMENT
+* Postdoc positions
+  We have a number of postdoctoral positions available (each for 2-3 years), in all areas of Theoretical Computer Science, with at least one focusing on reactive synthesis and planning, and another on streaming algorithms. Starting date flexible, but expected around mid- or late 2026.
+  Base salary (Level A): approx AUD 117k–120k p.a.+ 17% superannuation (retirement plan), with funding to attend conferences, and no teaching obligations.
+* PhD positions
+  We also have several PhD positions available in Theoretical Computer Science, with at least one focusing on reactive synthesis and planning, one on computational geometry, one on streaming algorithms, and two on cryptography & game theoretic mechanism design. Starting date is flexible, but expected around mid- or late 2026.
+  PhDs are for a duration of 3.5 years (with no mandatory coursework). The PhD scholarships include: tuition fee waiver; living allowance (approx AUD 40k/year); funding to present at international workshops and conferences; no teaching obligations, but opportunities for (remunerated) teaching available.
+* For both types of positions, excellent candidates are encouraged to contact us at sasha.rubin@sydney.edu.au or clement.canonne@sydney.edu.au. For details on the group, see https://usyd-sact.github.io/index.html
+
+
+
+
+
+
+
+  
+  
+  
