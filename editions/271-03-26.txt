@@ -1,0 +1,213 @@
+-dd March 1, 2026
+
+-dM PLS15:	Mar 30, 2026 (Abstracts deadline), May 29, 2026 (Poster abstracts deadline)
+-dM LSFA 2026:	Mar 30, 2026 (Abstract deadline), Apr 04, 2026 (Full paper deadline)
+-dM NMR 2026:	Apr 03, 2026 (Paper registration), Apr 10, 2026 (Paper)
+-dM CONCUR 2026:	Apr 20, 2026 (Abstracts), Apr 27, 2026 (Submissions)
+-dM MFCS 2026:	Apr 24, 2026 (Submissions)
+-dM SCML 2026:	Apr 27, 2026 (Deadline for extended abstracts)
+-dM C.A.R.L.A. 2026:	May 02, 2026 (Paper registration), May 08, 2026 (Paper deadline)
+-dM ITRS 2026:	May 15, 2026 (Paper)
+
+
+
+
+
+CiE 2026: Computability in Europe
+  Trier University, July 27.-31
+  2nd round of submissions CfP
+CALL FOR PAPERS
+* Due to various requests, we will have a second round of paper submissions. Deadline: March 15th, 2026. The Easychair server will open again on March 10th, 2026.
+  What is the difference between 1st and 2nd round submissions? While 1st-round submissions will be often forwarded to subreviewers, papers submitted in the 2nd round will be only reviewed by PC members. All papers will be notified at the same time. Please check out our webpage www.cie-2026.uni-trier.de for further updated information.
+
+
+
+
+
+NMR 2026: 24th International Workshop on Nonmonotonic Reasoning
+  July 17-19, 2026, Lisbon, Portugal
+  Website: https://nmr.krportal.org/2026/
+CALL FOR PAPERS
+* IMPORTANT DATES
+ -dh Paper registration: April 3, 2026        
+ -dh Paper submission: April 10, 2026       
+ -d Notification of acceptance: May 18, 2026         
+ -d Camera-ready version due: June 17, 2026        
+ -dv Workshop: Jul 17-19, 2026     
+* GENERAL INFORMATION
+  NMR is the premier forum for results in the area of Nonmonotonic Reasoning. Its aim is to bring together active researchers in this broad field within knowledge representation and reasoning (KR), including belief revision, uncertain reasoning, reasoning about actions, planning, logic programming, preferences, argumentation, causality, and many other related topics including systems and applications. Visit also the general NMR webpage: https://nmr.krportal.org/.
+  NMR has a long history - it started in 1984 and, up until 2020, was held every two years. Recent previous NMR workshops were held in Melbourne (2025), Vietnam (2024), Greece (2023), Haifa (2022), Hanoi (virtually) (2021), Rhodes (virtually) (2020), Tempe (2018), Cape Town (2016), Vienna (2014), Rome (2012), Toronto (2010), and Sydney (2008).
+  NMR 2026 is co-located with the 23rd International Conference on Principles of Knowledge Representation and Reasoning (https://kr.org/KR2026/) at the Federated Logic Conference (https://www.floc26.org/).
+* AIMS AND SCOPE
+  NMR 2026 aims to foster connections between the different subareas of nonmonotonic reasoning and provide a forum for emerging topics. We especially invite papers on systems and applications, as well as position papers addressing benchmark issues. The workshop will be structured by topical sessions fitting to the scopes of accepted papers. Workshop activities will include invited talks and presentations of technical papers.
+* SUBMISSION DETAILS
+  We invite two types of submissions:
+ - Full papers. Full papers should be at most 14 pages including references, figures and appendices. Papers already published or accepted for publication at other conferences are also welcome, provided that the original publication is mentioned in a footnote on the first page and the submission at NMR falls within the authors' rights. In the same vein, papers under review for other conferences can be submitted with a similar indication on their front page.
+ - Extended Abstracts. Extended abstracts should be at most 3 pages (excluding references and acknowledgements). They should introduce work that has recently been published or is under review, or ongoing research at an advanced stage. We highly encourage to attach to the submission a preprint/postprint or a technical report. Such extra material will be read at the discretion of the reviewers. Submitting already published material may require a permission by the copyright holder.
+  All submissions should be formatted in CEUR style (1-column). Author kit: http://ceur-ws.org/Vol-XXX/CEURART.zip. Papers must be submitted in PDF only. Please submit your contribution through the NMR 2026 Submission Portal: https://submissions.floc26.org/nmr/. It is planned to hold NMR 2026 as an in-person event, that is, at least one author of every accepted paper has to physically attend the workshop.
+* ORGANIZATION
+  General Co-Chairs:
+ - Ana Ozaki: University of Oslo and University of Bergen, Norway
+ - Nico Potyka: Cardiff University, UK
+  Publicity Chair:
+ - Jacek Wegrzynowski · University of Oslo, Norway
+* WORKSHOP PROCEEDINGS
+  The accepted papers will be made available electronically in the CEUR Workshop Proceedings series as informal proceedings (http://ceur-ws.org/). The copyright of papers remain with the authors. Full papers will be indexed by dblp.org; but extended abstracts published on CEUR proceedings will not be indexed by dblp.org anymore.
+
+
+
+
+
+
+TEAL@FLoC'26: Tools for Educational Activities in Logic
+  workshop co-located with FLoC 2026
+  https://teal.cs.brown.edu/floc2026/
+  July 25, 2026, Lisbon, Portugal
+CALL FOR PAPERS
+  We invite contributions to the workshop Tools for Educational Activities in Logic (TEAL), collocated with FLoC 2026.
+  TEAL welcomes work on tools for learning about logic, broadly defined. Our goal is an interactive, community-building workshop, not just another publication venue. Accordingly, we welcome multiple types of contributions including plenary demos, discussion topics, research papers, repeat papers, and experience reports.
+* IMPORTANT DATES
+ -dh Submission deadline: April 29, 2026 (AoE) 
+ -d Author Notification: May 27, 2026
+ -d Workshop: July 25, 2026
+
+
+LPNMR 2026: 18th International Conference on Logic Programming and Non-monotonic Reasoning 
+  Klagenfurt, Austria | September 7-11, 2026
+  Website: https://lpnmr2026.aics.aau.at
+  Contact us: lpnmr2026@easychair.org
+  Submission: https://easychair.org/conferences/?conf=lpnmr2026
+CALL FOR PAPERS
+* IMPORTANT DATES
+-dh Paper registration: April 30, 2026
+-dh Submission deadline: May 7, 2026
+-d Final notification: June 11, 2026
+-d Final versions due: July 2, 2026
+-dv Conference: Sep 7-11, 2026
+* AIMS AND SCOPE
+  LPNMR 2026 is the eighteenth in the series of international conferences on logic programming and non-monotonic reasoning. LPNMR is a forum for exchanging ideas on declarative logic programming, non-monotonic reasoning, and knowledge representation. The aim of the conference is to facilitate interactions between researchers and practitioners interested in the design and implementation of logic-based programming languages and database systems, and those working in knowledge representation and non-monotonic reasoning. LPNMR strives to encompass theoretical and experimental studies that have led or will lead to advances in declarative programming and knowledge representation, as well as their use in practical applications. LPNMR 2026 aims to bring together researchers from LPNMR and neighboring areas in order to share research experiences, promote collaboration and identify directions for joint future research.
+* TOPICS
+  Authors are invited to submit papers presenting original and unpublished research on all aspects of non-monotonic approaches in logic programming and knowledge representation. Conference topics include, but are not limited to:
+ - Foundations of LPNMR: Semantics of new and existing languages; Action languages; Causality; Formalization of Commonsense Reasoning and understanding its laws and nature; Relationships among formalisms; Complexity and expressive power; Inference algorithms and heuristics for LPNMR systems; Extensions of traditional LPNMR languages such as new logical connectives or new inference capabilities; Updates, revision, and other operations on LPNMR systems; Uncertainty in LPNMR systems
+ - Implementation of LPNMR systems: System descriptions, comparisons, and evaluations; Algorithms and novel techniques for efficient evaluation; LPNMR benchmarks; Systems using LPNMR subsystems
+ - Applications of LPNMR: Use of LPNMR in Commonsense Reasoning and other areas of knowledge representation; LPNMR languages and algorithms in planning, diagnosis, and argumentation; Reasoning with preferences, decision making, and policies; Applications of LPNMR languages in data integration and exchange systems; Software engineering and model checking; Applications of LPNMR to bioinformatics, linguistics, psychology, and other sciences; Integration of LPNMR systems with other computational paradigms
+* SUBMISSION AND PUBLICATION
+  LPNMR 2026 welcomes submissions of long papers (up to 15 pages) or short papers (up to 8 pages) in the following categories:
+ - Technical papers
+ - System papers
+ - Application papers
+  The indicated number of pages includes the title page, figures, tables, references, and appendix. All submissions will be peer-reviewed and accepted papers will appear in the conference proceedings published in the Springer's Lecture Notes in Artificial Intelligence (LNAI) series. Submissions must be written in English, present original research, and be formatted according to Springer's guidelines and technical instructions available at: https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines
+  LPNMR 2026 will not accept any paper which, at the time of submission, is under review or has already been published or accepted for publication in a journal or another conference. Authors are also required not to submit their papers elsewhere during LPNMR's review period. However, these restrictions do not apply to workshops (e.g., ASPOCP 2026) with a limited audience and without archival proceedings.
+* FAST JOURNAL TRACK FOR BEST PAPERS
+  Two award-winning papers (Best Paper Award and Best Student Paper Award of LPNMR 2026) will be invited for publication in either the Artificial Intelligence Journal or the Journal of Artificial Intelligence Research, based on the preference of the authors. Additionally, about 5-7 high-quality papers with a logic programming focus will be invited for publication in the journal of Theory and Practice of Logic Programming.
+* VENUE
+  LPNMR 2026 will be held on the campus of the University of Klagenfurt in September 2026. Klagenfurt is the capital of the state Carinthia in the south of Austria. The name Klagenfurt was first mentioned in the late 12th century and legend has it that Klagenfurt was founded after a couple of brave men had slain the abominable Lindwurm, a winged dragon. The city is located next to the lake Woerthersee, one of the most beautiful lakes in Austria, surrounded by several forest-covered hills and mountains. Being a small city, with a Renaissance-style city center reflecting 800 years of history and with an Italian influence, Klagenfurt is a pleasant place to live and work.
+* ORGANISING COMMITTEE
+  General Chair:
+  - Wolfgang Faber, University of Klagenfurt, Austria
+  Program Co-chairs:
+  - Martin Gebser, University of Klagenfurt, Austria
+  - Yanhong Annie Liu, Stony Brook University, USA
+
+
+CI-BD-SOQE 2026: WORKSHOP ON CRAIG INTERPOLATION, BETH DEFINABILITY, AND SECOND-ORDER QUANTIFIER ELIMINATION
+  FLoC 2026, Lisbon, Portugal
+  24-25 July 2026
+  Deadline: 4 May 2026
+  http://2026.ci-bd.soqe.org/
+CALL FOR PAPERS
+* GENERAL INFORMATION
+  CI-BD-SOQE 2026 is a FLoC 2026 workshop and will take place in Lisbon, Portugal, 24-25 July 2026. It continues a series of previous workshops on Craig Interpolation (CI), Beth Definability (BD), and Second-Order Quantifier Elimination (SOQE).
+* TOPICS AND AIM
+  For a detailed list of topics please visit the website.
+  The aim of the workshop is to bring together researchers from the many relevant fields to exchange experiences and findings about approaches, techniques, ongoing research and important open problems. We strongly believe that CI, BD, and SOQE - beyond sharing a similar historical background - offer a common basis for fruitful cross-disciplinary exchange.
+* SUBMISSION
+  We invite submissions of:
+  Works with original research, either as
+      - Full paper: 10-15 pages + references, or
+      - Extended abstract: 5-9 pages + references
+  Abstracts of research published elsewhere, as
+      - Abstract: 1-4 pages + references
+  Presentations of applications, new systems or relevant benchmarks are welcome. It is expected that accepted submissions are presented at the workshop by at least one of the authors. Submissions should be written in English, formatted with the CEURART style (https://ceur-ws.org/HOWTOSUBMIT.html#CEURART). Submissions must be uploaded via the submission page https://submissions.floc26.org/ci-bd-soqe/  Submissions will be reviewed by the program committee, which will select a balanced program of high-quality contributions.
+* PROCEEDINGS
+  Proceedings of the workshop will be published as CEUR Workshop Proceedings.
+* REGISTRATION
+  Registration is via FLoC 2026: https://www.floc26.org/registration
+* IMPORTANT DATES
+ -dh Submission deadline:  4 May 2026
+ -d Author notification:   25 May 2026
+ -d Early registration for FLoC workshops:      1 June 2026
+ -dv CI-BD-SOQE Workshop @ FLoC 2026:  24-25 Jul, 2026: 
+* ORGANIZATION
+ - Stefan Hetzl (TU Wien)
+ - Jean Christoph Jung (TU Dortmund University)
+ -  Renate A. Schmidt (The University of Manchester)
+ -  Christoph Wernhard (University of Potsdam)
+
+
+
+
+
+ICTAC 2026, The 23rd International Colloquium on Theoretical Aspects of Computing
+  11-13 of November, 2026
+  Bariloche, Argentina
+  https://ictac2026.github.io/
+CALL FOR PAPERS
+* SCOPE
+  The ICTAC conference series aims at bringing together researchers and practitioners from academia, industry, and government to present research and exchange ideas and experiences within theoretical  aspects of computing through methods and tools for system development.  ICTAC also aims to promote research cooperation between developing and industrial countries.
+* IMPORTANT DATES
+ -dh Abstract deadline: 8 Jun 2026 (AoE)
+ -dh Submission deadline: 15 Jun 2026 (AoE)
+ -d Notification: 10 Aug 2026 (AoE)
+ -d Camera ready: 31 Aug 2026 (AoE)
+* TOPICS
+  The conference concerns all aspects of theoretical computer science. Please visit the online CfP for a detailed list of topics. 
+* SUBMISSIONS
+  We solicit submissions, related to the topics of ICTAC, in the following categories:
+ - A. original research contributions;
+ - B. short papers, with original work in progress or with proposals of new ideas and emerging challenges; and
+ - C. tool papers on tools that support formal techniques for software modeling, system design, and verification.
+  Submissions of regular papers must not exceed 16 pages and short and tool papers should not exceed 8 pages, in both cases excluding bibliography of 2 pages maximum.
+  Submissions must not have been published or be under consideration for publication elsewhere. All submissions will be judged on the basis of originality, contribution to the field, technical and presentation quality, and relevance to the conference’s topics.
+  All contributions to ICTAC 2026 have to be submitted electronically in PDF format via Easy Chair https://easychair.org/conferences/?conf=ictac2026 Papers must be formatted according to the guidelines for Springer LNCS papers (see https://www.springer.com/gp/computer-science/lncs), without modifications of margins and other space-saving measures. Authors should therefore consult Springer’s authors’ instructions and use their proceedings templates, either for LaTeX or for Word, for the preparation of their papers. Springer encourages  authors to include their ORCIDs in their papers.
+* PUBLICATION
+  All accepted papers in categories A-C will appear in the proceedings of the conference that will be published as a volume in Springer’s Lecture Notes in Computer Science (LNCS) series. 
+  All accepted papers must be presented at the conference. Their authors must be prepared to sign a copyright transfer statement. At least one author of each accepted paper must register for the conference by the early registration date, and present the paper.
+* GENERAL CHAIRS
+ - Carlos Lopez Pombo (National University of Río Negro - CONICET, AR)
+ - Pablo Francisco Castro (National University of Río Cuarto - CONICET, AR)
+* PROGRAM COMMITTEE CHAIRS
+ - Pedro R. D'Argenio (National University of Córdoba - CONICET, AR)
+ - Ana Sokolova (University of Salzburg, AT)
+
+
+
+FLOPS 2026: 18th International Symposium on Functional and Logic Programming
+  May 26-28, 2026, Tsukuba, Japan
+  https://functional-logic.org/events/flops/2026/
+CALL FOR PARTICIPATION
+* FLOPS brings together practitioners, researchers and implementers of declarative programming, to discuss mutually interesting results and common problems: theoretical advances, their implementations in language systems and tools, and applications of these systems in practice. FLOPS specifically aims to promote cross-fertilization between theory and practice and among different styles of declarative programming. 
+* Registration is now open
+* IMPORTANT DATE
+ -dh Early-bird registration deadline: April 25, 2026
+* Invited speakers: Kazunori Ueda, Fritz Henglein, Gabriele Keller
+* Detailed information can be found on the webpage.
+
+
+MASTERS IN PURE AND APPLIED LOGIC
+  BARCELONA 2026-2028 
+MASTERS ANOUNCEMENT
+* The 2026-2028 edition of the two-year Master in Pure and Applied Logic jointly organized by the University of Barcelona (UB) and the Polytechnical University of Catalunya (UPC) is now open for pre-registration. Most central aspects of advanced logic are covered, including Set Theory, Computability Theory, Model Theory, Non-Classical Logics and Proof Theory.
+  Students who are confident that this is the best master for their interests and career are encouraged to apply directly. You can also express your interest informally by sending a message explaining your background, motivation, and CV to the email address masterlogic@ub.edu.
+  The master coordination will help you evaluate your chances to get accepted and the adequacy of the master given your interests and plans. For additional information, follow the links below.
+ - Information on the Masters program: http://www.ub.edu/masterlogic/   https://www.ub.edu/web/ub/en/estudis/oferta_formativa/master_universitari/fitxa/P/M0C0D/index.html?
+ - Past theses: http://diposit.ub.edu/dspace/handle/2445/133559
+ - Information for students: http://www.joostjjoosten.nl/events/Documents/MasterGuide.pdf
+  For further questions please contact masterlogic@ub.edu
+
+
+
+
+
+
+
