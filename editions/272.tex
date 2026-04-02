@@ -1,0 +1,522 @@
+
+% v2-acmsmall-sample.tex, dated March 6 2012
+% This is a sample file for ACM small trim journals
+%
+% Compilation using 'acmsmall.cls' - version 1.3 (March 2012), Aptara Inc.
+% (c) 2010 Association for Computing Machinery (ACM)
+%
+% Questions/Suggestions/Feedback should be addressed to => "acmtexsupport@aptaracorp.com".
+% Users can also go through the FAQs available on the journal's submission webpage.
+%
+% Steps to compile: latex, bibtex, latex latex
+%
+% For tracking purposes => this is v1.3 - March 2012
+\documentclass[prodmode,acmtecs]{acmsmall} % Aptara syntax
+\usepackage[spanish,polish]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{fancyvrb}
+\usepackage{graphicx,hyperref}
+\newcommand\cutout[1]{}
+
+
+\usepackage[table]{xcolor}
+\usepackage[utf8]{inputenc}
+\usepackage[parfill]{parskip}
+\usepackage{tabulary}
+\PassOptionsToPackage{hyphens}{url}
+\usepackage{hyperref}    
+\usepackage[capitalize]{cleveref}
+
+
+% Metadata Information
+% !!! TODO: SET THESE VALUES !!!
+\acmVolume{0}
+\acmNumber{0}
+\acmArticle{CFP}
+\acmYear{0}
+\acmMonth{0}
+
+\newcounter{colstart}
+\setcounter{page}{4}
+
+\RecustomVerbatimCommand{\VerbatimInput}{VerbatimInput}%
+{
+%fontsize=\footnotesize,
+fontfamily=\rmdefault
+}
+
+
+\newcommand{\UnderscoreCommands}{%\do\verbatiminput%
+\do\citeNP \do\citeA \do\citeANP \do\citeN \do\shortcite%
+\do\shortciteNP \do\shortciteA \do\shortciteANP \do\shortciteN%
+\do\citeyear \do\citeyearNP%
+}
+
+\usepackage[strings]{underscore}
+
+
+
+% Document starts
+\begin{document}
+
+
+\setcounter{colstart}{\thepage}
+
+\acmArticle{CFP}
+\title{{\huge\sc SIGLOG Monthly 272}
+
+ April 2026}\author{ELLI ANASTASIADI\affil{Aalborg University, SE}\vspace*{-2.6cm}\begin{flushright}\includegraphics[width=30mm]{elli_anastasiadi.png}\end{flushright}}\begin{abstract}April 2026 edition of SIGLOG Monthly, featuring deadlines, calls and community announcements.
+\end{abstract}
+
+
+\maketitlee
+
+\href{https://lics.siglog.org/newsletters/}{Past Issues}
+ - 
+\href{https://lics.siglog.org/newsletters/inst.html}{How to submit an announcement}
+\section{Table of Contents}\begin{itemize}\item DEADLINES (\cref{deadlines}) 
+ 
+\item CALLS 
+ 
+\begin{itemize}\item SC-SQUARE 2026 (CALL FOR PAPERS) (\cref{SCSQUARE2026})
+\item 17th International Workshop on Graph Computation Models  (GCM 2026) (CALL FOR PAPERS) (\cref{17thInternationalWorkshoponGraphComputationModelsGCM2026})
+\item LFMTP 2026 (CALL FOR PAPERS) (\cref{LFMTP2026})
+\item TIME 2026 (CALL FOR PAPERS) (\cref{TIME2026})
+\item ICTCS 2026 – 27th Italian Conference on Theoretical Computer Science (CALL FOR PAPERS) (\cref{ICTCS202627thItalianConferenceonTheoreticalComputerScience})
+\item GandALF 2026 (CALL FOR PAPERS ) (\cref{GandALF2026})
+\item Express/SOS 2026 (CALL FOR PAPERS) (\cref{ExpressSOS2026})
+\item FSCD 2028 (CALL FOR PROPOSALS ) (\cref{FSCD2028})
+\end{itemize} 
+\item JOB ANNOUNCEMENTS 
+ 
+\begin{itemize}\item Research Associate on Algorithmic Theory of Dynamical Systems (\cref{ResearchAssociateonAlgorithmicTheoryofDynamicalSystems})
+\end{itemize} 
+\item SIGLOG MATTERS 
+ 
+\begin{itemize}\item The 2026 Alonzo Church Award for Outstanding Contributions to Logic and Computation (\cref{The2026AlonzoChurchAwardforOutstandingContributionstoLogicandComputation})
+\end{itemize} 
+\end{itemize}\section{Deadlines}\label{deadlines}\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}LSFA 2026:  & Mar 17, 2026 (EXTENDED - Abstract deadline), Apr 24, 2026 (Full paper deadline) \\
+Research Associate on Algorithmic Theory of Dynamical Systems:  & Apr 09, 2026 (Job application deadline) \\
+SC-SQUARE 2026:  & Apr 10, 2026 (Abstract), Apr 17, 2026 (Submission deadline) \\
+NMR 2026:  & Apr 14, 2026 (EXTENDED - Paper registration), Apr 21, 2026 (Paper) \\
+PLS15:  & Apr 16, 2026 (EXTENDED - Abstracts deadline), May 29, 2026 (Poster abstracts deadline) \\
+The 2026 Alonzo Church Award for Outstanding Contributions to Logic and Computation:  & Apr 17, 2026 (Nominations deadline) \\
+17th International Workshop on Graph Computation Models  (GCM 2026):  & Apr 19, 2026 (Paper Submission) \\
+CONCUR 2026:  & Apr 20, 2026 (Abstracts), Apr 27, 2026 (Submissions) \\
+LFMTP 2026:  & Apr 21, 2026 (Abstract  deadline), Apr 28, 2026 (Submission deadline) \\
+MFCS 2026:  & Apr 24, 2026 (Submissions) \\
+FLOPS 2026:  & Apr 25, 2026 (Early-bird registration deadline) \\
+SCML 2026:  & Apr 27, 2026 (Deadline for extended abstracts) \\
+TEAL@FLoC'26:  & Apr 29, 2026 (Submission deadline) \\
+LPNMR 2026:  & Apr 30, 2026 (Paper registration), May 07, 2026 (Submission deadline) \\
+C.A.R.L.A. 2026:  & May 02, 2026 (Paper registration), May 08, 2026 (Paper deadline) \\
+CI-BD-SOQE 2026:  & May 04, 2026 (Submission deadline) \\
+TIME 2026:  & May 06, 2026 (Abstract  deadline), May 11, 2026 (Paper  deadline) \\
+ITRS 2026:  & May 15, 2026 (Paper) \\
+FSCD 2028:  & May 23, 2026 (location proposals deadline) \\
+ICTAC 2026:  & Jun 08, 2026 (Abstract deadline), Jun 15, 2026 (Submission deadline) \\
+ICTCS 2026 – 27th Italian Conference on Theoretical Computer Science:  & Jun 14, 2026 (Submission deadline) \\
+GandALF 2026:  & Jun 18, 2026 (Abstract), Jun 22, 2026 (Submission deadline) \\
+Express/SOS 2026:  & Jun 22, 2026 (Paper Submission) \\
+\end{tabulary}
+\section{SC-SQUARE 2026: 11th International Workshop on Satisfiability Checking and Symbolic Computation}\label{SCSQUARE2026}  July 13, 2026, Oldenburg Germany\\ 
+  \href{https://www.sc-square.org/CSA/workshop11.html}{https://www.sc-square.org/CSA/workshop11.html}\\ 
+CALL FOR PAPERS 
+
+\begin{itemize}\item  Symbolic Computation is concerned with the efficient algorithmic determination of exact solutions to complicated mathematical problems. Satisfiability Checking has recently started to tackle similar problems but with different algorithmic and technological solutions. 
+ 
+\item  The workshop series has emerged from an H2020 FETOPEN CSA project ``SC-Square'', which ran from 2016 to 2018. It has been continued aiming at building bridges between Satisfiability Checking and Symbolic Computation. It is open for submission and participation to everyone interested in the topics, whether or not they were members or associates of the original project. 
+ 
+\item  The topics of interest include but are not limited to: Computer Algebra and Symbolic Computation (CA), Satisfiability Checking (SAT/SMT), Algorithms for logical theories of arithmetics, Computational Geometry, Algorithmic Group Theory, Formalized mathematics, Tools in SAT/SMT/CA, Applications relying on Symbolic Computation or on Satisfiability Checking. 
+ 
+\item  The following categories of papers are solicited: (1) FULL PAPERS on research, case studies, or tool development should present unpublished work not submitted elsewhere (with a limit of 16 pages, not counting references); (2) EXTENDED ABSTRACTS on research, case studies, or tool development should present unpublished (potentially ongoing) work not submitted elsewhere (3–5 pages, not counting references); (3) SHORT SURVEYS that describe/explain an existing body of work in an original way (5–8 pages, not counting references); (4) PRESENTATION-ONLY submissions on already published work, work to be published elsewhere, or work in progress on SC-Square related open problems or future challenges (2-page abstract). 
+ 
+\item  IMPORTANT DATES:  
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Abstract submission:  & Apr 10, 2026 \\
+Submission deadline:  & Apr 17, 2026 \\
+Notification:  & May 22, 2026 \\
+\end{tabulary}
+ 
+\end{itemize}\section{17th International Workshop on Graph Computation Models  (GCM 2026)}\label{17thInternationalWorkshoponGraphComputationModelsGCM2026}  June 30, 2026, Rennes, France\\ 
+  \href{https://conf.researchr.org/home/staf-2026/gcm-2026}{https://conf.researchr.org/home/staf-2026/gcm-2026}\\ 
+  Part of STAF 2026 \href{https://conf.researchr.org/home/staf-2026}{https://conf.researchr.org/home/staf-2026}\\ 
+CALL FOR PAPERS 
+
+\begin{itemize}\item  ABOUT  
+ 
+  Graph computation models offer mathematically rigorous frameworks for specifying and analyzing rule-based and structural transformations of complex systems. They underpin research in areas including model-driven engineering, distributed systems, knowledge graphs, biological modeling, and quantum computation. 
+ 
+  The International Graph Computation Models Workshop (GCM 2026) provides a focused forum for foundational advances and emerging applications of graph-based computation, bringing together researchers interested in all aspects of computation models based on graphs and graph transformation. It fosters cross-fertilization of ideas and experience among senior and early-career researchers from different communities, spanning foundations, applications, and implementations of graph computation models and related areas. 
+ 
+  Since 2006, GCM has been organized regularly as part of STAF and related events across Europe and beyond. Previous editions of the GCM series were held in Natal, Brazil (2006); Leicester, UK (2008); Enschede, The Netherlands (2010); Bremen, Germany (2012); York, UK (2014); L'Aquila, Italy (2015); Wien, Austria (2016); Marburg, Germany (2017); Toulouse, France (2018); Eindhoven, The Netherlands (2019); online (2020 and 2021); Nantes, France (2022); Leicester, UK (2023); Twente, The Netherlands (2024); and Koblenz, Germany (2025). 
+ 
+\item  IMPORTANT DATES 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Paper Submission:  & Apr 19, 2026 \\
+Notification:  & May 20, 2026 \\
+Final version due:  & Jun 03, 2026 \\
+Workshop:  & Jun 30, 2026 \\
+\end{tabulary}
+ 
+  Should you have any problem meeting the deadlines, please send an email to the organizers: 
+ 
+\begin{itemize}\item  Nicolas Behr (nicolas.behr@irif.fr)
+\item  Stefania Dumbrava (stefania.dumbrava@ensiie.fr)
+\end{itemize} 
+\item  TOPICS  
+ 
+  GCM 2026 welcomes high-quality contributions on all aspects of graph computation models and graph transformation. Topics include, but are not limited to: 
+ 
+\begin{itemize}\item  Foundations
+\item  Methods and Tool Support
+\item  Emerging Directions
+\item  Applications
+\end{itemize} 
+  For more details on topics please visit the online call for papers. 
+ 
+\item  Invited Speakers 
+ 
+\begin{itemize}\item  Jade Alglave, ARM \& University College London, UK
+\item  Nicolas Keriven, CNRS \& IRISA, France
+\end{itemize} 
+\item  Submissions and Publication 
+ 
+  Authors are invited to submit papers in three possible categories: 
+ 
+\begin{itemize}\item  (1) Regular papers of at most 16 pages describing innovative contributions.,
+\item  (2) Position papers, system descriptions or work in progress of 6 to 12 pages.
+\item  (3) Abstracts limited to 2 pages, introducing recently published papers in a peer-reviewed venue different from the ICGT conference (these will not be included in the workshop proceedings).
+\end{itemize} 
+  Papers in PDF format should be submitted electronically via the EasyChair system site: \href{https://easychair.org/conferences/?conf=staf2026}{https://easychair.org/conferences/?conf=staf2026} For further information, please see: \href{https://conf.researchr.org/home/staf-2026/gcm-2026#Call-for-Papers}{https://conf.researchr.org/home/staf-2026/gcm-2026\#Call-for-Papers} All papers must follow the CEUR single-column workshop proceedings format:  \href{https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw}{https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw} Simultaneous submission to other conferences with proceedings, as well as submission of material that has already been published elsewhere is not allowed for regular and short papers. The page limits include references. An optional appendix may be included for review purposes. Reviewers are not required to read the appendix, and only the main paper will appear in the proceedings. If a short announcement extensively draws on previously published work, a copy of that work must be attached to the submission. All submissions will be reviewed by the program committee; short announcements will undergo a lightweight review and mainly be assessed for their potential to stir discussion on future research of the community. Electronic proceedings will be available at the time of the workshop. 
+ 
+\end{itemize}\section{LFMTP 2026: Logical Frameworks and Meta-Languages: Theory and Practice}\label{LFMTP2026}  July 24, 2026, Lisbon, Portugal\\ 
+  Affiliated with FSCD 2026 at FLoC 2026\\ 
+  \href{https://lfmtp.github.io/lfmtp-page/workshops/2026/}{https://lfmtp.github.io/lfmtp-page/workshops/2026/}\\ 
+CALL FOR PAPERS 
+
+\begin{itemize}\item  ABOUT 
+ 
+  Logical frameworks and meta-languages form a common substrate for representing, implementing and reasoning about a wide variety of deductive systems of interest in logic and computer science. Their design, implementation and their use in reasoning tasks, ranging from the correctness of software to the properties of formal systems, have been the focus of considerable research over the last two decades. 
+ 
+\item  TOPICS 
+ 
+  LFMTP 2026 will provide researchers a forum to present state-of-the-art techniques and discuss progress in areas such as the following: encoding and reasoning about the meta-theory logic frameworks; issues on the treatment of variable binding; logical treatments of induction and co-induction; graphical languages for proofs; other new theoretical results and applications about logical framework; techniques for programming with binders in functional programming languages. 
+ 
+\item  DATES 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Abstract submission deadline:  & Apr 21, 2026 \\
+Submission deadline:  & Apr 28, 2026 \\
+Notification to authors:  & May 28, 2026 \\
+Workshop:  & Jul 24, 2026 \\
+\end{tabulary}
+ 
+\end{itemize}\section{TIME 2026: 33rd International Symposium on Temporal Representation and Reasoning }\label{TIME2026}  1-3 September 2026, Cork, Ireland\\ 
+  \href{https://time26.cnr.it/}{https://time26.cnr.it/}\\ 
+  Co-located with the 37th International Conference on Principles of Diagnosis and Resilient Systems (DX’26)\\ 
+CALL FOR PAPERS 
+
+\begin{itemize}\item  TIME has been for more than twenty years the only yearly multidisciplinary international event dedicated to the topic of time in computer science. The purpose of the symposium is to bring together active researchers in different scientific fields involving temporal and spatio-temporal data, information and/or knowledge management. Such a concern arises in a number of different though often related research domains, namely Artificial Intelligence (both symbolic approaches based on explicit Logic or Constraint-based models, and numerical data-based approaches such as Deep Learning and Large Language Models), Databases and Data Mining, or System Specification and Verification. 
+ 
+  TIME 2026 is co-located with the 37th International Conference on Principles of Diagnosis and Resilient Systems (DX’26) and it will be from the 1st to the 3rd of September 2026 at the University College of Cork. 
+ 
+  More details about TIME and the previous editions of this symposium can be found via the following link: \href{https://time-symposium.org/}{https://time-symposium.org/}. For a detailed list of topics of interest please visit the online call for papers.  
+ 
+\item  IMPORTANT DATES  
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Abstract submission deadline:  & May 06, 2026 \\
+Paper submission deadline:  & May 11, 2026 \\
+Paper acceptance/rejection notification date:  & Jun 22, 2026 \\
+Camera-ready submission deadline:  & Jul 24, 2026 \\
+Symposium dates:  & Sep 01–03, 2026 \\
+\end{tabulary}
+ 
+  Note: all deadlines are AoE (Anywhere on Earth). 
+ 
+\item  Submission guidelines 
+ 
+  TIME 2026 accepts submissions in PDF format, formatted following the Open Access Series in Informatics (OASIcs) and preferably using LaTeX. TIME policy is single blind, so the names of the authors need not be hidden in the submitted draft. Members of the program committee are allowed to submit papers. Submitted papers will be refereed for quality, correctness, originality, and relevance to the symposium. At least one author of each accepted paper must register at the symposium and present the paper. 
+ 
+  We use EasyCshair throughout the submission and selection process. The webpage for submitting papers with all required information can be found here. 
+ 
+  There are three types of submissions, and the authors are invited to specify under which one their paper lies: 
+ 
+\begin{itemize}\item   Original papers (12 pages, excluding references and appendix): such papers describe original, non-published contributions. It includes theoretical (new algorithms, proofs, models) and applied (applications, system descriptions, evaluation) contributions. 
+\item  Survey papers (12 pages, excluding references and appendix): such papers are intended to propose a short review of a complete domain of research.
+\item  Extended abstracts (4 pages, excluding references and appendix): such abstracts are intended to foster debates during the symposium and include: work-in-progress, project kick-off or review, PhD summary, and summary of a paper accepted in a major conference or journal. They will be specifically mentioned in the proceedings as abstracts and not full papers.
+\end{itemize} 
+  The proceedings of TIME are planned to be published in the Open Access Series in Informatics (OASIcs). This is a series of high-quality peer-reviewed conference proceedings, and published according to the principle of OpenAccess. 
+ 
+  Finally, the authors of the top-ranked papers will be invited to submit an extended version of their contribution to a special issue in a high ranked journal; more details will be provided in due time. 
+ 
+\item  CONTACT  
+ 
+  Please contact the program chairs for more information: Andrea Orlandini and Sophie Pinchinat. Email: time2026@easychair.org 
+ 
+\end{itemize}\section{ICTCS 2026 – 27th Italian Conference on Theoretical Computer Science}\label{ICTCS202627thItalianConferenceonTheoreticalComputerScience}  September 7–9, 2026\\ 
+  Udine, Italy\\ 
+  Conference website: \href{https://ictcs2026.uniud.it/}{https://ictcs2026.uniud.it/}\\ 
+  Submission link: \href{https://easychair.org/conferences/?conf=ictcs2026}{https://easychair.org/conferences/?conf=ictcs2026}\\ 
+CALL FOR PAPERS 
+
+\begin{itemize}\item  SCOPE 
+ 
+  The Italian Conference on Theoretical Computer Science (ICTCS) is the conference of the Italian Chapter of the European Association for Theoretical Computer Science (EATCS). 
+ 
+  The aim of ICTCS is to foster cross-fertilization of ideas across different areas of theoretical computer science and to provide an environment where junior researchers and PhD students can interact with senior researchers. 
+ 
+  Researchers of all nationalities are invited to submit contributions in any area of theoretical computer science. 
+ 
+\item  TOPICS 
+ 
+  Topics of interest include, but are not limited to: Algorithms, argumentation, automata theory, complexity theory, computational logic, computational social choice, concurrency theory, cryptography, discrete mathematics, distributed computing, dynamical systems, formal methods, game theory, graph theory, knowledge representation, languages, model checking, multi-agent systems, process algebras, quantum computing, reasoning, rewriting systems, security and trust, search and planning, semantics, specification and verification, symbolic AI, systems biology, theorem proving, and type theory. 
+ 
+\item  SPECIAL TRACKS 
+ 
+  ICTCS 2026 includes three special tracks devoted to significant  application domains of theoretical computer science. The aim is to solicit contributions that, while not primarily situated within theoretical computer science, address substantive theoretical questions emerging from applied research problems. The three special tracks are as follows: 
+ 
+\begin{itemize}\item  Cyber-Physical Systems: Formal modeling, verification, synthesis, and analysis techniques for systems integrating computational and physical processes, including real-time, embedded, and safety-critical systems.
+\item  Quantum Computing: Theoretical foundations of quantum computation, including quantum algorithms, quantum complexity theory, formal models of quantum computation, verification of quantum systems, and quantum programming languages.
+\item  Bioinformatics: Algorithmic, logical, and mathematical methods for computational biology, including sequence analysis, biological networks, systems biology modeling, and formal approaches to molecular and cellular processes.
+\end{itemize} 
+\item  SUBMISSION 
+ 
+  Two types of contributions (in English, CEUR-WS format) are solicited. 
+ 
+\begin{itemize}\item  Regular papers: Up to 12 pages (bibliography excluded), presenting original results not published or submitted elsewhere. Authors may include an appendix; reviewers are not required to consider it.
+\item  Communications: Up to 5 pages (bibliography excluded), suitable for extended abstracts of published or submitted papers, ongoing research reports, and PhD thesis or project overviews.
+\end{itemize} 
+  Submissions must be in PDF format via EasyChair: \href{https://easychair.org/conferences/?conf=ictcs2026}{https://easychair.org/conferences/?conf=ictcs2026} 
+ 
+  All accepted original contributions (regular papers and communications of at least 5 pages including bibliography) will be published on CEUR-WS.org unless the authors opt out. 
+ 
+  At least one author of each accepted paper must register and present the contribution at the conference. 
+ 
+\item  SPECIAL ISSUE 
+ 
+  Authors of the best papers presented at the conference will be invited to submit an extended version to a special issue of a Scopus-indexed journal. Invitations will be sent after the conference. The special issue is expected to appear by the end of 2027. 
+ 
+\item  IMPORTANT DATES (AoE) 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Submission deadline:  & Jun 14, 2026 \\
+Notification:  & Jul 21, 2026 \\
+Camera-ready:  & Aug 05, 2026 \\
+Conference:  & Sep 7–9, 2026 \\
+\end{tabulary}
+ 
+\item  REGISTRATION FEES 
+ 
+\begin{itemize}\item  Early registration fees:
+\end{itemize} 
+  Junior (non-faculty members: PhD students, post-docs, etc.): 290 EUR 
+ 
+  Senior (faculty members: professors and researchers):        350 EUR 
+ 
+\begin{itemize}\item  Late registration fees:
+\end{itemize} 
+  Junior (non-faculty members: PhD students, post-docs, etc.): 350 EUR 
+ 
+  Senior (faculty members: professors and researchers):        420 EUR 
+ 
+\item  CONFERENCE CHAIRS 
+ 
+\begin{itemize}\item  Luca Geatti (University of Udine)
+\item  Carla Piazza (University of Udine)
+\end{itemize} 
+\end{itemize}\section{GandALF 2026: 17th International Symposium on Games, Automata, Logics, and Formal Verification }\label{GandALF2026}  Aalborg, Denmark, September 15-17, 2026.\\ 
+  Web page: \href{https://gandalfsymposium.github.io/2026/}{https://gandalfsymposium.github.io/2026/}\\ 
+CALL FOR PAPERS  
+
+\begin{itemize}\item  ABOUT  
+ 
+  The aim of the symposium is to bring together researchers from academia and industry which are actively working in the fields of Games, Automata, Logics, and Formal Verification. The symposium covers an ample spectrum of themes, ranging from theory to applications, and encourages cross-fertilization. Papers focused on formal methods are especially welcome. Authors are invited to submit original research or tool papers on all relevant topics in these areas. Papers discussing new ideas that are at an early stage of development are also welcome. 
+ 
+  For a full list of topics please visit the online call for papers on the webpage.  
+ 
+\item  Proceedings: 
+ 
+  The proceedings will be published by Electronic Proceedings in Theoretical Computer Science. Authors of selected papers will be invited to submit a revised version of their work to a special issue of Logical Methods in Computer Science. The previous editions of GandALF already led to special issues of the International Journal of Foundations of Computer Science (GandALF 2010), Theoretical Computer Science (GandALF 2011 and 2012), Information and Computation (GandALF 2013, 2014, 2016, 2017, 2018, 2019, and 2020), Acta Informatica (GandALF 2015) and Logical Methods in Computer Science (GandALF 2021, 2022, 2023, and 2024). 
+ 
+\item  Submissions: 
+ 
+  Submitted papers should not exceed fourteen (14) pages using EPTCS format (please use the LaTeX style provided at \href{https://style.eptcs.org}{https://style.eptcs.org}), be unpublished and contain original research. For papers reporting experimental results, authors are encouraged to make their data available with their submission. 
+ 
+  Submissions must be in PDF format and will be handled via EasyChair Conference system at the following address: \href{https://easychair.org/conferences/?conf=gandalf2026}{https://easychair.org/conferences/?conf=gandalf2026} 
+ 
+\item  IMPORTANT DATES 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Abstract submission:  & Jun 18, 2026 \\
+Submission deadline:  & Jun 22, 2026 \\
+Notification:  & Aug 03, 2026 \\
+Camera ready:  & Sep 07, 2026 \\
+Conference:  & Sep 15-17, 2026 \\
+\end{tabulary}
+ 
+\item  Program chairs  
+ 
+\begin{itemize}\item  Giorgio Bacci (Aalborg University, Denmark)
+\item  Mickaël Randour (Université de Mons, Belgium)
+\end{itemize} 
+\end{itemize}\section{Express/SOS 2026: Combined 33rd International Workshop on Expressiveness in Concurrency and 23rd Workshop on Structural Operational Semantics}\label{ExpressSOS2026}  Liverpool, UK, September 5, 2026\\ 
+  \href{https://expresssos.github.io/conf/2026}{https://expresssos.github.io/conf/2026}\\ 
+  Affiliated with CONCUR 2026\\ 
+CALL FOR PAPERS 
+
+\begin{itemize}\item  SCOPE AND TOPICS 
+ 
+  The EXPRESS/SOS workshop series aims to bring together researchers interested in the formal semantics of systems and programming concepts, and in the expressiveness of computational models. Topics of interest for EXPRESS/SOS 2026 include, but are not limited to: 
+ 
+\begin{itemize}\item  expressiveness and rigorous comparisons between models of computation (process algebras, event structures, Petri nets, rewrite systems)
+\item  expressiveness and rigorous comparisons between programming languages and models (distributed, component-based, object-oriented, service-oriented);
+\item  logics for concurrency (modal logics, probabilistic and stochastic logics, temporal logics and resource logics); 
+\item  analysis techniques for concurrent systems;
+\item  theory of structural operational semantics (meta-theory, category-theoretic approaches, congruence results);
+\item  comparisons between structural operational semantics and other formal semantic approaches;
+\item  applications and case studies of structural operational semantics;
+\item  software tools that automate, or are based on, structural operational semantics.
+\end{itemize} 
+  We especially welcome contributions bridging the gap between the above topics and neighbouring areas, such as, for instance: 
+ 
+\begin{itemize}\item  computer security
+\item  multi-agent systems
+\item  programming languages
+\item  formal verification
+\item  reversible computation
+\item  knowledge representation
+\end{itemize} 
+\item  IMPORTANT DATES 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Paper Submission:  & Jun 22, 2026 \\
+Notification to authors:  & Jul 25, 2026 \\
+Workshop:  & Sep 05, 2026 \\
+Final version (post-proceedings):  & Oct 25, 2026 \\
+\end{tabulary}
+ 
+\item  SUBMISSION GUIDELINES: 
+ 
+  We invite two types of submissions: 
+ 
+\begin{itemize}\item  Full papers (up to 15 pages, excluding references).
+\item  Short papers (up to 5 pages, excluding references, not included in the workshop post-proceedings)
+\end{itemize} 
+  All submissions have to adhere to the EPTCS format (\href{https://info.eptcs.org/}{https://info.eptcs.org/}). Simultaneous submission to journals, conferences or other workshops is only allowed for short papers; full papers must be unpublished. Submission is performed through EasyChair: \href{https://easychair.org/conferences/?conf=expresssos202}{https://easychair.org/conferences/?conf=expresssos202} The final versions of accepted full papers will be published in EPTCS. It is understood that for each accepted submission one of the co-authors will register for the workshop and present the paper.  
+ 
+\item  We are pleased to announce the possibility of a Joint Special Issue with EXPRESS/SOS 2025 (due in December 2026). 
+ 
+\item  WORKSHOP CO-CHAIRS \& CONTACT: 
+ 
+\begin{itemize}\item  Giorgio Bacci (University of Aalborg, Denmark)
+\item  Anna Philippou (University of Cyprus, Cyprus)
+\end{itemize} 
+  Prospective authors are encouraged to contact the co-chairs in case of questions at grbacci@cs.aau.dk and annap@ucy.ac.cy 
+ 
+\end{itemize}\section{Research Associate on Algorithmic Theory of Dynamical Systems}\label{ResearchAssociateonAlgorithmicTheoryofDynamicalSystems}  Department of Computer Science, University of Oxford\\ 
+JOB ANNOUNCEMENT 
+
+\begin{itemize}\item  Title: Research Associate on Algorithmic Theory of Dynamical Systems, Vacancy ID: 185210  
+ 
+  Please see the University website link below: \href{https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10\&p_internal_external=E\&p_display_in_irish=N\&p_process_type=\&p_applicant_no=\&p_form_profile_detail=\&p_display_apply_ind=Y\&p_refresh_search=Y\&p_recruitment_id=185210}{https://my.corehr.com/pls/uoxrecruit/erq\_jobspec\_version\_4.display\_form?p\_company=10\&p\_internal\_external=E\&p\_display\_in\_irish=N\&p\_process\_type=\&p\_applicant\_no=\&p\_form\_profile\_detail=\&p\_display\_apply\_ind=Y\&p\_refresh\_search=Y\&p\_recruitment\_id=185210} 
+ 
+Job application deadline: Apr 09, 2026 
+ 
+  Fixed-term contract for 14 months to start from 1 September 2026 
+ 
+  Grade 7: £39,424 - £47,779 per annum inclusive of Oxford University weighting 
+ 
+  Potential to under fill at Grade 6: £35,681 - £41,636 p.a. inclusive of Oxford University weighting 
+ 
+  Location: Wolfson Building, Parks Road, Oxford 
+ 
+\item  About the Role 
+ 
+  We are seeking a highly motivated Research Associates (up to two) to join our team. The post holder will carry out research on the project Beyond Linear Dynamical Systems, with the objective of discovering computational theories of dynamical systems. The post holder will report to the Principal Investigator. 
+ 
+  The post holder will be a member of research groups within the project, with responsibility for carrying out research, to provide guidance to junior members of the research groups including research assistants, PhD students, and students on projects. The post holder may also have an opportunity to engage in teaching. 
+ 
+\item  About Us 
+ 
+  The University of Oxford is a stimulating work environment, which enjoys an international reputation as a world-class centre of excellence. Our research plays a key role in tackling many global challenges, from reducing our carbon emissions to developing vaccines during a pandemic. 
+ 
+  The Department of Computer Science at Oxford is renowned for pioneering research and teaching across diverse fields, consistently ranking among the best in the world. Our commitment to innovation drives us to tackle complex technological and societal challenges. 
+ 
+\item  What We Offer 
+ 
+  As an employer, we genuinely care about our employees’ wellbeing, reflected in the range of benefits that we offer including: 
+ 
+\begin{itemize}\item  Excellent contributory pension scheme
+\item  38 days annual leave (including public holidays) – pro rata for part time jobs
+\item  Family leave schemes
+\item  Cycle loan scheme and discounted public transport
+\end{itemize} 
+  The successful candidate will work onsite in the Department of Computer Science buildings in central Oxford, however remote and flexible working can be considered. 
+ 
+\item  Diversity 
+ 
+\begin{itemize}\item  Committed to equality and valuing diversity.
+\end{itemize} 
+\item  Application Process 
+ 
+  You will be required to upload a supporting statement and an up-to-date CV as part of your online application. Your supporting statement must clearly demonstrate how you meet each of the essential selection criteria listed in the job description. Applications that do not include a supporting statement or CV, or fail to address the criteria in sufficient detail, will not be considered. 
+ 
+  While we recognise the value of AI tools in assisting with application preparation, submissions that are clearly AI-generated without personalisation or insight will be rejected. It's crucial that your application reflects your own experiences and understanding of the role. 
+ 
+ The closing date for applications is midday on 9th April 2026 . Interviews are expected to be held in April. 
+ 
+\end{itemize}\section{The 2026 Alonzo Church Award for Outstanding Contributions to Logic and Computation}\label{The2026AlonzoChurchAwardforOutstandingContributionstoLogicandComputation}CALL FOR NOMINATIONS 
+
+\begin{itemize}\item  INTRODUCTION 
+ 
+  An annual award, called the Alonzo Church Award for Outstanding Contributions to Logic and Computation, was established in 2015 by the ACM Special Interest Group for Logic and Computation (SIGLOG), the European Association for Theoretical Computer Science (EATCS), and the European Association for Computer Science Logic (EACSL).  The award is for an outstanding contribution represented by a paper or by a small group of papers published within the past 25 years.  This time span allows the lasting impact and depth of the contribution to have been established. The award can be given to an individual, or to a group of individuals who have collaborated on the research. For the rules governing this award, see <\href{https://siglog.org/alonzo-church-award/}{https://siglog.org/alonzo-church-award/}>, <\href{https://www.eatcs.org/index.php/church-award/}{https://www.eatcs.org/index.php/church-award/}>, and <\href{https://www.eacsl.org/alonzo-church-award/}{https://www.eacsl.org/alonzo-church-award/}>. 
+ 
+  THE 2025 AWARD 
+ 
+  The 2025 Alonzo Church Award was given to Paul Blain Levy for his fundamental study of effectful λ-calculi through the Call-by-Push-Value (CBPV) calculus, which has had major impact on logical calculi, programming language semantics, and their applications to computer science. 
+ 
+\item  ELIGIBILITY AND NOMINATIONS 
+ 
+  The contribution must have appeared in a paper or papers published within the past 25 years.  Thus, for the 2026 award, the cut-off date is January 1, 2001.  When a paper has appeared in a conference and then in a journal, the date of the journal publication will determine the cut-off date.  In addition, the contribution must not yet have received recognition via a major award, such as the Turing Award, the Kanellakis Award, or the Goedel Prize.  (The nominee(s) may have received such awards for other contributions.)  While the contribution can consist of conference or journal papers, journal papers will be given a preference. 
+ 
+  Nominations for the 2026 award are now being solicited.  The nominating letter must summarise the contribution and make the case that it is fundamental and outstanding.  The nominating letter can have multiple co-signers.  Self-nominations are excluded.  Nominations must include: a proposed citation (up to 25 words); a succinct (100-250 words) description of the contribution; and a detailed statement (not exceeding four pages) to justify the nomination.  Nominations may also be accompanied by supporting letters and other evidence of worthiness.  Nominations for the 2026 award are automatically considered for all future editions of the award, until they receive the award or the nominated papers are no longer eligible. 
+ 
+\item  PROCEDURE AND DEADLINE 
+ 
+  Nominations to the 2026 Alonzo Church Award, taking the form of a single PDF file, should be sent by 17 April 2026 to Marcelo Fiore <marcelo.fiore@cl.cam.ac.uk>. 
+ 
+Nominations deadline: Apr 17, 2026 
+ 
+\item  AWARD COMMITTEE 
+ 
+  The 2026 Alonzo Church Award Committee consists of the following five members: Mikolaj Bojanczyk, Thomas Colcombet, Anuj Dawar, Marcelo Fiore (Chair), and Alexandra Silva. 
+ 
+\end{itemize}\section{FSCD 2028: Formal Structures for Computation and Deduction}\label{FSCD2028}CALL FOR PROPOSALS  
+
+\begin{itemize}\item  The FSCD conference covers all aspects of Formal Structures for Computation and Deduction from theoretical foundations to applications. The annual FSCD conference comprises the main conference and a considerable number of affiliated workshops (expectedly, more than ten).  
+ 
+  We invite proposals for locations to host the 13th FSCD International Conference in summer 2028, with a preference for end of August/beginning of September 2028. The deadline for proposals is  
+ 
+location proposals deadline: May 23, 2026 
+ 
+  Proposals should be sent to the FSCD Steering Committee Chair (see contact information below). We encourage proposers to register their intention informally as soon as possible. For 2028, the Steering Committee would prefer that the conference takes place either during the late August or very beginning of September (i.e., weeks starting on August 21st, August 28th or September 4th), but other dates in July-August will also be considered. 
+ 
+  Selected proposals are to be presented at the business meeting of FSCD 2026 taking place in Lisbon in July 2026. The final decision about hosting and organising of FSCD 2028 will be taken by the SC after an advisory vote of the members of the community in attendance at the business meeting. 
+ 
+  Proposals should address the following points: 
+ 
+\begin{itemize}\item  FSCD Conference Chair (complete name and current position), host institution, FSCD Local Committee (complete names and current    positions), availability of student-volunteers.
+\item  National, regional, and local government and industry support, both organizational and financial.
+\item  Accessibility to the location (i.e., transportation) and attractiveness of the proposed site. Accessibility can include both information about local transportation and travel information to the location (flight and/or train connections), as well as estimated costs.
+\item  Proposed dates: preferably late August or very beginning of September (i.e., weeks starting on August 21st, August 28th or September 4th), but other dates in July-August will also be considered. The dates should include allowing 2-3 days before and/or after the main conference for affiliated workshops. (Please also take into consideration holidays or local events during the period).
+\item  Estimated costs of registration for the conference and workshops, both for regular and student participants.
+\item  Conference and exhibit facilities for the anticipated number of registrants (including all workshop participants, typically around 200). For example: number, capacity and audiovisual equipment of meeting rooms; a large plenary session room that can hold all the registrants; enough rooms for parallel session workshops/tutorials in the two days before and the two days after the main conference; internet connectivity and workstations for demos/competitions; catering services; presence of professional staff.
+\item   Support for hybrid attendance to the conference.
+\item  Residence accommodations and food services in a range of price categories and close to the conference venue, for example, number and cost range of hotels, and availability and cost of dormitory rooms (e.g., at local universities) and kind of services they offer.
+\item  Other relevant information, which can include information about leisure activities and attractiveness of the location (e.g., cultural and historical aspects, touristic activities, etc...).
+\end{itemize} 
+\item  Contact information: 
+ 
+\begin{itemize}\item  Patrick Baillot patrick.baillot@univ-lille.fr FSCD SC Chair
+\end{itemize} 
+\end{itemize}
+
+
+\bigskip Links: \href{http://siglog.org/}{SIGLOG website}, \href{https://lics.siglog.org}{LICS website}, \href{https://lics.siglog.org/newsletters/}{SIGLOG Monthly}\end{document}
