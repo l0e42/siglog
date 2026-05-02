@@ -1,0 +1,359 @@
+-dd May 2, 2026 
+
+ -dM CI-BD-SOQE 2026:	May 04, 2026 (Submission deadline)
+ -dM TIME 2026:		May 06, 2026 (Abstract deadline), May 11, 2026 (Paper deadline)
+ -dM C.A.R.L.A. 2026:	May 08, 2026 (Extended Paper registration), May 16, 2026 (Paper deadline)
+ -dM LPNMR 2026:	May 10 (Extended), 2026 (Paper registration), May 17, 2026 (Submission deadline)
+ -dM ITRS 2026:		May 15, 2026 (Paper)
+ -dM FSCD 2028:		May 23, 2026 (location proposals deadline)
+ -dM ICTAC 2026:	Jun 08, 2026 (Abstract deadline), Jun 15, 2026 (Submission deadline)
+ -dM ICTCS 2026:	Jun 14, 2026 (Submission deadline)
+ -dM GandALF 2026:	Jun 18, 2026 (Abstract), Jun 22, 2026 (Submission deadline)
+ -dM Express/SOS 2026:	Jun 22, 2026 (Paper Submission)
+ 
+ 
+
+
+
+EULP 2026: 1st Workshop on End-User Logic Programming
+  Lisbon, Portugal
+  July 26, 2026
+  https://eulp.gitlab.io/eulp2026/
+  Part of FLoC 2026, https://www.floc26.org/
+CALL FOR PAPERS 
+* IMPORTANT DATES (AoE):
+ -dh Submission Deadline: May 9, 2026
+ -d Notification of Acceptance: May 21, 2026
+* GENERAL INFORMATION
+  Since its inception, Logic Programming (LP) has proven itself as a powerful technique for tackling concrete problems, such as configuration, scheduling, and planning. Yet, LP and related approaches have difficulties gaining wider traction within industry, and LP adoption is still largely driven by an academic push rather than an industry pull. A key reason for this discrepancy is the fact that building accurate programs is a difficult, costly, and error-prone process, especially for people without prior LP experience. More generally, this problem is known as the Knowledge Acquisition Bottleneck, which is a challenge for all approaches in the broader field of knowledge representation.
+  To help tackle this issue, researchers have been looking at ways to improve the accessibility of LP. More recently, the research direction has seen a significant rise in interest. Still, with no dedicated event to support it, tools and methodologies can be scattered and hard to find.
+  The "End-user Logic Programming" (EULP) workshop offers a dedicated forum for work on techniques and methodologies that lower the logic programming threshold for non-experts. Additionally, we also welcome work which allows LP-approaches to be turned into full-fledged, user-ready products. In this way, we facilitate sharing new techniques, and stimulate networking between researchers from different fields.
+* SCOPE
+  EULP welcomes all works that aim to lower the threshold related to logic programming for non-experts and to help LP approaches gain more traction in real-life situations. For a list of topics please visit the website.
+* SUBMISSIONS
+  We invite three types of submissions:
+ - Long papers (up to 14 pages) describing original, unpublished research.
+ - Short papers (up to 8 pages) describing original, unpublished research.
+ - Extended abstracts (2-4 pages) of work that has already been published.
+  Proceedings shall be submitted to CEUR-WS.org for online publication. Therefore, all papers should use the CEURART style (https://eulp.gitlab.io/eulp2026/ceur.zip). Papers should be submitted through the dedicated EULP submission system: https://submissions.floc26.org/eulp/
+
+
+
+
+
+
+
+MCU 2026: 11th Conference on Machines, Computations and Universality
+  Trier, Germany, July 27–29, 2026
+  Co-located with CiE 2026
+  https://easychair.org/conferences/?conf=mcu2026
+CALL FOR PAPERS
+* We invite submissions to MCU 2026, the 11th edition of the International Conference on Machines, Computations and Universality. The MCU series focuses on fundamental aspects of computation and universality across a wide range of computational models.
+* IMPORTANT DATES
+ -dh Submission deadline: May 10, 2026 (AoE, strict)
+ -d Notification: June 15, 2026
+ -d Final version: August 15, 2026
+* SUBMISSION
+* ABOUT MCU
+  The MCU conference series, initiated in Paris in 1995, has a long tradition of exploring the nature of computation and universality. Previous editions were held in Metz (1998), Chișinău (2001), St. Petersburg (2004), Orléans (2007), Zurich (2013), Famagusta (2015), Fontainebleau (2018), Debrecen (2022), and Nice (2024).
+  The 2026 edition will take place at Trier University, Germany.
+* SCOPE
+  For a detailed description of the scope and topics of MCU please visit the website at https://www.uni-trier.de/en/universitaet/fachbereiche-faecher/fachbereich-iv/faecher/informatikwissenschaften/professuren/theoretische-informatik/research/conferences-and-workshops/translate-to-englisch-mcu-2026
+* PROGRAM CHAIRS
+ - Henning Fernau (Trier University, Germany)
+ - Serghei Verlan (University Paris-Est Créteil, France)
+* INVITED SPEAKERS
+ - Martin Kutrib (University of Gießen, Germany)
+ - Olivier Bournez (Ecole Polytechnique, Paris, France) - tutorial at CiE.
+ - Joint CiE special session “At the Borderline of Universality”:
+ - Artiom Alhazov, State University of Moldova
+ - Matthew Cook, University of Groningen
+ - Gemma De les Coves, Pompeu Fabra University, Barcelona
+ - Victor Mitrana, University of Bucharest
+* AUTHOR GUIDELINES
+  All papers must be original and not simultaneously submitted to another journal or conference. We expect non-anonymous submissions up to 15 pages in LNCS format, including all content except for an optional appendix (read at the discretion of the PC); alternatively, include a link to an arXiv version.
+  Accepted papers will appear in the Springer LNCS volume of MCU. A selection of papers will further be invited to a Special Issue of a journal. Submission link: https://easychair.org/conferences/?conf=mcu2026
+
+
+
+
+CiE 2026: Computability in Europe 2026
+  http://www.cie-2026.uni-trier.de/
+  Trier, Germany
+CALL FOR PAPERS 
+  Computability in Europe 2026 invites submissions for informal presentations of ongoing work, recent results, and emerging ideas. Continuing the tradition of past CiE conferences, these contributions will not be published in the LNCS conference proceedings. Work presented in this format may also appear, or have already appeared, in conferences with formal proceedings and/or in journals.
+* IMPORTANT DATES 
+ -dh Deadline for informal presentations: May 15th, 2026
+ -d Notification on informal presentations: June 1st, 2026
+  For more information, see http://www.cie-2026.uni-trier.de/
+
+
+
+
+
+
+
+
+ADT 2026: 9th International Conference on Algorithmic Decision Theory
+  University Paris Dauphine
+  November 16-18, 2026 
+  https://adt2026.sciencesconf.org/
+CALL FOR PAPERS
+* ABOUT 
+ The 9th International Conference on Algorithmic Decision Theory (ADT 2026) will be held at University Paris Dauphine-PSL on November 16-18, 2026. 
+  Established in 2009, the ADT conferences usually take place every two years with the aim of gathering researchers interested in the algorithmic aspects of decision theory. ADT seeks to bring together researchers and practitioners coming from diverse areas of Computer Science, Economics, and Operations Research in order to improve the theory and practice of modern decision support. The 9th International Conference on Algorithmic Decision Theory (ADT 2026) focuses on algorithmic decision theory broadly defined, seeking to bring together researchers and practitioners coming from diverse areas of Computer Science, Economics, and Operations Research in order to improve the theory and practice of modern decision support.
+* IMPORTANT DATES (EXTENDED)
+ -dh Abstract Submission: May 18th, 2026 
+ -dh Paper Submission: May 25th, 2026
+ -d Notification of acceptance: July 27th, 2026 
+ -d Final Version of Accepted Papers: August 25th, 2026
+- dv Conference Dates: Nov 16-18, 2026 
+  Submission Webpage: https://cmt3.research.microsoft.com/ADT2026 
+* KEYNOTE SPEAKERS 
+ - Aurélie Beynier, Sorbonne Université
+ - Marc Lanctot, Google Deepmind
+ - Maria Polukarov, King's College London
+* TOPICS 
+For a full list of topis please visit the online call for papers. 
+* SUBMISSIONS
+  Submissions are invited on significant, original, and unpublished research on all aspects of Algorithmic Decision Theory. Papers must be at most 15 pages long in the LNCS format (including references). The formal proceedings of ADT 2026 will be published by Springer in the Lecture Notes in Artificial Intelligence (LNAI). 
+  ADT 2026 will not accept any paper that, at the time of submission, has already been published in a journal or another venue with formally published proceedings. However, in order to accommodate the publication norms of the many fields that work on decision theory, papers can be submitted but not already published elsewhere (i.e., are under review) provided the authors note they are submitting for the non-proceedings track at the top of their submission. 
+  All papers will be peer-reviewed by a double-blind procedure. Therefore, papers must be submitted anonymously as pdf documents via the Microsoft CMT system. 
+  It is important and required that authors do not reveal their identities in submitted papers. Since the review process is double blind, authors must take measures to ensure that their identity is not easily revealed from the submission itself. Authors should include the submission number (as assigned by the conference system) in the author field of the submission, and refer to their prior work in a neutral manner (i.e., instead of saying “We showed” say “XYZ et al. showed”). It is acceptable to submit work that has been presented in public or has appeared on arXiv, provided the submission itself is anonymized. 
+  Authors should consult Springer’s authors’ guidelines and use their proceedings templates, either for LaTeX or for Word, for the preparation of their papers. Note that at least one author of each accepted paper is required to attend the conference to present the work. Authors will be required to agree to this requirement at the time of submission. In addition, the corresponding author of each accepted paper that will appear in the proceedings, acting on behalf of all of the authors of that paper, will need to complete and sign a Consent-to-Publish form, through which the copyright for their paper is transferred to Springer. 
+  You may submit an appendix of any length into the CMT system. There is a separate area in CMT for this, the appendix should be formatted in the same way as the main paper. Please note that reviewers are not required to review the appendix so the paper should stand on its own. 
+  To accommodate the publishing traditions of different fields, ADT 2026 will accept two types of submissions: 
+ - Submissions with full text in the proceedings: Papers of this type will be accepted for either oral or poster presentation, or both. Each accepted paper of this type will be allocated at most 15 pages in the proceedings and there will be no distinction between papers accepted for oral or poster presentation in the conference proceedings. 
+ - Submissions with two-pages abstract in the proceeding: Papers of this type will be accepted for either oral or poster presentation, or both. Each accepted paper of this type will appear as a two-pages abstract in the proceedings, along with a URL pointing to the full paper (on ArXiv or other service). This option is available to accommodate subsequent publication in venues that would not consider results that have been published in formal proceedings. Specifically, the full version of the two-pages abstract at ADT can be submitted to another archival conference or journal. Such papers must be formatted just like papers submitted for full-text publication, at the submission time, but authors are required to write “submission without proceedings” into the author field of their paper (instead of author names), if they choose this category. Otherwise, it will be assumed, by default, that their paper is submitted in the first category (submissions with full-text in the proceedings).  
+
+
+
+
+
+
+
+Proof Society 2026: 8th PROOF SOCIETY INTERNATIONAL SCHOOL AND WORKSHOP 2026
+  Aussois, French Alps, France
+  7-11 September 2026
+  https://proofsociety26.sciencesconf.org
+CALL FOR PAPERS
+* TOPICS
+  - Applied proof theory, e.g. proof mining
+  - Formalised proofs
+  - Structural proof theory
+  - Linear logic
+  - Computational interpretations of proofs
+  - Computability and proofs, e.g. Reverse Mathematics
+  - Ordinal analysis
+  - Philosophy of proof theory
+  - Proof systems and proof search
+  - Proof complexity
+  - Automated theorem proving
+* DATES
+  -dh Abstract deadline: May 29, 2026
+  -d Notification: June 15, 2026
+  -d Final version: June 30, 2026
+  -dv School & Workshop: Sep 7-11, 2026
+* Submissions are in the form of abstracts. The call for participation will be published later.
+
+
+
+
+
+
+ 
+CSL 2027: Computer Science Logic
+  Brighton, UK
+  25-29 January 2027
+  https://csl2027.github.io/
+CALL FOR PAPERS 
+* Computer Science Logic (CSL) is the annual conference of the European Association for Computer Science Logic (EACSL), see https://www.eacsl.org/ It is an interdisciplinary conference, spanning across both basic and application oriented research in mathematical logic and computer science.
+  CSL 2027 is the 35th edition of the conference and will be held in Brighton on 25-29 January 2027, organised by Matteo Acclavio and Giulio Guerrieri. For a full list of topics please visit relevant to CSL please visit the website. 
+* SUBMISSION
+  Submitted papers must be in English and must provide sufficient detail to allow the Programme Committee to assess the merits of the paper. Full proofs may appear in a clearly marked technical appendix which will be read at the reviewers' discretion. Authors are strongly encouraged to include a well written introduction which is directed at all members of the PC. The paper should be submitted via HotCRP, a link will be provided soon. The CSL 2027 conference proceedings will be published in the Leibniz International Proceedings in Informatics (LIPIcs), see https://drops.dagstuhl.de/entities/series/LIPIcs.
+  Authors are invited to submit contributed papers of no more than 15 pages in LIPIcs style (not including appendices or references), see https://submission.dagstuhl.de/series/details/LIPIcs#author, presenting unpublished work fitting the scope of the conference. Papers may not be submitted concurrently to another conference with refereed proceedings. The PC chairs should be informed of closely related work submitted to a conference or a journal. Papers authored or co-authored by members of the PC (but not PC chairs) are allowed.
+  The submissions are lightweight double-blind: 
+ - Authors are not allowed to put their name on the paper, and they should avoid revealing their identities in text (references to previous or related work should be in third-person). 
+ - Authors are allowed (and even encouraged) to disseminate the work on public repositories (e.g. on arXiv or their websites).
+ - The identity of authors will be revealed to reviewers after all reviews have been written. 
+  Papers authored solely by students or for which students are the main contributors will be considered for the Helena Rasiova award https://www.eacsl.org/helena-rasiowa-award-2
+* IMPORTANT DATES
+  All deadlines are midnight anywhere-on-earth (AoE); late submissions will not be considered.
+ -dh Abstract submission: 8 July 2026
+ -dh Paper submission: 15 July 2026
+ -d Notification: 15 October 2026, Brighton time
+ -d Final Version: TBD
+ -dv Conference: Jan 25-29, 2027
+* COMMITTEE CHAIRS 
+ - Corina Cirstea, University of Southampton, UK
+ - Yannick Forster, INRIA Paris, France
+ 
+ 
+ 
+ 
+REVERSIBLE COMPUTATION 2026: 18th International Conference on Reversible Computation
+  July 9–10, 2026, Torino, Italy
+  https://reversible-computation.github.io/
+CALL FOR PARTICIPATION
+* SCOPE 
+   Reversible computation has a growing number of promising application areas such as low power design, coding/decoding, debugging, testing and verification, database recovery, discrete event simulation, reversible algorithms, reversible specification formalisms, reversible programming languages, process algebras, and the modeling of biochemical systems. Furthermore, reversible logic provides a basis for quantum computation with its applications, for example, in cryptography and in the development of highly efficient algorithms. First reversible circuits and quantum circuits have been implemented and are seen as promising alternatives to conventional CMOS technology.
+  The conference will bring together researchers from computer science, mathematics, and physics to discuss new developments and directions for future research in Reversible Computation. This includes applications of reversibility in quantum computation.
+* REGISTRATION, DATES, and LOCATION 
+  https://reversible-computation.github.io/registration/
+ -dh Early registration discount deadline: May 15th, 2026
+ -dv Conference: Jul 9-10, 2026
+  The conference will take place Università degli Studi di Torino, Dipartimento Scienze della Vita e Biologia dei Sistemi, Via Accademia Albertina, 13, 10123 Torino TO, Italy. Information on travel will be posted on https://reversible-computation.github.io/location/ .
+* INVITED TALKS 
+  https://reversible-computation.github.io/invited/
+ - Hannah Earley. Reversing the history of computing
+ - Prakash Panangaden. Quantum Alternation
+
+
+
+Knowledge, reasoning, and decision-making: Invitation Summer School 2026
+   Institut des sciences cognitives, Université du Québec à Montréal
+  In english
+  May 27 - Jun 10 (9 days of school)
+CALL FOR PARTICIPATION
+* 9 school days spread over 3 weeks: May, 27 to June,10 2026 (in english only). Our summer school aims to present research in several major areas of contemporary research on knowledge, reasoning, and decision-making, adopting a resolutely interdisciplinary perspective that draws on cognitive science, philosophy, psychology, linguistics, logic, and artificial intelligence. 
+  Find out what some of the world’s leading researchers and specialists on these topics have to say. Attend in person or from a distance via Zoom. Students and researchers can register to attend the conferences, get credits or a training certificate. Visit our academic website for all relevant information. 
+* CONTACT
+ - leblanc.yves.4@uqam.ca or isc@uqam.ca
+  
+
+
+
+ 
+ 
+ 
+LPNMR 2026: 18th International Conference on Logic Programming and Non-monotonic Reasoning
+  Klagenfurt, Austria
+  7-11, September, 2026
+CALL FOR WORKSHOPS
+* The 18th International Conference on Logic Programming and Non-monotonic Reasoning (LPNMR 2026) will be held in Klagenfurt, Austria, between the 7th and the 11th of September, 2026.
+  The objective of the LPNMR workshop program is to stimulate the discussion and the exchange of ideas on topics related, but not limited, to declarative logic programming, non-monotonic reasoning, and knowledge representation. We aim at creating a forum where researchers from a broad spectrum of disciplines may interact and have an opportunity to promote collaboration and identify directions for joint future research. Accordingly, we solicit workshop proposals on theoretical and applied research topics.
+  Workshop proposals should explain and motivate the topic of the workshop, and discuss the format of presentation of the contributions. Workshops will likely be half-day or one-day in duration, but we may consider longer programs.
+* IMPORTANT DATES
+ - dh Workshop proposals submissions: May 7th, 2026
+ -d Workshop proposals notifications: May 17th, 2026
+ -d Workshop: September 7, 2026 (tentative date)
+* SUBMISSION
+  Proposals should clearly specify the following:
+ - Workshop title and acronym
+ - A brief description, emphasizing why this workshop would appeal to audiences from LPNMR
+ - A list of organizers with email addresses, web page URLs, and a short description of their experience in organizing events
+ - A short description of the format of planned activities (talks, posters, panels, invited speakers if any, etc.)
+ - The proposed duration (half day, one day, etc.)
+ - A description of the history of the workshop (if any)
+ - Expected number of participants
+  The proposal must be submitted via email to the Workshop Chairs (see below):
+* CONTACTS 
+  For any details on workshops, please contact the Workshop Chairs:
+ - Joaquín Arias (joaquin.arias@urjc.es)
+ - Jorge Fandinno (jfandinno@unomaha.edu)
+ 
+
+NMR 2026: 24th International Workshop on Nonmonotonic Reasoning
+  July 17-19, 2026, Lisbon, Portugal
+  Website: https://nmr.krportal.org/2026/
+CALL FOR APPLICATIONS
+* STUDENT SUPPORT
+  We are pleased to announce the availability of student support for the 24th International Workshop on Nonmonotonic Reasoning (NMR 2026).  A limited number of grants are available to support student participation in the workshop. We strongly encourage students working in nonmonotonic reasoning and related areas to apply. More information and application details: https://nmr.krportal.org/2026/students.html
+* IMPORTANT DATES
+ -dh Application deadline: May 11, 2026
+* GENERAL INFORMATION
+  NMR is the premier forum for results in the area of Nonmonotonic Reasoning. Its aim is to bring together active researchers in this broad field within knowledge representation and reasoning (KR), including belief revision, uncertain reasoning, reasoning about actions, planning, logic programming, preferences, argumentation, causality, and many other related topics including systems and applications. Visit also the general NMR webpage: https://nmr.krportal.org/.
+  NMR 2026 is co-located with the 23rd International Conference on Principles of Knowledge Representation and Reasoning (KR 2026) at the Federated Logic Conference (FLoC 2026).
+* ORGANIZATION
+   General Co-Chairs:
+ - Ana Ozaki · University of Oslo and University of Bergen, Norway
+ - Nico Potyka · Cardiff University, UK
+  Publicity Chair:
+ - Jacek Wegrzynowski · University of Oslo, Norway
+ 
+ 
+ 
+ACKERMANN AWARD 2026: EACSL OUTSTANDING DISSERTATION AWARD FOR LOGIC IN COMPUTER SCIENCE
+CALL FOR NOMINATIONS
+ * Nominations are now invited for the 2026 Ackermann Award. PhD dissertations in topics specified by the CSL and LICS conferences, which were formally accepted as PhD theses at a university or equivalent institution between 1 January 2025 and 31 December 2025 are eligible for nomination for the award.
+ - The deadline for submission is: 
+ -dh nomination deadline: 1 July 2026.
+  Nominations should be submitted by the candidate or the supervisor via Easychair: https://easychair.org/conferences/?conf=ackermann2026
+* INSTRUCTIONS
+  Please submit a pdf file containing:
+ - a summary in English of the thesis (maximum 10 pages), providing a gentle introduction and overview of the thesis, highlighting the novel results and their impact and including a link to the thesis in the first page (please do not include the thesis itself);
+ - a supporting letter by the PhD advisor and two supporting letters by other senior researchers (in English);
+ - a copy of a document stating that the thesis was accepted as a PhD thesis at a recognised University (or equivalent institution) and that the candidate was awarded the PhD degree within the specified period;
+ - a short CV of the candidate.
+* THE AWARD
+  The 2026 Ackermann award will be presented to the recipient(s) at CSL 2027. The award consists of a certificate, an invitation to present the thesis at the CSL conference, the publication of the laudatio in the CSL proceedings and financial support to attend the conference. The Ackermann Award 2026 is sponsored by Amazon Automated Reasoning.
+* ACKERMAN JURY 
+  The jury consists of:
+ - Albert Atserias (UPC Barcelona)
+ - Christel Baier (TU Dresden)
+ - Andrej Bauer (U Ljubljana)
+ - Javier Esparza (TU Munich)
+ - Maribel Fernandez (King’s College London), EACSL president
+ - Jean Goubault-Larrecq (ENS Paris-Saclay)
+ - Joost-Pieter Katoen (RWTH Aachen U), ACM SigLog rep.
+ - Delia Kesner (IRIF, U Paris Cite)
+ - Slawomir Lasota (U Warsaw)
+ - Florin Manea (U Goettingen), EACSL vice-president
+ - Prakash Panangaden (U Edinburgh & McGill U)
+  For more information please contact Maribel Fernandez: Maribel.Fernandez@kcl.ac.uk
+
+ 
+
+ 
+
+
+
+ 
+ 
+ 
+ASSISTANT PROFESSOR: ROSKILDE
+JOB ANNOUNCEMENT
+* The Department of People and Technology, Roskilde University, Denmark, invites applications for a position as Assistant Professor of Computer Science. Deadline: June 1st 2026. Specifically, we are seeking applicants with a research and teaching profile in more than one of the following scientific areas: 
+ - Fundamental principles and concepts of computer science, such as programming languages, algorithms, and data structures.
+ - Machine learning (ML) techniques, including explainable AI and the combination of ML and symbolic reasoning.
+ - Software development/engineering, including requirements elicitation, cloud computing, and distributed systems.
+* Further information is available at: https://candidate.hr-manager.net/ApplicationInit.aspx?cid=1310&ProjectId=148106                  
+ 
+ 
+ 
+ 
+PhD Position: Salzburg
+JOB ANNOUNCEMENT
+* PhD position at the University of Salzburg in Coalgebra / Algebra / Semantics / Formal Methods / Probabilistic Systems: We have a PhD position to fill in the newly formed group CALM (Coalgebra, Algebra, and Logical Methods) at the Department of Computer Science, University of Salzburg. The position is a university assistant position for 4 years, with all benefits (and a small teaching obligation in year 2 and year 3). The topic of research will be fixed based on the joint interests of the candidate and the supervisor, within the mentioned areas. The intended (yet flexible) starting date is October 1, 2026. 
+  A prerequisite is a Master's degree in Computer Science or Mathematics or a related field, and a strong background in theory (formal methods, semantics).  
+  Applications will be considered on a rolling basis, until the position is filled -- ideally before August 2026. Please send your (for now informal) application with a CV and your research interests directly to ana.sokolova@cs.uni-salzburg.at.
+  Salzburg is a small lovely town in the heart of Europe, with convenient train connections to most destinations in Europe, located just north of the Alps. It offers high quality of life, in particular wonderful natural environment suitable for many outdoor activities. Salzburg also offers rich cultural life, and is just a hop away from Vienna or Munich. 
+  Please spread the word and/or apply.
+* TENTATIVE DEADLINE
+ -dh Application deadline: August 1, 2026
+ 
+ 
+ 
+Concise Introduction to Alternating-Time Temporal Logics
+  by Stéphane Demri
+  Springer Nature 2026, 202 pages
+  ISBN: 978-3-032-11884-4
+BOOK ANNOUNCEMENT 
+* The formal verification of multi-agent systems aimed at proving that such systems meet their specifications has given rise to a very active field of research at the crossroads of formal methods, knowledge representation and artificial intelligence. Alternating-time temporal logics are considered as one of the most popular and influential logical formalisms for strategic reasoning in multi-agent systems and have been introduced by Rajeev Alur, Thomas Henzinger and Orna Kupferman about 25 years ago. 
+* This textbook provides a concise presentation of alternating-time temporal logics devoted to strategic reasoning in multi-agent systems. Dedicated mainly to the model-checking problem, the work examines developments about basic semantical properties of such logics, decision procedures and computational complexity. It provides results for solving optimally the model-checking problem on concurrent game structures by taking advantage of—or adapting proof methods from—temporal logics, games in theoretical computer science and automata theory.
+* Further information can be found at https://link.springer.com/book/9783032118844
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
