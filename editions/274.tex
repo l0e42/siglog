@@ -1,0 +1,333 @@
+
+% v2-acmsmall-sample.tex, dated March 6 2012
+% This is a sample file for ACM small trim journals
+%
+% Compilation using 'acmsmall.cls' - version 1.3 (March 2012), Aptara Inc.
+% (c) 2010 Association for Computing Machinery (ACM)
+%
+% Questions/Suggestions/Feedback should be addressed to => "acmtexsupport@aptaracorp.com".
+% Users can also go through the FAQs available on the journal's submission webpage.
+%
+% Steps to compile: latex, bibtex, latex latex
+%
+% For tracking purposes => this is v1.3 - March 2012
+\documentclass[prodmode,acmtecs]{acmsmall} % Aptara syntax
+\usepackage[spanish,polish]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{fancyvrb}
+\usepackage{graphicx,hyperref}
+\newcommand\cutout[1]{}
+
+
+\usepackage[table]{xcolor}
+\usepackage[utf8]{inputenc}
+\usepackage[parfill]{parskip}
+\usepackage{tabulary}
+\PassOptionsToPackage{hyphens}{url}
+\usepackage{hyperref}    
+\usepackage[capitalize]{cleveref}
+
+
+% Metadata Information
+% !!! TODO: SET THESE VALUES !!!
+\acmVolume{0}
+\acmNumber{0}
+\acmArticle{CFP}
+\acmYear{0}
+\acmMonth{0}
+
+\newcounter{colstart}
+\setcounter{page}{4}
+
+\RecustomVerbatimCommand{\VerbatimInput}{VerbatimInput}%
+{
+%fontsize=\footnotesize,
+fontfamily=\rmdefault
+}
+
+
+\newcommand{\UnderscoreCommands}{%\do\verbatiminput%
+\do\citeNP \do\citeA \do\citeANP \do\citeN \do\shortcite%
+\do\shortciteNP \do\shortciteA \do\shortciteANP \do\shortciteN%
+\do\citeyear \do\citeyearNP%
+}
+
+\usepackage[strings]{underscore}
+
+
+
+% Document starts
+\begin{document}
+
+
+\setcounter{colstart}{\thepage}
+
+\acmArticle{CFP}
+\title{{\huge\sc SIGLOG Monthly 274}
+
+ June 2026}\author{ELLI ANASTASIADI\affil{Aalborg University, SE}\vspace*{-2.6cm}\begin{flushright}\includegraphics[width=30mm]{elli_anastasiadi.png}\end{flushright}}\begin{abstract}June 2026 edition of SIGLOG Monthly, featuring deadlines, calls and community announcements.
+\end{abstract}
+
+
+\maketitlee
+
+\href{https://lics.siglog.org/newsletters/}{Past Issues}
+ - 
+\href{https://lics.siglog.org/newsletters/inst.html}{How to submit an announcement}
+\section{Table of Contents}\begin{itemize}\item DEADLINES (\cref{deadlines}) 
+ 
+\item CALLS 
+ 
+\begin{itemize}\item DC@LPNMR 2026 (CALL FOR PAPERS) (\cref{DCLPNMR2026})
+\item Petri Nets 2026 (CALL FOR PAPERS) (\cref{PetriNets2026})
+\item AiML 2026 (CALL FOR PARTICIPATION) (\cref{AiML2026})
+\item NMR 2026 (CALL FOR PARTICIPATION) (\cref{NMR2026})
+\item WPTE 2026 (CALL FOR PARTICIPATION) (\cref{WPTE2026})
+\end{itemize} 
+\item JOB ANNOUNCEMENTS 
+ 
+\begin{itemize}\item POSTDOC POSITION (\cref{POSTDOCPOSITION})
+\end{itemize} 
+\end{itemize}\section{Deadlines}\label{deadlines}\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Petri Nets 2026:  & Jan 14, 2026 (Abstract), Jan 21, 2026 (Paper) \\
+NMR 2026:  & Jun 01, 2026 (Early registration), Jul 13, 2026 (Late registration) \\
+ICTAC 2026:  & Jun 08, 2026 (Abstract deadline), Jun 15, 2026 (Submission deadline) \\
+ICTCS 2026:  & Jun 14, 2026 (Submission deadline) \\
+AiML 2026:  & Jun 15, 2026 (registration closes), Jun 15, 2026 (Registration deadline) \\
+GandALF 2026:  & Jun 18, 2026 (Abstract), Jun 22, 2026 (Submission deadline) \\
+POSTDOC POSITION:  & Jun 18, 2026 (Application deadline) \\
+Express/SOS 2026:  & Jun 22, 2026 (Paper Submission) \\
+DC@LPNMR 2026:  & Jun 30, 2026 (Paper) \\
+ACKERMANN AWARD 2026:  & Jul 01, 2026 (nomination deadline) \\
+CSL 2027:  & Jul 08, 2026 (Abstract), Jul 15, 2026 (Paper) \\
+PhD Position:  & Aug 01, 2026 (Application deadline) \\
+\end{tabulary}
+\section{DC@LPNMR 2026: Doctoral Consortium (DC) of the 18th International Conference on Logic Programming and Non-monotonic Reasoning }\label{DCLPNMR2026}  Klagenfurt, Austria \\ 
+  September 7–11, 2026\\ 
+  \href{https://sites.google.com/unical.it/dclpnmr2026}{https://sites.google.com/unical.it/dclpnmr2026}\\ 
+CALL FOR PAPERS 
+
+\begin{itemize}\item  GOALS 
+ 
+  The DC aims to provide a dedicated forum for Ph.D. students working in areas related to logic programming and non-monotonic reasoning. It offers participants a stimulating and informal environment to engage with established researchers and fellow students through research presentations, discussions, and mentoring activities. Each participant will present their research work and receive detailed feedback. The main objectives of the DC are: 
+ 
+\begin{itemize}\item  To offer doctoral students a supportive and open setting in which to present their research ideas, learn about ongoing work by peers, and receive constructive feedback.
+\item  To provide insights into key aspects of doctoral studies and academic careers.
+\item  To foster a collaborative research environment and build a community of young scholars.
+\item  To support early-career researchers by offering guidance on academic, industrial, and alternative career paths.
+\end{itemize} 
+  To additionally promote the attendance of the LPNMR 2026 main conference, accepted applicants may be waived the registration fees and receive partial financial support for their travel and accommodation (the exact amount depending on the available funding). 
+ 
+\item  IMPORTANT DATES (Tentative) 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Paper submission:  & Jun 30, 2026 \\
+Notification to authors:  & Jul 30, 2026 \\
+Camera-ready submission:  & Aug 07, 2026 \\
+Doctoral Consortium:  & Sep 07, 2026 \\
+\end{tabulary}
+ 
+\item  TARGET AUDIENCE 
+ 
+  The DC is primarily intended for students currently enrolled in a Ph.D. program. However, applications from exceptional candidates (e.g., Master’s students planning to pursue doctoral studies) will also be considered. Students at any stage of their doctoral studies are welcome to apply. Applicants are expected to conduct research in areas related to logic programming. For a full list of topics please visit the online cfp.  
+ 
+\item  SUBMISSION DETAILS 
+ 
+  Submissions must be written in English and include a research summary prepared in CEUR format (\href{https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw}{https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw}), consisting of 5–7 pages (excluding references), providing a clear overview of the research. The research summary should include: 
+ 
+\begin{itemize}\item  Full name, affiliation, and contact information
+\item  Introduction and problem statement
+\item  Background and related work
+\item  Research objectives
+\item  Current status of the research
+\item  Preliminary results (if available)
+\item  Open issues and expected outcomes
+\item  References
+\end{itemize} 
+  Submissions must be made electronically in PDF format via EasyChair, selecting the “LPNMR Doctoral Consortium 2026” track (\href{https://easychair.org/my/conference?conf=lpnmr2026}{https://easychair.org/my/conference?conf=lpnmr2026}). Students who have previously presented at LPNMR Doctoral Consortium may reapply, provided that their submission reflects substantial progress or significant updates. 
+ 
+\item  REVIEW PROCESS AND SELECTION CRITERIA 
+ 
+  Submissions will be evaluated by a program committee composed of experts in the area of logic programming and non-monotonic reasoning. Each application will be reviewed by at least two referees. Selection will be based on: 
+ 
+\begin{itemize}\item  Relevance to the scope of LPNMR
+\item  Clarity and completeness of the submission
+\item  Stage and maturity of the research
+\item  Potential contribution to the DC objectives
+\item  Evidence of research potential, such as publications or technical reports
+\end{itemize} 
+  Accepted applicants are expected to attend the DC and present their work in presence.  
+ 
+\end{itemize}\section{Petri Nets 2026: 47th International Conference on Applications and Theory of Petri Nets and Concurrency}\label{PetriNets2026}  Hamburg, Germany, June 22-26, 2026\\ 
+  \href{https://conf-2026.petrinet.net}{https://conf-2026.petrinet.net}\\ 
+CALL FOR PAPERS 
+
+\begin{itemize}\item  On the occasion of the 100th birthday of Carl Adam Petri, the Petri Net Conference 2026 will take place in Hamburg, at the university where Petri held an honorary professorship. Therefore, contributions that include a historical perspective are particularly welcome. 
+ 
+  We seek papers presenting original research on the application or theory of Petri nets, as well as contributions addressing concurrent systems more broadly, or applications of concurrency to system design. 
+ 
+  For a full list of topics please visit the online cfp.  
+ 
+\item  IMPORTANT DATES 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Abstract submission:  & Jan 14, 2026 \\
+Paper submission:  & Jan 21, 2026 \\
+Notification:  & Mar 08, 2026 \\
+Final version due:  & Mar 22, 2026 \\
+Workshops and Tutorials:  & Jun 22–23, 2026 \\
+Main Conference:  & Jun 24–26, 2026 \\
+\end{tabulary}
+ 
+\item  PAPER SUBMISSION   
+ 
+  Two kinds of papers can be submitted: 
+ 
+\begin{itemize}\item  Regular papers (max. 20 pages excluding references) describing original results pertaining to the development of the theory of Petri nets and distributed and concurrent systems in general, new results extending the applicability of Petri nets, or case studies, application and experience reports pertinent to the practical use of Petri nets and concurrency.
+\item  Tool papers (max. 10 pages excluding references) describing a computer tool based on Petri nets (not an application of the tool or the theory behind the tool). The tool should be available for use by other groups (but not necessarily for free). The submission should indicate how the reviewers can get access to the tool (this must be free). The tool will be demonstrated at the Tool Exhibition.
+\end{itemize} 
+  Submissions must use the Springer LNCS format and include line numbers (use the ``lineno''-LATEX package: \href{https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines}{https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines}). 
+ 
+  Submit via EasyChair: \href{https://easychair.org/conferences/?conf=petrinets2026}{https://easychair.org/conferences/?conf=petrinets2026}. 
+ 
+\item  WORKSHOPS, COURSES, TUTORIALS, AND TOOLS 
+ 
+  The main conference will take place from Wednesday, June 24 to Friday, June 26. The two days before the main conference also offer a wide range of activities. The Petri Net Course takes place from Monday June 22 to Tuesday June 23. It offers a thorough introduction to Petri nets in half-day and full-day modules. Detailed descriptions of workshops and tutorials will be made available via the conference website. An exhibition of Petri net tools will take place on Thursday, June 25. It consists of informal demonstrations for small groups/individuals, and there are no scheduled talks. 
+ 
+\item  ORGANISATION 
+ 
+  Organisation Committee Chairs: 
+ 
+\begin{itemize}\item  Michael Köhler-Bußmeier, Hamburg University of Applied Sciences, Germany
+\item  Daniel Moldt, University of Hamburg, Germany 
+\end{itemize} 
+   pn2026@petrinet.net 
+ 
+  Program Committee Chairs: 
+ 
+\begin{itemize}\item  Jörg Desel, FernUniversität in Hagen, Germany
+\item  Anna Kalenkova, The University of Adelaide, Australia
+\end{itemize} 
+  pn2026-PC-chairs@petrinet.net 
+ 
+\item  INFORMATION \& CONTACT 
+ 
+  \href{https://conf-2026.petrinet.net}{https://conf-2026.petrinet.net} 
+ 
+  pn2026@petrinet.net 
+ 
+\end{itemize}\section{AiML 2026: 16th International Conference on Advances in Modal Logic }\label{AiML2026}  29 June – 3 July 2026\\ 
+  Amsterdam, The Netherlands \\ 
+  \href{https://events.illc.uva.nl/aiml2026/}{https://events.illc.uva.nl/aiml2026/} \\ 
+CALL FOR PARTICIPATION 
+
+\begin{itemize}\item  REGISTRATION  
+ 
+  Registration for AiML 2026 is now open, at: \href{https://events.illc.uva.nl/aiml2026/Registration/}{https://events.illc.uva.nl/aiml2026/Registration/} Please note that the early registration closes on 22 May 2026, and 
+ 
+registration closes: Jun 15, 2026 
+ 
+\begin{itemize}\item  Regular:  €320 // early before 22 May: €250
+\item  Student:  €270 // early before 22 May: €220
+\end{itemize} 
+\item  ABOUT 
+ 
+  Advances in Modal Logic is an initiative aimed at presenting the state of the art in modal logic and its various applications. The initiative consists of a conference series together with volumes based on the conferences. AiML 2026 is organized by the Institute of Logic, Language and Computation (ILLC) of the University of Amsterdam (UvA). The conference will take place on 29 June - 3 July 2026. 
+ 
+  A list of accepted papers is available at: \href{https://events.illc.uva.nl/aiml2026/Accepted-Papers/}{https://events.illc.uva.nl/aiml2026/Accepted-Papers/} 
+ 
+\item  IMPORTANT DATES 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Registration deadline:  & Jun 15, 2026 \\
+Conference:  & Jul 29-3, 2026 \\
+\end{tabulary}
+ 
+\item  INVITED SPEAKERS 
+ 
+\begin{itemize}\item  Kit Fine (New York University)
+\item  David Gabelaia (Razmadze Mathematical Institute)
+\item  Mojtaba Mojtahedi (Ghent University)
+\item  Aybüke Özgün (University of Amsterdam)
+\item  Sara Uckelman (Durham University)
+\end{itemize} 
+\item  PROGRAM COMMITTEE CHAIRS  
+ 
+\begin{itemize}\item  Marta Bílková (The Czech Academy of Sciences)
+\item  Yanjing Wang (Peking University)
+\end{itemize} 
+\item  CONTACT 
+ 
+  To get in touch with the organizers please write to: aiml2026-illc@uva.nl 
+ 
+\end{itemize}\section{NMR 2026: 24th International Workshop on Nonmonotonic Reasoning}\label{NMR2026}  July 17-19, 2026, Lisbon, Portugal\\ 
+  Website: \href{https://nmr.krportal.org/2026/}{https://nmr.krportal.org/2026/}\\ 
+  Contact: NMR chairs Ana Ozaki (anaoz@uio.no) and Nico Potyka (potykan@cardiff.ac.uk).\\ 
+CALL FOR PARTICIPATION 
+
+\begin{itemize}\item  We invite participation in the 24th International Workshop on Nonmonotonic Reasoning (NMR 2026). NMR 2026 is co-located with the 23rd International Conference on Principles of Knowledge Representation and Reasoning (KR 2026) at the Federated Logic Conference (FLoC 2026). The workshop will bring together researchers working on nonmonotonic reasoning and related areas of knowledge representation and reasoning, including belief revision, uncertain reasoning, reasoning about actions, planning, logic programming, preferences, argumentation, causality, systems, and applications. Participation is open to all interested researchers and students. 
+ 
+\item  REGISTRATION 
+ 
+  Registration information for NMR 2026 is available at: \href{https://nmr.krportal.org/2026/#registration}{https://nmr.krportal.org/2026/\#registration} 
+ 
+  Direct FLoC 2026 registration page: \href{https://www.floc26.org/registration}{https://www.floc26.org/registration} 
+ 
+\item  DATES 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Early registration:  & Jun 01, 2026 \\
+Late registration:  & Jul 13, 2026 \\
+\end{tabulary}
+ 
+\item  GENERAL INFORMATION 
+ 
+  NMR is the premier forum for results in the area of Nonmonotonic Reasoning. Its aim is to bring together active researchers in this broad field within knowledge representation and reasoning (KR). NMR has a long history - it started in 1984 and, up until 2020, was held every two years. Recent previous NMR workshops were held in Melbourne (2025), Vietnam (2024), Greece (2023), Haifa (2022), Hanoi (virtually) (2021), Rhodes (virtually) (2020), Tempe (2018), Cape Town (2016), Vienna (2014), Rome (2012), Toronto (2010), and Sydney (2008). 
+ 
+\item  AIMS AND SCOPE 
+ 
+  NMR 2026 aims to foster connections between the different subareas of nonmonotonic reasoning and provide a forum for emerging topics. The workshop activities will include invited talks and presentations of accepted papers. 
+ 
+\item  ORGANIZATION 
+ 
+  General Co-Chairs: 
+ 
+\begin{itemize}\item  Ana Ozaki · University of Oslo and University of Bergen, Norway
+\item  Nico Potyka · Cardiff University, UK
+\end{itemize} 
+\item  Publicity Chair: 
+ 
+\begin{itemize}\item  Jacek Wegrzynowski · University of Oslo, Norway
+\end{itemize} 
+\end{itemize}\section{WPTE 2026: Rewriting Techniques for Program Transformations and Evaluation}\label{WPTE2026}  19 July 2026, Lisbon, Portugal\\ 
+  Affiliated with FLoC 2026\\ 
+  Webpage: \href{https://wpte2026.github.io/}{https://wpte2026.github.io/}\\ 
+CALL FOR PARTICIPATION 
+
+\begin{itemize}\item  The aim of WPTE is to bring together researchers working on program transformations, evaluation, and operationally based programming language semantics, using rewriting methods, in order to share the techniques and recent developments and to exchange ideas to encourage further activation of research in this area. 
+ 
+\item  The workshop will have two invited talks, by: 
+ 
+\begin{itemize}\item  Nada Amin, Harvard University
+\item  Nikos Tzevelekos, Queen Mary University of London (joint with GaLoP 2026)
+\end{itemize} 
+  as well as six contributed presentations: 
+ 
+\begin{itemize}\item  David B. Hulak, Arthur Freitas Ramos and Ruy J.G.B. de Queiroz: Sound Rewrites for Measurement-Bearing Expressions via Token-Sensitive Enclosure Semantics
+\item  Takumi Sato and Koji Nakazawa: A Cyclic Proof System for Trace Formula Implication with Least and Greatest Fixpoints
+\item  David Sabel and Manfred Schmidt-Schauß: Improvement Theory for Probabilistic Call-by-Need
+\item  Misaki Kojima and Naoki Nishida: On Comparing Python Programs Based on Differences in Rewrite Sequences to Support Grading Programming Exercises
+\item  Katarzyna Marek and Clément Pit Claudel: Tactic-driven code fusion
+\item  Ștefan Ciobâcă, K. Rustan M. Leino, Ștefan-Alexandru Mercas and Roxana-Mihaela Timon: An Interactive Proof Mode for Dafny Based on Back Translation of Verification Obligations
+\end{itemize} 
+\end{itemize}\section{POSTDOC POSITION: School of Computer Science, University of Sydney, Australia}\label{POSTDOCPOSITION}JOB ANNOUNCEMENT 
+
+\begin{itemize}\item  POSTDOC POSITION  
+ 
+  A postdoctoral position is available in theoretical computer science with Sasha Rubin at the University of Sydney on topics related to planning and reactive synthesis, funded by the ARC project ``Logic based planning under ignorance''. Within this broad topic, the project has scope to adapt to the candidate's interests. The appointment is initially for 2 years, with the possibility of extension. The starting date is flexible, but expected around early 2027. The successful candidate will join the Sydney Algorithms and Computing Theory group working in foundational aspects of computer science (usyd-sact.github.io/). 
+ 
+\begin{itemize}\item  Application link: tinyurl.com/cmfe4s58 Application deadline is at 11:59 PM (GMT+10).
+\end{itemize} 
+Application deadline: Jun 18, 2026 
+ 
+  Contact: sasha.rubin@sydney.edu.au 
+ 
+\end{itemize}
+
+
+\bigskip Links: \href{http://siglog.org/}{SIGLOG website}, \href{https://lics.siglog.org}{LICS website}, \href{https://lics.siglog.org/newsletters/}{SIGLOG Monthly}\end{document}
