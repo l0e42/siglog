@@ -2,7 +2,7 @@
 
 
  -dM CSL 2027:	Jul 08, 2026 (Abstract), Jul 15, 2026 (Paper)
- -dM PhD Position:	Aug 01, 2026 (Application deadline)
+ -dM PhD Position:  Aug 01, 2026 (Application deadline)
  
  
 
@@ -14,7 +14,7 @@ CALL FOR PAPERS
 * WORKSHOP
   The 9th International Workshop on Symbolic and Numerical Reasoning about games (SNR) aims to provide a platform for exploring symbolic and numerical techniques for reasoning about games, with applications in verification, synthesis, reactive systems, probabilistic models, and related areas.
 * SUBMISSIONS
-SNR solicits submissions for contributed talks in the form of extended abstracts, written in LIPIcs style and of up to 2 pages excluding references. Submissions describing ongoing work, new results, and work published elsewhere are welcome. All submissions will undergo a lightweight peer-reviewing process. Authors of selected submissions presenting original unpublished work will subsequently be invited to submit a full version of their work for publication in formal proceedings, to be published by EPTCS. Submissions will be judged on their expected interest and relevance to the theme of the workshop.
+  SNR solicits submissions for contributed talks in the form of extended abstracts, written in LIPIcs style and of up to 2 pages excluding references. Submissions describing ongoing work, new results, and work published elsewhere are welcome. All submissions will undergo a lightweight peer-reviewing process. Authors of selected submissions presenting original unpublished work will subsequently be invited to submit a full version of their work for publication in formal proceedings, to be published by EPTCS. Submissions will be judged on their expected interest and relevance to the theme of the workshop.
   Submissions can be made via EasyChair: https://easychair.org/conferences/?conf=snr26
 * TOPICS
    Numerical and symbolic methods in games, Automata theory for strategy synthesis, Verification using games, Logical methods for games, Quantitative aspects of games, Strategy synthesis in probabilistic models, Heuristics for solving games
