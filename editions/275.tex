@@ -1,0 +1,165 @@
+
+% v2-acmsmall-sample.tex, dated March 6 2012
+% This is a sample file for ACM small trim journals
+%
+% Compilation using 'acmsmall.cls' - version 1.3 (March 2012), Aptara Inc.
+% (c) 2010 Association for Computing Machinery (ACM)
+%
+% Questions/Suggestions/Feedback should be addressed to => "acmtexsupport@aptaracorp.com".
+% Users can also go through the FAQs available on the journal's submission webpage.
+%
+% Steps to compile: latex, bibtex, latex latex
+%
+% For tracking purposes => this is v1.3 - March 2012
+\documentclass[prodmode,acmtecs]{acmsmall} % Aptara syntax
+\usepackage[spanish,polish]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{fancyvrb}
+\usepackage{graphicx,hyperref}
+\newcommand\cutout[1]{}
+
+
+\usepackage[table]{xcolor}
+\usepackage[utf8]{inputenc}
+\usepackage[parfill]{parskip}
+\usepackage{tabulary}
+\PassOptionsToPackage{hyphens}{url}
+\usepackage{hyperref}    
+\usepackage[capitalize]{cleveref}
+
+
+% Metadata Information
+% !!! TODO: SET THESE VALUES !!!
+\acmVolume{0}
+\acmNumber{0}
+\acmArticle{CFP}
+\acmYear{0}
+\acmMonth{0}
+
+\newcounter{colstart}
+\setcounter{page}{4}
+
+\RecustomVerbatimCommand{\VerbatimInput}{VerbatimInput}%
+{
+%fontsize=\footnotesize,
+fontfamily=\rmdefault
+}
+
+
+\newcommand{\UnderscoreCommands}{%\do\verbatiminput%
+\do\citeNP \do\citeA \do\citeANP \do\citeN \do\shortcite%
+\do\shortciteNP \do\shortciteA \do\shortciteANP \do\shortciteN%
+\do\citeyear \do\citeyearNP%
+}
+
+\usepackage[strings]{underscore}
+
+
+
+% Document starts
+\begin{document}
+
+
+\setcounter{colstart}{\thepage}
+
+\acmArticle{CFP}
+\title{{\huge\sc SIGLOG Monthly 275}
+
+ July 2026}\author{ELLI ANASTASIADI\affil{Aalborg University, SE}\vspace*{-2.6cm}\begin{flushright}\includegraphics[width=30mm]{elli_anastasiadi.png}\end{flushright}}\begin{abstract}July 2026 edition of SIGLOG Monthly, featuring deadlines, calls and community announcements.
+\end{abstract}
+
+
+\maketitlee
+
+\href{https://lics.siglog.org/newsletters/}{Past Issues}
+ - 
+\href{https://lics.siglog.org/newsletters/inst.html}{How to submit an announcement}
+\section{Table of Contents}\begin{itemize}\item DEADLINES (\cref{deadlines}) 
+ 
+\item CALLS 
+ 
+\begin{itemize}\item SNR 26 (CALL FOR PAPERS, SNR solicits submissions for contributed talks in the form of extended abstracts, written in LIPIcs style and of up to 2 pages excluding references. Submissions describing ongoing work, new results, and work published elsewhere are welcome. All submissions will undergo a lightweight peer-reviewing process. Authors of selected submissions presenting original unpublished work will subsequently be invited to submit a full version of their work for publication in formal proceedings, to be published by EPTCS. Submissions will be judged on their expected interest and relevance to the theme of the workshop.) (\cref{SNR26})
+\item CONFEST 2026 (CALL FOR PARTICIPATION) (\cref{CONFEST2026})
+\end{itemize} 
+\end{itemize}\section{Deadlines}\label{deadlines}\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}CSL 2027:  & Jul 08, 2026 (Abstract), Jul 15, 2026 (Paper) \\
+SNR 26:  & Jul 09, 2026 (Submission deadline) \\
+CONFEST 2026:  & Jul 31, 2026 (Registration deadline) \\
+PhD Position:  & Aug 01, 2026 (Application deadline) \\
+\end{tabulary}
+\section{SNR 26: 9th INTERNATIONAL WORKSHOP ON SYMBOLIC AND NUMERICAL REASONING ABOUT GAMES}\label{SNR26}  September 5, 2026, Liverpool, United Kingdom\\ 
+  Satellite event of CONFEST'26\\ 
+  \href{https://confest-2026.github.io/workshops/snr/}{https://confest-2026.github.io/workshops/snr/} \\ 
+CALL FOR PAPERS 
+
+\begin{itemize}\item  WORKSHOP 
+ 
+  The 9th International Workshop on Symbolic and Numerical Reasoning about games (SNR) aims to provide a platform for exploring symbolic and numerical techniques for reasoning about games, with applications in verification, synthesis, reactive systems, probabilistic models, and related areas. 
+ 
+\item  SUBMISSIONS 
+ 
+\end{itemize}SNR solicits submissions for contributed talks in the form of extended abstracts, written in LIPIcs style and of up to 2 pages excluding references. Submissions describing ongoing work, new results, and work published elsewhere are welcome. All submissions will undergo a lightweight peer-reviewing process. Authors of selected submissions presenting original unpublished work will subsequently be invited to submit a full version of their work for publication in formal proceedings, to be published by EPTCS. Submissions will be judged on their expected interest and relevance to the theme of the workshop. 
+
+  Submissions can be made via EasyChair: \href{https://easychair.org/conferences/?conf=snr26}{https://easychair.org/conferences/?conf=snr26}\\ 
+\begin{itemize}\item  TOPICS 
+ 
+   Numerical and symbolic methods in games, Automata theory for strategy synthesis, Verification using games, Logical methods for games, Quantitative aspects of games, Strategy synthesis in probabilistic models, Heuristics for solving games 
+ 
+\item  IMPORTANT DATES 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Submission deadline:  & Jul 09, 2026 \\
+Notifications:  & Jul 20, 2026 \\
+Workshop:  & Sep 05, 2026 \\
+\end{tabulary}
+ 
+\item  INVITED SPEAKERS 
+ 
+  Munyque Mittelmann (CNRS, LIPN, Université Sorbonne Paris Nord) - More to be confirmed 
+ 
+\item  Detailed information can be found on the webpage. 
+ 
+\end{itemize}\section{CONFEST 2026: CONCUR, QEST+FORMATS, FMICS }\label{CONFEST2026}CALL FOR PARTICIPATION 
+
+\begin{itemize}\item  Dear Colleagues.  
+ 
+  We are excited to invite you to register for CONFEST 2026, which will host three major international conferences CONCUR 2026, the 37th International Conference on Concurrency Theory QEST+FORMATS 2026, the 3rd joint International Conference on Quantitative Evaluation of SysTems and on Formal Modeling and Analysis of Timed Systems FMICS 2026, the 31st International Conference on Formal Methods for Industrial Critical Systems. These events will take place in Liverpool, UK, from September 1 to September 5. 
+ 
+\item  Registration 
+ 
+  The Early Registration deadline is July 31, 2026: \href{https://confest-2026.github.io/registration/}{https://confest-2026.github.io/registration/} 
+ 
+Registration deadline: Jul 31, 2026 
+ 
+\item  Information on accommodation, including on-campus accommodation and conference hotel rates: \href{https://confest-2026.github.io/local/accommodation}{https://confest-2026.github.io/local/accommodation} 
+ 
+\item  The workshops Express/SOS, SNR, and YR-Concur are still accepting submissions:  
+ 
+\begin{itemize}\item  \href{https://expresssos.github.io/conf/2026}{https://expresssos.github.io/conf/2026}
+\item  \href{https://confest-2026.github.io/workshops/snr/}{https://confest-2026.github.io/workshops/snr/}
+\item  \href{https://confest-2026.github.io/workshops/yr-concur/}{https://confest-2026.github.io/workshops/yr-concur/}
+\end{itemize} 
+\item  Keynotes 
+ 
+\begin{itemize}\item  Jade Alglave, University College London, UK
+\item  Julia Badger, NASA Johnson Space Center, USA
+\item  Ezio Bartocci, TU Wien, Vienna, Austria
+\item  Ichiro Hasuo, National Institute of Informatics (NII), Tokyo, Japan
+\item  Jane Hillston, University of Edinburgh, UK
+\item  Kim G. Larsen, Aalborg University, Denmark
+\item  Colin O'Halloran, University of York, UK; D-RiSQ Ltd, UK
+\item  Jean-François Raskin, Université Libre de Bruxelles, Belgium
+\item  Qiyi Tang, University of Liverpool, UK
+\end{itemize} 
+\item  Workshops 
+ 
+\begin{itemize}\item  EXPRESS/SOS 2026: 33rd International Workshop on Expressiveness in Concurrency and 23rd Workshop on Structural Operational Semantics
+\item  RADICAL 2026: 5th International Workshop on Recent Advances in Concurrency and Logic
+\item  SNR 2026: Workshop on Symbolic and Numerical Reasoning about games 
+\item  TRENDS 2026: 14th IFIP WG 1.8 Workshop on Trends in Concurrency Theory 
+\item  YR-Concur 2026: 12th Young Researchers Workshop on Concurrency Theory 
+\end{itemize} 
+\item  For more information about the conferences and the venue, please visit: \href{https://confest-2026.github.io/}{https://confest-2026.github.io/} 
+ 
+\end{itemize}
+
+
+\bigskip Links: \href{http://siglog.org/}{SIGLOG website}, \href{https://lics.siglog.org}{LICS website}, \href{https://lics.siglog.org/newsletters/}{SIGLOG Monthly}\end{document}

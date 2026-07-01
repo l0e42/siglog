@@ -1,0 +1,64 @@
+-dd July 1, 2026
+
+
+ -dM CSL 2027:	Jul 08, 2026 (Abstract), Jul 15, 2026 (Paper)
+ -dM PhD Position:	Aug 01, 2026 (Application deadline)
+ 
+ 
+
+SNR 26: 9th INTERNATIONAL WORKSHOP ON SYMBOLIC AND NUMERICAL REASONING ABOUT GAMES
+  September 5, 2026, Liverpool, United Kingdom
+  Satellite event of CONFEST'26
+  https://confest-2026.github.io/workshops/snr/ 
+CALL FOR PAPERS
+* WORKSHOP
+  The 9th International Workshop on Symbolic and Numerical Reasoning about games (SNR) aims to provide a platform for exploring symbolic and numerical techniques for reasoning about games, with applications in verification, synthesis, reactive systems, probabilistic models, and related areas.
+* SUBMISSIONS
+SNR solicits submissions for contributed talks in the form of extended abstracts, written in LIPIcs style and of up to 2 pages excluding references. Submissions describing ongoing work, new results, and work published elsewhere are welcome. All submissions will undergo a lightweight peer-reviewing process. Authors of selected submissions presenting original unpublished work will subsequently be invited to submit a full version of their work for publication in formal proceedings, to be published by EPTCS. Submissions will be judged on their expected interest and relevance to the theme of the workshop.
+  Submissions can be made via EasyChair: https://easychair.org/conferences/?conf=snr26
+* TOPICS
+   Numerical and symbolic methods in games, Automata theory for strategy synthesis, Verification using games, Logical methods for games, Quantitative aspects of games, Strategy synthesis in probabilistic models, Heuristics for solving games
+* IMPORTANT DATES
+ -dh Submission deadline: July 9, 2026 
+ -d Notifications: July 20, 2026 
+ -d Workshop: September 5, 2026
+* INVITED SPEAKERS
+  Munyque Mittelmann (CNRS, LIPN, Université Sorbonne Paris Nord) - More to be confirmed
+* Detailed information can be found on the webpage.
+
+
+
+ 
+CONFEST 2026: CONCUR, QEST+FORMATS, FMICS 
+CALL FOR PARTICIPATION
+* Dear Colleagues. 
+  We are excited to invite you to register for CONFEST 2026, which will host three major international conferences CONCUR 2026, the 37th International Conference on Concurrency Theory QEST+FORMATS 2026, the 3rd joint International Conference on Quantitative Evaluation of SysTems and on Formal Modeling and Analysis of Timed Systems FMICS 2026, the 31st International Conference on Formal Methods for Industrial Critical Systems. These events will take place in Liverpool, UK, from September 1 to September 5.
+* Registration
+  The Early Registration deadline is July 31, 2026: https://confest-2026.github.io/registration/
+ -dh Registration deadline: July 31, 2026
+* Information on accommodation, including on-campus accommodation and conference hotel rates: https://confest-2026.github.io/local/accommodation
+* The workshops Express/SOS, SNR, and YR-Concur are still accepting submissions: 
+ - https://expresssos.github.io/conf/2026
+ - https://confest-2026.github.io/workshops/snr/
+ - https://confest-2026.github.io/workshops/yr-concur/
+* Keynotes
+ - Jade Alglave, University College London, UK
+ - Julia Badger, NASA Johnson Space Center, USA
+ - Ezio Bartocci, TU Wien, Vienna, Austria
+ - Ichiro Hasuo, National Institute of Informatics (NII), Tokyo, Japan
+ - Jane Hillston, University of Edinburgh, UK
+ - Kim G. Larsen, Aalborg University, Denmark
+ - Colin O'Halloran, University of York, UK; D-RiSQ Ltd, UK
+ - Jean-François Raskin, Université Libre de Bruxelles, Belgium
+ - Qiyi Tang, University of Liverpool, UK
+* Workshops
+ - EXPRESS/SOS 2026: 33rd International Workshop on Expressiveness in Concurrency and 23rd Workshop on Structural Operational Semantics
+ - RADICAL 2026: 5th International Workshop on Recent Advances in Concurrency and Logic
+ - SNR 2026: Workshop on Symbolic and Numerical Reasoning about games 
+ - TRENDS 2026: 14th IFIP WG 1.8 Workshop on Trends in Concurrency Theory 
+ - YR-Concur 2026: 12th Young Researchers Workshop on Concurrency Theory 
+* For more information about the conferences and the venue, please visit: https://confest-2026.github.io/
+
+
+
+
