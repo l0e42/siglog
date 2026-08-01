@@ -1,0 +1,298 @@
+<head>
+<TITLE>LICS Newsletter 23</TITLE>
+<!-- Changed by: Doug Howe, 24-Feb-1995 -->
+</head> <P>
+
+<body>
+
+
+<H2>Newsletter 23, February 10, 1995</H2>
+
+<P>
+<br>
+
+<PRE>
+<A HREF="http://www.tac.mta.ca/tac/">NEW REFEREED ELECTRONIC JOURNAL: THEORY AND APPLICATIONS OF CATEGORIES</A>
+* Editorial Board.  John Baez, Michael Barr, Lawrence Breen, Ronald Brown,
+  Jean-Luc Brylinski, Aurelio Carboni, G. Max Kelly, Anders Kock,
+  F. William Lawvere, Jean-Louis Loday, Ieke Moerdijk, Susan Niefield,
+  Robert Pare, Andrew Pitts, Robert Rosebrugh, Jiri Rosicky, James
+  Stasheff, Ross Street, Walter Tholen, R. W. Thomason, Myles Tierney,
+  Robert F. C. Walters, R. J. Wood.
+* Topics.  All areas of pure category theory, including higher dimensional
+  categories; applications of category theory to algebra, geometry and
+  topology and other areas of mathematics; applications of category theory
+  to computer science, physics and other mathematical sciences;
+  contributions to scientific knowledge that make use of categorical
+  methods.
+* Subscription Information.  Individual subscribers receive (by e-mail)
+  abstracts of articles as they are published. Full text of published
+  articles is available in .dvi and Postscript format. Details will be
+  e-mailed to new subscribers and are available by WWW/gopher/ftp. To
+  subscribe, send e-mail to tac@mta.ca including a full name and postal
+  address.  For institutional subscription, send enquiries to the Managing
+  Editor, Robert Rosebrugh, rrosebrugh@mta.ca.
+* Further Information.  WWW, or by anonymous ftp from
+  ftp.tac.mta.ca:pub/tac.
+
+WORKSHOP ON ADVANCES IN TYPE SYSTEMS FOR COMPUTING
+  August 14-18, 1995, Newton Institute, Cambridge, UK
+* Topics.  The use of typing in computing, with particular emphasis on the
+  following three related areas: extensions of the ML type system, types in
+  object-oriented programming, type theories for reactive systems.
+* Invited speakers.  M Abadi, X Leroy, V Saraswat, K Bruce, D MacQueen, S
+  Smith, L Cardelli, J Palsberg, M Tofte, R Harper, B Pierce, A Yonezawa.
+* Programme committee. S Abramsky, L Cardelli, J Mitchell (Chair) A Pitts,
+  A Yonezawa.
+* Submissions.  The organizers invite offers of contributed talks. These
+  will be selected by the programme committee on the basis of submitted
+  abstracts.  Five copies of an abstract in English (up to 2 pages) should
+  be sent to the program committee chairman John Mitchell (ATSC),
+  Department of Computer Science, Stanford University, Stanford, CA
+  94305-2140, USA, to arrive not later than 1 April, 1995.
+* Grants.  The conference will provide grants towards registration, travel
+  and subsistence costs of selected young (under 35 years) participants who
+  are citizens of a European Union Member State, or a person residing and
+  working for at least one year in such a country.  Application forms are
+  available by ftp from ftp.newton.cam.ac.uk as
+  pub/programmes/semATSCform.txt, or by post from Florence Leroy at the
+  address below, and are due by April 30, 1995.
+* Further information, registration forms.  Florence Leroy, Isacc Newton
+  Institute, 20 Clarkson Road, Cambridge CB3 0EH.  Tel: +44 1223 335984.
+  Fax: +44 1223 330508.  Email: f.leroy@newton.cam.ac.uk.
+
+<A HREF="http://www.brics.aau.dk/tapsoft/">UPDATE: CONF. ON THEORY AND PRACTICE OF SOFTWARE DEVELOPMENT (TAPSOFT'95)</A>
+  May 22-26, 1995, Univ. of Aarhus, Denmark
+[Call for papers appears in Newsletter 17.]
+* Preliminary programme.  Preliminary programme, abstracts of talks,
+  registration form obtainable electronically.  WWW.  FTP:
+  ftp.brics.aau.dk, userid ftp, get pub/TAPSOFT/README.  E-mail:
+  tapsoft@brics.aau.dk.  Fax: +45 8942 3255.  BRICS - TAPSOFT '95, Dept. of
+  Computer Science, Univ. of Aarhus, Ny Munkegade Bldg. 540, DK-8000 Aarhus
+  C, Denmark.
+* Satellite Meetings.  TACAS (Workshop on Tools and Algorithms for
+  Construction and Analysis of Systems, 19-20 May), TPA (Workshop on Types
+  for Program Analysis, 26-27 May), COMPASS WG (ESPRIT BR WG, 26-27 May).
+
+<A HREF="http: //www.cs.technion.ac.il/~logic95">UPDATE: LOGIC COLLOQUIUM 1995</A>
+  August 9-17 [*new start date*], 1995, Haifa, Israel
+[First announcement appears in Newsletter 15.]
+* Invited Speakers.  Tutorials: K. Compton (0-1 Laws in Finite Model
+  Theory), S. Goldwasser (Interactive Proofs), D. Marker (Stability: From
+  the Spectrum Problem to Geometric Stability), T. Slaman (Recent
+  Developments Recursion Theory).  Plenary lectures: H. Becker (Set
+  Theory), P. Blackburn (Logic and Linguistics), W. Buchholz (Proof
+  Theory), Z. Chatzidakis (Model Theory), B. Cooper (Recursion Theory),
+  A. Dawar (Finite Model Theory), R. Downey (Recursion Theory),
+  L. Harrington (Recursion Theory), I. Herzog (Model Theory), E. Hrushovski
+  (Model Theory), P. King (Logic and Linguistics), J. Krajicek (Proof
+  Theory and Complexity), J. Lynch (Finite Model Theory), P. Maddy (Set
+  Theory: 100 years), M. Makkai (Categorical Model Theory), D. Martin (Set
+  Theory: 100 Years), G. Moore (Set Theory: 100 Years), A. Nies (Recursion
+  Theory), M. Rathjen (Proof Theory), M. Pentus (Logic and Linguistics),
+  Y. Peterzil (Model Theory), A. Pillay, (Model Theory), S. Shelah (Set
+  Theory), L. Soukup (Set Theory), A. Stolboushkin (Theoretical CS),
+  S. Wainer (Proof Theory).
+* Submissions.  Participants intending to present a contributed paper are
+  requested to submit a one page abstract, preferably by e-mail to:
+  logic95-abstracts@cs.technion.ac.il by April 30, 1995.
+* Grants.  Limited number available for the participants of the following
+  categories: graduate students in logic, participants from countries with
+  severe foreign currency problems, and individuals without any external
+  financial support.
+* Further Information.  WWW.  E-mail: logic95@cs.technion.ac.il (for
+  general information), logic95-registration@cs.technion.ac.il (for
+  preregistration and registration), logic95-grants@cs.technion.ac.il (for
+  applications for grants), logic95-abstracts@cs.technion.ac.il (for
+  submitting abstracts).  Correspondence: Logic Colloquium 95, Yvonne Sagi,
+  Department of Computer Science, Technion--Israel Institute of Technology,
+  Haifa 32000, Israel.
+
+<A HREF="http://www.dcs.ed.ac.uk/tlca">REMINDER: INT'L CONF. ON TYPED LAMBDA CALCULI AND APPLICATIONS (TLCA'95) </A>
+  April 10-12, 1995, Edinburgh
+  
+<A HREF="http://www.cl.cam.ac.uk/users/lcp/isabelle-course.html">INTRODUCTION TO THEOREM PROVING, USING ISABELLE (COURSE)</A>
+  12-14 July 1995, Cambridge, England, immediately prior to Mathematics
+    of Program Construction (MPC '95)
+* Topics.  The course uses lectures and practical sessions to teach
+  students how to use the Isabelle system to perform proofs in higher-order
+  logic.  Main points: single-step proof checking; forward and backward
+  proof; declaring types and constants; quantifier reasoning; higher-order
+  logic in Isabelle; advanced proof tools.
+* Lecturer.  Lawrence C Paulson, the originator of Isabelle.
+* Cost.  650 pounds sterling (350 pounds for academics) plus accommodation
+* Technical Correspondence.  Lawrence C Paulson, Computer Laboratory,
+  Pembroke Street, Cambridge CB2 3QG, England.  E-mail lcp@cl.cam.ac.uk
+* Adminstrative Correspondence.  The Registration Administrator,
+  Programme for Industry, 1 Trumpington St, Cambridge CB2 1QA, England.
+  Tel +44 (0)1223 302233.  E-mail: rjs1008@cus.cam.ac.uk
+
+<A HREF="http://www.ens.fr/users/dicosmo/Publications/ISObook.html">NEW BOOK: ISOMORPHISMS OF TYPES, ROBERTO DI COSMO</A>
+* Full Title.  Isomorphisms of types, from lambda calculus to information
+  retrieval and language design.
+* Summary. This is a study of the notion of type-isomorphisms in functional
+  languages, both from a theoretical and a practical point of view.  Based
+  on the author's PhD dissertation, it has been extensively revised,
+  updated and provided with a completely new introduction to the topic,
+  that makes it accessible to a wide spectrum of readers. It tries hard to
+  provide a complete reference and discussion of all research done in this
+  area, from the definition of confluent rewriting systems for typed lambda
+  calculi equipped with various extensionality rules, to the
+  characterization of isomorphisms of types in different typed calculi, to
+  the applications to extensions of ML-style type-inference algorithms and
+  the design of library search tools based on types.
+* To Order. In North America call: 1 800 777-4643 or fax to: 1 617 876-1272
+  or write to Birkhauser, 675 Massachusetts Ave., Cambridge, MA 02139.
+  Outside N. America fax to 41 61 271 7666 or write to Birkhauser Verlag
+  AG, P.O. Box 133, Klosterberg 23, CH-1040 Basel, Switzerland.  Please
+  give the ISDN number when ordering.
+* Further Information.  References, summary and table of contents available
+  from WWW page.
+* ISBN number.  0-8176-3763-X.
+
+<A HREF="http://daigo.sfc.keio.ac.jp/iei/iclp95.html">TWELFTH INTERNATIONAL CONFERENCE ON LOGIC PROGRAMMING</A>
+  June 13--18, 1995, Kanagawa, Japan
+* Further Information.  WWW, or the local arrangements chair: Dr. Mutsumi
+  Imai, Faculty of Information Environment, Keio University, 5322 Endo,
+  Fujisawa-shi, Kanagawa 252, Japan.  Email: imai@sfc.keio.ac.jp.  Phone:
+  +81-466-47-5111 ext. 3223.  Fax: +81-466-47-5350.
+
+<A HREF="http://www.uni-koblenz.de/~tab95/CallForParticipation.html">WORKSHOP ON THEOREM PROVING WITH ANALYTIC TABLEAUX AND RELATED METHODS </A>
+  May 7-10, 1995, castle Rheinfels, St. Goar am Rhein, Germany
+* Topics.  Mechanisation of reasoning with tableaux and related systems
+  (analytic tableaux, model elimination, connection method, sequent
+  calculi). Covered are theoretical aspects of classical and non-classical
+  logics, as well as topics related to practical implementations.
+* Invited speakers.  Wolfgang Bibel, Ricardo Caferra.
+* Program Committee.  Peter Baumgartner, Krysia Broda, Marcello D'Agostino,
+  Melvin Fitting, Ulrich Furbach, Dov Gabbay, Rajeev Gore, Jean Goubault,
+  Reiner H"ahnle, Ryuzo Hasegawa, Rob Johnson, Thomas K"aufl, Reinhold
+  Letz, Neil Murray, Ugo Moscato, Joachim Posegga, Peter Schmitt, Camilla
+  Schwind, Graham Wrightson.
+* Local Arrangements.  Ulrich Furbach, Computer Science Institute,
+  University of Koblenz, Rheinau 1, 56075 Koblenz, Germany.  Fax: ++ 49 261
+  9119 499.  Phone: ++ 49 261 9119 433.  E-mail:
+  tab95@informatik.uni-koblenz.de.
+
+<A HREF="http://www.math.tulane.edu/mfps11.html">MATHEMATICAL FOUNDATIONS OF PROGRAMMING SEMANTICS, 11TH INT'L CONF (MFPS XI) </A>
+  March 29 - April 1, 1995, Tulane University, New Orleans, LA USA
+* Invited Speakers.  Andreas Blass, Ed Clarke, Neil Jones, Robin Milner,
+  John Reynolds, Robert Tennent.
+       
+SEVENTH EUROPEAN SUMMER SCHOOL IN LOGIC LANGUAGE AND INFORMATION
+  August 14-25 1995, Barcelona.
+* Topics.  The main focus of the Summer School is the interface between
+  logic, linguistics and computation, where it concerns the modelling of
+  human linguistic and cognitive abilities.  The 1995 School programme will
+  include courses, workshops, and symposia covering a variety of topics
+  within six areas of interest: Logic, Language, Computation, Logic and
+  Computation, Computation and Language, Language and Logic.
+* Lecturers.  Logic and Language: G Link, J van Eijck, J Jaspars, A Visser,
+  C.Vermeulen, M Kracht, B Keller, M Kanazawa, D de Jongh, F Moltmann, C
+  Fox, H Rott, R Cooper, M Poesio.  Logic: R Jansana, I Hodkinson, J Flum,
+  P Blackburn, M de Rijke, Y de Venema, J Font, K Devlin.  Computation and
+  Logic: D Basin, S Mathews, F Baader, G Koestler, H Barringer, D Gabbay, C
+  Brink, L Wallen, M Marx, S Mikulas, F Baader, K Schlecta, S Biundo.
+  Computation: M Nielsen, C Paulin-Mohring, N Jones, L Meertens, S
+  Peyton-Jones, B Haglund.  Language and Computation: E Stabler, M Johnson,
+  R Bod, R Scha, M Moortgat, M Dalrymple, R Kaplan, B Carpenter, G Morrill,
+  V Abrusci, R Dale, M Ellison, F verdejo, R Kempson.  Language: P Miller,
+  J Bresnan, H Verkuyl, H Clahsen, D Oehrle, J Doerre, S Manandhar, A
+  Zaenen, L Sadler.
+* Further Information.  ESSLLI95, GILCUB, Avda. Vallvidrera 25, 08017
+  Barcelona.  Fax +43 3 2054656.  Tlf +43 3 2033597.  E-mail
+  esslli95@gilcub.es.
+
+ORDER IN ALGEBRA AND LOGIC V
+  21-25 March 1995, Merton College, Oxford
+* Further Information.  Angus Macintyre (email: ajm@vax.ox.ac.uk), Anne
+  Hodgson(anne@maths.oxford.ac.uk) or Stefano Aguzzoli
+  (stefano@maths.oxford.ac.uk).
+
+<A HREF="http://www.cis.upenn.edu/concur95/concur95.html">SIXTH INT'L CONF ON CONCURRENCY THEORY (CONCUR '95)</A>
+  August 21-24, 1995, Philadelphia, Pennsylvania, USA
+* Topics.  All areas of semantics, logics, and verification techniques for
+  concurrent systems.  Potential topics include, but are not limited to,
+  process algebras, Petri nets, true concurrency, shared-memory and
+  message-passing formalisms, operational and denotational models,
+  programming language semantics, probabilistic and real-time processes,
+  hybrid systems, concurrent logic and constraint programming, fairness,
+  temporal logics, compositional analysis techniques, and verification
+  tools.
+* Submissions.  Uuencoded dvi or postscript (tm) files should be e-mailed
+  to: concur95-submit@cs.sunysb.edu.  When electronic submission is not
+  possible, send five hardcopies of the paper to CONCUR '95, Attn: Scott
+  Smolka, Dept. of Computer Science, SUNY at Stony Brook, Stony Brook, NY
+  11794-4400, USA (telephone: +1 516 632 8453; fax: +1 516 632 8334).
+  Submissions should contain a draft of a full paper of no more than 15
+  typed pages accompanied by a one-page abstract.  Submission deadline: 1
+  March 1995.
+* Program Committee.  B. Bloom, R. Cleaveland, P. Degano, R. van Glabbeek,
+  R. Gerth, S. Graf, J.F. Groote, C. Heitmeyer, T. Henzinger, H. Hungar,
+  L. Jategaonkar Jagadeesan, A. Jeffrey, I. Lee (co-chair), J. Parrow,
+  A. Rabinovitch, D. Sangiorgi, S. Schneider, A. Skou, S. Smolka
+  (co-chair), E. Stark, B. Thomsen, M. Young.
+* Further Information.  Plain text, dvi, and postscript versions of the
+  Call For Papers as well as the latest information on CONCUR '95 can be
+  obtained electronically via: e-mail: concur95@cis.upenn.edu; ftp:
+  ftp.cis.upenn.edu (158.130.12.3) -- pub/concur95; www.
+
+<A HREF="http://csli-www.stanford.edu/hp/">LOGIC COURSEWARE: TURING'S WORLD, TARSKI'S WORLD, HYPERPROOF</A>
+* Authors.  Jon Barwise (barwise@indiana.edu), John Etchemendy
+  (etch@csli.stanford.edu).
+* Tarski's World.  The Macintosh version of Tarski's World is available in
+  two ways, either alone (called "Tarski's World 4.0") or as part of the
+  logic textbook/software package called "The Language of First-order
+  Logic," by Barwise and Etchemendy.  Tarski's World is also available for
+  IBM-compatible computers equipped with Microsoft Windows.
+* Hyperproof.  Hyperproof is proof system that allows the user to reason
+  using both sentences of first-order logic and blocks world diagrams
+  similar to those used in Tarski's World.  It is an excellent companion to
+  Tarski's World or The Language of First-order Logic.  It is presently
+  available only for the Macintosh.
+* Turing's World.  The new version allows the user to build finite state
+  machines and nondeterministic machines, in addition to Turing machines.
+  It is currently available only on Macintosh.  A version of Turing's World
+  for IBM-compatible machines running Microsoft Windows is nearing
+  completion and should be available in Spring, 1995.
+* Ordering Information.  See the WWW page or contact the authors.
+
+UPDATE: 2ND WORKSHOP ON AUTOMATED REASONING: 
+        BRIDGING THE GAP BETWEEN THEORY AND PRACTICE
+  April 4, 1995, University of Sheffield, England
+* Submission Deadline [*Extended*].  Thursday February 16th.
+* Topics.  Researchers across the broad spectrum of automated reasoning
+  have observed a gap between theory and practice in their area of
+  specialization.  This workshop series aims to bring together researchers
+  from all areas of automated reasoning to address approaches to bridging
+  this gap.  The workshop also aims to foster links and facilitate
+  cross-fertilization of ideas among researchers from various disciplines;
+  among researchers from academia, industry and government; and between
+  theoreticians and practitioners.  The scope of the workshop will cover
+  the full breadth and diversity of automated reasoning, including topics
+  such as logic and functional programming; equational reasoning; deductive
+  databases; unification and constraint solving; the application of formal
+  methods to specifying, deriving, transforming and verifying computer
+  systems and in particular safety-critical systems; deductive and
+  non-deductive reasoning, including abduction, induction, nonmonotonic
+  reasoning, and analogical reasoning; commonsense reasoning; and the wide
+  range of topics that fall under the heading of knowledge representation
+  and reasoning.
+* Format.  The workshop will be structured around 3 or 4 panel sessions and
+  will include open poster sessions.  It will include sessions on "Can
+  Automated Reasoning Bridge the Formal Methods Gap?", Alan Bundy;
+  "Constraint Satisfaction", Barbara Smith.
+* Submissions.  Submit a position paper by February 16th, 1995, to the
+  programme chair at the address below.  Authors either may submit three
+  unstapled hardcopies of their paper, or may email their paper in
+  postscript.
+* Correspondence.  To Programme Chair: Andrew Ireland, Department of
+  Artificial Intelligence, University of Edinburgh, 80 South Bridge,
+  Edinburgh EH1 1HN, United Kingdom.  Phone: +44 (31) 650 2721.  Fax: +44
+  (31) 650 6516.  Email: a.ireland@ed.ac.uk.
+* Organizing Committee.  Alan Bundy, Barry Crabtree, Alan Frisch, Roger
+  Jones, Antony Galton, Andrew Ireland.
+</PRE>
+
+
+</body>

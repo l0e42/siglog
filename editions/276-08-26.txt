@@ -36,7 +36,7 @@ CALL FOR PAPERS
   Deadlines are firm; late submissions will not be considered.
 * Conference website: https://icalp.uj.edu.pl/home/#home
 * SUBMISSION GUIDELINES  (for Track B)
-  For details on submissions, page limits, tempaltes, and use of AI, please visit the website.
+  For details on submissions, page limits, templates, and use of AI, please visit the website.
 * PROCEEDINGS 
   ICALP proceedings are published in the Leibniz International Proceedings in Informatics (LIPIcs) series. This is a series of high-quality conference proceedings across all fields in informatics established in cooperation with Schloss Dagstuhl ? Leibniz Center for Informatics.
   LIPIcs volumes are published according to the principle of Open Access, i.e., they are available online and free of charge. The accepted papers will need to comply with the LIPIcs style.
