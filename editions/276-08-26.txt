@@ -1,0 +1,85 @@
+-dd August 1, 2026
+
+
+
+
+NEW CHAIR OF SIGLOG: ANUJ DAWAR
+ANNOUNCEMENT -s SIGLOG MATTER
+* I am writing to you as the new chair of SIGLog with news of changes happening at the organization.  I have recently taken over from Catuscia Palamidessi in this position.  At the same time, Prakash Panangaden has taken over the position of vice-chair.  Sandra Alves and Elaine Pimentel continue in their roles as Secretary and Treasurer respectively.  I wanted to start by thanking Catuscia for her dedicated service to the organization through a difficult time.
+  Secondly, I want to provide you with an update on SIGLog and its activities. As many of you know, SIGLog has had some financial difficulties in recent years caused by ACM requiring an increased contribution from SIGs during its transition to open-access publishing. A year ago, we were looking at the real prospect of dissolving SIGLog or seeing it merge with another SIG. I am happy to say that these issues are now resolved. We have reached a settlement with the ACM which sees our contribution restored to its previous level, balanced by our income from the ACM Digital Library. This leaves us with income from membership fees and conferences to support the important activities that SIGLog funds. These include the Women in Logic (WiL) meetings, Logic Mentoring workshops, the Church award and student support. We are now able to look forward to a period of rebuilding and taking new initiatives. I am keen on hearing from the SIGLog membership, and the wider Logic in Computer Science community on how SIGLog can serve you. I would be very happy to receive any suggestions that you might have.
+  This past week I have been attending FLOC in Lisbon which is a quadrennial gathering of our community, and one of the main purposes of SIGLog. This year it sees over 2000 participants taking part in a very lively event. It is a reminder that we have a vibrant research community and the vital role that SIGLog plays in representing this community within ACM and the broader field of computer science.
+  In closing, I would like to urge you all to renew your SIGLog membership or take one out if you do not already have one to support this important work. Here's the link: https://siglog.org
+ - Anuj Dawar. anuj.dawar@cl.cam.ac.uk
+ 
+
+
+
+
+
+ICALP 2027: The 54th EATCS International Colloquium on Automata, Languages, and Programming
+  TRACK B
+  https://icalp.uj.edu.pl/track-b/
+  Krakow, Poland, July 5-9, 2027
+CALL FOR PAPERS
+* ICALP is the main conference and annual meeting of the European Association for Theoretical Computer Science (EATCS). As usual, ICALP will be collocated with a series of workshops.
+  The 2027 edition has the following features:
+ - Submissions are anonymous; for track B, there is a rebuttal phase. 
+ - For the first time, Track B will be using a two-round submission process. A paper can be submitted to one out of two submission deadlines, but not to both. (Track A has only one round.)
+ - The conference is planned as a physical, in-person event.
+* IMPORTANT DATES
+  First round (for Track B only)
+ -dh Submissions: September 15, 2026 (anywhere on earth)
+ -d Rebuttal: 5-9 November, 2026
+ -d Author notification: 8 December 2026
+ There will also be a second round for Track B (and the only round for Track A). The deadlines for the second round are pending. 
+ -dv Conference: Jul 5-9, 2027
+  Deadlines are firm; late submissions will not be considered.
+* Conference website: https://icalp.uj.edu.pl/home/#home
+* SUBMISSION GUIDELINES  (for Track B)
+  For details on submissions, page limits, tempaltes, and use of AI, please visit the website.
+* PROCEEDINGS 
+  ICALP proceedings are published in the Leibniz International Proceedings in Informatics (LIPIcs) series. This is a series of high-quality conference proceedings across all fields in informatics established in cooperation with Schloss Dagstuhl ? Leibniz Center for Informatics.
+  LIPIcs volumes are published according to the principle of Open Access, i.e., they are available online and free of charge. The accepted papers will need to comply with the LIPIcs style.
+* TOPICS 
+  Papers presenting original research on all aspects of theoretical computer science are sought. For track B the theme is: Automata, Logic, Semantics, and Theory of Programming. For a more detailed description of the topics please visit the online CFP.
+* ICALP 2027 WORKSHOPS
+  The first call will be issued in the coming fall.
+* ICALP 2027 Proceedings Chair
+ - Gabriele Puppis (Udine University)
+* ICALP 2027 Organizing Committee
+ - Jakub Kozik (Jagiellonian University), Conference Co-Chair
+ - Marcin Kozik (Jagiellonian University), Conference Co-Chair
+
+
+
+
+
+
+LPNMR 2026: 18th International Conference on Logic Programming and Non-monotonic Reasoning
+  Klagenfurt, Austria, September 7-11, 2026
+  Website: https:lpnmr2026.aics.aau.at
+  Contact us: lpnmr2026@easychair.org
+CALL FOR PARTICIPATION
+* We are pleased to invite you to participate in the 18th International Conference on Logic Programming and Non-monotonic Reasoning (LPNMR 2026). The conference will take place at the University of Klagenfurt, Austria, from September 7 to September 11, 2026. The event will include:
+ - 3 Invited Talks given by Chitta Baral, Elena Bellodi and Thomas Eiter
+ - 33 Paper Presentations (28 regular papers, 4 short papers, 1 recently published research paper)
+ - 6th International Workshop on the Resurgence of Datalog in Academia and Industry (DATALOG 2.0): https://sites.google.com/view/datalog-2-0-2026
+ - 5th International Workshop on HYbrid Models for Coupling Deductive and Inductive ReAsoning (HYDRA): https://sites.google.com/unical.it/hydra-2026
+ - Doctoral Consortium: https://sites.google.com/unical.it/dclpnmr2026
+* The (preliminary) conference program is available at EasyChair: https://easychair.org/smart-program/LPNMR2026/
+  Registration to LPNMR 2026, with early registration by *August 16*, is open at: https://conference3.aau.at/event/316/registrations/328/
+ -dh Early registration: August 16, 2026
+* Limited NSF support to attend LPNMR 2026 will be provided to *US-based students*. If eligible, please complete the following form: https://forms.gle/mmGX1tEB621LkJFZA
+* AIMS AND SCOPE
+  LPNMR 2026 is the eighteenth in the series of international conferences on logic programming and non-monotonic reasoning. LPNMR is a forum for exchanging ideas on declarative logic programming, non-monotonic reasoning, and knowledge representation. The aim of the conference is to facilitate interactions between researchers and practitioners interested in the design and implementation of logic-based programming languages and database systems, and those working in knowledge representation and non-monotonic reasoning. LPNMR strives to encompass theoretical and experimental studies that have led or will lead to advances in declarative programming and knowledge representation, as well as their use in practical applications.
+  LPNMR 2026 aims to bring together researchers from LPNMR and neighboring areas in order to share research experiences, promote collaboration and identify directions for joint future research.
+* VENUE
+  LPNMR 2026 will be held on the campus of the University of Klagenfurt in September 2026. Klagenfurt is the capital of the state Carinthia in the south of Austria. The name Klagenfurt was first mentioned in the late 12th century and legend has it that Klagenfurt was founded after a couple of brave men had slain the abominable Lindwurm, a winged dragon. The city is located next to the lake Woerthersee, one of the most beautiful lakes in Austria, surrounded by several forest-covered hills and mountains. Being a small city, with a Renaissance-style city center reflecting 800 years of history and with an Italian influence, Klagenfurt is a pleasant place to live and work.
+* ORGANISING COMMITTEE
+ - General Chair: Wolfgang Faber, University of Klagenfurt, Austria
+ - Program Co-chairs: Martin Gebser, University of Klagenfurt, Austria, and Yanhong Annie Liu, Stony Brook University, US
+
+
+
+ 
+
