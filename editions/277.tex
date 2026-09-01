@@ -1,0 +1,260 @@
+
+% v2-acmsmall-sample.tex, dated March 6 2012
+% This is a sample file for ACM small trim journals
+%
+% Compilation using 'acmsmall.cls' - version 1.3 (March 2012), Aptara Inc.
+% (c) 2010 Association for Computing Machinery (ACM)
+%
+% Questions/Suggestions/Feedback should be addressed to => "acmtexsupport@aptaracorp.com".
+% Users can also go through the FAQs available on the journal's submission webpage.
+%
+% Steps to compile: latex, bibtex, latex latex
+%
+% For tracking purposes => this is v1.3 - March 2012
+\documentclass[prodmode,acmtecs]{acmsmall} % Aptara syntax
+\usepackage[spanish,polish]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{fancyvrb}
+\usepackage{graphicx,hyperref}
+\newcommand\cutout[1]{}
+
+
+\usepackage[table]{xcolor}
+\usepackage[utf8]{inputenc}
+\usepackage[parfill]{parskip}
+\usepackage{tabulary}
+\PassOptionsToPackage{hyphens}{url}
+\usepackage{hyperref}    
+\usepackage[capitalize]{cleveref}
+
+
+% Metadata Information
+% !!! TODO: SET THESE VALUES !!!
+\acmVolume{0}
+\acmNumber{0}
+\acmArticle{CFP}
+\acmYear{0}
+\acmMonth{0}
+
+\newcounter{colstart}
+\setcounter{page}{4}
+
+\RecustomVerbatimCommand{\VerbatimInput}{VerbatimInput}%
+{
+%fontsize=\footnotesize,
+fontfamily=\rmdefault
+}
+
+
+\newcommand{\UnderscoreCommands}{%\do\verbatiminput%
+\do\citeNP \do\citeA \do\citeANP \do\citeN \do\shortcite%
+\do\shortciteNP \do\shortciteA \do\shortciteANP \do\shortciteN%
+\do\citeyear \do\citeyearNP%
+}
+
+\usepackage[strings]{underscore}
+
+
+
+% Document starts
+\begin{document}
+
+
+\setcounter{colstart}{\thepage}
+
+\acmArticle{CFP}
+\title{{\huge\sc SIGLOG Monthly 277}
+
+ September 2026}\author{ELLI ANASTASIADI\affil{Aalborg University, SE}\vspace*{-2.6cm}\begin{flushright}\includegraphics[width=30mm]{elli_anastasiadi.png}\end{flushright}}\begin{abstract}September 2026 edition of SIGLOG Monthly, featuring deadlines, calls and community announcements.
+\end{abstract}
+
+
+\maketitlee
+
+\href{https://lics.siglog.org/newsletters/}{Past Issues}
+ - 
+\href{https://lics.siglog.org/newsletters/inst.html}{How to submit an announcement}
+\section{Table of Contents}\begin{itemize}\item DEADLINES (\cref{deadlines}) 
+ 
+\item CALLS 
+ 
+\begin{itemize}\item ReacTS 2026 (CALL FOR PAPERS ) (\cref{ReacTS2026})
+\item DEON 2027 (CALL FOR PAPERS) (\cref{DEON2027})
+\item ESSLLI 2027 (CALL FOR LECTURES AND WORKSHOPS: TARTU ESTONIA) (\cref{ESSLLI2027})
+\item LPNMR 2026 (CALL FOR PARTICIPATION, LPNMR 2026 aims to bring together researchers from LPNMR and neighboring areas in order to share research experiences, promote collaboration and identify directions for joint future research.) (\cref{LPNMR2026})
+\end{itemize} 
+\item JOB ANNOUNCEMENTS 
+ 
+\begin{itemize}\item Two Associate Professorships or Professorships of Computer Science (with Tutorial Fellowships) (\cref{TwoAssociateProfessorshipsorProfessorshipsofComputerSciencewithTutorialFellowships})
+\end{itemize} 
+\end{itemize}\section{Deadlines}\label{deadlines}\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}ReacTS 2026:  & Sep 08, 2026 (Abstract), Sep 13, 2026 (Paper) \\
+LPNMR 2026:  & Sep 11, 2026 (Late registration) \\
+ICALP 2027:  & Sep 15, 2026 (Submissions) \\
+ESSLLI 2027:  & Oct 01, 2026 (Course/workshop titles), Oct 15, 2026 (Course/workshop proposals) \\
+DEON 2027:  & Mar 05, 2027 (Abstract), Mar 12, 2027 (Paper) \\
+\end{tabulary}
+\section{ReacTS 2026: 3rd International Workshop on Reconfigurable Transition Systems: Semantics, Logics and Applications}\label{ReacTS2026}  November 24, 2026\\ 
+  University of Malta, Malta\\ 
+  \href{https://reacts-workshop.github.io/2026/}{https://reacts-workshop.github.io/2026/}\\ 
+  Co-located with SEFM 2026 (\href{https://sefm-conference.github.io/2026/}{https://sefm-conference.github.io/2026/})\\ 
+CALL FOR PAPERS  
+
+\begin{itemize}\item  INVITED SPEAKERS 
+ 
+\begin{itemize}\item  Speaker 1: Manual A. Martins, University of Aveiro (Portugal)
+\item  Speaker 2: TBA
+\end{itemize} 
+\item  OVERVIEW 
+ 
+  Reconfigurable Transition Systems (RTS) are dynamic relational structures (graphs) that evolve along its execution, in the sense that their accessibility relation, their set of nodes or their labelling change when their edges are crossed. These structures have proven to be suitable to compactly represent complex reactive and reconfigurable behaviours. Namely, the ability of reacting or readapting under the influence of certain events is a very distinctive feature of many diverse situations and objects. An autonomous vehicle that changes its route due to a new strike occurring, the behaviour of a software component after a memory disposal, or a DNA mutation as the result of a viral infection, are different examples that witness the importance of modelling about changes in a determined situation. Practical user cases have aroused the interest of the logic community in the study of variants of RTS, by developing formal methods to properly reason about such situations. 
+ 
+  This workshop aims to bring together the whole community of researchers working on different ways to model reconfigurable and reactive systems from a formal perspective. This includes theoretical approaches (like hybrid logics, reactive frames, model-update logics, and topological and algebraic semantics), or formalisms designed for specific purposes (like separation logic in software verification, dynamic epistemic logic in AI planning, and others). Also, our goal is to devise novel approaches and potential applications, and share a common perspective on the discipline. 
+ 
+\item  For a full list of topics please visit the website 
+ 
+\item  SUBMISSION GUIDELINES 
+ 
+  Authors are invited to submit, via Easychair, research contributions or experience reports (\href{https://easychair.org/conferences/submissions?a=36870287}{https://easychair.org/conferences/submissions?a=36870287}). All papers should be written in English and prepared using the specific LNCS templates available at \href{http://www.springer.de/comp/lncs/authors.html}{http://www.springer.de/comp/lncs/authors.html}. There are two categories of submissions: 
+ 
+\begin{itemize}\item  FULL PAPERS up to 12 pages (excluding references) – to present original research and the analysis, interpretation and validation of the research findings.
+\item  SHORT PRESENTATIONS up to 4 pages (excluding references) – to present work in progress and preliminary results.
+\end{itemize} 
+  Both kinds of submissions allow system descriptions, to present a new tool, a new tool component or novel extensions to an existing tool aiming at supporting open community approaches, or the use/customisation of an existing tool in the context of reconfigurable transitions systems. Accepted full papers will be included in the workshop programme and will appear in the workshop LNCS post-proceedings. Accepted short presentations will be included in the informal proceedings (available online in the Workshop webpage). 
+ 
+\item  PUBLICATION 
+ 
+  Accepted full papers will be published by Springer in a volume of Lecture Notes in Computer Science (\href{http://www.springer.com/lncs}{http://www.springer.com/lncs}), which will collect contributions to some workshops co-located with SEFM 2026. 
+ 
+  Condition for inclusion in proceedings is that at least one of the co-authors has presented the paper at the Workshop. 
+ 
+  Similarly to the last editions of ReacTS, we are exploring the possibility of inviting selected contributions' authors to submit extended versions to a special issue, e.g. to the Journal of Applied Logics. 
+ 
+\item  IMPORTANT DATES 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Abstract submission:  & Sep 08, 2026 \\
+Paper submission:  & Sep 13, 2026 \\
+Notification of acceptance:  & Oct 16, 2026 \\
+Informal proceedings:  & Nov 06, 2026 \\
+\end{tabulary}
+ 
+\item  PROGRAM CO-CHAIRS 
+ 
+\begin{itemize}\item  Daniel Figueiredo, University of Aveiro (Portugal)
+\item  Duncan Attard, University of Malta (Malta)
+\end{itemize} 
+\item  CONTACT 
+ 
+  If you have any problems or questions, please contact us via e-mail at: daniel.figueiredo@ua.pt / duncan.attard@um.edu.mt 
+ 
+\end{itemize}\section{DEON 2027: 18th International Conference on Deontic Logic and Normative Systems}\label{DEON2027}  29 June - 1 July 2027\\ 
+  Zhejiang University, Hangzhou, China\\ 
+  \href{https://www.zlaire.net/deon2027/}{https://www.zlaire.net/deon2027/}\\ 
+CALL FOR PAPERS 
+
+\begin{itemize}\item  CONFERENCE 
+ 
+  The biennial DEON conference series brings together researchers interested in the formal study of normative concepts, normative reasoning, and normative systems, using methods from computer science, artificial intelligence, philosophy, linguistics, mathematics, and law. DEON 2027 will be the first edition of the series held in Asia, hosted by the School of Philosophy of Zhejiang University and the Zhejiang University-University of Luxembourg Joint Lab on Advanced Intelligent Systems and Reasoning (ZLAIRE). 
+ 
+\item  TOPICS 
+ 
+  Deontic logic; normative reasoning and systems; legal reasoning; normative multi-agent systems; explainability and trustworthy systems; deontic modals and natural language; responsibility; preference and epistemic reasoning (full list on the website). 
+ 
+\item  DATES (all Anywhere on Earth) 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Abstract submission:  & Mar 05, 2027 \\
+Paper submission:  & Mar 12, 2027 \\
+Notification:  & May 06, 2027 \\
+Camera-ready:  & May 24, 2027 \\
+Conference:  & Jun 29 - Jul 1, 2027 \\
+\end{tabulary}
+ 
+\item  SUBMISSIONS 
+ 
+  Original and unpublished work, max. 15 pages excluding references and technical appendix; double-blind reviewing. Proceedings will be published by College Publications as an open-access book. The full call for papers, with templates and the EasyChair link, will follow in November 2026. 
+ 
+\item  PROGRAMME COMMITTEE CO-CHAIRS 
+ 
+\begin{itemize}\item  Huimin Dong (TU Wien, Austria)
+\item  Beishui Liao (Zhejiang University, China)
+\item  Réka Markovich (University of Luxembourg, Luxembourg)
+\end{itemize} 
+\item  CONTACT 
+ 
+  zhengzhoulogic@zju.edu.cn 
+ 
+\end{itemize}\section{ESSLLI 2027: EUROPEAN SUMMER SCHOOL ON LOGIC LANGUAGE AND INFORMATION}\label{ESSLLI2027}  \href{https://digits.ut.ee/esslli-2027/}{https://digits.ut.ee/esslli-2027/}\\ 
+CALL FOR LECTURES AND WORKSHOPS: TARTU ESTONIA 
+
+\begin{itemize}\item   ESSLLI seeks courses on diverse topics, each course taking one or two weeks of 90 minutes per day. ESSLLI workshops follow the same structure (5 days, 90 minutes per day) with content assembled from external contributors. Please submit here: \href{https://easychair.org/conferences/?conf=esslli2027}{https://easychair.org/conferences/?conf=esslli2027} 
+ 
+\item  Important Dates 
+ 
+\rowcolors{1}{white}{gray!25}\begin{tabulary}{\linewidth}{LL}Course/workshop titles:  & Oct 01, 2026 \\
+Course/workshop proposals:  & Oct 15, 2026 \\
+Notification sent to course/workshop proposers:  & Nov 30, 2026 \\
+Summer School:  & Aug 2-13, 2027 \\
+\end{tabulary}
+ 
+  All dates are AoE.  
+ 
+\end{itemize}\section{LPNMR 2026: 18th International Conference on Logic Programming and Non-monotonic Reasoning}\label{LPNMR2026}  Klagenfurt, Austria | September 7-11, 2026\\ 
+  Website: \href{https://lpnmr2026.aics.aau.at}{https://lpnmr2026.aics.aau.at}\\ 
+  Contact us: lpnmr2026@easychair.org\\ 
+CALL FOR PARTICIPATION 
+
+\begin{itemize}\item  We are pleased to invite you to participate in the 18th International Conference on Logic Programming and Non-monotonic Reasoning (LPNMR 2026). The conference will take place at the University of Klagenfurt, Austria, from September 7 to September 11, 2026. The event will include: 
+ 
+\begin{itemize}\item  3 Invited Talks given by Chitta Baral, Elena Bellodi and Thomas Eiter
+\item  33 Paper Presentations (28 regular papers, 4 short papers, 1 recently published research paper)
+\item  6th International Workshop on the Resurgence of Datalog in Academia and Industry (DATALOG 2.0):   \href{https://sites.google.com/view/datalog-2-0-2026}{https://sites.google.com/view/datalog-2-0-2026}
+\item  5th International Workshop on HYbrid Models for Coupling Deductive and Inductive ReAsoning (HYDRA):  \href{https://sites.google.com/unical.it/hydra-2026}{https://sites.google.com/unical.it/hydra-2026}
+\item  Doctoral Consortium: \href{https://sites.google.com/unical.it/dclpnmr2026}{https://sites.google.com/unical.it/dclpnmr2026}
+\end{itemize} 
+  The (preliminary) conference program is available at EasyChair: \href{https://easychair.org/smart-program/LPNMR2026/}{https://easychair.org/smart-program/LPNMR2026/} 
+ 
+\item  Registration to LPNMR 2026, with early registration byAugust 16, is open at: 
+ 
+Late registration: Sep 11, 2026 
+ 
+  \href{https://conference3.aau.at/event/316/registrations/328/}{https://conference3.aau.at/event/316/registrations/328/} 
+ 
+\item  Limited NSF support to attend LPNMR 2026 will be provided toUS-based students. If eligible, please complete the following form: \href{https://forms.gle/mmGX1tEB621LkJFZA}{https://forms.gle/mmGX1tEB621LkJFZA} 
+ 
+\item  AIMS AND SCOPE 
+ 
+  LPNMR 2026 is the eighteenth in the series of international conferences on logic programming and non-monotonic reasoning. LPNMR is a forum for exchanging ideas on declarative logic programming, non-monotonic reasoning, and knowledge representation. The aim of the conference is to facilitate interactions between researchers and practitioners interested in the design and implementation of logic-based programming languages and database systems, and those working in knowledge representation and non-monotonic reasoning. LPNMR strives to encompass theoretical and experimental studies that have led or will lead to advances in declarative programming and knowledge representation, as well as their use in practical applications. 
+ 
+\end{itemize}LPNMR 2026 aims to bring together researchers from LPNMR and neighboring areas in order to share research experiences, promote collaboration and identify directions for joint future research. 
+
+\begin{itemize}\item  VENUE 
+ 
+  LPNMR 2026 will be held on the campus of the University of Klagenfurt in September 2026. Klagenfurt is the capital of the state Carinthia in the south of Austria. The name Klagenfurt was first mentioned in the late 12th century and legend has it that Klagenfurt was founded after a couple of brave men had slain the abominable Lindwurm, a winged dragon. The city is located next to the lake Woerthersee, one of the most beautiful lakes in Austria, surrounded by several forest-covered hills and mountains. Being a small city, with a Renaissance-style city center reflecting 800 years of history and with an Italian influence, Klagenfurt is a pleasant place to live and work. 
+ 
+\item  ORGANISING COMMITTEE 
+ 
+  General Chair: Wolfgang Faber, University of Klagenfurt, Austria 
+ 
+  Program Co-chairs: 
+ 
+\begin{itemize}\item  Martin Gebser, University of Klagenfurt, Austria
+\item  Yanhong Annie Liu, Stony Brook University, USA
+\end{itemize} 
+\end{itemize}\section{Two Associate Professorships or Professorships of Computer Science (with Tutorial Fellowships)}\label{TwoAssociateProfessorshipsorProfessorshipsofComputerSciencewithTutorialFellowships}JOB ANNOUNCEMENT 
+
+\begin{itemize}\item  application link: \href{https://my.corehr.com/pls/uoxrecruit/erq_jobspec_version_4.display_form?p_company=10\&p_internal_external=E\&p_display_in_irish=N\&p_process_type=\&p_applicant_no=\&p_form_profile_detail=\&p_display_apply_ind=Y\&p_refresh_search=Y\&p_recruitment_id=185766}{https://my.corehr.com/pls/uoxrecruit/erq\_jobspec\_version\_4.display\_form?p\_company=10\&p\_internal\_external=E\&p\_display\_in\_irish=N\&p\_process\_type=\&p\_applicant\_no=\&p\_form\_profile\_detail=\&p\_display\_apply\_ind=Y\&p\_refresh\_search=Y\&p\_recruitment\_id=185766} 
+ 
+  Vacancy ID: 185766 
+ 
+\begin{itemize}\item  Advert Opening date: 1 September 2026
+\item  advert Closing date: 16 December 2026
+\end{itemize} 
+  Contract type: Full time, Permanent upon completion of a successful review. The review is conducted during the first 5 years. 
+ 
+  Salary: 30S: Combined University and College salary from £57,986 to £77,366 per annum plus substantial additional benefits. 
+ 
+  Location: Computer Science, Wolfson Building, Parks Road, Oxford 
+ 
+\end{itemize}
+
+
+\bigskip Links: \href{http://siglog.org/}{SIGLOG website}, \href{https://lics.siglog.org}{LICS website}, \href{https://lics.siglog.org/newsletters/}{SIGLOG Monthly}\end{document}
