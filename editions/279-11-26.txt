@@ -1,0 +1,90 @@
+-dd November 2, 2026
+
+ -dM FSCD and CADE 2027:	Dec 04, 2026 (Workshop proposal deadline)
+ -dM DEON 2027:	Mar 05, 2027 (Abstract), Mar 12, 2027 (Paper)
+ 
+ 
+LICS 2027: LOGIC IN COMPUTER SCIENCE 
+  Montreal, 21–24 June 2027
+  https://lics.siglog.org/lics27/
+CALL FOR PAPERS -s SIGLOG MATTER
+* IMPORTANT DATES
+ -dh Titles and short abstracts: 14 January 2027
+ -dh Full papers: 21 January 2027
+ -d Author response: 25–28 March 2027
+ -d Notification: 15 April 2027
+* New for 2027: limits on the number of submissions per author, arXiv posting within a week of the deadline, and single-blind reviewing. Papers are in LIPIcs format, at most 22 pages excluding references. See the website for details: https://lics.siglog.org/lics27/cfp.php
+ - Invited speakers: Łukasz Kaiser, Joël Ouaknine.
+ - Tutorials: Laura Kovács, Szymon Toruńczyk.
+  Program chairs: Pablo Barceló and Alexandra Silva.
+ 
+ 
+ 
+ 
+ 
+ 
+FSCD 2027: International Conference on Formal Structures for Computation and Deduction
+  Radboud University Nijmegen, The Netherlands
+  23-26 August 2027
+  https://fscd-conference.org/2027
+CALL FOR PAPERS
+* FSCD (https://fscd-conference.org/) covers all aspects of formal structures for computation and deduction, from theoretical foundations to applications. Building on two communities, RTA (Rewriting Techniques and Applications) and TLCA (Typed Lambda Calculi and Applications), FSCD embraces their core topics and broadens their scope to closely related areas in logic, models of computation, semantics and verification in new challenging areas.
+* IMPORTANT DATES
+  All deadlines are midnight anywhere-on-earth (AoE); late submissions will not be considered.
+ -dh Abstract: 19 April 2027
+ -dh Submission: 26 April 2027
+ -d Author Response: 8-12 June 2027
+ -dh Notification: 28 June 2027
+ -d Final Version: 10 July 2027
+  For a complete list of topics please visit the online CFP.
+* PUBLICATION
+  The proceedings will be published as an electronic volume in the  Leibniz International Proceedings in Informatics (LIPIcs) of Schloss Dagstuhl. All LIPIcs proceedings are open access.
+* SPECIAL ISSUE
+  There will be a special issue of Logical Methods in Computer Science of selected papers. More details will be provided later.
+* SUBMISSION GUIDELINES 
+  The submission site is: https://easychair.org/conferences/?conf=fscd2027
+  Submissions must be formatted using the LIPIcs style files and submitted via EasyChair.
+  Submissions can be made in two categories:
+ - Regular research papers are limited to 15 pages, excluding references and appendices. They must present original research which is unpublished and not submitted elsewhere.
+ - System descriptions are limited to 15 pages, excluding references. Shorter papers are welcome and will be given equal consideration. A system description must present new software tools, or significantly new versions of such tools, in which FSCD topics play an important role. An archive of the code with instructions on how to install and run the tool must be submitted. In addition, a webpage where the system can be experimented with should be provided.
+  Submissions must be unpublished and not submitted for publication elsewhere. They will be judged on relevance, significance, originality, correctness, and readability. Reviewers may consider material provided in appendices, but submissions must be self-contained within the page limit. If software or data is relevant to a paper, a link that provides access to the software/data must be provided to enable reproduction of results.
+  One author of each accepted paper is expected to register and present the work in person at the conference. In case this is not possible, online presentation will be arranged, but in-person registration will still be required.
+* BEST PAPER AWARD BY JUNIOR RESEARCHERS
+  The programme committee will select a paper in which at least one author is a junior researcher, i.e. either a student or someone whose PhD award date is less than three years from the first day of the meeting. When submitting the paper, other authors should declare to the PC Chair that at least 50% of the contribution is made by the junior researcher(s).
+* CONTACT
+  All questions about submissions should be emailed to:
+ - Daniele Nantes-Sobrinho        (dnantes 'at' unb.br)
+ - Mariangiola Dezani-Ciancaglini (dezani 'at' di.unito.it)
+
+ 
+
+ 
+
+PhD on dynamic logic and planning in Toulouse
+JOB ANNOUNCEMENT
+* We welcome applications for a 3 years PhD scholarship on dynamic logic and planning, to be supervised by Philippe Balbiani and Andreas Herzig. 
+  More details can be found here: https://www.irit.fr/~Andreas.Herzig/Phd_BalbianiHerzig.pdf. Interested students should email a CV, transcripts of bachelor and master degree, and a motivation statement to balbiani@irit.fr, herzig@irit.fr.
+ - https://www.irit.fr/~Philippe.Balbiani
+ - https://www.irit.fr/~Andreas.Herzig
+ 
+ 
+ 
+ACM SIGAI Autonomous Agents Research Award
+CALL FOR NOMINATIONS
+  Nominations are solicited for the 2027 ACM SIGAI Autonomous Agents Research Award. This award is made for excellence in research in the area of autonomous agents. It is intended to recognize researchers in autonomous agents whose current work is an important influence on the field. The award is an official ACM award, funded by an endowment created by ACM SIGAI from the proceeds of previous Autonomous Agents conferences. The recipient of the award will receive a monetary prize and a certificate, and will be invited to present a plenary talk at the AAMAS 2027 conference.
+* How to Nominate
+  Anyone can make a nomination, but you may not nominate yourself. Nominations should be made by filling out the below google form and should consist of a short (< 1 page) statement that emphasizes not only the research contributions that the individual has made that merit the award but also how the individual’s current work is an important influence on the field.
+* NOTE: a candidate can only be considered for the award if they are explicitly nominated. If you believe that someone deserves the award, then NOMINATE THEM -- don't assume that somebody else will! 
+  Nomination Link: https://forms.gle/NGC1tC2nqUWpanMB6
+* IMPORTANT DATES
+ -dh Nomications deadline: 5 December, 2026
+ -d Announcement of winner: 1 February, 2027
+ -dv AAMAS Conference: 3-7 May, 2027
+* For any questions, please contact Sven Koenig (Award Chair, svenk@uci.edu) or Louise Dennis (SIGAI Vice Chair, louise.dennis@manchester.ac.uk).
+
+
+
+
+
+
+
